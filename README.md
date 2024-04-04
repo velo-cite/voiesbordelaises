@@ -3,7 +3,7 @@
 ## Qu'est-ce que l'observatoire ?
 Il s'agit d'une plateforme web permettant la visualisation d'un projet de réseau cyclable structurant.
 
-Ce projet est un fork et adapatation d'une plateforme qui a pour objectif principal de suivre le développement du projet du "ReVE" de Bordeaux Métropole.
+Ce projet est un fork et adapatation de la plateforme [Cyclopolis](https://github.com/benoitdemaegdt/voieslyonnaises) et a pour objectif principal de suivre le développement du projet du "ReVE" de Bordeaux Métropole.
 Le projet initial est entièrement développée par des bénévoles de l'association lyonnaise "La Ville à Vélo".
 Ce dépot sera principalement mis à jour par des bénévoles de l'association "Vélo-Cité Bordeaux Métropole"
 
