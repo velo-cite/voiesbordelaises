@@ -1,25 +1,26 @@
-# Cyclopolis
+# Observatoire
 
-## Qu'est-ce que Cyclopolis ?
+## Qu'est-ce que l'observatoire ?
 Il s'agit d'une plateforme web permettant la visualisation d'un projet de réseau cyclable structurant.
 
-Entièrement développée par des bénévoles de l'association lyonnaise "La Ville à Vélo", cette plateforme a pour objectif principal de suivre le développement du projet des "Voies Lyonnaises".
+Ce projet est un fork et adapatation d'une plateforme qui a pour objectif principal de suivre le développement du projet du "ReVE" de Bordeaux Métropole.
+Le projet initial est entièrement développée par des bénévoles de l'association lyonnaise "La Ville à Vélo".
+Ce dépot sera principalement mis à jour par des bénévoles de l'association "Vélo-Cité Bordeaux Métropole"
 
 On y retrouve en particulier :
 - une carte intéractive permettant de visualiser les tracés des voies cyclables.
 - une page détaillée sur chacune des voies cyclables.
-- des analyses de traffic à partir des compteurs à vélo de la métropole lyonnaise.
 
-## Est-il possible de réutiliser Cyclopolis pour un autre projet ?
+## Est-il possible de réutiliser Cyclopolis ou l'observatoire de Vélo-Cité pour un autre projet ?
 
 Oui !
 
-Vous êtes une association, ou un particulier ? Il y a un projet de réseau cyclable structurant dans votre ville et vous souhaitez suivre son développement ? Vous pouvez tout à fait réutiliser Cyclopolis pour votre projet.
+Vous êtes une association, ou un particulier ? Il y a un projet de réseau cyclable structurant dans votre ville et vous souhaitez suivre son développement ? Vous pouvez tout à fait réutiliser l'un des deux pour votre projet.
 
-Cyclopolis :
-- est open source, le code est entièrement disponible sur Github.
-- a une licence ouverte, vous avez donc le droit de réutiliser le code pour votre projet.
-- est gratuit a opérer (pas de base de données, pas de serveur dédié, pas de coût de maintenance).
+Cyclopolis et l'observatoire : 
+- sont open source, le code est entièrement disponible sur Github.
+- ont une licence ouverte, vous avez donc le droit de réutiliser le code pour votre projet.
+- sont gratuits a opérer (pas de base de données, pas de serveur dédié, pas de coût de maintenance).
 
 ## Aide aux contributeurs/trices non développeurs/euses
 
