@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Vaulx-en-Velin le long de l'A42",
         "line": 9,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/vaulx-en-velin-a42.jpg"
       },
@@ -17,6 +18,7 @@
       "type": "Feature",
       "properties": {
         "type": "perspective",
+        "name": "Parc de Miribel",
         "line": 9,
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg"
       },
@@ -541,7 +543,8 @@
         "id": "StalingradSud-commun",
         "line": 9,
         "name": "Stalingrad Sud",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "05/04/2024",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -738,7 +741,7 @@
         "id": "GaribaldiBlandan-commun",
         "line": 9,
         "name": "Garibaldi - Blandan",
-        "status": "planned",
+        "status": "wip",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
@@ -760,7 +763,7 @@
         "id": "GaribaldiCROUS-commun",
         "line": 9,
         "name": "Garibaldi - CROUS",
-        "status": "planned",
+        "status": "wip",
         "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
