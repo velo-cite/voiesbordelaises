@@ -1,11 +1,11 @@
 ---
-name: Voie Lyonnaise 1
+name: Bordeaux - Saint-Aubin-de-Médoc 
 line: 1
-color: "#60A75B"
-from: Vaulx-en-Velin
-to: Saint-Fons
-distance: 18000
-description: La ligne 1 des Voies Lyonnaises permettra de relier Vaulx-en-Velin à Saint-Fons en passant par le campus de la Doua, les quais hauts de la rive gauche du Rhône et le quartier de Gerland. Cette ligne a la particularité d'accueillir le trafic vélo le plus élevé de la Métropole, au niveau du quai Augagneur.
+color: "#2f780b"
+from: Saint-Aubin-de-Médoc
+to: Bordeaux
+distance: 22700
+description: La ligne 1 du ReVE utilisera l'infrastructure du Bus Express entre St Aubin de Médoc et la gare St Jean
 trafic: 28k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 ---

@@ -1,12 +1,12 @@
 ---
-name: Voie Lyonnaise 6
+name: ReVE 6
 line: 6
-color: "#396083"
-from: Rilleux la Pape
-to: Saint-Genis-Laval
-distance: 20000
-description: La Voie Lyonnaise 6 permettra de longer le Rhône du nord au sud de la Métropole, depuis les bas quartiers de Crépieux-la-Pape jusqu'à Saint-Genis-Laval, via Saint-Clair, Lyon Rive Droite, les bas quartiers de la Mulatière et Oullins. Elle s'inscrit dans le projet d'apaisement du centre-ville d'Oullins et le grand projet de réaménagement de la rive droite du Rhône.
-trafic: 11k vélos/jour
+color: "#fff6fd"
+from: Bordeaux
+to: Entre 2 mers
+distance: 5400
+description: 
+trafic: 
 cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
 ---
 
