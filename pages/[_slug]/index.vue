@@ -25,7 +25,7 @@
 <script setup>
 const { path } = useRoute();
 
-const regex = /reve-(1[0-2]|[1-9])\b/;
+const regex = /reve-(1[0-4]|[1-9])\b/;
 const line = path.match(regex)[1];
 
 // https://github.com/nuxt/framework/issues/3587
