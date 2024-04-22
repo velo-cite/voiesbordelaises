@@ -10,14 +10,14 @@ export default defineEventHandler(async event => {
   const sitemap = new SitemapStream({ hostname: BASE_URL });
   const docs = await serverQueryContent(event).find();
 
-  const docsExceptVoiesLyonnaises = docs.filter(doc => doc._dir !== 'voies-lyonnaises');
+  const docsExceptVoiesLyonnaises = docs.filter(doc => doc._dir !== 'reve');
   for (const doc of docsExceptVoiesLyonnaises) {
     sitemap.write({ url: doc._path, changefreq: 'monthly' });
   }
 
-  const docsOnlyVoiesLyonnaises = docs.filter(doc => doc._dir === 'voies-lyonnaises' && doc._type === 'markdown');
+  const docsOnlyVoiesLyonnaises = docs.filter(doc => doc._dir === 'reve' && doc._type === 'markdown');
   for (const doc of docsOnlyVoiesLyonnaises) {
-    sitemap.write({ url: `/voie-lyonnaise-${doc.line}`, changefreq: 'monthly' });
+    sitemap.write({ url: `/reve-${doc.line}`, changefreq: 'monthly' });
   }
 
   const staticEndpoints = getStaticEndpoints();

@@ -25,17 +25,17 @@
 <script setup>
 const { path } = useRoute();
 
-const regex = /voie-lyonnaise-(1[0-2]|[1-9])\b/;
+const regex = /reve-(1[0-2]|[1-9])\b/;
 const line = path.match(regex)[1];
 
 // https://github.com/nuxt/framework/issues/3587
 definePageMeta({
   pageTransition: false,
-  middleware: 'voie-lyonnaise'
+  middleware: 'reve'
 });
 
 const { data: voie } = await useAsyncData(`${path}`, () => {
-  return queryContent('voies-lyonnaises').where({ _type: 'markdown', line: Number(line) }).findOne();
+  return queryContent('reve').where({ _type: 'markdown', line: Number(line) }).findOne();
 });
 
 const description = `Tout savoir sur la Voie Lyonnaise ${voie.value.line}. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;

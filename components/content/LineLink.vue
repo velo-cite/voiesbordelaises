@@ -21,6 +21,6 @@ const { line, anchor } = defineProps({
 const color = getLineColor(Number(line));
 
 const href = anchor
-  ? `/voie-lyonnaise-${line}#${anchor}`
-  : `/voie-lyonnaise-${line}`;
+  ? `/reve-${line}#${anchor}`
+  : `/reve-${line}`;
 </script>

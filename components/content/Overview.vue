@@ -34,7 +34,7 @@ const mapOptions = {
 };
 
 const { data: geojson } = await useAsyncData(`geojson-${path}`, () => {
-  return queryContent('voies-lyonnaises')
+  return queryContent('reve')
     .where({ _type: 'json', _path: voie._path })
     .findOne();
 });

@@ -88,7 +88,7 @@ function getSectionDetailsUrl(properties: Properties): string {
   if (properties.link) {
     return properties.link;
   }
-  return `/voie-lyonnaise-${properties.line}`;
+  return `/reve-${properties.line}`;
 }
 
 function getDoneAtText(doneAt: string): string {

@@ -29,11 +29,11 @@ function getAllLinks() {
   const links = [];
   const titleRegex = /^(#+)\s+(.*)/gm;
 
-  fs.readdirSync('content/voies-lyonnaises').forEach(file => {
+  fs.readdirSync('content/reve').forEach(file => {
     if (file.endsWith('.md')) {
       const voieLyonnaiseNumber = file.match(/\d+/g);
 
-      const filePath = path.join('content/voies-lyonnaises', file);
+      const filePath = path.join('content/reve', file);
       const markdownContent = fs.readFileSync(filePath, 'utf8');
 
       let match;
@@ -52,7 +52,7 @@ function getAllLinks() {
           .toLowerCase()
           .replace(/\s+-\s+/g, '-')
           .replace(/\s+/g, '-');
-        links.push(`/voie-lyonnaise-${voieLyonnaiseNumber}#${link}`);
+        links.push(`/reve-${voieLyonnaiseNumber}#${link}`);
       }
     }
   });
@@ -62,9 +62,9 @@ function getAllLinks() {
 
 function checkGeoJsonDataHealth({ links }) {
   const allLineStrings = [];
-  fs.readdirSync('content/voies-lyonnaises').forEach(file => {
+  fs.readdirSync('content/reve').forEach(file => {
     if (file.endsWith('.json')) {
-      const filePath = path.join('content/voies-lyonnaises', file);
+      const filePath = path.join('content/reve', file);
       const content = fs.readFileSync(filePath, 'utf8');
       try {
         const geojson = JSON.parse(content);

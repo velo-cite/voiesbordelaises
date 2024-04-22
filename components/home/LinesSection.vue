@@ -26,10 +26,10 @@
 
 <script setup>
 const { data: voies } = await useAsyncData(() => {
-  return queryContent('voies-lyonnaises').where({ _type: 'markdown' }).find()
+  return queryContent('reve').where({ _type: 'markdown' }).find()
 })
 
 function getVoieLyonnaisePath (line) {
-  return `/voie-lyonnaise-${line}`
+  return `/reve-${line}`
 }
 </script>
