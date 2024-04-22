@@ -16,7 +16,7 @@ const line = path.match(regex)[1];
 definePageMeta({
   pageTransition: false,
   layout: 'fullscreen',
-  middleware: 'voie-cyclable'
+  middleware: 'reve'
 });
 
 const mapOptions = {
@@ -28,8 +28,8 @@ const mapOptions = {
 };
 
 const { data: voie } = await useAsyncData(() => {
-  return queryContent('voies-cyclables')
-    .where({ _type: 'json', _path: `/voies-cyclables/ligne-${line}` })
+  return queryContent('reve')
+    .where({ _type: 'json', _path: `/reve/ligne-${line}` })
     .findOne();
 });
 

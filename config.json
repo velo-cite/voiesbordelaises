@@ -1,11 +1,11 @@
 {
   "revName": {
-    "plural": "Voies Lyonnaises",
-    "singular": "Voie Lyonnaise"
+    "plural": "ReVE",
+    "singular": "ReVE"
   },
-  "assoName": "La Ville à Vélo",
-  "assoLink": "https://lavilleavelo.org",
-  "slug": "voie-lyonnaise",
+  "assoName": "Vélo-Cité Bordeaux Métropole",
+  "assoLink": "https://velo-cite.org",
+  "slug": "reve",
   "center": [
     4.8312188,
     45.757198

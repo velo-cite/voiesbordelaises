@@ -36,11 +36,11 @@ const line = path.match(regex)[1];
 // https://github.com/nuxt/framework/issues/3587
 definePageMeta({
   pageTransition: false,
-  middleware: 'voie-cyclable'
+  middleware: 'reve'
 });
 
 const { data: voie } = await useAsyncData(`${path}`, () => {
-  return queryContent('voies-cyclables').where({ _type: 'markdown', line: Number(line) }).findOne();
+  return queryContent('reve').where({ _type: 'markdown', line: Number(line) }).findOne();
 });
 
 const description = `Tout savoir sur la ${getRevName('singular')} ${voie.value.line}. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;

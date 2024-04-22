@@ -20,7 +20,7 @@
         "type": "perspective",
         "name": "Parc de Miribel",
         "line": 9,
-        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg"
+        "imgUrl": "https://cyclopolis.lavilleavelo.org/vl9/reve-9.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +34,7 @@
         "name": "Jonage",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#jonage-chemin-de-halage"
+        "link": "/reve-9#jonage-chemin-de-halage"
       },
       "geometry": {
         "type": "LineString",
@@ -67,34 +67,18 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "variante2",
         "line": 9,
-        "name": "Pont de Jonage",
-        "status": "variante",
-        "type": "velorue",
-        "link": "/voie-lyonnaise-9#pont-dherbens-à-pont-de-jonage"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [5.0400379107470314, 45.798236784773565],
-          [5.038918554782867, 45.79880719787263]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "varianteVL9",
-        "line": 9,
+        "name": "Canal de Jonage - variante Nord",
         "status": "variante",
         "text": "variante nord",
-        "name": "Canal de Jonage - variante Nord",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#pont-dherbens-à-pont-de-jonage"
+        "link": "/reve-9#pont-dherbens-à-pont-de-jonage"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [5.040050446987152, 45.79823685027437],
           [5.038918554782867, 45.79880719787263],
           [5.038736164569855, 45.7986875188606],
           [5.038481354713439, 45.79851734982274],
@@ -155,25 +139,24 @@
           [4.993500709533691, 45.79537567422526],
           [4.992218613624572, 45.795611306039156],
           [4.991419315338135, 45.79559634531869],
-          [4.990864098072052, 45.79551406128432]
+          [4.990866780281067, 45.79551780147035]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "varianteVL9",
         "line": 9,
         "name": "Canal de Jonage - variante Sud",
         "status": "variante",
         "text": "variante sud",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#pont-dherbens-à-pont-de-jonage"
+        "link": "/reve-9#pont-dherbens-à-pont-de-jonage"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [5.0400379107470314, 45.798236784773565],
+          [5.040032090220507, 45.798235114887106],
           [5.039930620331745, 45.798200245974414],
           [5.039393374521296, 45.797593483714095],
           [5.03880592657697, 45.79692281083566],
@@ -229,7 +212,7 @@
           [4.992390275001526, 45.79456404590673],
           [4.991236925125122, 45.794631370364314],
           [4.99103307723999, 45.79459770814567],
-          [4.990864098072052, 45.79551406128432]
+          [4.990861415863036, 45.79551406128432]
         ]
       }
     },
@@ -240,7 +223,7 @@
         "name": "Digue EDF",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#digue-edf-le-long-du-grand-large"
+        "link": "/reve-9#digue-edf-le-long-du-grand-large"
       },
       "geometry": {
         "type": "LineString",
@@ -268,7 +251,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#promenade-des-îles"
+        "link": "/reve-9#promenade-des-îles"
       },
       "geometry": {
         "type": "LineString",
@@ -344,8 +327,8 @@
         "line": 9,
         "name": "Parc de Miribel",
         "status": "planned",
-        "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#allée-du-morlet"
+        "type": "voie-verte",
+        "link": "/reve-9#allée-du-morlet"
       },
       "geometry": {
         "type": "LineString",
@@ -353,13 +336,8 @@
           [4.948713183403015, 45.79823311027086],
           [4.943557977676392, 45.7980199296554],
           [4.942705035209656, 45.7980797699105],
-          [4.942079760736419,45.79812097374591],
-          [4.941908327176122,45.79839226691528],
-          [4.941789363999741,45.79849132548],
-          [4.941023047600755,45.798614314115355],
-          [4.940795926216147,45.79857372496538],
-          [4.940511738131292,45.798402514560095],
-          [4.940301214741027,45.79799439603835],
+          [4.94209885597229, 45.7981171700373],
+          [4.942039847373962, 45.79799374952359],
           [4.938987493515014, 45.79789276889997],
           [4.938483238220215, 45.798012449619016],
           [4.938021898269652, 45.7983079102935],
@@ -391,7 +369,7 @@
         "name": "Le long de l'A42",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#promenade-le-long-de-la42"
+        "link": "/reve-9#promenade-le-long-de-la42"
       },
       "geometry": {
         "type": "LineString",
@@ -459,7 +437,7 @@
         "name": "Rue du Canal",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#promenade-le-long-de-la42"
+        "link": "/reve-9#promenade-le-long-de-la42"
       },
       "geometry": {
         "type": "LineString",
@@ -482,7 +460,7 @@
         "name": "Rampe Pont T9",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#promenade-le-long-de-la42"
+        "link": "/reve-9#promenade-le-long-de-la42"
       },
       "geometry": {
         "type": "LineString",
@@ -501,7 +479,7 @@
         "name": "Croix Luizet",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -529,7 +507,7 @@
         "name": "Einstein Est",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -547,7 +525,7 @@
         "name": "Einstein INSA",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -565,7 +543,7 @@
         "name": "Einstein Ouest",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -587,7 +565,7 @@
         "name": "Boulevard du 11 Nov. 1918",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -611,7 +589,7 @@
         "status": "done",
         "doneAt": "05/04/2024",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -632,7 +610,7 @@
         "name": "Avenue Verguin",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -650,7 +628,7 @@
         "name": "Belges - Duquesne Verguin",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -668,7 +646,7 @@
         "name": "Duquesne - Garibaldi Belges",
         "status": "postponed",
         "type": "voie-bus",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -686,7 +664,7 @@
         "name": "Garibaldi - Duquesne Vauban",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -712,7 +690,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -741,7 +719,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -762,7 +740,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -783,7 +761,7 @@
         "name": "Garibaldi - Arménie Gde Rue Guill",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -814,7 +792,7 @@
         "name": "Garibaldi - Blandan",
         "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -837,7 +815,7 @@
         "name": "Garibaldi - CROUS",
         "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -855,7 +833,7 @@
         "name": "Rue Marc Bloch",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#jean-macé-à-villeurbanne-st-jean"
+        "link": "/reve-9#jean-macé-à-villeurbanne-st-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -881,7 +859,7 @@
         "name": "Avenue Jean Jaurès",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/voie-lyonnaise-9#avenue-jean-jaurès"
+        "link": "/reve-9#avenue-jean-jaurès"
       },
       "geometry": {
         "type": "LineString",
@@ -943,7 +921,7 @@
         "name": "Passerelle Oullins-Gerland",
         "status": "postponed",
         "type": "aucun",
-        "link": "/voie-lyonnaise-9#franchissement-du-rhône"
+        "link": "/reve-9#franchissement-du-rhône"
       },
       "geometry": {
         "type": "LineString",
@@ -969,7 +947,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -990,7 +968,7 @@
         "status": "variante",
         "text": "variante A",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -1017,7 +995,7 @@
         "status": "variante",
         "text": "variante A",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -1038,7 +1016,7 @@
         "status": "variante",
         "text": "variante A",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -1077,7 +1055,7 @@
         "status": "variante",
         "text": "variante B",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -1099,7 +1077,7 @@
         "status": "variante",
         "text": "variante B",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -1128,7 +1106,7 @@
         "status": "variante",
         "text": "variante B",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -1158,7 +1136,7 @@
         "name": "Boulevard de l'Yzeron",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -1195,7 +1173,7 @@
         "name": "Boulevard Emile Zola Ouest",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -1219,7 +1197,7 @@
         "name": "Parc de l'Yzeron",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -1256,7 +1234,7 @@
         "name": "Rue de Merlo",
         "status": "planned",
         "type": "velorue",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
@@ -1282,7 +1260,7 @@
         "name": "Avenue de l'Aqueduc de Beaunant",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-9#traversée-doullins"
+        "link": "/reve-9#traversée-doullins"
       },
       "geometry": {
         "type": "LineString",
