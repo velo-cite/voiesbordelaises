@@ -4,16 +4,11 @@
       <div class="flex justify-between items-center py-3 sm:py-6 md:justify-start md:space-x-10">
         <div class="flex justify-start items-center lg:w-0 lg:flex-1">
           <NuxtLink to="/" class="flex space-x-2">
-            <span class="sr-only">Cyclopolis</span>
+            <span class="sr-only">Observatoire de Vélo-Cité</span>
             <img
-              class="h-7 w-auto sm:h-8"
-              src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png"
+              class="h-12 w-auto sm:h-12"
+              src="https://velo-cite.org/wp-content/uploads/2023/10/cropped-VELO-CITE-2023_couleur-horizontal-1.png"
               :alt="`logo ${getAssoName()}`"
-            >
-            <img
-              class="h-8 w-auto sm:h-10"
-              src="https://cyclopolis.lavilleavelo.org/logo-cyclopolis-header.png"
-              alt="logo cyclopolis"
             >
           </NuxtLink>
         </div>
