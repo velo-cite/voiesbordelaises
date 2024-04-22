@@ -72,7 +72,7 @@ onMounted(() => {
     container: 'map',
     style,
     // style: `https://api.maptiler.com/maps/dataviz/style.json?key=${maptilerKey}`,
-    center: [4.8312188, 45.757198],
+    center: [-0.61, 44.85],
     zoom: 12,
     attributionControl: false
   });
