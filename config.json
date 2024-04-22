@@ -14,51 +14,59 @@
   "colors": [
     {
       "line": 1,
-      "color": "#60A75B"
+      "color": "#2f780b"
     },
     {
       "line": 2,
-      "color": "#AC4D35"
+      "color": "#1ce8de"
     },
     {
       "line": 3,
-      "color": "#3B7B64"
+      "color": "#e3af95"
     },
     {
       "line": 4,
-      "color": "#DC8953"
+      "color": "#746040"
     },
     {
       "line": 5,
-      "color": "#AF7392"
+      "color": "#1c77b7"
     },
     {
       "line": 6,
-      "color": "#396083"
+      "color": "#fff6fd"
     },
     {
       "line": 7,
-      "color": "#75BCAE"
+      "color": "#ae03ff"
     },
     {
       "line": 8,
-      "color": "#7E6D98"
+      "color": "#e743b1"
     },
     {
       "line": 9,
-      "color": "#EAAB50"
+      "color": "#fb7d22"
     },
     {
       "line": 10,
-      "color": "#9A8A4B"
+      "color": "#dde03a"
     },
     {
       "line": 11,
-      "color": "#4DADC9"
+      "color": "#b8319d"
     },
     {
       "line": 12,
-      "color": "#DBABB7"
+      "color": "#e14351"
+    },
+    {
+      "line": 13,
+      "color": "#a0a0a0"
+    },
+    {
+      "line": 14,
+      "color": "#40ca46"
     }
   ]
 }
