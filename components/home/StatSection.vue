@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="max-w-4xl mx-auto text-center">
         <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-          Les ReVE, c'est quoi ?
+          Le ReVE, c'est quoi ?
         </h2>
         <p class="mt-3 text-xl text-gray-500 sm:mt-4">
           C'est le Réseau Express Vélo porté par la Métropole de Bordeaux.<br/>Concrètement, une ligne du ReVE est une voie cyclable large (3 à 4m), séparée physiquement des voitures. L'ensemble doit créer un maillage cyclable sans discontinuités qui connecte les communes de la métropole.
