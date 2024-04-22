@@ -81,7 +81,7 @@ const { feature, lines } = defineProps<{
 }>();
 
 const title = computed(() => {
-  return lines.length > 1 ? 'Voies Lyonnaises' : 'Voie Lyonnaise';
+  return lines.length > 1 ? 'ReVEs' : 'ReVE';
 });
 
 function getSectionDetailsUrl(properties: Properties): string {
