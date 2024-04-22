@@ -19,6 +19,10 @@ cover: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 
 Depuis le [giratoire de la Chicotière](https://goo.gl/maps/1UkZTP9b3Q3MmWkT8){:target="_blank"}, la voie lyonnaise n°4 prend la direction du Sud-Est sous la forme d'une large voie verte de 3 à 5m de large le long de la partie Sud de l'ancienne RN6. Elle sera séparée de la voirie automobile par une large bande plantée et arborée, ou par une nouvelle voie de bus dédiée à améliorer les performances des transports en commun du secteur. Les voies de sortie et d'insertion de l'échangeur du Sémanet seront améliorées, tandis que les deux giratoires du parcours seront modifiés pour sécuriser leur traversée.
 
+::banner{type="postponed"}
+Après consultation du Dossier de Consultation des Entreprises disponible publiquement en avril-mai 2024 sur [cette page](https://www.marches-publics.info/mpiaws/index.cfm?fuseaction=dematEnt.choixDCE&IDM=1448259&XFAOK=dce.verifLotsDCE), nous constatons qu'un petit tronçon de 450m entre le giratoire de la Chicotière et la bretelle de sortie vers la gare de Dommartin-Lissieu ne sera pas aménagé sur ce mandat. Sur cette portion, les cyclistes continueront donc à circuler en bordure d'une 2x2 voies avec une piste cyclable étroite vers Lissieu et aucun aménagement vers Dardilly.
+::
+
 #### Porte de Lyon
 *via Parc Relais TCL et pont sur A6*
 
@@ -77,7 +81,7 @@ credit: Passagers des Villes / Métropole de Lyon
 Sur cette section, la Voie Lyonnaise 4 empruntera l'avenue Lanessan sous la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est, en lieu et place du stationnement existant. Le carrefour avec l'avenue de Champagne sera entièrement réaménagé pour sécuriser le lien avec le quartier de la Duchère.
 
 #### Avenue du 25e Régiment de Tirailleurs Sénégalais
-Cette portion en pente sera totalement réaménagée : une piste cyclable bidrectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande vétégalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
+Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande vétégalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
 ::banner{type="wip"}
 Les travaux sur ce tronçon vont débuter au printemps 2024 et se prolonger une bonne partie de l'année.
@@ -130,7 +134,7 @@ Dans le **tunnel mode doux de la Croix-Rousse**, la Métropole prévoit de conse
 La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de dévier les bus de la ligne C6 dans le tunnel routier pour élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers.
 ::
 
-Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidrectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
+Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidirectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
 
 
 L'**avenue Duquesne** a bénéficié en 2020 de la création de voies bus ouvertes aux vélos dans chaque sens de circulation, restreignant la circulation automobile à 2x1 voies, contre 2x2 voies auparavant. Cet aménagement a été pérénisé à l'été 2021.

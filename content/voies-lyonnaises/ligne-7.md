@@ -34,6 +34,10 @@ credit: Métropole de Lyon
 ***Rillieux-Centre***  
 Pour desservir les nombreux équipements du centre-ville de Rilleux, la Voie Lyonnaise emprunte ensuite le parc linéaire Est sur une piste de 3m de large qui sera conservée en l'état. Elle continue sur la rue Ampère qui verra sa piste bidirectionnelle actuelle de 2.30m de large être élargie à 4m, puis traverse le parc linéaire Ouest où la piste cyclable bidirectionnelle actuelle de 2.70m de large sera élargie à 4m.
 
+::banner{type="modified"}
+Contrairement à ce qui était annoncé lors de la concertation, la piste cyclable bidirectionnelle du parc linéaire Ouest sera finalement conservée en l'état suite au refus de la mairie de Rillieux de l'élargir.
+::
+
 ***Giratoire Général de Gaulle***  
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.  
 
@@ -42,7 +46,7 @@ Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et 
 ::
 
 ***Avenue de l'Hippodrome et Chemin Petit***  
-Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidrectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
+Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidirectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
 
 #### Voie de la Dombe
 Compte-tenu du refus de la mairie de Caluire-et-Cuire de proposer des aménagements cyclables sécurisés sur sa commune, la voie verte de la Dombe reste le seul itinéraire continu et sécurisé pour les cyclistes du plateau Nord qui souhaitent traverser la commune du Nord au Sud. Elle concentre donc un nombre croissant de cyclistes qui entrent en conflit avec les piétons voulant profiter de ce même axe pour la promenade. En outre, son revêtement en sable stabilisé est inconfortable et salissant pour les cyclistes, poussettes et fauteuils roulants et crée de nombreuses flaques d'eau après une météo pluvieuse.  
@@ -85,6 +89,7 @@ Entre la station BP et la rue Denfert-Rochereau, la même piste cyclable sur tro
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/bd-des-canuts.png
 caption: Aperçu de la Voie Lyonnaise 7 - Boulevard des Canuts (Lyon 4)
 credit: Métropole de Lyon
+streetView: 45.7804136,4.8275125,3a,75y,37.09h,90t
 ---
 ::
 
@@ -102,6 +107,9 @@ Entre la place des Tapis et le boulevard de la Croix-Rousse, la Voie Lyonnaise c
 #### Montée de la Boucle
 Sur la montée de la Boucle, la piste cyclable bidirectionnelle de 3m de large côté Est, réalisée en provisoire pendant l'été 2020 et pérénisée à l'été 2022 sera globalement conservée. Son séparateur sera amélioré avec une bordure émergente haute qui sécurisera mieux les cyclistes. Enfin, la contre-allée en bas sera réaménagée pour créer une vraie piste bidirectionnelle côté façades, et le stationnement sera réorganisé le long de l'alignement d'arbre.
 
+::banner{type="modified"}
+Contrairement à ce qui était annoncé lors de la concertation, la contre-allée en bas de la Montée de la Boucle sera finalement aménagée en vélorue de 4m de large pour conserver un maximum de places de stationnements à la demande de la mairie de Caluire et des commerçants.
+::
 
 ::content-image
 ---
