@@ -23,7 +23,7 @@
             Avancement par ligne
           </h2>
           <p class="text-xl text-gray-500">
-            Choisissez une Voie Lyonnaise pour connaitre le détail du projet et voir son niveau d'avancement.
+            Choisissez une ligne du ReVE pour connaitre le détail du projet et voir son niveau d'avancement.
           </p>
         </div>
         <HomeLinesSection class="mt-5" />

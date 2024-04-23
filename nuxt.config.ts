@@ -1,6 +1,6 @@
-const TITLE = 'Cyclopolis - Suivi des Voies Lyonnaises par La Ville à Vélo';
+const TITLE = 'Observatoire - Suivi du ReVE par Vélo-Cité Bordeaux Métropole';
 const DESCRIPTION =
-  "Plateforme citoyenne et associative, par La Ville à Vélo. Etat d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé lyonnais";
+  "Plateforme citoyenne et associative, par Vélo-Cité Bordeaux Métropole. Etat d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé bordelais";
 const BASE_URL = 'https://cyclopolis.fr';
 const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
 
