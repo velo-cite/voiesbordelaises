@@ -11,6 +11,10 @@ On y retrouve en particulier :
 - une carte intéractive permettant de visualiser les tracés des voies cyclables.
 - une page détaillée sur chacune des voies cyclables.
 
+## Participer à la modification des cartes / Éditer un GeoJson
+
+Modifier la ligne /content/reve/*.json avec [placemark](https://play.placemark.io/) puis réexporter le fichier sur le projet.
+
 ## Est-il possible de réutiliser Cyclopolis ou l'observatoire de Vélo-Cité pour un autre projet ?
 
 Oui !
