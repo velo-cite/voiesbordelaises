@@ -17,7 +17,7 @@
         </div>
         <div class="mt-8 md:mt-0 md:order-1">
           <p class="text-center text-base text-gray-500">
-            La Ville à Vélo
+            Vélo-Cité Bordeaux Métropole
           </p>
         </div>
       </div>
@@ -30,7 +30,7 @@
         </div>
         <div class="mt-8 md:mt-0 md:order-1">
           <p class="text-center text-base text-gray-500">
-            Cyclopolis
+            Observatoire
           </p>
         </div>
       </div>
