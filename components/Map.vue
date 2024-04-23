@@ -7,8 +7,8 @@
       v-if="options.logo"
       class="my-0 absolute bottom-0 right-0 z-10"
       src="/logo-VC-carte.png"
-      width="100"
-      height="100"
+      width="75"
+      height="75"
       :alt="`logo ${config.assoName}`"
     >
   </div>
