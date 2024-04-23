@@ -1,21 +1,19 @@
 <template>
   <div class="w-full">
     <img
-      src="https://cyclopolis.lavilleavelo.org/carte-voies-lyonnaises-2026.png"
+      src="https://www.bordeaux-metropole.fr/sites/MET-BXMETRO-DRUPAL/files/styles/paragraphe_media_image_video_x2/public/2023-07/carte_parcours_ReVE_velo_06_06_2023.jpg"
       class="object-contain w-full h-screen"
-      :alt="`plan officiel des ${getRevName()}`"
+      :alt="`plan officiel de ${getRevName('singular')} bordelais`"
     >
   </div>
 </template>
 
 <script setup lang="ts">
 const { getRevName } = useConfig();
-
-const description = `Découvrez le plan officiel des ${getRevName()}, le futur réseau vélo lyonnais de 260km.`;
+const description = 'Découvrez le plan officiel du ReVE Bordelais, le futur réseau vélo bordelais de 275km.';
 const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
-
 useHead({
-  title: `Plan des ${getRevName()}`,
+  title: 'Plan du ReVE Bordelais',
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },
