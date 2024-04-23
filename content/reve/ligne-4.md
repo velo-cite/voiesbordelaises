@@ -10,7 +10,7 @@ trafic:
 cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
 
-## Les tronçons (d'Ouest en Est)
+## Le pont Simone Veil
 
 ### Gare Dommartin-Lissieu à Parc relais Porte de Lyon
 
