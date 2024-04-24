@@ -4,7 +4,7 @@
       <div class="text-center text-gray-900">
         Distance totale: <span class="font-bold" :style="`color: ${color}`">{{ displayDistanceInKm(distance, 1) }}</span>
       </div>
-      <div class="text-center text-base text-gray-900">
+      <div class="text-center text-base text-gray-900" v-if="voie.trafic">
         Fréquentation max 2030: <span class="font-bold" :style="`color: ${color}`">{{ voie.trafic }}</span>
       </div>
       <ProgressBar :voies="[geojson]" />
