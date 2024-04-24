@@ -38,7 +38,7 @@ const { data: voie } = await useAsyncData(`${path}`, () => {
   return queryContent('reve').where({ _type: 'markdown', line: Number(line) }).findOne();
 });
 
-const description = `Tout savoir sur la Voie Lyonnaise ${voie.value.line}. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;
+const description = `Tout savoir sur la ligne ${voie.value.line} du ReVE bordelais. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;
 const coverImage = voie.value.cover;
 useHead({
   title: `ReVE ${voie.value.line}`,

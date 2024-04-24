@@ -31,9 +31,9 @@ const { data: voie } = await useAsyncData(() => {
     .findOne();
 });
 
-const description = `Carte de la Voie Lyonnaise ${line}. Découvrez les tronçons prévus, déjà réalisés, en travaux et ceux reportés après 2026.`;
+const description = `Carte de la ligne ${line} du ReVE Bordelais. Découvrez les tronçons prévus, déjà réalisés, en travaux.`;
 useHead({
-  title: `Carte de la Voie Lyonnaise ${line}`,
+  title: `Carte de la ligne ${line} du ReVE Bordelais`,
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },

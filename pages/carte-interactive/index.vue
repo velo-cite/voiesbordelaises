@@ -17,9 +17,8 @@ const { data: voies } = await useAsyncData(() => {
 
 const features = voies.value.map(voie => voie.features).flat();
 
-const description =
-  'Découvrez la carte interactive des Voies Lyonnaises. Itinéraires rue par rue. Plan régulièrement mis à jour pour une information complète.';
-const COVER_IMAGE_URL = 'https://cyclopolis.lavilleavelo.org/cyclopolis.png';
+const description = 'Découvrez le plan officiel du ReVE Bordelais, le futur réseau vélo bordelais de 275km.';
+const COVER_IMAGE_URL = 'https://velo-cite.org/wp-content/uploads/2023/10/cropped-VELO-CITE-2023_couleur-horizontal-1.png';
 useHead({
   title: 'Carte à jour du ReVE Bordelais',
   meta: [
