@@ -46,11 +46,7 @@ const { data: voie } = await useAsyncData(`${path}`, () => {
 const description = `Tout savoir sur la ${getRevName('singular')} ${voie.value.line}. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;
 const coverImage = voie.value.cover;
 useHead({
-<<<<<<< HEAD
   title: `${getRevName('singular')} ${voie.value.line}`,
-=======
-  title: `ReVE ${voie.value.line}`,
->>>>>>> f6e364f (Voie Lyonnaise -> ReVE)
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },
