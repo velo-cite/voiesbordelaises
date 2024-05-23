@@ -37,6 +37,6 @@
 
 <script setup>
 const { data: voies } = await useAsyncData(() => {
-  return queryContent('reve').where({ _type: 'json' }).find();
+  return queryContent('reve-bordelais').where({ _type: 'json' }).find();
 });
 </script>
