@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ include "voiesbordelaises.fullname" . }}
+  labels:
+    {{- include "voiesbordelaises.labels" . | nindent 4 }}
+  {{- with .Values.annotations }}
+  annotations:
+    {{- toYaml . | nindent 4 }}
+  {{- end }}
+spec:
+  replicas: {{ .Values.replicaCount }}
+  selector:
+  selector:
+    matchLabels:
+      {{- include "voiesbordelaises.selectorLabels" . | nindent 6 }}
+  template:
+    metadata:
+      labels:
+        {{- include "voiesbordelaises.selectorLabels" . | nindent 8 }}
+    spec:
+      containers:
+      - name: voiesbordelaises
+        image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+        imagePullPolicy: {{ .Values.image.pullPolicy }}
+        ports:
+        - containerPort: 80
+        envFrom:
+        - configMapRef:
+            name: {{ include "voiesbordelaises.fullname" . }}

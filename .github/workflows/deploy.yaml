@@ -1,0 +1,43 @@
+name: Build, push, deploy
+
+env:
+  DOCKER_REGISTRY: ghcr.io
+  IMAGE_REPOSITORY: voiesbordelaises
+  KEEL_FQDN: keel.velo-cite.org
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 9 * * *'
+
+jobs:
+  build:
+    name: Build and push Docker image
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo ${{ secrets.ENV_LOCAL }} | base64 -d > .env.local
+      - run: echo ${{ secrets.GITHUB_TOKEN }} | docker login -u $ --password-stdin $DOCKER_REGISTRY
+      - run: |
+          IMAGE_NAME=$DOCKER_REGISTRY/${{ github.repository_owner }}/$IMAGE_REPOSITORY
+          IMAGE_NAME=$(echo $IMAGE_NAME | tr '[A-Z]' '[a-z]') # to lowercase
+          docker build . -t $IMAGE_NAME:latest
+          docker build . -t $IMAGE_NAME:$(date +%F)
+          docker push $IMAGE_NAME:latest
+          docker push $IMAGE_NAME:$(date +%F)
+  deploy:
+    needs: build
+    name: Deploy the new image
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          IMAGE_NAME=$DOCKER_REGISTRY/${{ github.repository_owner }}/$IMAGE_REPOSITORY
+          IMAGE_NAME=$(echo $IMAGE_NAME | tr '[A-Z]' '[a-z]') # to lowercase
+          echo IMAGE_NAME=$IMAGE_NAME
+          curl \
+            -u voiesbordelaises:${{ secrets.KEEL_PASSWORD }} \
+            -d "{\"name\":\"$IMAGE_NAME\", \"tag\":\"latest\"}" \
+            -H "Content-Type: application/json" \
+            -X POST https://$KEEL_FQDN/v1/webhooks/native

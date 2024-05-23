@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ include "voiesbordelaises.fullname" . }}
+spec:
+  type: ClusterIP
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+  selector:
+    {{- include "voiesbordelaises.selectorLabels" . | nindent 4 }}
