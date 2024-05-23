@@ -13,7 +13,7 @@ On y retrouve en particulier :
 
 ## Participer à la modification des cartes / Éditer un GeoJson
 
-Modifier la ligne /content/reve/*.json avec [placemark](https://play.placemark.io/) puis réexporter le fichier sur le projet.
+Modifier la ligne /content/reve-bordelais/*.json avec [placemark](https://play.placemark.io/) puis réexporter le fichier sur le projet.
 
 ## Est-il possible de réutiliser Cyclopolis ou l'observatoire de Vélo-Cité pour un autre projet ?
 
