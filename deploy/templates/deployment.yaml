@@ -25,6 +25,3 @@ spec:
         imagePullPolicy: {{ .Values.image.pullPolicy }}
         ports:
         - containerPort: 80
-        envFrom:
-        - configMapRef:
-            name: {{ include "voiesbordelaises.fullname" . }}
