@@ -30,11 +30,11 @@ function getAllLinks() {
   const links = [];
   const titleRegex = /^(#+)\s+(.*)/gm;
 
-  fs.readdirSync('content/reve').forEach(file => {
+  fs.readdirSync('content/reve-bordelais').forEach(file => {
     if (file.endsWith('.md')) {
       const voieLyonnaiseNumber = file.match(/\d+/g);
 
-      const filePath = path.join('content/reve', file);
+      const filePath = path.join('content/reve-bordelais', file);
       const markdownContent = fs.readFileSync(filePath, 'utf8');
 
       let match;
