@@ -1,0 +1,5 @@
+apiVersion: v2
+name: voiesbordelaises
+description: "Avancement du ReVE à Bordeaux"
+type: application
+version: 0.1.0
