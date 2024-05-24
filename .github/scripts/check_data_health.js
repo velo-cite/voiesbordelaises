@@ -63,9 +63,9 @@ function getAllLinks() {
 
 function checkGeoJsonDataHealth({ links }) {
   const allLineStrings = [];
-  fs.readdirSync('content/reve').forEach(file => {
+  fs.readdirSync('content/reve-bordelais').forEach(file => {
     if (file.endsWith('.json')) {
-      const filePath = path.join('content/reve', file);
+      const filePath = path.join('content/reve-bordelais', file);
       const content = fs.readFileSync(filePath, 'utf8');
       try {
         const geojson = JSON.parse(content);
