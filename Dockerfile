@@ -5,8 +5,8 @@ WORKDIR /voiesbordelaises
 
 # Install dependencies
 ADD package.json .
-ADD yarn.lock .
-RUN yarn install
+ADD package-lock.json .
+RUN npm install
 
 # Add source code
 ADD . .
