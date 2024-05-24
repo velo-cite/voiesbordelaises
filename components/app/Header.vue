@@ -8,7 +8,7 @@
             <img
               class="h-12 w-auto sm:h-12"
               src="https://velo-cite.org/wp-content/uploads/2023/10/cropped-VELO-CITE-2023_couleur-horizontal-1.png"
-              alt="logo vélocité"
+              :alt="`logo ${getAssoName()}`"
             >
           </NuxtLink>
         </div>
@@ -80,11 +80,11 @@
               <PopoverPanel v-slot="{ close }" class="absolute left-1/2 z-10 mt-3 w-screen max-w-md -translate-x-1/2 transform px-2 sm:px-0">
                 <div class="overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5">
                   <div class="relative grid grid-cols-2 sm:grid-cols-4 gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
-                    <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieLyonnaisePath(voie.line)" class="-m-3 flex items-start justify-center rounded-lg p-3 hover:bg-gray-50" @click="close()">
+                    <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieCyclablePath(voie.line)" class="-m-3 flex items-start justify-center rounded-lg p-3 hover:bg-gray-50" @click="close()">
                       <div class="flex-shrink-0">
                         <div
                           class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
-                          :style="`background-color: ${voie.color}`"
+                          :style="`background-color: ${getLineColor(voie.line)}`"
                         >
                           {{ voie.line }}
                         </div>
@@ -133,7 +133,7 @@
           <div class="pt-5 pb-6 px-5">
             <div class="flex items-center justify-between">
               <NuxtLink to="/" @click="close()">
-                <img class="h-8 w-auto" src="~/assets/logo.png" alt="logo voies lyonnaises">
+                <img class="h-8 w-auto" src="https://cyclopolis.lavilleavelo.org/logo-la-ville-a-velo.png" :alt="`logo ${getAssoName()}`">
               </NuxtLink>
               <div class="-mr-2">
                 <PopoverButton
@@ -174,11 +174,11 @@
               Toutes les lignes
             </div>
             <div class="grid grid-cols-4 gap-y-4 gap-x-8">
-              <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieLyonnaisePath(voie.line)" class="-m-3 flex items-start rounded-lg p-3 hover:bg-gray-50" @click="close()">
+              <NuxtLink v-for="voie in voies" :key="voie.line" :to="getVoieCyclablePath(voie.line)" class="-m-3 flex items-start rounded-lg p-3 hover:bg-gray-50" @click="close()">
                 <div class="flex-shrink-0">
                   <div
                     class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
-                    :style="`background-color: ${voie.color}`"
+                    :style="`background-color: ${getLineColor(voie.line)}`"
                   >
                     {{ voie.line }}
                   </div>
@@ -194,6 +194,9 @@
 
 <script setup>
 import { Popover, PopoverButton, PopoverGroup, PopoverPanel } from '@headlessui/vue';
+const { getLineColor } = useColors();
+const { getVoieCyclablePath } = useUrl();
+const { getAssoName } = useConfig();
 
 const navItems = [
   { name: 'Carte interactive', path: '/carte-interactive' },

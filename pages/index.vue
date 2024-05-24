@@ -15,6 +15,7 @@
       </div>
       <ProgressBar :voies="voies" class="mt-8 md:mt-10" />
       <Stats :voies="voies" class="mt-8" />
+      <Typology :voies="voies" class="mt-8 max-w-2xl mx-auto" />
     </div>
     <div class="max-w-7xl mx-auto mt-14 px-4 sm:px-6 lg:px-8 lg:mt-24">
       <div class="space-y-8 sm:space-y-12">
@@ -23,7 +24,7 @@
             Avancement par ligne
           </h2>
           <p class="text-xl text-gray-500">
-            Choisissez une ligne du ReVE pour connaitre le détail du projet et voir son niveau d'avancement.
+            Choisissez une ligne du {{ getRevName('singular') }} pour connaitre le détail du projet et voir son niveau d'avancement.
           </p>
         </div>
         <HomeLinesSection class="mt-5" />
@@ -36,6 +37,8 @@
 </template>
 
 <script setup>
+const { getRevName } = useConfig();
+
 const { data: voies } = await useAsyncData(() => {
   return queryContent('reve-bordelais').where({ _type: 'json' }).find();
 });

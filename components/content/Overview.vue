@@ -1,14 +1,14 @@
 <template>
   <div>
     <div>
-      <div class="text-center text-gray-900">
+      <div class="text-center text-xl text-gray-900">
         Distance totale: <span class="font-bold" :style="`color: ${color}`">{{ displayDistanceInKm(distance, 1) }}</span>
       </div>
       <div class="text-center text-base text-gray-900" v-if="voie.trafic">
-        Fréquentation max 2030: <span class="font-bold" :style="`color: ${color}`">{{ voie.trafic }}</span>
       </div>
       <ProgressBar :voies="[geojson]" />
       <Stats :voies="[geojson]" :precision="1" />
+      <Typology :voies="[geojson]" />
     </div>
     <section aria-labelledby="shipping-heading" class="mt-10">
       <ClientOnly>

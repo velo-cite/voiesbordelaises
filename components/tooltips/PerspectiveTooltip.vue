@@ -1,7 +1,7 @@
 <template>
   <div class="not-prose flex items-center justify-center" :style="`background-color: ${color}`">
     <div class="p-1 text-white text-lg font-black">
-      ReVE
+      {{ getRevName('singular') }}
       <span
         class="h-6 w-6 text-sm rounded-full inline-flex items-center justify-center border-2 border-white"
       >
@@ -16,23 +16,13 @@
 </template>
 
 <script setup lang="ts">
+import type { PerspectiveFeature } from '~/types';
+
 const { getLineColor } = useColors();
+const { getRevName } = useConfig();
 
 const { feature } = defineProps<{
-  feature: {
-    type: 'Feature';
-    properties: {
-      type: 'perspective';
-      name?: string;
-      line: string;
-      imgUrl: string;
-    };
-    geometry: {
-      type: 'Point';
-      coordinates: [number, number];
-    };
-  }
-
+  feature: PerspectiveFeature
 }>();
 
 const color = getLineColor(Number(feature.properties.line));

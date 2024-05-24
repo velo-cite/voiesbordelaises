@@ -6,8 +6,10 @@
 
 <script setup>
 const { path } = useRoute();
+const { getVoieCyclableRegex } = useUrl();
+const { getRevName } = useConfig();
 
-const regex = /reve-(1[0-4]|[1-9])\b/;
+const regex = getVoieCyclableRegex();
 const line = path.match(regex)[1];
 
 // https://github.com/nuxt/framework/issues/3587
@@ -31,9 +33,15 @@ const { data: voie } = await useAsyncData(() => {
     .findOne();
 });
 
+<<<<<<< HEAD
 const description = `Carte de la ligne ${line} du ReVE Bordelais. Découvrez les tronçons prévus, déjà réalisés, en travaux.`;
 useHead({
   title: `Carte de la ligne ${line} du ReVE Bordelais`,
+=======
+const description = `Carte de la ${getRevName('singular')} ${line}. Découvrez les tronçons prévus, déjà réalisés, en travaux et ceux reportés.`;
+useHead({
+  title: `Carte de la ${getRevName('singular')} ${line}`,
+>>>>>>> benoitdemaegdt-main
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },

@@ -1,0 +1,72 @@
+{
+  "revName": {
+    "plural": "lignes du ReVE",
+    "singular": "ligne du ReVE"
+  },
+  "assoName": "Vélo-Cité Bordeaux Métropole",
+  "assoLink": "https://velo-cite.org",
+  "slug": "reve",
+  "center": [
+    -0.61,
+    44.85
+  ],
+  "zoom": 12,
+  "colors": [
+    {
+      "line": 1,
+      "color": "#2f780b"
+    },
+    {
+      "line": 2,
+      "color": "#1ce8de"
+    },
+    {
+      "line": 3,
+      "color": "#e3af95"
+    },
+    {
+      "line": 4,
+      "color": "#746040"
+    },
+    {
+      "line": 5,
+      "color": "#1c77b7"
+    },
+    {
+      "line": 6,
+      "color": "#fff6fd"
+    },
+    {
+      "line": 7,
+      "color": "#ae03ff"
+    },
+    {
+      "line": 8,
+      "color": "#e743b1"
+    },
+    {
+      "line": 9,
+      "color": "#fb7d22"
+    },
+    {
+      "line": 10,
+      "color": "#dde03a"
+    },
+    {
+      "line": 11,
+      "color": "#b8319d"
+    },
+    {
+      "line": 12,
+      "color": "#e14351"
+    },
+    {
+      "line": 13,
+      "color": "#a0a0a0"
+    },
+    {
+      "line": 14,
+      "color": "#40ca46"
+    }
+  ]
+}

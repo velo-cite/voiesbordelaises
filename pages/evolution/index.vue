@@ -30,6 +30,8 @@
 
 <script setup>
 const { getAllUniqLineStrings, getDistance } = useStats();
+const { getRevName } = useConfig();
+
 // https://github.com/nuxt/framework/issues/3587
 definePageMeta({
   pageTransition: false,

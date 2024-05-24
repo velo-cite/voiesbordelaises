@@ -1,31 +1,36 @@
 <template>
-  <ContentFrame
-    :description="voie.description"
-    :image-url="voie.cover"
-  >
-    <template #header>
-      <h1 class="text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-        ReVE
-        <div
-          class="mt-2 h-12 w-12 rounded-full flex items-center justify-center text-white font-bold mx-auto"
-          :style="`background-color: ${voie.color}`"
-        >
-          {{ voie.line }}
-        </div>
-      </h1>
-    </template>
-    <h2>Aperçu</h2>
-    <Overview :voie="voie" />
-    <ContentRenderer :value="voie" />
-  </ContentFrame>
+  <div>
+    <ContentFrame
+      :description="voie.description"
+      :image-url="voie.cover"
+    >
+      <template #header>
+        <h1 class="text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
+          {{ getRevName('singular') }}
+          <div
+            class="mt-2 h-12 w-12 rounded-full flex items-center justify-center text-white font-bold mx-auto"
+            :style="`background-color: ${getLineColor(voie.line)}`"
+          >
+            {{ voie.line }}
+          </div>
+        </h1>
+      </template>
+      <h2>Aperçu</h2>
+      <Overview :voie="voie" />
+      <ContentRenderer :value="voie" />
+    </ContentFrame>
 
-  <LvvCta class="pb-10" />
+    <LvvCta class="pb-10" />
+  </div>
 </template>
 
 <script setup>
 const { path } = useRoute();
+const { getLineColor } = useColors();
+const { getRevName } = useConfig();
+const { getVoieCyclableRegex } = useUrl();
 
-const regex = /reve-(1[0-4]|[1-9])\b/;
+const regex = getVoieCyclableRegex();
 const line = path.match(regex)[1];
 
 // https://github.com/nuxt/framework/issues/3587
@@ -38,10 +43,10 @@ const { data: voie } = await useAsyncData(`${path}`, () => {
   return queryContent('reve').where({ _type: 'markdown', line: Number(line) }).findOne();
 });
 
-const description = `Tout savoir sur la ligne ${voie.value.line} du ReVE bordelais. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;
+const description = `Tout savoir sur la ${getRevName('singular')} ${voie.value.line}. Avancement, carte interactive, détail rue par rue, calendrier des travaux et photos du projet.`;
 const coverImage = voie.value.cover;
 useHead({
-  title: `ReVE ${voie.value.line}`,
+  title: `${getRevName('singular')} ${voie.value.line}`,
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },

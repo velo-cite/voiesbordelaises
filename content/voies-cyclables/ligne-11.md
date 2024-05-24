@@ -1,10 +1,8 @@
 ---
 name: Voie Lyonnaise 11
 line: 11
-color: "#4DADC9"
 from: Point-du-Jour
 to: Chassieu
-distance: 18650
 description: La Voie Lyonnaise 11 permettra de traverser la métropole lyonnaise sur un axe ouest-est. Elle partira du quartier du Point du Jour à Lyon 5 pour desservir la Favorite et Saint-Just. Elle traversera la Presqu'Île avant de remonter rue de Bonnel, puis continuera vers l'Est par la Part Dieu, Maisons-Neuves, Montchat Nord avant de poursuivre sur la route de Genas vers les Sept Chemins puis Chassieu.
 trafic: 25k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
@@ -18,13 +16,13 @@ La Voie Lyonnaise 11 débutera place Bénédict Teissier au coeur du quartier du
 *Aucune information publique n'existe à ce jour sur ce tronçon.*
 
 ### Traversée de Saint-Just - Traversée de Saint-Jean
-Cette section est en tronçon commun avec la :line-link{line=12}.
+Cette section est en tronçon commun avec la :line-link{line=12 anchor="traversée-de-saint-just"}.
 
 ### Traversée de la Presqu'Île de Lyon
-Cette section est en tronçon commun avec la :line-link{line=8}.
+Cette section est en tronçon commun avec la :line-link{line=8 anchor="traversée-de-la-presquîle-de-lyon"}.
 
 ### Pont Wilson
-Depuis la place Bellecour, la Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la :line-link{line=6}, puis traversera le Rhône par le pont Wilson, qui a été aménagé avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation.
+Depuis la place Bellecour, la Voie Lyonnaise 11 remontera la rive droite du Rhône en tronçon commun avec la :line-link{line=6 anchor="pont-de-lattre-à-pont-gallieni-lyon-rive-droite"}, puis traversera le Rhône par le pont Wilson, qui a été aménagé avec une piste cyclable bidirectionnelle de 3.50m côté Nord début 2022 en lieu et place d'une voie de circulation. Elle partagera enfin 150m avec la :line-link{line=1 anchor="quai-sarrail-et-quai-augagneur"} sur la rive gauche du Rhône.
 
 ### Rue de Bonnel
 Cette large rue est aujourd'hui qualifiée d'autoroute urbaine avec ses 4 voies de circulation, dont une convertie en couloir bus-vélos à l'été 2020.
@@ -53,7 +51,7 @@ credit: Métropole de Lyon
 [Voir le dossier de concertation (p.13 à p.19)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Rue Garibaldi - *Bonnel à Paul Bert*
-Cette section est en tronçon commun avec la :line-link{line=7}.
+Cette section est en tronçon commun avec la :line-link{line=7 anchor="rue-garibaldi-bonnel-à-paul-bert"}.
 
 ### Rue Paul Bert - *Garibaldi à Vivier-Merle*
 Sur cette rue à fort trafic, une piste bidirectionnelle temporaire a été marquée sur le trottoir Nord à l'été 2018, puis supprimée à l'été 2021 au profit de deux bandes cyclables bilatérales sur la chaussée à la place d'une voie de circulation.
@@ -72,7 +70,7 @@ credit: Métropole de Lyon
 [Voir le dossier de concertation (p.20 à p.24)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Boulevard Vivier-Merle - *Paul Bert à Félix Faure*
-Cette section est en tronçon commun avec la :line-link{line=2}.
+Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard-vivier-merle-et-boulevard-des-tchécoslovaques"}.
 
 ### Avenue Félix Faure - *Vivier Merle à Esplanade Mandela*
 Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur Bus à Haut Niveau de Service (BHNS) entre Part-Dieu et Sept Chemins. Sa réalisation sera traitée en même temps que les travaux de cette ligne, sous maitrise d'ouvrage SYTRAL Mobilités.
@@ -93,6 +91,10 @@ Sur ce tronçon, l'aménagement cyclable historique longe le tramway T3 côté N
 
 Le projet prévoit donc un nouvel itinéraire en piste cyclable bidirectionnelle de 4m de large, d'abord côté Ouest de la rue Jeanne Hachette qui sera mise en sens unique vers le Nord, puis côté Sud de la rue Renoir et du Dauphiné en supprimant partiellement des places de stationnement.
 
+::banner{type="modified"}
+Suite à la concertation, la Métropole et la mairie du 3e arrondissement ont annoncé en avril 2024 que la piste cyclable bidirectionnelle serait finalement au Nord de la rue Jean Renoir et de la rue du Dauphiné. Cette variante permet de conserver un maximum de places de stationnement. Elle implique néanmoins une légère déviation du bus 69 par la rue Sisley dans le sens Nord>Sud. Les travaux auront lieu entre le printemps et l'automne 2025.
+::
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl11/rue-du-dauphine.png
@@ -105,7 +107,7 @@ credit: Métropole de Lyon
 [Voir le dossier de concertation (p.25 à p.31)](https://cyclopolis.lavilleavelo.org/vl11/VL11_Bonnel_Dauphin%c3%a9.pdf)
 
 ### Dauphiné - Lacassagne à Reconnaissance - Balzac
-Cette section est en tronçon commun avec la :line-link{line=10}.
+Cette section est en tronçon commun avec la :line-link{line=10 anchor"le-long-du-tramway-t3"}.
 
 ### Reconnaissance - Balzac à Bron - Sept Chemins
 Sur cette section, la Voie Lyonnaise 11 partagera son itinéraire avec le futur Bus à Haut Niveau de Service (BHNS) entre Part-Dieu et Sept Chemins sur la route de Genas. Sa réalisation sera traitée en même temps que les travaux de cette ligne, sous maitrise d'ouvrage SYTRAL Mobilités.

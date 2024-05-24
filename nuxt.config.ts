@@ -1,6 +1,8 @@
-const TITLE = 'Observatoire - Suivi du ReVE par Vélo-Cité Bordeaux Métropole';
+import config from './config.json';
+
+const TITLE = `Cyclopolis - Suivi des ${config.revName.plural} par ${config.assoName}`;
 const DESCRIPTION =
-  "Plateforme citoyenne et associative, par Vélo-Cité Bordeaux Métropole. Etat d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé bordelais";
+  `Plateforme citoyenne et associative, par ${config.assoName}. État d'avancement, cartes interactives des itinéraires, détails, travaux : suivez le développement du réseau cyclable sécurisé bordelais`;
 const BASE_URL = 'https://cyclopolis.fr';
 const COVER_IMAGE_URL = 'https://velo-cite.org/wp-content/uploads/2023/10/cropped-VELO-CITE-2023_couleur-horizontal-1.png';
 

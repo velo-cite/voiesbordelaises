@@ -8,7 +8,8 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
+const { getRevName } = useConfig();
 const description = 'Découvrez le plan officiel du ReVE Bordelais, le futur réseau vélo bordelais de 275km.'
 const COVER_IMAGE_URL = 'https://velo-cite.org/wp-content/uploads/2023/10/cropped-VELO-CITE-2023_couleur-horizontal-1.png'
 useHead({
@@ -22,5 +23,5 @@ useHead({
     { hid: 'og:image', property: 'og:image', content: COVER_IMAGE_URL },
     { hid: 'twitter:image', name: 'twitter:image', content: COVER_IMAGE_URL }
   ]
-})
+});
 </script>

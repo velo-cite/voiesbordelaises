@@ -45,6 +45,14 @@
           {{ Math.round(getDistance({ features: [feature] }) / 25) * 25 }}m
         </div>
       </div>
+      <div class="py-1 flex items-center justify-between">
+        <div class="text-base font-bold">
+          Type
+        </div>
+        <div class="text-sm text-right">
+          {{ typologyNames[feature.properties.type] ?? 'Inconnu' }}
+        </div>
+      </div>
     </div>
     <div class="bg-lvv-blue-600 flex justify-center">
       <a class="p-1 text-white text-base italic hover:underline" :href="getSectionDetailsUrl(feature.properties)" target="_blank">
@@ -55,40 +63,27 @@
 </template>
 
 <script setup lang="ts">
-const { getLineColor } = useColors();
-const { getDistance } = useStats();
+import type { LineStringFeature } from '~/types';
 
-type Status = 'done' | 'wip' | 'planned' | 'postponed' | 'variante';
-type Properties = {
-  id?: string;
-  line: number;
-  name: string;
-  status: Status;
-  doneAt?: string;
-  link?: string;
-};
+const { getLineColor } = useColors();
+const { getRevName } = useConfig();
+const { getDistance, typologyNames } = useStats();
+const { getVoieCyclablePath } = useUrl();
 
 const { feature, lines } = defineProps<{
-  feature: {
-    type: string;
-    properties: Properties;
-    geometry: {
-      type: string;
-      coordinates: number[][];
-    };
-  }
+  feature: LineStringFeature;
   lines: number[];
 }>();
 
 const title = computed(() => {
-  return lines.length > 1 ? 'ReVEs' : 'ReVE';
+  return lines.length > 1 ? getRevName() : getRevName('singular');
 });
 
-function getSectionDetailsUrl(properties: Properties): string {
+function getSectionDetailsUrl(properties: LineStringFeature['properties']): string {
   if (properties.link) {
     return properties.link;
   }
-  return `/reve-${properties.line}`;
+  return getVoieCyclablePath(properties.line);
 }
 
 function getDoneAtText(doneAt: string): string {
@@ -101,7 +96,7 @@ function getDoneAtText(doneAt: string): string {
   return `le ${doneAt}`;
 }
 
-function getStatus(properties: Properties): { label: string, class: string; date?: string } {
+function getStatus(properties: LineStringFeature['properties']): { label: string, class: string; date?: string } {
   const statusMapping = {
     done: {
       label: 'terminé',

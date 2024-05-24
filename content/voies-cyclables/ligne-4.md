@@ -1,10 +1,8 @@
 ---
 name: Voie Lyonnaise 4
 line: 4
-color: "#DC8953"
 from: Lissieu
 to: Villeurbanne
-distance: 18000
 description: La Voie Lyonnaise 4 promet de pouvoir traverser la métropole lyonnaise du Nord-Ouest des Monts d'Or à Villeurbanne en passant par Limonest, Techlid, Champagne, Vaise et le 6ème arrondissement. Cette ligne prévoit d'aménager des secteurs aujourd'hui très peu pourvus en aménagements cyclables et peu sécurisés. Elle va transformer l'espace public des territoires traversés en faveur des modes actifs.
 trafic: 18k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
@@ -33,6 +31,7 @@ A partir du giratoire de la Maison Carrée, la Voie Lyonnaise devient une piste 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/dardilly-av-porte-de-lyon.png
 caption: Aperçu de la Voie Lyonnaise 4 - Avenue de la Porte de Lyon (Dardilly)
 credit: Noémie Gratien / Métropole de Lyon
+streetView: 45.8214606,4.7641739,3a,75y,100.21h,90t
 ---
 ::
 
@@ -52,6 +51,7 @@ Depuis le [giratoire de la porte de Lyon](https://www.google.com/maps/search/45.
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/champagne-av-lanessan.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - Avenue Lanessan (Champagne-au-Mont-d’Or)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.800433,4.7867128,3a,75y,163.52h,90t
 ---
 ::
 
@@ -74,6 +74,7 @@ Finalement, le choix de la Métropole s'est porté sur la variante République e
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/champagne-bd-republique.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - Boulevard de la République (Champagne)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 ---
 ::
 
@@ -109,6 +110,7 @@ Cette section non conforme avec les exigences de sécurité des Voies Lyonnaises
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/rue-bourgogne.png
 caption: Aperçu de la Voie Lyonnaise 4 - Rue de Bourgogne (Vaise)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.7775538,4.8033621,3a,75y,345.96h,90t
 ---
 ::
 
@@ -119,8 +121,8 @@ Cette rue sera mise en sens unique (vers Ouest) pour y créer une piste cyclable
 Le lien entre la rue de la Corderie et le pont Clémenceau sera assuré en tronc commun avec la :line-link{line=3} sur les quais de Saône, après le franchissement du carrefour des Monts d'Or via la création d'une nouvelle traversée cyclable directe.
 
 #### *Concertation*
-La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".  
-[Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}  
+La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".
+[Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
 
 ### Pont Clémenceau à Boulevard des Belges
 
@@ -145,7 +147,7 @@ Ce tronçon ne sera pas réaménagé sur le mandat dans l'attente du projet de l
 
 Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large serait créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
 
-*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.  
+*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Centre_PontCl%c3%a9menceau_Duquesne.pdf)*
 
 ### Boulevard des Belges à rue Flachet
@@ -157,6 +159,7 @@ Ce tronçon débute sur l'avenue Verguin, juste au sud de parc de la Tête d'Or.
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - avenue de Verguin (Lyon 6)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.7725923,4.8562026,3a,75y,270.71h,90t
 ---
 ::
 
@@ -170,7 +173,7 @@ Ce projet nécessite la suppression du stationnement du côté de la piste cycla
 #### *Concertation*
 Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. <!--Le choix définitif de la Métropole s'est porté sur le côté Sud.-->
 
-*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*  
+*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Est_Verguin_Flachet.pdf)
 
 
@@ -179,6 +182,7 @@ Sur l'ensemble de cette section, la concertation laissait le choix de l'insertio
 imageUrl: https://cyclopolis.lavilleavelo.org/vl4/villeurbanne-francis-pressense.jpg
 caption: Aperçu de la Voie Lyonnaise 4 - rue Francis de Pressensé (Villeurbanne)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.7718908,4.8734156,3a,75y,276.55h,90t
 ---
 ::
 

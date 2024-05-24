@@ -70,7 +70,7 @@
               <div
                 class="relative block w-full bg-white rounded-lg overflow-hidden"
               >
-                <img class="w-full" src="~/assets/voies-lyonnaises.jpeg" alt="illustration voies lyonnaises">
+                <img class="w-full" src="~/assets/hero.jpeg" :alt="`illustration des ${getRevName()}`">
               </div>
             </div>
           </div>
@@ -79,3 +79,8 @@
     </div>
   </div>
 </template>
+
+<script setup lang="ts">
+const { getRevName, getAssoName } = useConfig();
+const assoName = getAssoName();
+</script>

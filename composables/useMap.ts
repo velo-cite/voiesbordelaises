@@ -1,57 +1,7 @@
 import { GeoJSONSource, LngLatBounds, Map } from 'maplibre-gl';
-
-type LineStringFeature = {
-  type: 'Feature';
-  properties: {
-    line: number;
-    name: string;
-    status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
-    doneAt?: string;
-  };
-  geometry: {
-    type: 'LineString';
-    coordinates: [number, number][];
-  };
-};
+import { isCompteurFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature } from '~/types';
 
 type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
-
-type PerspectiveFeature = {
-  type: 'Feature';
-  properties: {
-    type: 'perspective';
-    line: number;
-    name: string;
-  };
-  geometry: {
-    type: 'Point';
-    coordinates: [number, number];
-  };
-};
-
-type CompteurFeature = {
-  type: 'Feature';
-  properties: {
-    type: 'compteur';
-    line: number;
-    name: string;
-    counts?: any[];
-    /**
-     * z-index like
-     */
-    circleSortKey?: number;
-    circleRadius?: number;
-    circleStrokeWidth?: number;
-  };
-  geometry: {
-    type: 'Point';
-    coordinates: [number, number];
-  };
-};
-
-type PointFeature = PerspectiveFeature | CompteurFeature;
-
-type Feature = LineStringFeature | PointFeature;
 
 type Compteur = {
   name: string;
@@ -75,7 +25,7 @@ function sortByLine(featureA: LineStringFeature, featureB: LineStringFeature) {
   return sortOrder.indexOf(lineA) - sortOrder.indexOf(lineB);
 }
 
-function getCrossIconUrl(color: string): string {
+function getCrossIconUrl(): string {
   const canvas = document.createElement('canvas');
   canvas.width = 8; // Set the desired width of your icon
   canvas.height = 8; // Set the desired height of your icon
@@ -88,16 +38,14 @@ function getCrossIconUrl(color: string): string {
   context.beginPath();
   context.moveTo(0, 0);
   context.lineTo(canvas.width, canvas.height);
-  context.lineWidth = 2;
-  context.strokeStyle = color; // Set the strokeStyle to apply the color
+  context.lineWidth = 3;
   context.stroke();
 
   // Draw the second diagonal line of the "X"
   context.beginPath();
   context.moveTo(0, canvas.height);
   context.lineTo(canvas.width, 0);
-  context.lineWidth = 2;
-  context.strokeStyle = color; // Set the strokeStyle to apply the color
+  context.lineWidth = 3;
   context.stroke();
 
   return canvas.toDataURL();
@@ -115,22 +63,6 @@ function groupFeaturesByColor(features: ColoredLineStringFeature[]) {
     }
   }
   return featuresByColor;
-}
-
-function isLineStringFeature(feature: Feature): feature is LineStringFeature {
-  return feature.geometry.type === 'LineString';
-}
-
-function isPointFeature(feature: Feature): feature is PointFeature {
-  return feature.geometry.type === 'Point';
-}
-
-function isPerspectiveFeature(feature: Feature): feature is PerspectiveFeature {
-  return isPointFeature(feature) && feature.properties.type === 'perspective';
-}
-
-function isCompteurFeature(feature: Feature): feature is CompteurFeature {
-  return isPointFeature(feature) && ['compteur-velo', 'compteur-voiture'].includes(feature.properties.type);
 }
 
 export const useMap = () => {
@@ -157,6 +89,15 @@ export const useMap = () => {
       data: { type: 'FeatureCollection', features }
     });
     return false;
+  }
+
+  async function loadImages({ map }: { map: Map }) {
+    const camera = await map.loadImage('/icons/camera.png');
+    map.addImage('camera-icon', camera.data, { sdf: true });
+
+    const crossIconUrl = getCrossIconUrl();
+    const cross = await map.loadImage(crossIconUrl);
+    map.addImage('cross-icon', cross.data, { sdf: true });
   }
 
   function plotUnderlinedSections({ map, features }: { map: Map; features: LineStringFeature[] }) {
@@ -282,8 +223,8 @@ export const useMap = () => {
     let step = 0;
     function animateDashArray(timestamp: number) {
       // Update line-dasharray using the next value in dashArraySequence. The
-      // divisor in the expression `timestamp / 50` controls the animation speed.
-      const newStep = parseInt((timestamp / 45) % dashArraySequence.length);
+      // divisor in the expression `timestamp / 45` controls the animation speed.
+      const newStep = Math.floor((timestamp / 45) % dashArraySequence.length);
 
       if (newStep !== step) {
         map.setPaintProperty('wip-sections', 'line-dasharray', dashArraySequence[step]);
@@ -478,44 +419,39 @@ export const useMap = () => {
         continue;
       }
 
-      const iconUrl = getCrossIconUrl(color);
-      map.loadImage(iconUrl, (error?: Error | null, image?: any) => {
-        if (error) {
-          throw error;
+      map.addLayer({
+        id: `postponed-symbols-${color}`,
+        type: 'symbol',
+        source: `postponed-sections-${color}`,
+        layout: {
+          'symbol-placement': 'line',
+          'symbol-spacing': 1,
+          'icon-image': 'cross-icon',
+          'icon-size': 1.2
+        },
+        paint: {
+          'icon-color': color
         }
-        map.addImage(`cross-${color}`, image);
-
-        map.addLayer({
-          id: `postponed-symbols-${color}`,
-          type: 'symbol',
-          source: `postponed-sections-${color}`,
-          layout: {
-            'symbol-placement': 'line',
-            'symbol-spacing': 1,
-            'icon-image': `cross-${color}`,
-            'icon-size': 1.2
-          }
-        });
-        map.addLayer({
-          id: `postponed-text-${color}`,
-          type: 'symbol',
-          source: `postponed-sections-${color}`,
-          paint: {
-            'text-halo-color': '#fff',
-            'text-halo-width': 3
-          },
-          layout: {
-            'symbol-placement': 'line',
-            'symbol-spacing': 150,
-            'text-font': ['Open Sans Regular'],
-            'text-field': 'reporté',
-            'text-size': 14
-          }
-        });
-
-        map.on('mouseenter', `postponed-symbols-${color}`, () => (map.getCanvas().style.cursor = 'pointer'));
-        map.on('mouseleave', `postponed-symbols-${color}`, () => (map.getCanvas().style.cursor = ''));
       });
+      map.addLayer({
+        id: `postponed-text-${color}`,
+        type: 'symbol',
+        source: `postponed-sections-${color}`,
+        paint: {
+          'text-halo-color': '#fff',
+          'text-halo-width': 3
+        },
+        layout: {
+          'symbol-placement': 'line',
+          'symbol-spacing': 150,
+          'text-font': ['Open Sans Regular'],
+          'text-field': 'reporté',
+          'text-size': 14
+        }
+      });
+
+      map.on('mouseenter', `postponed-symbols-${color}`, () => (map.getCanvas().style.cursor = 'pointer'));
+      map.on('mouseleave', `postponed-symbols-${color}`, () => (map.getCanvas().style.cursor = ''));
     }
   }
 
@@ -535,33 +471,27 @@ export const useMap = () => {
       return;
     }
 
-    map.loadImage('/icons/camera.png', (error?: Error | null, image?: any) => {
-      if (error) {
-        throw error;
+    map.addLayer({
+      id: 'perspectives',
+      source: 'perspectives',
+      type: 'symbol',
+      layout: {
+        'icon-image': 'camera-icon',
+        'icon-size': 0.5,
+        'icon-offset': [-25, -25]
+      },
+      paint: {
+        'icon-color': ['get', 'color']
       }
-      map.addImage('camera-icon', image, { sdf: true });
-      map.addLayer({
-        id: 'perspectives',
-        source: 'perspectives',
-        type: 'symbol',
-        layout: {
-          'icon-image': 'camera-icon',
-          'icon-size': 0.5,
-          'icon-offset': [-25, -25]
-        },
-        paint: {
-          'icon-color': ['get', 'color']
-        }
-      });
-      map.setLayoutProperty('perspectives', 'visibility', 'none');
-      map.on('zoom', () => {
-        const zoomLevel = map.getZoom();
-        if (zoomLevel > 14) {
-          map.setLayoutProperty('perspectives', 'visibility', 'visible');
-        } else {
-          map.setLayoutProperty('perspectives', 'visibility', 'none');
-        }
-      });
+    });
+    map.setLayoutProperty('perspectives', 'visibility', 'none');
+    map.on('zoom', () => {
+      const zoomLevel = map.getZoom();
+      if (zoomLevel > 14) {
+        map.setLayoutProperty('perspectives', 'visibility', 'visible');
+      } else {
+        map.setLayoutProperty('perspectives', 'visibility', 'none');
+      }
     });
   }
 
@@ -571,7 +501,7 @@ export const useMap = () => {
       return;
     }
     compteurs
-      .sort((c1, c2) => c2.properties.counts?.at(-1).count - c1.properties.counts?.at(-1).count)
+      .sort((c1, c2) => (c2.properties.counts.at(-1)?.count ?? 0) - (c1.properties.counts.at(-1)?.count ?? 0))
       .map((c, i) => {
         // top counters are bigger and drawn above others
         const top = 10;
@@ -672,6 +602,7 @@ export const useMap = () => {
   }
 
   return {
+    loadImages,
     plotFeatures,
     getCompteursFeatures,
     fitBounds

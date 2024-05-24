@@ -4,13 +4,13 @@
       <div class="flex-shrink-0">
         <div
           class="h-10 w-10 rounded-full flex items-center justify-center text-white font-bold"
-          :style="`background-color: ${voie.color}`"
+          :style="`background-color: ${getLineColor(voie.line)}`"
         >
           {{ voie.line }}
         </div>
       </div>
       <div class="flex-1 min-w-0">
-        <NuxtLink :to="getVoieLyonnaisePath(voie.line)" class="focus:outline-none">
+        <NuxtLink :to="getVoieCyclablePath(voie.line)" class="focus:outline-none">
           <span class="absolute inset-0" aria-hidden="true" />
           <p class="text-sm font-medium text-gray-900">
             Ligne {{ voie.line }}
@@ -25,11 +25,11 @@
 </template>
 
 <script setup>
+const { getLineColor } = useColors();
+const { getVoieCyclablePath } = useUrl();
+
 const { data: voies } = await useAsyncData(() => {
   return queryContent('reve').where({ _type: 'markdown' }).find()
 })
 
-function getVoieLyonnaisePath (line) {
-  return `/reve-${line}`
-}
 </script>

@@ -1,10 +1,8 @@
 ---
 name: Voie Lyonnaise 3
 line: 3
-color: "#3B7B64"
 from: Quincieux
 to: Givors
-distance: 57000
 description: La Voie Lyonnaise 3 longera la Saône depuis Quincieux au Nord. A hauteur de Neuville-sur-Saône, elle rejoindra une autre branche depuis Genay. Elle continue ensuite en rive droite de Saône le long des Monts d'Or puis de l'Île Barbe, dessert le quartier de Vaise puis le Vieux Lyon avant de continuer vers les quais de La Mulatière en face du quartier de Confluence. Elle chemine ensuite dans le quartier de la Saulaie à Oullins, puis dans le centre-ville de Pierre-Bénite. Enfin, elle rejoint les berges du Rhône en rive droite à travers les communes de Vernaison, Grigny et Givors en tronçon commun avec la ViaRhôna. Une fois terminée, il s'agira de la plus longue des voies lyonnaises (57km).
 trafic: 11k vélos/jour
 cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
@@ -26,6 +24,7 @@ La Voie Lyonnaise 3 débute donc réellement au niveau du giratoire de la route 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/rte-de-villefranche.png
 caption: Aperçu de la Voie Lyonnaise 3 entre St-Germain-au-Mont-d'Or et Neuville
 credit: Métropole de Lyon
+streetView: 45.885026,4.8102775,3a,75y,162.21h,90t
 ---
 ::
 
@@ -47,6 +46,7 @@ La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/couzon-au-mont-d-or.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Couzon-au-Mont-d'Or
 credit: Métropole de Lyon
+streetView: 45.8499282,4.8325735,3a,75y,22.52h,90t
 ---
 ::
 
@@ -82,6 +82,7 @@ Une piste cyclable bidirectionnelle de 2.50 à 4.00m de large existe déjà sur 
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-du-commerce.png
 caption: Photo de la Voie Lyonnaise 3 - Quai du Commerce (Lyon 9)
+streetView: 45.7849251,4.8127776,3a,75y,201.14h,90t
 ---
 ::
 
@@ -110,6 +111,7 @@ Entre le pont Bonaparte et le pont Kitchener, l'aménagement récent du quai Ful
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Fulchiron (Lyon 5)
 credit: Métropole de Lyon
+streetView: 45.7579128,4.8260787,3a,75y,191.02h,90t
 ---
 ::
 
@@ -125,7 +127,7 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 
 L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle de 3m de large le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire.
 
-*La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*  
+*La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_QuaiJJRousseau.pdf)
 
 ::banner{type="postponed"}
@@ -137,12 +139,13 @@ La Métropole de Lyon a annoncé le 20/09/2023 que ce tronçon serait reporté �
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/quai-jean-jacques-rousseau.png
 caption: Aperçu de la Voie Lyonnaise 3 - Quai Jean-Jacques Rousseau (La Mulatière)
 credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.7372908,4.8119765,3a,75y,349.91h,90t
 ---
 ::
 
 ### Pont de la Mulatière au Barrage de Pierre-Bénite
 
-*via Oullins-La Saulaie et Pierre-Bénite Centre*  
+*via Oullins-La Saulaie et Pierre-Bénite Centre*
 *Tronçon commun avec la véloroute touristique ViaRhôna*
 
 #### Quai Pierre Sémard
@@ -173,22 +176,24 @@ La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
 
 Ce long tronçon de 18km doit cheminer sur les berges du Rhône en voie verte le long de la rive droite et constitue l'un des derniers tronçons manquants de l'itinéraire de la ViaRhôna qui chemine le long du Rhône entre le lac Léman et la cote méditerranéenne.
 
+Quelques rares tronçons ont été aménagés au début des années 2010, notamment le promenade Maurice Thorez à Givors et le rue des Faïenciers à Grigny.
+
 ::banner{type="postponed"}
 Initialement porté par la Région Auvergne-Rhône-Alpes, le projet avait fait l'objet d'une large concertation en juin 2019 dont le bilan a été dressé en décembre 2019. Après une pause de 18 mois liée à la crise sanitaire, le projet a pu reprendre en octobre 2021 avec l'enquête préalable à la déclaration d’utilité publique. En décembre 2021, les conclusions de cette dernière émettent un avis défavorable au projet à cause d'impacts peu approfondis sur les zones à risque industriels et sur les espaces naturels protégés traversés par le projet. Dans la foulée, en janvier 2022, la Métropole de Lyon émet un avis défavorable sur le tracé du projet et refuse de faire évoluer le Plan Local d'Urbanisme nécessaire à sa réalisation. En juillet 2022, la Région Auvergne-Rhône-Alpes annonce finalement renoncer à son projet, obligeant de fait la Métropole de Lyon à relancer et financer son propre projet à un horizon incertain.
 ::
 
 #### Pour en savoir plus
-La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.  
-[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_201906.pdf)  
+La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_201906.pdf)
 [Voir le bilan de la concertation publique.](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_Bilan201912.pdf)
 
-L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s'est tenue du 27/09 au 27/10/2021.  
-[Voir le rapport de la commission de l'enquête publique](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_EnquetePublique202111.pdf)  
-[Voir la réponse de la Région au rapport de la commission d'enquête](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_ReponseRegionEnquetePublique202112.pdf)  
+L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s'est tenue du 27/09 au 27/10/2021.
+[Voir le rapport de la commission de l'enquête publique](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_EnquetePublique202111.pdf)
+[Voir la réponse de la Région au rapport de la commission d'enquête](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_ReponseRegionEnquetePublique202112.pdf)
 [Voir la délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrnofZUeuR6NXc4mHg89XdeHsg4lPRLipPME9MNyZ2%2BsxOnlPZg%2FlCIU)
 
 ### Givors Sud
-A la demande de la mairie de Givors, la Métropole réalise un aménagement cyclable sur les quais au Sud de la ville pour faciliter la liaison entre le centre-ville et le collège Paul Vallon. Dans ce cadre, une piste cyclable bidirectionnelle de 3.5m de large est en train d'être aménagée entre le pont de Chasse et le chemin du Freyssinet. Elle est située côté Nord du quai Rosenberg qui devient avenue Anatole France plus au Sud. 
+A la demande de la mairie de Givors, la Métropole réalise un aménagement cyclable sur les quais au Sud de la ville pour faciliter la liaison entre le centre-ville et le collège Paul Vallon. Dans ce cadre, une piste cyclable bidirectionnelle de 3.5m de large est en train d'être aménagée entre le pont de Chasse et le chemin du Freyssinet. Elle est située côté Nord du quai Rosenberg qui devient avenue Anatole France plus au Sud.
 
 ::banner{type="info"}
 Ce projet permet d'accueillir un tronçon isolé de la Voie Lyonnaise 3. Il n'est relié à absolument aucun aménagement cyclable à ses extrémités, ce qui y mettra en difficulté les cyclistes circulant du Nord vers le Sud. La Ville à Vélo espère vivement la reprise des études puis des travaux de la ViaRhôna entre Givors et Irigny dans les meilleurs délais pour créer une continuité cyclable et sécurisée tant attendue par les habitants et cyclotouristes du secteur.

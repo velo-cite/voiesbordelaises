@@ -47,3 +47,7 @@
     </div>
   </div>
 </template>
+
+<script setup lang="ts">
+const { getRevName } = useConfig();
+</script>

@@ -1,29 +1,12 @@
-type Feature = {
-  type: string;
-  properties: {
-    id?: string;
-    line: number;
-    name: string;
-    status: 'done' | 'wip' | 'planned' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed';
-    doneAt?: string;
-  };
-  geometry: {
-    type: string;
-    coordinates: number[][];
-  };
-};
-
-type Geojson = {
-  type: string;
-  features: Feature[];
-};
+import { groupBy } from '../helpers/helpers';
+import { isLineStringFeature, type Feature, type Geojson, type LaneType, type LineStringFeature } from '../types';
 
 export const useStats = () => {
   function getAllUniqLineStrings(voies: Geojson[]) {
     return voies
       .map(voie => voie.features)
       .flat()
-      .filter(feature => feature.geometry.type === 'LineString')
+      .filter(isLineStringFeature)
       .filter((feature, index, sections) => {
         if (feature.properties.id === undefined) {
           return true;
@@ -84,7 +67,7 @@ export const useStats = () => {
     return Math.round(radius * c);
   }
 
-  function displayDistanceInKm(distance: number, precision: number) {
+  function displayDistanceInKm(distance: number, precision = 0) {
     if (distance === 0) {
       return '0 km';
     }
@@ -154,5 +137,49 @@ export const useStats = () => {
     };
   }
 
-  return { getAllUniqLineStrings, getDistance, getTotalDistance, getStats, displayDistanceInKm, displayPercent };
+  const typologyNames: Record<LaneType, string> = {
+    bidirectionnelle: 'Piste bidirectionnelle',
+    bilaterale: 'Piste bilatérale',
+    'voie-bus': 'Voie bus',
+    'voie-bus-elargie': 'Voie bus élargie',
+    velorue: 'Vélorue',
+    'voie-verte': 'Voie verte',
+    'bandes-cyclables': 'Bandes cyclables',
+    'zone-de-rencontre': 'Zone de rencontre',
+    aucun: 'Aucun',
+    inconnu: 'Inconnu'
+  };
+
+  function getStatsByTypology(voies: Geojson[]) {
+    const lineStringFeatures = getAllUniqLineStrings(voies);
+    const totalDistance = getDistance({ features: lineStringFeatures });
+
+    function getPercent(distance: number) {
+      return Math.round((distance / totalDistance) * 100);
+    }
+
+    const featuresByType = groupBy<LineStringFeature, LaneType>(lineStringFeatures, feature => feature.properties.type);
+    return Object.entries(featuresByType)
+      .map(([type, features]) => {
+        const distance = getDistance({ features });
+        const percent = getPercent(distance);
+        return {
+          name: typologyNames[type as LaneType],
+          percent
+        };
+      })
+      .filter(stat => stat.percent > 0) // on ne veut pas afficher les types à 0% (arrondis)
+      .sort((a, b) => b.percent - a.percent); // plus grandes barres en haut, plus propre
+  }
+
+  return {
+    getAllUniqLineStrings,
+    getDistance,
+    getTotalDistance,
+    getStats,
+    getStatsByTypology,
+    displayDistanceInKm,
+    displayPercent,
+    typologyNames
+  };
 };

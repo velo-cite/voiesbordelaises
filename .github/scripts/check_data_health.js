@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const config = require('../../config.json');
 
 (function checkDataHealth() {
   const links = getAllLinks();
@@ -52,7 +53,7 @@ function getAllLinks() {
           .toLowerCase()
           .replace(/\s+-\s+/g, '-')
           .replace(/\s+/g, '-');
-        links.push(`/reve-${voieLyonnaiseNumber}#${link}`);
+        links.push(`/${config.slug}-${voieLyonnaiseNumber}#${link}`);
       }
     }
   });
@@ -126,16 +127,18 @@ function checkGeoJsonDataHealth({ links }) {
               }
 
               // 5 - check if link actually exists
-              if (properties.link) {
-                if (!links.includes(properties.link)) {
-                  console.error(`Invalid link '${properties.link}' in LineString properties of file: ${filePath}`);
-                  process.exit(1);
-                }
+              if (!properties.link) {
+                console.error(`Missing link in LineString properties of file: ${filePath}`);
+                process.exit(1);
+              }
+              if (!links.includes(properties.link)) {
+                console.error(`Invalid link '${properties.link}' in LineString properties of file: ${filePath}`);
+                process.exit(1);
               }
             } else if (feature.geometry.type === 'Point') {
               // perspective images added to the map at high zoom level
               const properties = feature.properties || {};
-              const requiredKeys = ['type', 'line', 'imgUrl'];
+              const requiredKeys = ['type', 'line', 'name', 'imgUrl'];
               for (const key of requiredKeys) {
                 if (!properties.hasOwnProperty(key)) {
                   console.error(`Missing key '${key}' in Point properties of file: ${filePath}`);

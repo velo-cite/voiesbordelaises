@@ -22,3 +22,7 @@
     </div>
   </div>
 </template>
+
+<script setup lang="ts">
+const { getAssoName } = useConfig();
+</script>

@@ -5,6 +5,8 @@
 </template>
 
 <script setup>
+const { getRevName } = useConfig();
+
 // https://github.com/nuxt/framework/issues/3587
 definePageMeta({
   pageTransition: false,
@@ -20,7 +22,7 @@ const features = voies.value.map(voie => voie.features).flat();
 const description = 'Découvrez le plan officiel du ReVE Bordelais, le futur réseau vélo bordelais de 275km.';
 const COVER_IMAGE_URL = 'https://velo-cite.org/wp-content/uploads/2023/10/cropped-VELO-CITE-2023_couleur-horizontal-1.png';
 useHead({
-  title: 'Carte à jour des Voies Lyonnaises',
+  title: `Carte à jour des ${getRevName()}`,
   meta: [
     // description
     { hid: 'description', name: 'description', content: description },
