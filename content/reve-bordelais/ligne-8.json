@@ -8,7 +8,7 @@
         "name": "Saint-Fons - Sud",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/reve-8"
+        "link": "/reve-8#concertation"
       },
       "geometry": {
         "type": "LineString",
