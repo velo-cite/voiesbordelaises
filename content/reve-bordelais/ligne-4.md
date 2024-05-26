@@ -54,11 +54,14 @@ Les travaux sont en cours. Ouverture du pont courant 2024.
 
 ### Bègles
 
+#### Tronçon 3
+En attente d'informations.
+
 #### Tronçon 4
 longueur 200 mètres environ, il débute au giratoire des rues des quatre Castera et Michel Slitinsky jusqu’au giratoire « Louis Delgrès ».<br>
 => il est envisagé la reprise et amélioration de la piste bidirectionnelle existante.
 
-Particularité de ce tronçon : Mairie de Begles à 500 mètres.
+Particularité de ce tronçon : Mairie de Bègles à 500 mètres.
 
 #### Tronçon 5
 longueur : 1 kilomètre environ, débute au giratoire « Louis Delgrès » se termine au giratoire du clos de Hilde.<br>
