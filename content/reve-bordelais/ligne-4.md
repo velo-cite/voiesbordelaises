@@ -53,10 +53,63 @@ Les travaux sont en cours. Ouverture du pont courant 2024.
 ::
 
 ### Bègles
-Les études sont en cours.
+
+#### Tronçon 4
+longueur 200 mètres environ, il débute au giratoire des rues des quatre Castera et Michel Slitinsky jusqu’au giratoire « Louis Delgrès ».<br>
+=> il est envisagé la reprise et amélioration de la piste bidirectionnelle existante.
+
+Particularité de ce tronçon : Mairie de Begles à 500 mètres.
+
+#### Tronçon 5
+longueur : 1 kilomètre environ, débute au giratoire « Louis Delgrès » se termine au giratoire du clos de Hilde.<br>
+=>  il est envisagé la reprise et amélioration de la piste bidirectionnelle existante.
+
+Particularité du tronçon :
+- Lac de Bègles et sa plage, aire de Pic-Nick, plaine des sports. Traversé de la rocade.
+- Ce tronçon sera un tronçon commun avec la :line-link{line=14 anchor="concertation"}. qui traversera la Garonne avec une piste cyclable en encorbellement à créer sur le pont François Mitterrand.
+
+#### Tronçon 6
+Longueur de 350 mètres environ sur la rue louis Blériot, du giratoire du clos de Hilde au virage qui permet de passer à l’arrière du centre commercial Carrefour.<br>
+=>  il est envisagé la reprise et l’amélioration de la piste bidirectionnelle existante.
+
+Particularité du tronçon : les centres de traitement des déchets et traitement des eaux usées du Clos de Hilde.
+
+#### Tronçon 6 BIS
+Longueur de 800 mètres environs débutant au virage de la rue louis Blériot et contournant le centre commercial jusqu’à l’entrée de la zone commerciale de Villenave d’Ornon (enseigne Boulanger).
+=> il est envisagé une piste cyclable bidirectionnelle à créer à l’arrière du centre commercial «&nbsp;Rives d’Arcin », puis une voie verte de 4 à 6 mètres de Large.
+Livraison prévue au printemps 2025, mais les études en cours sont en retard d’au moins 1 an sur le planning initial.
+
+Particularité de ce tronçon : centre et galerie commerciale « Rives d’Arcin » avec restaurant, chemin paysagé en bord de Garonne, aire de jeux enfants, port de plaisance.
 
 ### Villenave d'Ornon
-Les études sont en cours.
+
+#### Tronçon 7
+Longueur de 900 mètres sur les rues lino Ventura et du 7em Art.
+Ce tronçon commence au sud du centre commercial Carrefour et se termine au giratoire au sud du commerce LIDL.
+Livraison prévue en décembre 2025.
+Ce sera une nouvelle piste cyclable bidirectionnelle de 3 mètres de large sur la rue lino Ventura
+et sur l’avenue du 7em art les 2 voies de la piste bidirectionnelle seront séparées par un massif planté de 1,5 à 2 mètres.
+
+Particularité de ce tronçon qui est la continuité du centre commercial carrefour de Bègles : Une zone commerciale avec cinéma, restaurants, grandes enseignes (boulanger, Ikea ..).
+
+Point de vigilance : la piste cyclable croisera 11 sorties de voitures sur ce tronçon, potentiellement zones de conflits.
+
+#### Tronçon 8
+Longueur de 800 mètres environ sur la rue Mirieux de Labarre, Ce tronçon commence au giratoire au sud de Lidl et va jusqu’au giratoire de l’entrée du golf.
+La livraison est prévue à l’été 2025.
+La piste cyclable bidirectionnelle qui existe sera reprise par endroit et améliorée, elle aura une largueur variable de 2,5 mètres à 3 mètres.
+
+À noter :
+
+- Au milieu de ce tronçon sera créé un nouveau giratoire oblong qui sera l’entrée principale de la nouvelle zone d’activité de Geneste (qui est en cours de construction).
+Particularité de ce tronçon : à partir du giratoire de l’entrée du Golf on peut bifurquer vers le bourg ou le centre de Villenave ( quartier pont de la Maye et mairie).
+
+#### Tronçon 9 (Fin du ReVE n°4)
+Longueur de ce tronçon d'environ 1,2km, il se situe sur l’avenue Mirieu de Labarre, commence au giratoire en entrée du golf et se termine au niveau de
+la place de Courréjean (extrémité sud de cette ligne Numéro 4 du ReVE).
+La livraison est prévue fin décembre 2024.
+La voie verte actuelle de 3 mètres de large sera conservée avec son statut (restera en voie verte partagée entre piétons et cyclistes), seront reprise les traversées avec séparation vélos/piétons et en particulier reprise complète des 2 giratoires, une glissière bois /métal sera posé entre la chaussée et la voie verte.
+Une station atelier ALTEO fix’air sera installée sur la place de Courréjean.
 
 ## Fil d'actu
 
