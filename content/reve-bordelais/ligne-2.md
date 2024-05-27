@@ -15,6 +15,9 @@ cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 ### Parc de Bourgailh
 Voie verte ouverte le ? 
 
+### Passerelle au-dessus de l'A63
+Cette passerelle est en cours de construction.
+
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 03/10 au 04/11/2022.
