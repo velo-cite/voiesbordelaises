@@ -146,23 +146,33 @@ export const useStats = () => {
     'voie-verte': 'Voie verte',
     'bandes-cyclables': 'Bandes cyclables',
     'zone-de-rencontre': 'Zone de rencontre',
-    aucun: 'Aucun',
+    aucun: 'Aucun aménagement cyclable',
     inconnu: 'Inconnu'
   };
 
   function getStatsByTypology(voies: Geojson[]) {
     const lineStringFeatures = getAllUniqLineStrings(voies);
-    const totalDistance = getDistance({ features: lineStringFeatures });
+    const doneFeatures = lineStringFeatures.filter(feature => feature.properties.status === 'done');
+    const futureFeatures = lineStringFeatures.filter(feature =>
+      ['wip', 'planned', 'unknown', 'variante'].includes(feature.properties.status)
+    );
 
-    function getPercent(distance: number) {
+    const doneDistance = getDistance({ features: doneFeatures });
+    const futureDistance = getDistance({ features: futureFeatures });
+
+    function getPercent(distance: number, totalDistance: number) {
       return Math.round((distance / totalDistance) * 100);
     }
 
-    const featuresByType = groupBy<LineStringFeature, LaneType>(lineStringFeatures, feature => feature.properties.type);
-    return Object.entries(featuresByType)
+    const doneFeaturesByType = groupBy<LineStringFeature, LaneType>(doneFeatures, feature => feature.properties.type);
+    const futureFeaturesByType = groupBy<LineStringFeature, LaneType>(
+      futureFeatures,
+      feature => feature.properties.type
+    );
+    const doneReturn = Object.entries(doneFeaturesByType)
       .map(([type, features]) => {
         const distance = getDistance({ features });
-        const percent = getPercent(distance);
+        const percent = getPercent(distance, doneDistance);
         return {
           name: typologyNames[type as LaneType],
           percent
@@ -170,6 +180,20 @@ export const useStats = () => {
       })
       .filter(stat => stat.percent > 0) // on ne veut pas afficher les types à 0% (arrondis)
       .sort((a, b) => b.percent - a.percent); // plus grandes barres en haut, plus propre
+
+    const futureReturn = Object.entries(futureFeaturesByType)
+      .map(([type, features]) => {
+        const distance = getDistance({ features });
+        const percent = getPercent(distance, futureDistance);
+        return {
+          name: typologyNames[type as LaneType],
+          percent
+        };
+      })
+      .filter(stat => stat.percent > 0) // on ne veut pas afficher les types à 0% (arrondis)
+      .sort((a, b) => b.percent - a.percent); // plus grandes barres en haut, plus propre,
+
+    return [doneReturn, futureReturn];
   }
 
   return {
