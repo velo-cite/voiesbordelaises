@@ -34,6 +34,11 @@ export const useStats = () => {
       throw new Error('[getLineStringDistance] Feature must be a LineString');
     }
 
+    let factor = 1;
+    if (feature.properties.oneway === true) {
+      factor = 0.5;
+    }
+
     let distance = 0;
     const coordinates = feature.geometry.coordinates;
 
@@ -42,7 +47,7 @@ export const useStats = () => {
       const [lon2, lat2] = coordinates[i + 1];
       distance += haversine(lat1, lon1, lat2, lon2);
     }
-
+    distance *= factor;
     return distance;
   }
 
