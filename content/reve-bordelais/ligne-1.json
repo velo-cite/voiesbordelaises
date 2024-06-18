@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "line": 1, "status": "done", "type": "voie-bus", "id": "81876d90-1c37-11ef-bbfa-b1f9ac5ed735" },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -18,6 +17,13 @@
           [-0.591894, 44.84512],
           [-0.593036, 44.845362]
         ]
+      },
+      "properties": {
+        "line": 1,
+        "status": "done",
+        "type": "voie-bus",
+        "id": "81876d90-1c37-11ef-bbfa-b1f9ac5ed735",
+        "name": "81876d90-1c37-11ef-bbfa-b1f9ac5ed735"
       }
     },
     {
@@ -33,10 +39,11 @@
       "properties": {
         "id": "f1725b70-1c36-11ef-bbfa-b1f9ac5ed735",
         "line": 1,
-        "name": "",
+        "name": "f1725b70-1c36-11ef-bbfa-b1f9ac5ed735",
         "status": "done",
         "type": "aucun",
-        "link": ""
+        "link": "",
+        "oneway": true
       }
     },
     {
@@ -52,10 +59,11 @@
       "properties": {
         "id": "dedc0e70-1c36-11ef-bbfa-b1f9ac5ed735",
         "line": 1,
-        "name": "",
+        "name": "dedc0e70-1c36-11ef-bbfa-b1f9ac5ed735",
         "status": "done",
         "type": "aucun",
-        "link": ""
+        "link": "",
+        "oneway": true
       }
     },
     {
@@ -74,10 +82,11 @@
       "properties": {
         "id": "51d235f0-1c35-11ef-bbfa-b1f9ac5ed735",
         "line": 1,
-        "name": "",
+        "name": "51d235f0-1c35-11ef-bbfa-b1f9ac5ed735",
         "status": "done",
         "type": "voie-bus",
-        "link": ""
+        "link": "",
+        "oneway": true
       }
     },
     {
@@ -92,10 +101,11 @@
       "properties": {
         "id": "09b00630-1c35-11ef-bbfa-b1f9ac5ed735",
         "line": 1,
-        "name": "",
+        "name": "09b00630-1c35-11ef-bbfa-b1f9ac5ed735",
         "status": "done",
         "type": "aucun",
-        "link": ""
+        "link": "",
+        "oneway": true
       }
     },
     {
@@ -114,10 +124,11 @@
       "properties": {
         "id": "788194d0-1c34-11ef-bbfa-b1f9ac5ed735",
         "line": 1,
-        "name": "",
+        "name": "788194d0-1c34-11ef-bbfa-b1f9ac5ed735",
         "status": "done",
         "type": "aucun",
-        "link": ""
+        "link": "",
+        "oneway": true
       }
     },
     {
@@ -132,15 +143,15 @@
       "properties": {
         "id": "82897110-1c33-11ef-bbfa-b1f9ac5ed735",
         "line": 1,
-        "name": "",
+        "name": "82897110-1c33-11ef-bbfa-b1f9ac5ed735",
         "status": "done",
         "type": "aucun",
-        "link": ""
+        "link": "",
+        "oneway": true
       }
     },
     {
       "type": "Feature",
-      "properties": { "line": 1, "status": "done", "type": "aucun", "id": "382fa400-1c37-11ef-bbfa-b1f9ac5ed735" },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -154,6 +165,168 @@
           [-0.590445, 44.844631],
           [-0.591846, 44.845163],
           [-0.59302, 44.845427]
+        ]
+      },
+      "properties": {
+        "line": 1,
+        "status": "done",
+        "type": "aucun",
+        "id": "382fa400-1c37-11ef-bbfa-b1f9ac5ed735",
+        "name": "382fa400-1c37-11ef-bbfa-b1f9ac5ed735",
+        "oneway": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.614058, 44.855343],
+          [-0.615645, 44.855683],
+          [-0.618069, 44.856478],
+          [-0.621386, 44.857597],
+          [-0.62331, 44.858272],
+          [-0.625689, 44.858644],
+          [-0.628479, 44.85892],
+          [-0.629714, 44.859147],
+          [-0.634127, 44.860106],
+          [-0.636803, 44.860544],
+          [-0.642224, 44.861225],
+          [-0.642544, 44.861273]
+        ]
+      },
+      "properties": {
+        "line": 1,
+        "status": "done",
+        "type": "bandes-cyclables",
+        "id": "fd200860-2d60-11ef-a8d5-65483c82b73d",
+        "name": "fd200860-2d60-11ef-a8d5-65483c82b73d",
+        "oneway": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.606347, 44.850712],
+          [-0.607612, 44.851823],
+          [-0.608696, 44.852734],
+          [-0.610283, 44.853517],
+          [-0.612271, 44.854499],
+          [-0.613858, 44.855311],
+          [-0.614078, 44.855339],
+          [-0.614058, 44.855339]
+        ]
+      },
+      "properties": {
+        "line": 1,
+        "status": "done",
+        "type": "bandes-cyclables",
+        "id": "82bc5400-2d62-11ef-a8d5-65483c82b73d",
+        "name": "82bc5400-2d62-11ef-a8d5-65483c82b73d",
+        "oneway": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.606428, 44.850654],
+          [-0.607752, 44.851766],
+          [-0.608797, 44.852663],
+          [-0.610564, 44.853531],
+          [-0.613858, 44.855183]
+        ]
+      },
+      "properties": {
+        "line": 1,
+        "status": "done",
+        "type": "voie-bus",
+        "id": "976aab90-2d62-11ef-a8d5-65483c82b73d",
+        "name": "976aab90-2d62-11ef-a8d5-65483c82b73d",
+        "oneway": true
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "status": "done",
+        "type": "voie-bus",
+        "oneway": true,
+        "id": "e84c8ab0-2d62-11ef-a58a-bf485ec6bef0",
+        "name": "e84c8ab0-2d62-11ef-a58a-bf485ec6bef0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.593074, 44.845453],
+          [-0.59351, 44.845611],
+          [-0.593733, 44.845886],
+          [-0.594489, 44.846965],
+          [-0.594712, 44.847171],
+          [-0.596535, 44.847872],
+          [-0.598091, 44.848488],
+          [-0.60005, 44.849258],
+          [-0.600274, 44.849361],
+          [-0.601147, 44.849539],
+          [-0.603367, 44.849883],
+          [-0.604976, 44.850179],
+          [-0.605781, 44.850426],
+          [-0.606343, 44.850715]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "status": "done",
+        "type": "bandes-cyclables",
+        "id": "242a7830-2d63-11ef-a58a-bf485ec6bef0",
+        "name": "242a7830-2d63-11ef-a58a-bf485ec6bef0",
+        "oneway": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.606399, 44.850647],
+          [-0.606224, 44.850516],
+          [-0.605662, 44.850296],
+          [-0.604828, 44.850042],
+          [-0.604683, 44.849987]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 1,
+        "status": "done",
+        "type": "voie-bus",
+        "id": "474a2b30-2d63-11ef-a58a-bf485ec6bef0",
+        "name": "474a2b30-2d63-11ef-a58a-bf485ec6bef0",
+        "oneway": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-0.604677, 44.849966],
+          [-0.603671, 44.84907],
+          [-0.602665, 44.848174],
+          [-0.602443, 44.847959],
+          [-0.602326, 44.847851],
+          [-0.601226, 44.847486],
+          [-0.599709, 44.847001],
+          [-0.598931, 44.846785],
+          [-0.598076, 44.846607],
+          [-0.596391, 44.846257],
+          [-0.594894, 44.845613],
+          [-0.594567, 44.845522],
+          [-0.593812, 44.845464],
+          [-0.593071, 44.845373]
         ]
       }
     }
