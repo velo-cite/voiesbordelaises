@@ -12,10 +12,13 @@ cover: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
 
 ### Rue Judaïque et avenue de la république
 La rue Judaïque étant trop étroite pour faire passer le ReVE dans les 2 sens, la métropole a décidé de séparer les sens entrant et sortant.
-Le sens entrant sera décalé sur la rue Judaïque. Les études sont en cours.
+Le sens entrant sera décalé sur la rue George Bonnac. 
+La concertation est en cours.
+[Lien de la concertation](https://participation.bordeaux-metropole.fr/processes/projet-6859?locale=fr)
 
 ### Rue George Bonnac et avenue d'Arès
-Études en cours.
+Concertation en cours pour les rues Georges Bonnac, Judaïque et les avenues de la République et d'Arès
+[Lien de la concertation](https://participation.bordeaux-metropole.fr/processes/projet-6859?locale=fr)
 
 ### Place Mondésir
 
@@ -59,3 +62,4 @@ Concertation en cours pour les avenues du colonel Bourgoin et du 18 juin 1940 su
 - 29 avril 2023 : Inauguration de la section du ReVE au niveau de l'aéroport.
 - 12 mars 2024 : Ouverture de la concertation pour la place Mondésir
 - 20 mars 2024 : Ouverture de la concertation pour les avenues du colonel Bourgoin et du 18 juin 1940 sur les communes de Martignas-sur-Jalle et Mérignac
+- 20 mars 2024 : Ouverture de la concertation pour les rues George Bonnac, Judaïque et les avenues de la République et d'Arès
