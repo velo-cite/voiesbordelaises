@@ -13,7 +13,10 @@ cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ### Bassens
 #### Quai Français
 Les études sont en cours pour une partie de la ville.
-Une concertation a eu lieu pour le [quai Français](https://participation.bordeaux-metropole.fr/participation/realisation-dun-amenagement-en-faveur-des-transports-et-des-modes-actifs-commune-de)
+Une concertation a eu lieu pour le [quai Français](https://participation.bordeaux-metropole.fr/participation/realisation-dun-amenagement-en-faveur-des-transports-et-des-modes-actifs-commune-de).
+::banner{type="wip"}
+Les travaux ont été démarrés le 16 octobre 2024.
+::
 
 ### Lormont
 Les études sont en cours.
@@ -36,9 +39,6 @@ Les travaux sont en cours.
 #### Quai des Queyries
 La contre-allée, historiquement une zone de stationnement, a été libérée du stationnement automobile au profil des cyclistes.
 Les piéton·nes en ont profité pour récupérer un usage exclusif de la voie verte des quais.
-::banner{type="wip"}
-Les travaux sont en cours.
-::
 
 #### Place Stalingrad
 Une concertation a eu lieu pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/participation/reamenagement-de-la-place-stalingrad-bordeaux).
@@ -47,10 +47,7 @@ Une concertation a eu lieu pour la [place Stalingrad](https://participation.bord
 Dans le cadre de l'OIM Euratlantique, le quai Deschamps a été traité afin d'intégrer une piste bidirectionnelle du ReVE.
 
 #### Le pont Simone Veil
-Le pont Simone Veil est en cours de construction. Il intégrera une piste bidirectionnelle sur sa partie nord.
-::banner{type="wip"}
-Les travaux sont en cours. Ouverture du pont courant 2024.
-::
+Le pont Simone Veil est livré. Il intégre une piste bidirectionnelle sur sa partie nord.
 
 ### Bègles
 
@@ -120,4 +117,5 @@ Une station atelier ALTEO fix’air sera installée sur la place de Courréjean.
 - 20 février 2023 : Ouverture de la concertation pour le [quai Français](https://participation.bordeaux-metropole.fr/participation/realisation-dun-amenagement-en-faveur-des-transports-et-des-modes-actifs-commune-de)
 - 3 juin 2023 : Ouverture de la concertation a eu lieu pour le [Quai de Brazza et le Boulevard André Ricard Nord (Bordeaux, Cenon et Lormont)](https://participation.bordeaux-metropole.fr/participation/amenagement-en-faveur-des-transports-en-commun-et-des-modes-actifs-entre-le-quai-de)
 - 23 juin 2023 : Ouverture de la concertation pour un projet entre le [Quai de Brazza et le Boulevard André Ricard Nord](https://participation.bordeaux-metropole.fr/participation/amenagement-en-faveur-des-transports-en-commun-et-des-modes-actifs-entre-le-quai-de)
-- 10 janvier 2024 : Ouverture de la concertation pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/participation/reamenagement-de-la-place-stalingrad-bordeaux) 
+- 10 janvier 2024 : Ouverture de la concertation pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/participation/reamenagement-de-la-place-stalingrad-bordeaux)
+- 16 octobre 2024 : Lancement des travaux sur le quai Français entre le giratoire Côte de la Garonne et le giratoire Puy Pla 
