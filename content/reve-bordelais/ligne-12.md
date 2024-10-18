@@ -16,6 +16,4 @@ cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ### Pont d'Aquitaine
 Les pistes unidirectionnelles du pont d'aquitaine ne seront pas élargies dans le cadre du Réseau Express Vélo.
 
-### 
-
 ### *Concertation*

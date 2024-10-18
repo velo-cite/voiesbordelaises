@@ -10,7 +10,13 @@ cover: /reve/1/bex-reve1.jpg
 
 ## Les tronçons (de L'ouest vers le centre)
 
-### Intrarocade - Extra-boulevard
+### Saint-Aubin
+
+### Saint-Médard-en-Jalles
+
+### Le Haillan Les 5 chemins
+
+### Intrarocade
 La métropole a inauguré le tronçon entre la rocade et les boulevards en même temps que le Bus Express (BEX).
 De nombreux éléments non conformes au référentiel du Réseau Express Vélo y sont recensés (bandes cyclables notamment).
 
