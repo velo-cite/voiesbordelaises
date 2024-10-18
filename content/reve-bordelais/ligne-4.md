@@ -33,12 +33,14 @@ jusqu'au giratoire de la souricière a eu lieu jusqu'en 2022.
 L'obectif est d'aménager le parc depuis le quai des Queyries en y intégrant le ReVE.
 Cette piste bidirectionnelle permettra de desservir Brazza.
 ::banner{type="wip"}
-Les travaux sont en cours.
+Les travaux sont en cours depuis le parc des Angéliques jusqu'au pont Chaban Delmas.
 ::
 
 #### Quai des Queyries
 La contre-allée, historiquement une zone de stationnement, a été libérée du stationnement automobile au profil des cyclistes.
 Les piéton·nes en ont profité pour récupérer un usage exclusif de la voie verte des quais.
+
+La piste cyclable a été inaugurée le 15 juin 2024, lors de la grande convergence (Fête du vélo).
 
 #### Place Stalingrad
 Une concertation a eu lieu pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/participation/reamenagement-de-la-place-stalingrad-bordeaux).
@@ -47,7 +49,8 @@ Une concertation a eu lieu pour la [place Stalingrad](https://participation.bord
 Dans le cadre de l'OIM Euratlantique, le quai Deschamps a été traité afin d'intégrer une piste bidirectionnelle du ReVE.
 
 #### Le pont Simone Veil
-Le pont Simone Veil est livré. Il intégre une piste bidirectionnelle sur sa partie nord.
+Le pont Simone Veil est livré. Il intègre une piste bidirectionnelle sur sa partie nord.
+Elle n'est séparée que par de la peinture avec la voie de bus.
 
 ### Bègles
 

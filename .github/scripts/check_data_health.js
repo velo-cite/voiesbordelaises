@@ -133,6 +133,7 @@ function checkGeoJsonDataHealth({ links }) {
               }
               if (!links.includes(properties.link)) {
                 console.error(`Invalid link '${properties.link}' in LineString properties of file: ${filePath}`);
+                console.table(links);
                 process.exit(1);
               }
             } else if (feature.geometry.type === 'Point') {
@@ -167,6 +168,7 @@ function checkGeoJsonDataHealth({ links }) {
   }, {});
   for (const id in idsCount) {
     if (idsCount[id] < 2) {
+      console.trace(idsCount);
       console.error(`Missing LineString with id '${id}'`);
       process.exit(1);
     }
