@@ -59,12 +59,12 @@
                       Plan officiel
                     </NuxtLink>
                     <NuxtLink
-                      to="https://barometre.parlons-velo.fr/2021/carte/#11.88/45.74926/4.84739"
+                      to="https://barometre.parlons-velo.fr/2021/carte/#11.07/44.8215/-0.5909"
                       target="_blank"
                       class="flex align-center space-x-2 text-base font-medium text-gray-500 hover:text-lvv-blue-600"
                       @click="close()"
                     >
-                      <span>Baromètre FUB Lyon</span>
+                      <span>Baromètre FUB Bordeaux</span>
                       <div class="flex items-center">
                         <Icon name="mdi:launch" class="h-4 w-4" aria-hidden="true" />
                       </div>
