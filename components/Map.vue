@@ -25,6 +25,8 @@ import FullscreenControl from '@/maplibre/FullscreenControl';
 import ShrinkControl from '@/maplibre/ShrinkControl';
 import LineTooltip from '~/components/tooltips/LineTooltip.vue';
 import CounterTooltip from '~/components/tooltips/CounterTooltip.vue';
+import PumpTooltip from '~/components/tooltips/PumpTooltip.vue';
+import DangerTooltip from '~/components/tooltips/DangerTooltip.vue';
 import PerspectiveTooltip from '~/components/tooltips/PerspectiveTooltip.vue';
 import { isLineStringFeature, type Feature, type LaneStatus, type LaneType } from '~/types';
 import config from '~/config.json';
@@ -45,7 +47,7 @@ const defaultOptions = {
 
 const props = defineProps<{
   features: Feature[];
-  options: typeof defaultOptions;
+  options: Partial<typeof defaultOptions>;
 }>();
 
 const options = { ...defaultOptions, ...props.options };
@@ -59,7 +61,7 @@ const {
   fitBounds
 } = useMap();
 
-const statuses = ref(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip']);
+const statuses = ref(['planned', 'variante', 'done', 'postponed', 'variante-postponed', 'unknown', 'wip', 'tested']);
 const types = ref(['bidirectionnelle', 'bilaterale', 'voie-bus', 'voie-bus-elargie', 'velorue', 'voie-verte', 'bandes-cyclables', 'zone-de-rencontre', 'aucun', 'inconnu']);
 const features = computed(() => {
   return (props.features ?? []).filter(feature => {
@@ -165,6 +167,8 @@ onMounted(() => {
 
     const isPerspectiveLayerClicked = layers.some(({ layer }) => layer.id === 'perspectives');
     const isCompteurLayerClicked = layers.some(({ layer }) => layer.id === 'compteurs');
+    const isPumpLayerClicked = layers.some(({ layer }) => layer.id === 'pumps');
+    const isDangerLayerClicked = layers.some(({ layer }) => layer.id === 'dangers');
 
     if (isPerspectiveLayerClicked) {
       const layer = layers.find(({ layer }) => layer.id === 'perspectives');
@@ -189,6 +193,44 @@ onMounted(() => {
             fallback: 'Chargement...'
           })
         }).mount('#perspective-tooltip-content');
+      });
+    } else if (isPumpLayerClicked) {
+      const layer = layers.find(({ layer }) => layer.id === 'pumps');
+      const feature = features.value.find(f => f.properties.name === layer!.properties.name);
+      new Popup({ closeButton: false, closeOnClick: true })
+        .setLngLat(e.lngLat)
+        .setHTML('<div id="pump-tooltip-content"></div>')
+        .addTo(map);
+
+      // @ts-ignore:next
+      const PumpTooltipComponent = defineComponent(PumpTooltip);
+      nextTick(() => {
+        // eslint-disable-next-line vue/one-component-per-file
+        createApp({
+          render: () => h(Suspense, null, {
+            default: h(PumpTooltipComponent, { feature }),
+            fallback: 'Chargement...'
+          })
+        }).mount('#pump-tooltip-content');
+      });
+    } else if (isDangerLayerClicked) {
+      const layer = layers.find(({ layer }) => layer.id === 'dangers');
+      const feature = features.value.find(f => f.properties.name === layer!.properties.name);
+      new Popup({ closeButton: false, closeOnClick: true })
+        .setLngLat(e.lngLat)
+        .setHTML('<div id="danger-tooltip-content"></div>')
+        .addTo(map);
+
+      // @ts-ignore:next
+      const DangerTooltipComponent = defineComponent(DangerTooltip);
+      nextTick(() => {
+        // eslint-disable-next-line vue/one-component-per-file
+        createApp({
+          render: () => h(Suspense, null, {
+            default: h(DangerTooltipComponent, { feature }),
+            fallback: 'Chargement...'
+          })
+        }).mount('#danger-tooltip-content');
       });
     } else if (isCompteurLayerClicked) {
       const layer = layers.find(({ layer }) => layer.id === 'compteurs');

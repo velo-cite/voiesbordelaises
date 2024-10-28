@@ -1,20 +1,8 @@
 import { GeoJSONSource, LngLatBounds, Map } from 'maplibre-gl';
-import { isCompteurFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature } from '~/types';
+import type { CounterParsedContent } from '../types/counters';
+import { isCompteurFeature, isDangerFeature, isPumpFeature, isLineStringFeature, isPerspectiveFeature, isPointFeature, type Feature, type LineStringFeature, type CompteurFeature } from '~/types';
 
 type ColoredLineStringFeature = LineStringFeature & { properties: { color: string } };
-
-type Compteur = {
-  name: string;
-  _path: string;
-  description: string;
-  idPdc: number;
-  coordinates: [number, number];
-  lines: number[];
-  counts: Array<{
-    month: string;
-    count: number;
-  }>;
-};
 
 // features plotted last are on top
 const sortOrder = [1, 3, 2, 4, 5, 6, 7, 12, 8, 9, 10, 11].reverse();
@@ -94,6 +82,12 @@ export const useMap = () => {
   async function loadImages({ map }: { map: Map }) {
     const camera = await map.loadImage('/icons/camera.png');
     map.addImage('camera-icon', camera.data, { sdf: true });
+
+    const pump = await map.loadImage('/icons/pump.png');
+    map.addImage('pump-icon', pump.data, { sdf: true });
+
+    const danger = await map.loadImage('/icons/danger.png');
+    map.addImage('danger-icon', danger.data, { sdf: false });
 
     const crossIconUrl = getCrossIconUrl();
     const cross = await map.loadImage(crossIconUrl);
@@ -190,7 +184,10 @@ export const useMap = () => {
   }
 
   function plotWipSections({ map, features }: { map: Map; features: ColoredLineStringFeature[] }) {
-    const sections = features.filter(feature => feature.properties.status === 'wip');
+    const sections = features.filter(feature => {
+      // on considère les sections en test comme en travaux
+      return feature.properties.status === 'wip' || feature.properties.status === 'tested';
+    });
 
     if (sections.length === 0 && !map.getLayer('wip-sections')) {
       return;
@@ -495,6 +492,59 @@ export const useMap = () => {
     });
   }
 
+  function plotDangers({ map, features }: { map: Map; features: Feature[] }) {
+    const dangers = features.filter(isDangerFeature);
+    if (dangers.length === 0) {
+      return;
+    }
+
+    if (upsertMapSource(map, 'dangers', dangers)) {
+      return;
+    }
+
+    map.addLayer({
+      id: 'dangers',
+      source: 'dangers',
+      type: 'symbol',
+      layout: {
+        'icon-image': 'danger-icon',
+        'icon-size': 0.5
+      }
+    });
+    map.setLayoutProperty('perspectives', 'visibility', 'none');
+    map.on('zoom', () => {
+      const zoomLevel = map.getZoom();
+      if (zoomLevel > 14) {
+        map.setLayoutProperty('dangers', 'visibility', 'visible');
+      } else {
+        map.setLayoutProperty('dangers', 'visibility', 'none');
+      }
+    });
+  }
+
+  function plotPumps({ map, features }: { map: Map; features: Feature[] }) {
+    const pumps = features.filter(isPumpFeature);
+    if (pumps.length === 0) {
+      return;
+    }
+    if (upsertMapSource(map, 'pumps', pumps)) {
+      return;
+    }
+    map.addLayer({
+      id: 'pumps',
+      source: 'pumps',
+      type: 'symbol',
+      layout: {
+        'icon-image': 'pump-icon',
+        'icon-size': 0.5,
+        'icon-offset': [-25, -25]
+      },
+      paint: {
+        'icon-color': '#152B68'
+      }
+    });
+  }
+
   function plotCompteurs({ map, features }: { map: Map; features: Feature[] }) {
     const compteurs = features.filter(isCompteurFeature);
     if (compteurs.length === 0) {
@@ -540,12 +590,11 @@ export const useMap = () => {
     counters,
     type
   }: {
-    counters: Compteur[];
+    counters: CounterParsedContent[] | null;
     type: 'compteur-velo' | 'compteur-voiture';
-  }) {
-    if (counters.length === 0) {
-      return;
-    }
+  }): CompteurFeature[] {
+    if (!counters) { return []; }
+    if (counters.length === 0) { return []; }
 
     return counters.map(counter => ({
       type: 'Feature',
@@ -557,7 +606,7 @@ export const useMap = () => {
       },
       geometry: {
         type: 'Point',
-        coordinates: counter.coordinates
+        coordinates: [counter.coordinates[0], counter.coordinates[1]]
       }
     }));
   }
@@ -599,6 +648,8 @@ export const useMap = () => {
 
     plotPerspective({ map, features });
     plotCompteurs({ map, features });
+    plotPumps({ map, features });
+    plotDangers({ map, features });
   }
 
   return {
