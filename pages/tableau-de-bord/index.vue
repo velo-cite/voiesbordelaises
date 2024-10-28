@@ -54,10 +54,10 @@ const { getLineColor } = useColors();
 const { getTotalDistance, displayDistanceInKm } = useStats();
 
 const { data: voies } = await useAsyncData(() => {
-  return queryContent<Geojson>('voies-cyclables').where({ _type: 'json' }).find();
+  return queryContent<Geojson>('reve').where({ _type: 'json' }).find();
 });
 const { data: mds } = await useAsyncData(() => {
-  return queryContent<Mds>('voies-cyclables').where({ _type: 'markdown' }).find();
+  return queryContent<Mds>('reve').where({ _type: 'markdown' }).find();
 });
 
 function getLine(voie: Geojson): number {
