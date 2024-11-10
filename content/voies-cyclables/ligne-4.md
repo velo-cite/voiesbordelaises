@@ -17,9 +17,20 @@ cover: https://cyclopolis.lavilleavelo.org/vl4/av-verguin.jpg
 
 Depuis le [giratoire de la Chicotière](https://goo.gl/maps/1UkZTP9b3Q3MmWkT8){:target="_blank"}, la voie lyonnaise n°4 prend la direction du Sud-Est sous la forme d'une large voie verte de 3 à 5m de large le long de la partie Sud de l'ancienne RN6. Elle sera séparée de la voirie automobile par une large bande plantée et arborée, ou par une nouvelle voie de bus dédiée à améliorer les performances des transports en commun du secteur. Les voies de sortie et d'insertion de l'échangeur du Sémanet seront améliorées, tandis que les deux giratoires du parcours seront modifiés pour sécuriser leur traversée.
 
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl4/VL4_RN6_Bascule.png
+caption: Aperçu de la Voie Lyonnaise 4 - Relais de la Bascule (Dardilly)
+credit: Passagers des Villes / Métropole de Lyon
+streetView: 45.8269269,4.7562217,3a,90y,332.82h,76.54t
+---
+::
+
 ::banner{type="postponed"}
 Après consultation du Dossier de Consultation des Entreprises disponible publiquement en avril-mai 2024 sur [cette page](https://www.marches-publics.info/mpiaws/index.cfm?fuseaction=dematEnt.choixDCE&IDM=1448259&XFAOK=dce.verifLotsDCE), nous constatons qu'un petit tronçon de 450m entre le giratoire de la Chicotière et la bretelle de sortie vers la gare de Dommartin-Lissieu ne sera pas aménagé sur ce mandat. Sur cette portion, les cyclistes continueront donc à circuler en bordure d'une 2x2 voies avec une piste cyclable étroite vers Lissieu et aucun aménagement vers Dardilly.
 ::
+
+entre l'automne 2023 et fin mars 2024.
 
 #### Porte de Lyon
 *via Parc Relais TCL et pont sur A6*
@@ -36,9 +47,12 @@ streetView: 45.8214606,4.7641739,3a,75y,100.21h,90t
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.
+La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_Lissieu_La%20Garde.pdf)
 
+::banner{type="wip"}
+Les travaux sur ce tronçon vont débuter en octobre 2024 et se prolongeront jusqu'en fin d'année 2025.
+::
 
 ### La Garde - Porte de Lyon à Mouillard - Porte de Vaise
 *via Techlid et Champagne-au-Mont-d'Or*
@@ -55,15 +69,18 @@ streetView: 45.800433,4.7867128,3a,75y,163.52h,90t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux devraient commencer courant 2025 et durer environ un an.
+::
+
 #### Chemin de St-Didier à Rue Juttet
 Cette section faisait l'objet de 2 variantes pendant la concertation :
- - par avenue Lanessan, trajet le plus direct et le plus court, qui impliquait une suppression du stationnement côté Nord pour y insérer une piste cyclable bidirectionnelle de 2.40m de large, et une reprise de l'aménagement récent au Sud de la place Monnier, qui est la section la plus étroite et qui nécessitait de réduire la largeur des terrasses et zones de stationnement côté Ouest pour conserver un double sens de circulation générale.
- - par avenue de Montlouis, puis boulevard de la République et rue de la Mairie, avec une voie verte sur trottoir de 4m de large côté Sud sur Montlouis, une piste cyclable bidirectionnelle de 3.25m de large côté Est sur République qui implique une mise à sens unique de la rue et qui continue au Sud de la rue de la Mairie pour rejoindre l'avenue Lanessan via la place de la Liberté.
+- par avenue Lanessan, trajet le plus direct et le plus court, qui impliquait une suppression du stationnement côté Nord pour y insérer une piste cyclable bidirectionnelle de 2.40m de large, et une reprise de l'aménagement récent au Sud de la place Monnier, qui est la section la plus étroite et qui nécessitait de réduire la largeur des terrasses et zones de stationnement côté Ouest pour conserver un double sens de circulation générale.
+- par avenue de Montlouis, puis boulevard de la République et rue de la Mairie, avec une voie verte sur trottoir de 4m de large côté Sud sur Montlouis, une piste cyclable bidirectionnelle de 3.25m de large côté Est sur République qui implique une mise à sens unique de la rue et qui continue au Sud de la rue de la Mairie pour rejoindre l'avenue Lanessan via la place de la Liberté.
 
 ::banner{type="info"}
 La concertation a fait remonter de vifs débats sur les variantes, avec des commerçants craignant de voir leur chiffre d'affaire chuter avec la variante Lanessan (malgré l'unanimité des études démontrant le contraire), et d'autres usagers qui déploraient le détour par République qui sera peu incitatif et qui ne sécurise pas le centre-ville de Champagne pour les modes actifs.
 ::
-
 
 ::banner{type="modified"}
 Finalement, le choix de la Métropole s'est porté sur la variante République et la Voie Lyonnaise 4 fera donc un "crochet" en évitant le centre de Champagne-au-Mont-d'Or.
@@ -78,23 +95,31 @@ streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux devraient avoir lieu au premier semestre 2025 et durer 4 à 5 mois.
+::
+
 #### Rue Juttet à Avenue de Champagne
 Sur cette section, la Voie Lyonnaise 4 empruntera l'avenue Lanessan sous la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est, en lieu et place du stationnement existant. Le carrefour avec l'avenue de Champagne sera entièrement réaménagé pour sécuriser le lien avec le quartier de la Duchère.
 
+::banner{type="wip"}
+Les travaux devraient avoir lieu au premier semestre 2025 et durer environ un mois.
+::
+
 #### Avenue du 25e Régiment de Tirailleurs Sénégalais
-Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande vétégalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
+Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande végétalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
 ::banner{type="wip"}
-Les travaux sur ce tronçon vont débuter au printemps 2024 et se prolonger une bonne partie de l'année.
+Les travaux préalables sur les réseaux souterrains ont eu lieu entre mars et août 2024, puis enchainent avec les travaux d'aménagement entre l'automne 2024 et l'été 2025.
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
+La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_La%20Garde_Porte%20de%20Vaise.pdf){:target="_blank"}
 
 ### Traversée de Vaise
 #### Porte de Vaise
-La traversée de cette zone très anxiogène avec un fort trafic lié à l'accès au périphérique Nord va pouvoir être sécurisée grâce à un léger détour via la rue Mouillard puis la friche SNCF (+190m). Cette zone en pleine mutation acceuillera notamment un hôtel de logistique urbain facilitant l'activité de livraison à vélo. La piste cyclable bidirectionnelle qui longera cette zone se raccordera ensuite à la rue de Bourgogne au niveau du carrefour avec la rue Saint-Simon.
+La traversée de cette zone très anxiogène avec un fort trafic lié à l'accès au périphérique Nord va pouvoir être sécurisée grâce à un léger détour via la rue Mouillard puis la friche SNCF (+190m). Cette zone en pleine mutation accueillera notamment un hôtel de logistique urbain facilitant l'activité de livraison à vélo. La piste cyclable bidirectionnelle qui longera cette zone se raccordera ensuite à la rue de Bourgogne au niveau du carrefour avec la rue Saint-Simon.
 
 #### Rue de Bourgogne
 Entre la rue Saint-Simon et la rue de la Claire, la Voie Lyonnaise prendra la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est de la chaussée.
@@ -121,7 +146,7 @@ Cette rue sera mise en sens unique (vers Ouest) pour y créer une piste cyclable
 Le lien entre la rue de la Corderie et le pont Clémenceau sera assuré en tronc commun avec la :line-link{line=3} sur les quais de Saône, après le franchissement du carrefour des Monts d'Or via la création d'une nouvelle traversée cyclable directe.
 
 #### *Concertation*
-La concertation publique sur ce tronçon se tient du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".
+La concertation publique sur ce tronçon se tenait du 29/01 au 11/03/2024 dans le cadre du grand projet "Les mobilités évoluent à Vaise".\
 [Voir le dossier de concertation (p.70 à 74, 78 à 82 et 84)](https://cyclopolis.lavilleavelo.org/vl4/VL4VL5_Vaise.pdf){:target="_blank"}
 
 ### Pont Clémenceau à Boulevard des Belges
@@ -133,21 +158,27 @@ Le **pont Clémenceau** avait été initialement réaménagé en 2013 avec deux 
 Dans le **tunnel mode doux de la Croix-Rousse**, la Métropole prévoit de conserver la piste cyclable bidirectionnelle existante de 3m de large à court terme.
 
 ::banner{type="info"}
-La Ville à Vélo demande tout de même au SYTRAL d'étudier la possibilité de dévier les bus de la ligne C6 dans le tunnel routier pour élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers.
-::
+La Ville à Vélo demande au SYTRAL d'étudier la possibilité de dévier les bus diesel de la ligne C6 dans le tunnel routier pour :
+- élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers
+- arrêter d'exposer les piétons et cyclistes à la pollution aux particules fines des bus, dans un contexte de hausse de la fréquence du C6 aux heures de pointes dans ce tunnel qui porte aujourd’hui bien mal son nom.
+  ::
 
 Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidirectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
 
 
-L'**avenue Duquesne** a bénéficié en 2020 de la création de voies bus ouvertes aux vélos dans chaque sens de circulation, restreignant la circulation automobile à 2x1 voies, contre 2x2 voies auparavant. Cet aménagement a été pérénisé à l'été 2021.
+L'**avenue Duquesne** a bénéficié en 2020 de la création de voies bus ouvertes aux vélos dans chaque sens de circulation, restreignant la circulation automobile à 2x1 voies, contre 2x2 voies auparavant. Cet aménagement a été pérennisé à l'été 2021.
 
 ::banner{type="postponed"}
-Ce tronçon ne sera pas réaménagé sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest" et prévu à un horizon incertain. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus et taxis pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre faute d'aménagement adapté au carrefour.
+Ce tronçon ne sera pas réaménagé sur le mandat dans l'attente du projet de ligne forte de transport en commun nommé "Ligne Centre-Ouest (LCO)" et prévu à un horizon incertain. Les cyclistes devront donc continuer à partager leur itinéraire avec les bus et taxis pendant encore de très nombreuses années. Ce secteur restera donc un point noir pour les cyclistes, qui se retrouvent nombreux à emprunter le trottoir Nord depuis le pont De Lattre faute d'aménagement adapté au carrefour.
 ::
 
 Enfin, sur le **boulevard des Belges**, entre l'avenue Duquesne et l'avenue Verguin, une piste bidirectionnelle de 3m de large serait créée côté Parc, derrière l'alignement de platane en lieu et place du stationnement en épi qui sera repositionné en longitudinal le long de la voirie.
 
-*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.
+::banner{type="modified"}
+Contrairement à ce qui était proposé initialement, et suite aux remarques lors de la concertation, la Métropole a décidé lors de la [commission permanente du 08 juillet 2024](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrlzrDjrXmLxiZr7Y2VVWXnfBHPF8XlIiq8H6s%2BQkgCsyNfTSYath86%2F) de ne pas aménager cette piste cyclable derrière les platanes. Comme suggéré par notre association, il a été préféré élargir les deux couloirs de bus existants en laissant une seule voie de circulation générale, de la même manière que ce qui est proposé provisoirement dans la continuité Sud du boulevard des Belges en attendant LCO. Il conviendra cependant de passer le stationnement en long pour élargir le trottoir côté Parc en faveur des piétons.
+::
+
+*La concertation publique sur ce tronçon s'est tenue du 09/10 au 10/11/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Centre_PontCl%c3%a9menceau_Duquesne.pdf)*
 
 ### Boulevard des Belges à rue Flachet
@@ -170,10 +201,18 @@ Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera r
 
 Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. <!--Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.-->
 
-#### *Concertation*
-Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. <!--Le choix définitif de la Métropole s'est porté sur le côté Sud.-->
+::banner{type="wip"}
+Les travaux commenceront en novembre 2024 et avanceront progressivement par tronçon de l'Est vers l'Ouest jusqu'en fin d'année 2025.
+::
 
-*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*
+::banner{type="info"}
+Entre les rues Mauvert et Edouard Vaillant, le grand chantier de la ZAC Gratte-Ciel necéssitera un aménagement provisoire de la piste bidirectionnelle côté Nord, avant une bascule définitive au Sud prévue au premier semestre 2028.
+::
+
+#### *Concertation*
+Sur l'ensemble de cette section, la concertation laissait le choix de l'insertion de la piste cyclable au nord ou au sud des différentes rues empruntées. Le choix définitif de la Métropole s'est porté sur le côté Sud.
+
+*La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.*\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Est_Verguin_Flachet.pdf)
 
 
@@ -189,16 +228,19 @@ streetView: 45.7718908,4.8734156,3a,75y,276.55h,90t
 
 ## Budget prévisionnel
 
-- au moins **22 752 000 € HT** connus dont :
+- au moins **23 752 000 € HT** connus dont :
 
   - **9 200 000 € HT** pour le tronçon Lissieu à Parc Relais - Porte de Vaise
-<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278910/d542719018444985_6070.pdf)*
+    <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278910/d542719018444985_6070.pdf)*
 
   - **9 252 000 € HT** pour le tronçon du Parc Relais - Porte de Lyon à Mouillard - Porte de Vaise
-<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363227760188130_6291.pdf)*
+    <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363227760188130_6291.pdf)*
 
-  -  **4 300 000 € HT** pour le tronçon est (avenue Verguin à rue Flachet via Pressensé)
-<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278912/d554034993937205_7947.pdf)*
+-  **1 000 000 € HT** pour le tronçon central (pont Clémenceau à avenue Verguin)
+   <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrlzrDjrXmLxiZr7Y2VVWXnfBHPF8XlIiq8H6s%2BQkgCsyNfTSYath86%2F)*
+
+-  **4 300 000 € HT** pour le tronçon est (avenue Verguin à rue Flachet via Pressensé)
+   <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278912/d554034993937205_7947.pdf)*
 
 
 
