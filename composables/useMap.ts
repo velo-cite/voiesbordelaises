@@ -473,7 +473,7 @@ export const useMap = () => {
         'symbol-placement': 'line',
         'symbol-spacing': 120,
         'text-font': ['Open Sans Regular'],
-        'text-field': 'tracé à définir',
+        'text-field': 'en attente d\'informations',
         'text-size': 14
       }
     });
