@@ -39,6 +39,31 @@ function getCrossIconUrl(): string {
   return canvas.toDataURL();
 }
 
+function getMagnifyingGlassIconUrl() {
+  const canvas = document.createElement('canvas');
+  canvas.width = 16; // Taille adaptée pour la loupe
+  canvas.height = 16;
+  const context = canvas.getContext('2d');
+  if (!context) {
+    return '';
+  }
+
+  // Dessine la lentille de la loupe (un cercle)
+  context.beginPath();
+  context.arc(6, 6, 4, 0, 2 * Math.PI); // Centré en (6,6) avec un rayon de 4
+  context.lineWidth = 4;
+  context.stroke();
+
+  // Dessine le manche de la loupe (une ligne droite)
+  context.beginPath();
+  context.moveTo(10, 10); // Départ de la ligne en bas à droite du cercle
+  context.lineTo(14, 14); // Se termine plus bas pour former le manche
+  context.lineWidth = 4;
+  context.stroke();
+
+  return canvas.toDataURL();
+}
+
 function groupFeaturesByColor(features: ColoredLineStringFeature[]) {
   const featuresByColor: Record<string, Feature[]> = {};
   for (const feature of features) {
@@ -92,6 +117,10 @@ export const useMap = () => {
     const crossIconUrl = getCrossIconUrl();
     const cross = await map.loadImage(crossIconUrl);
     map.addImage('cross-icon', cross.data, { sdf: true });
+
+    const loupeIconUrl = getMagnifyingGlassIconUrl();
+    const loupe = await map.loadImage(loupeIconUrl);
+    map.addImage('loupe-icon', loupe.data, { sdf: true });
   }
 
   function plotUnderlinedSections({ map, features }: { map: Map; features: LineStringFeature[] }) {
@@ -232,6 +261,59 @@ export const useMap = () => {
       requestAnimationFrame(animateDashArray);
     }
     animateDashArray(0);
+  }
+
+  function plotUnderStudiesSections({ map, features }: { map: Map; features: ColoredLineStringFeature[] }) {
+    const sections = features.filter(feature => feature.properties.status === 'under-study');
+
+    if (sections.length === 0) {
+      for (let line = 1; line <= 12; line++) {
+        upsertMapSource(map, `under-study-${getLineColor(line)}`, []);
+      }
+      return;
+    }
+
+    const featuresByColor = groupFeaturesByColor(sections);
+    for (const [color, sameColorFeatures] of Object.entries(featuresByColor)) {
+      if (upsertMapSource(map, `under-study-${color}`, sameColorFeatures as Feature[])) {
+        continue;
+      }
+
+      map.addLayer({
+        id: `under-study-${color}`,
+        type: 'symbol',
+        source: `under-study-${color}`,
+        layout: {
+          'symbol-placement': 'line',
+          'symbol-spacing': 1,
+          'icon-image': 'loupe-icon',
+          'icon-rotation-alignment': 'viewport', // Maintient l'orientation de la loupe par rapport à la carte
+          'icon-keep-upright': true // Empêche la loupe de se retourner
+        },
+        paint: {
+          'icon-color': color
+        }
+      });
+      map.addLayer({
+        id: `under-study-text-${color}`,
+        type: 'symbol',
+        source: `under-study-${color}`,
+        paint: {
+          'text-halo-color': '#fff',
+          'text-halo-width': 3
+        },
+        layout: {
+          'symbol-placement': 'line',
+          'symbol-spacing': 150,
+          'text-font': ['Open Sans Regular'],
+          'text-field': 'à l\'étude',
+          'text-size': 14
+        }
+      });
+
+      map.on('mouseenter', `under-study-${color}`, () => (map.getCanvas().style.cursor = 'pointer'));
+      map.on('mouseleave', `under-study-${color}`, () => (map.getCanvas().style.cursor = ''));
+    }
   }
 
   function plotPlannedSections({ map, features }: { map: Map; features: ColoredLineStringFeature[] }) {
@@ -643,6 +725,7 @@ export const useMap = () => {
     plotVarianteSections({ map, features: lineStringFeatures });
     plotVariantePostponedSections({ map, features: lineStringFeatures });
     plotWipSections({ map, features: lineStringFeatures });
+    plotUnderStudiesSections({ map, features: lineStringFeatures });
     plotUnknownSections({ map, features: lineStringFeatures });
     plotPostponedSections({ map, features: lineStringFeatures });
 

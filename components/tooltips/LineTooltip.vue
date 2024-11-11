@@ -132,6 +132,10 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
     unknown: {
       label: 'à définir',
       class: 'text-gray-900 bg-gray-200 rounded-xl px-2'
+    },
+    'under-study': {
+      label: 'En cours d\'étude',
+      class: 'text-lvv-blue-600 rounded-xl px-2 border border-dashed border-lvv-blue-600'
     }
   };
   return statusMapping[properties.status];
