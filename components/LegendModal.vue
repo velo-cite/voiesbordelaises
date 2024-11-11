@@ -26,7 +26,7 @@
               </div>
             </div>
             <div>
-              prévu pour 2026
+              prévu pour 2030
             </div>
 
             <div class="my-auto rounded-md border-gray-500 border">

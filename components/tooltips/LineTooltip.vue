@@ -117,7 +117,7 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
     },
     postponed: {
       label: 'reporté',
-      date: 'après 2026',
+      date: 'après 2030',
       class: 'text-white bg-lvv-pink rounded-xl px-2'
     },
     variante: {
@@ -126,7 +126,7 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
     },
     'variante-postponed': {
       label: 'variante reportée',
-      date: 'après 2026',
+      date: 'après 2030',
       class: 'text-white bg-lvv-pink rounded-xl px-2'
     },
     unknown: {
