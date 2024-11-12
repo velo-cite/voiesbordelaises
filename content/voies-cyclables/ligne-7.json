@@ -112,7 +112,7 @@
         "name": "Franchissement A46",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -145,7 +145,7 @@
         "name": "Rillieux - Route du Mas Rillier Est",
         "status": "planned",
         "type": "bilaterale",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -171,7 +171,7 @@
         "name": "Rillieux - Route du Mas Rillier Ouest",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -191,7 +191,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -229,7 +229,7 @@
         "name": "Rillieux - Rue Ampère",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -254,7 +254,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -290,7 +290,7 @@
         "name": "Rillieux - Janier & Combattants AFN",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -315,7 +315,7 @@
         "status": "done",
         "doneAt": "10/04/2024",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -335,7 +335,7 @@
         "name": "Rillieux - Loup Pendu",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -359,7 +359,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -378,7 +378,7 @@
         "name": "Rillieux - Carrefour Mercières",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -396,7 +396,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -419,7 +419,7 @@
         "name": "Rillieux - Carrefour Avenue du 8 Mai",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
@@ -433,25 +433,17 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "name": "Chemin Petit - Avenue Hippodrome",
+        "name": "Avenue de l'Hippodrome",
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-du-mas-rillier-à-chemin-petit"
+        "link": "/voie-lyonnaise-7#route-du-mas-rillier-à-chemin-petit"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.857791085446081, 45.8065153988137],
-          [4.858124671833224, 45.80638917717425],
-          [4.858237182731983, 45.806303552048035],
-          [4.860696781363458, 45.80372223838208],
-          [4.860876067091084, 45.80372717267352],
-          [4.860960637040421, 45.80372859711491],
-          [4.86105034436406, 45.80372494654992],
-          [4.861129143472624, 45.80373015037455],
-          [4.861206804853936, 45.80373440247769],
-          [4.861289340875459, 45.80374849486421],
+          [4.861111876739301,45.803741894115774],
+          [4.861289340875459,45.80374849486421],
           [4.861537824281186, 45.80380462736525],
           [4.861933209016911, 45.80395621555846],
           [4.862468254451414, 45.804131089648564],
@@ -503,38 +495,234 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "varianteChPetit",
         "line": 7,
-        "name": "Voie verte de la Dombes",
-        "status": "postponed",
-        "type": "voie-verte",
-        "link": "/reve-7#voie-de-la-dombe"
+        "name": "Chemin Petit - Variante Nord",
+        "status": "done",
+        "doneAt": "31/12/2019",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.836363071709599, 45.78778524212155],
-          [4.837208390235901, 45.788437179803],
-          [4.837599992752074, 45.788740172527845],
-          [4.837884306907654, 45.78903942298517],
-          [4.839348793029784, 45.790161597891284],
-          [4.840915203094482, 45.7913361167608],
-          [4.8419880867004395, 45.79212909002656],
-          [4.842224121093749, 45.7922674851477],
-          [4.843270182609558, 45.79306792586318],
-          [4.844986796379089, 45.79426856538106],
-          [4.845587611198425, 45.794724876420474],
-          [4.845625162124634, 45.7948296030171],
-          [4.84745979309082, 45.79619851114481],
-          [4.849283695220947, 45.79759730602418],
-          [4.851928353309631, 45.799594454966716],
-          [4.8535215854644775, 45.80102682295393],
-          [4.855050444602965, 45.80288548056467],
-          [4.856434464454651, 45.804770253129334],
-          [4.857790816586089, 45.80651504577065]
+          [4.858104429338937,45.80692054398821],
+          [4.8580423946538644,45.80665808746926],
+          [4.85808155458264,45.806575630216315],
+          [4.858196794314765,45.80650036404664],
+          [4.858272711192257,45.806367634150405],
+          [4.85855875832948,45.80605972117402],
+          [4.858709629608882,45.80598057714846],
+          [4.860310965085631,45.80427327015536],
+          [4.860719475727535,45.80388819414134],
+          [4.860955407111675,45.80375761970939],
+          [4.861111876739301,45.803741894115774]
         ]
       }
     },
-
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "varianteChPetit",
+        "line": 7,
+        "name": "Chemin Petit - Variante Sud",
+        "status": "postponed",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.862873628518969,45.8015038894097],
+          [4.861187408936672,45.803239707644195],
+          [4.861128129755286,45.8033661133031],
+          [4.861218792032673,45.803417161661116],
+          [4.861274584203642,45.80349251867517],
+          [4.861274584203642,45.80358002991866],
+          [4.861201356980047,45.80366024843738],
+          [4.861103720680319,45.80370643480498],
+          [4.861111876739301,45.803741894115774]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "varianteDombesNord",
+        "line": 7,
+        "name": "Voie verte de la Dombes - Nord",
+        "status": "postponed",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.853387439025113,45.80088431533889],
+          [4.853970250450786,45.80151414499899],
+          [4.855050444602965,45.80288548056467],
+          [4.856434464454651,45.804770253129334],
+          [4.857790816586089,45.80651504577065],
+          [4.858104429338937,45.80692054398821]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "varianteDombesNord",
+        "line": 7,
+        "name": "Chemin de Crépieux",
+        "status": "done",
+        "doneAt": "15/11/2023",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.853387439025113,45.80088431533889],
+          [4.855137598311927,45.80101634114206],
+          [4.855218583670364,45.80109226889431],
+          [4.855335872811594,45.80102996920786],
+          [4.862873628518969,45.8015038894097]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id" : "VoieDombesCentre",
+        "line": 7,
+        "name": "Voie verte de la Dombes - Centre",
+        "status": "postponed",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8481427200115945,45.79700630741187],
+          [4.848347121826521,45.79701069057916],
+          [4.848764949190354,45.79718170441182],
+          [4.851928353309631,45.799594454966716],
+          [4.852664785826121,45.80019375464376],
+          [4.853387439025113,45.80088431533889]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id" : "VoieDombesCentre",
+        "line": 7,
+        "name": "Variante Marc Sangnier Nord",
+        "status": "variante-postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8481427200115945,45.79700630741187],
+          [4.84923540877918,45.79871420824841]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "varianteCombattantsAfN-commun",
+        "line": 7,
+        "name": "Variante Rue des Combattants AfN",
+        "status": "variante-postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.84923540877918,45.79871420824841],
+          [4.84973913877505,45.79856581745432],
+          [4.849902318914388,45.79860044200839],
+          [4.8500087407444425,45.798738940009144],
+          [4.850363480177748,45.799164324572956],
+          [4.851165191297639,45.79977271778256],
+          [4.851335466226516,45.800034868906096],
+          [4.851285790992051,45.800663037632006],
+          [4.8514489711313615,45.80068282234927],
+          [4.851505729440561,45.80074217645941],
+          [4.851505729440561,45.800806476673785],
+          [4.8520804073235695,45.800821315174005],
+          [4.853387439025113,45.80088431533889]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "varianteDombesLavoisier",
+        "line": 7,
+        "name": "Voie verte de la Dombes - Lavoisier",
+        "status": "postponed",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.839765145614819,45.79050272024264],
+          [4.843401681692271,45.79313619500046],
+          [4.845538881029256,45.794768114870436],
+          [4.848271409213879,45.79683025435317],
+          [4.848764949190354,45.79718170441182]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "varianteDombesLavoisier",
+        "line": 7,
+        "name": "Avenue Marc Sangnier",
+        "status": "variante-postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.839765145614819,45.79050272024264],
+          [4.840743299361407,45.79124331882012],
+          [4.8408069417008335,45.79139057930554],
+          [4.842074398487369,45.79233708234812],
+          [4.843464267470154,45.793357909460305],
+          [4.844703987013361,45.7942917636295],
+          [4.847999808734187,45.796770134501116],
+          [4.8481427200115945,45.79700630741187]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "name": "Voie verte de la Dombes - Sud",
+        "status": "postponed",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-7#voie-de-la-dombe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.836363071709599,45.78778524212155],
+          [4.837208390235901,45.788437179803],
+          [4.837599992752074,45.788740172527845],
+          [4.837884306907654,45.78903942298517],
+          [4.839765145614819,45.79050272024264]
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -542,7 +730,7 @@
         "name": "Cuire - Chemin du Penthod",
         "status": "planned",
         "type": "velorue",
-        "link": "/reve-7#métro-cuire-et-infirmerie-protestante"
+        "link": "/voie-lyonnaise-7#métro-cuire-et-infirmerie-protestante"
       },
       "geometry": {
         "type": "LineString",
@@ -563,7 +751,7 @@
         "name": "Cuire - Place Jules Ferry",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#métro-cuire-et-infirmerie-protestante"
+        "link": "/voie-lyonnaise-7#métro-cuire-et-infirmerie-protestante"
       },
       "geometry": {
         "type": "LineString",
@@ -584,7 +772,7 @@
         "name": "Boulevard des Canuts Nord",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#boulevard-des-canuts"
+        "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
         "type": "LineString",
@@ -616,9 +804,9 @@
       "properties": {
         "line": 7,
         "name": "Boulevard des Canuts Sud",
-        "status": "planned",
+        "status": "postponed",
         "type": "bidirectionnelle",
-        "link": "/reve-7#boulevard-des-canuts"
+        "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
         "type": "LineString",
@@ -635,9 +823,9 @@
       "properties": {
         "line": 7,
         "name": "Fresque des Canuts",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "link": "/reve-7#boulevard-des-canuts"
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
         "type": "LineString",
@@ -651,13 +839,13 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "variante2",
+        "id": "varianteXRousse",
         "line": 7,
         "name": "variante Rue de Cuire",
-        "status": "variante",
+        "status": "postponed",
         "text": "variante",
-        "type": "velorue",
-        "link": "/reve-7#croix-rousse-centre"
+        "type": "aucun",
+        "link": "/voie-lyonnaise-7#croix-rousse-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -687,12 +875,13 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "varianteXRousse",
         "line": 7,
         "name": "variante Bd des Canuts",
-        "status": "variante",
+        "status": "postponed",
         "text": "variante",
-        "type": "bidirectionnelle",
-        "link": "/reve-7#boulevard-des-canuts"
+        "type": "aucun",
+        "link": "/voie-lyonnaise-7#boulevard-des-canuts"
       },
       "geometry": {
         "type": "LineString",
@@ -710,9 +899,9 @@
       "properties": {
         "line": 7,
         "name": "Place des Tapis",
-        "status": "planned",
-        "type": "velorue",
-        "link": "/reve-7#croix-rousse-centre"
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-7#croix-rousse-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -734,7 +923,7 @@
         "name": "Montée de la Boucle",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#montée-de-la-boucle"
+        "link": "/voie-lyonnaise-7#montée-de-la-boucle"
       },
       "geometry": {
         "type": "LineString",
@@ -784,7 +973,7 @@
         "name": "Contre-allée de la Boucle",
         "status": "planned",
         "type": "velorue",
-        "link": "/reve-7#montée-de-la-boucle"
+        "link": "/voie-lyonnaise-7#montée-de-la-boucle"
       },
       "geometry": {
         "type": "LineString",
@@ -810,7 +999,7 @@
         "name": "Carrefour Boucle - Pont Churchill",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#pont-churchill-et-carrefour-tête-dor"
+        "link": "/voie-lyonnaise-7#pont-churchill-et-carrefour-tête-dor"
       },
       "geometry": {
         "type": "LineString",
@@ -838,7 +1027,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-7#pont-churchill-et-carrefour-tête-dor"
+        "link": "/voie-lyonnaise-7#pont-churchill-et-carrefour-tête-dor"
       },
       "geometry": {
         "type": "LineString",
@@ -861,7 +1050,7 @@
         "name": "Tête d'Or",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#pont-churchill-et-carrefour-tête-dor"
+        "link": "/voie-lyonnaise-7#pont-churchill-et-carrefour-tête-dor"
       },
       "geometry": {
         "type": "LineString",
@@ -881,7 +1070,7 @@
         "name": "Belges Ouest",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/reve-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
+        "link": "/voie-lyonnaise-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
       },
       "geometry": {
         "type": "LineString",
@@ -906,7 +1095,7 @@
         "name": "Garibaldi Nord",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
+        "link": "/voie-lyonnaise-7#boulevard-des-belges-quais-du-rhône-à-garibaldi"
       },
       "geometry": {
         "type": "LineString",
@@ -925,7 +1114,7 @@
         "name": "Garibaldi - Duquesne Vauban",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#rue-garibaldi-belges-à-vauban"
+        "link": "/voie-lyonnaise-7#rue-garibaldi-belges-à-vauban"
       },
       "geometry": {
         "type": "LineString",
@@ -951,7 +1140,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-7#rue-garibaldi-vauban-à-arménie"
+        "link": "/voie-lyonnaise-7#rue-garibaldi-vauban-à-arménie"
       },
       "geometry": {
         "type": "LineString",
@@ -980,7 +1169,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-11#rue-garibaldi-bonnel-à-paul-bert"
+        "link": "/voie-lyonnaise-11#rue-garibaldi-bonnel-à-paul-bert"
       },
       "geometry": {
         "type": "LineString",
@@ -1001,7 +1190,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-7#garibaldi-arménie-à-gde-rue-de-la-guillotière"
+        "link": "/voie-lyonnaise-7#garibaldi-arménie-à-gde-rue-de-la-guillotière"
       },
       "geometry": {
         "type": "LineString",
@@ -1022,7 +1211,7 @@
         "name": "Garibaldi - Arménie Gde Rue Guill",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#garibaldi-arménie-à-gde-rue-de-la-guillotière"
+        "link": "/voie-lyonnaise-7#garibaldi-arménie-à-gde-rue-de-la-guillotière"
       },
       "geometry": {
         "type": "LineString",
@@ -1053,7 +1242,7 @@
         "name": "Garibaldi - Blandan",
         "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
+        "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
         "type": "LineString",
@@ -1076,7 +1265,7 @@
         "name": "Garibaldi - CROUS",
         "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
+        "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
         "type": "LineString",
@@ -1093,7 +1282,7 @@
         "name": "Garibaldi - Sud",
         "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
+        "link": "/voie-lyonnaise-7#garibaldi-gde-rue-de-la-guillotière-berthelot"
       },
       "geometry": {
         "type": "LineString",
@@ -1114,7 +1303,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-7#rue-paul-duvivier"
+        "link": "/voie-lyonnaise-7#rue-paul-duvivier"
       },
       "geometry": {
         "type": "LineString",
@@ -1145,16 +1334,36 @@
       "type": "Feature",
       "properties": {
         "line": 7,
-        "name": "Route de Vienne - Grand Trou",
-        "status": "wip",
+        "name": "Route de Vienne - Grand Trou Nord",
+        "status": "done",
+        "doneAt": "30/08/2024",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-de-vienne"
+        "link": "/voie-lyonnaise-7#route-de-vienne"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.851784322986674,45.73933563038955],
-          [4.852482704941991,45.737270264358585],
+          [4.852170250584514, 45.7381229378726],
+          [4.852289591101638, 45.737956836348246],
+          [4.852498159590141, 45.7372853655493],
+          [4.852948103892388, 45.736206182886036]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 7,
+        "name": "Route de Vienne - Grand Trou Sud",
+        "status": "wip",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-7#route-de-vienne"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.852948103892388, 45.736206182886036],
           [4.853098228021906,45.73574184431283],
           [4.8532994558173925,45.73403987642686],
           [4.853595380375538,45.72965253174149]
@@ -1166,9 +1375,9 @@
       "properties": {
         "line": 7,
         "name": "Route de Vienne - Moulin à Vent",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-7#route-de-vienne"
+        "link": "/voie-lyonnaise-7#route-de-vienne"
       },
       "geometry": {
         "type": "LineString",
@@ -1189,7 +1398,7 @@
         "name": "St-Fons - Avenue Jaurès Nord",
         "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-7#avenue-jean-jaurès"
+        "link": "/voie-lyonnaise-7#avenue-jean-jaurès"
       },
       "geometry": {
         "type": "LineString",
@@ -1205,9 +1414,9 @@
       "properties": {
         "line": 7,
         "name": "Saint-Fons Centre",
-        "status": "unknown",
-        "type": "inconnu",
-        "link": "/reve-7#saint-fons-centre"
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-7#saint-fons-centre"
       },
       "geometry": {
         "type": "LineString",
@@ -1222,9 +1431,9 @@
       "properties": {
         "line": 7,
         "name": "Boulevard Yves Farge",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-7#boulevard-yves-farge-de-saint-fons-à-feyzin"
+        "link": "/voie-lyonnaise-7#boulevard-yves-farge-de-saint-fons-à-feyzin"
       },
       "geometry": {
         "type": "LineString",
@@ -1258,9 +1467,9 @@
       "properties": {
         "line": 7,
         "name": "Traversée Boulevard Urbain Sud",
-        "status": "planned",
+        "status": "wip",
         "type": "bilaterale",
-        "link": "/reve-7#boulevard-yves-farge-de-saint-fons-à-feyzin"
+        "link": "/voie-lyonnaise-7#boulevard-yves-farge-de-saint-fons-à-feyzin"
       },
       "geometry": {
         "type": "LineString",
@@ -1331,7 +1540,7 @@
         "name": "Feyzin Nord",
         "status": "planned",
         "type": "bilaterale",
-        "link": "/reve-7#traversée-de-feyzin"
+        "link": "/voie-lyonnaise-7#traversée-de-feyzin"
       },
       "geometry": {
         "type": "LineString",
@@ -1355,9 +1564,9 @@
       "properties": {
         "line": 7,
         "name": "Feyzin Centre",
-        "status": "unknown",
-        "type": "inconnu",
-        "link": "/reve-7#traversée-de-feyzin"
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-7#traversée-de-feyzin"
       },
       "geometry": {
         "type": "LineString",
