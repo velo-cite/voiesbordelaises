@@ -5,8 +5,7 @@ color: "#1ce8de"
 from: Le Taillan Médoc
 to: Villenave d'Ornon
 distance: 24000
-description: 
-trafic: 21k vélos/jour
+description: Le Taillan-Médoc - Villenave d'Ornon
 cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 ---
 

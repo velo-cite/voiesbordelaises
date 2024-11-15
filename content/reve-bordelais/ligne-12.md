@@ -11,9 +11,11 @@ avancement:
 cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ---
 
+::banner{type="unsecured"}
+Cette ligne de ReVE devrait être étudiée en 2025.
+::
+
 ## Les tronçons (d'Ouest en Est)
 
 ### Pont d'Aquitaine
 Les pistes unidirectionnelles du pont d'aquitaine ne seront pas élargies dans le cadre du Réseau Express Vélo.
-
-### *Concertation*
