@@ -12,7 +12,12 @@
       :style="`width: ${stats.wip.percent}%; background: repeating-linear-gradient(to right, #152B68, #152B68 1px, transparent 1px, transparent 3px)`"
     />
     <div
-      v-if="stats.postponed.distance"
+      v-if="stats.etude.distance"
+      class="bg-lvv-blue-400 text-white text-center"
+      :style="`width: ${stats.etude.percent}%; background: repeating-linear-gradient(-45deg, #152b68 0%, #152b68 1%, #ffffff 1%, #ffffff 3%)`"
+    />
+    <div
+      v-if="stats.postponed && stats.postponed.distance"
       class="bg-lvv-pink text-xs font-medium text-white text-center p-1 leading-none ml-auto"
       :style="`width: ${stats.postponed.percent}%`"
     >

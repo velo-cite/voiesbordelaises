@@ -89,8 +89,22 @@ export const useStats = () => {
   }
 
   function getStats(voies: Geojson[]) {
+    type Stat = {
+      name: string,
+      distance: number,
+      percent: number,
+      class: string
+    };
+    type Stats = {
+      done: Stat;
+      wip: Stat;
+      etude: Stat;
+      planned: Stat;
+      postponed?: Stat; // Ajout explicite de postponed comme optionnel
+    };
     const features = getAllUniqLineStrings(voies);
     const doneFeatures = features.filter(feature => feature.properties.status === 'done');
+    const underStudyFeatures = features.filter(feature => feature.properties.status === 'under-study');
     const wipFeatures = features.filter(feature => ['wip', 'tested'].includes(feature.properties.status));
     const plannedFeatures = features.filter(feature =>
       ['planned', 'unknown', 'variante'].includes(feature.properties.status)
@@ -101,6 +115,7 @@ export const useStats = () => {
 
     const totalDistance = getDistance({ features });
     const doneDistance = getDistance({ features: doneFeatures });
+    const underStudyDistance = getDistance({ features: underStudyFeatures });
     const wipDistance = getDistance({ features: wipFeatures });
     const plannedDistance = getDistance({ features: plannedFeatures });
     const postponedDistance = getDistance({ features: postponedFeatures });
@@ -109,7 +124,7 @@ export const useStats = () => {
       return Math.round((distance / totalDistance) * 100);
     }
 
-    return {
+    const stats: Stats = {
       done: {
         name: 'Réalisés',
         distance: doneDistance,
@@ -122,19 +137,29 @@ export const useStats = () => {
         percent: getPercent(wipDistance),
         class: 'text-lvv-blue-600 font-normal'
       },
+      etude: {
+        name: 'À l\'étude',
+        distance: underStudyDistance,
+        percent: getPercent(underStudyDistance),
+        class: 'text-lvv-blue-600 font-normal'
+      },
       planned: {
         name: 'Prévus',
         distance: plannedDistance,
         percent: getPercent(plannedDistance),
         class: 'text-black font-semibold'
-      },
-      postponed: {
+      }
+    };
+
+    if (postponedDistance) {
+      stats.postponed = {
         name: 'Reportés',
         distance: postponedDistance,
         percent: getPercent(postponedDistance),
         class: 'text-lvv-pink font-semibold'
-      }
-    };
+      };
+    }
+    return stats;
   }
 
   const typologyNames: Record<LaneType, string> = {

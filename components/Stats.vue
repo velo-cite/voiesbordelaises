@@ -1,5 +1,5 @@
 <template>
-  <div class="grid grid-cols-2 rounded-lg overflow-hidden shadow bg-gray-200 gap-px md:grid-cols-4 ">
+  <div class="grid grid-cols-2 rounded-lg overflow-hidden shadow bg-gray-200 gap-px " :class="dynamicColumnsClass">
     <div v-for="item in stats" :key="item.name" class="px-4 py-5 sm:p-6 bg-white">
       <div class="flex justify-between">
         <div class="text-base font-normal text-gray-900">
@@ -28,4 +28,12 @@ const { voies, precision } = defineProps<{
 }>();
 
 const stats = getStats(voies);
+const columnsCount = Object.keys(stats).length;
+const dynamicColumnsClass = {
+  'md:grid-cols-1': columnsCount === 1,
+  'md:grid-cols-2': columnsCount === 2,
+  'md:grid-cols-3': columnsCount === 3,
+  'md:grid-cols-4': columnsCount === 4,
+  'md:grid-cols-5': columnsCount === 5
+};
 </script>
