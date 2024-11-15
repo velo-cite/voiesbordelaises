@@ -1,1 +1,197 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-0.551784,44.834718],[-0.555614,44.830887]]},"properties":{"line":6,"name":"Pont Saint Jean","status":"wip","type":"voie-bus-elargie","link":"/reve-6#pont-saint-jean"}},{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-0.546164,44.838468],[-0.547535,44.838016],[-0.548764,44.837567],[-0.549392,44.837118],[-0.549939,44.836586],[-0.550529,44.835981],[-0.551784,44.834718]]},"properties":{"line":6,"name":"Belvedere","status":"wip","type":"bidirectionnelle","link":"/reve-6#belvedere"}},{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-0.496016,44.84163],[-0.500264,44.842877],[-0.503912,44.843181],[-0.509534,44.843912],[-0.513825,44.844551],[-0.516915,44.84379],[-0.518203,44.843516],[-0.520649,44.84379],[-0.52155,44.843973],[-0.524983,44.843303],[-0.52773,44.843334],[-0.529459,44.843832]]},"properties":{"line":6,"name":"Saint-Fons - Sud","status":"planned","type":"voie-verte","link":"/reve-6"}},{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-0.529459,44.843832],[-0.530337,44.844131],[-0.53318,44.845555],[-0.535669,44.846346],[-0.536442,44.846589],[-0.537901,44.846529],[-0.540133,44.844459],[-0.543351,44.841386],[-0.544939,44.839499],[-0.545915,44.838529],[-0.546164,44.838468]]},"properties":{"line":6,"name":"floirac bas et bordeaux","status":"under-study","type":"bidirectionnelle","link":"/reve-6#floirac-bas-bordeaux"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.551784,
+            44.834718
+          ],
+          [
+            -0.555614,
+            44.830887
+          ]
+        ]
+      },
+      "properties": {
+        "line": 6,
+        "name": "Pont Saint Jean",
+        "status": "wip",
+        "type": "voie-bus-elargie",
+        "link": "/reve-6#pont-saint-jean",
+        "id": "6-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.546164,
+            44.838468
+          ],
+          [
+            -0.547535,
+            44.838016
+          ],
+          [
+            -0.548764,
+            44.837567
+          ],
+          [
+            -0.549392,
+            44.837118
+          ],
+          [
+            -0.549939,
+            44.836586
+          ],
+          [
+            -0.550529,
+            44.835981
+          ],
+          [
+            -0.551784,
+            44.834718
+          ]
+        ]
+      },
+      "properties": {
+        "line": 6,
+        "name": "Belvedere",
+        "status": "wip",
+        "type": "bidirectionnelle",
+        "link": "/reve-6#belvedere",
+        "id": "6-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.496016,
+            44.84163
+          ],
+          [
+            -0.500264,
+            44.842877
+          ],
+          [
+            -0.503912,
+            44.843181
+          ],
+          [
+            -0.509534,
+            44.843912
+          ],
+          [
+            -0.513825,
+            44.844551
+          ],
+          [
+            -0.516915,
+            44.84379
+          ],
+          [
+            -0.518203,
+            44.843516
+          ],
+          [
+            -0.520649,
+            44.84379
+          ],
+          [
+            -0.52155,
+            44.843973
+          ],
+          [
+            -0.524983,
+            44.843303
+          ],
+          [
+            -0.52773,
+            44.843334
+          ],
+          [
+            -0.529459,
+            44.843832
+          ]
+        ]
+      },
+      "properties": {
+        "line": 6,
+        "name": "Saint-Fons - Sud",
+        "status": "planned",
+        "type": "voie-verte",
+        "link": "/reve-6",
+        "id": "6-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.529459,
+            44.843832
+          ],
+          [
+            -0.530337,
+            44.844131
+          ],
+          [
+            -0.53318,
+            44.845555
+          ],
+          [
+            -0.535669,
+            44.846346
+          ],
+          [
+            -0.536442,
+            44.846589
+          ],
+          [
+            -0.537901,
+            44.846529
+          ],
+          [
+            -0.540133,
+            44.844459
+          ],
+          [
+            -0.543351,
+            44.841386
+          ],
+          [
+            -0.544939,
+            44.839499
+          ],
+          [
+            -0.545915,
+            44.838529
+          ],
+          [
+            -0.546164,
+            44.838468
+          ]
+        ]
+      },
+      "properties": {
+        "line": 6,
+        "name": "floirac bas et bordeaux",
+        "status": "under-study",
+        "type": "bidirectionnelle",
+        "link": "/reve-6#floirac-bas-bordeaux",
+        "id": "6-4"
+      }
+    }
+  ]
+}
