@@ -12,7 +12,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
 
 ### Rue Judaïque et avenue de la république
 La rue Judaïque étant trop étroite pour faire passer le ReVE dans les 2 sens, la métropole a décidé de séparer les sens entrant et sortant.
-Le sens entrant sera décalé sur la rue George Bonnac. 
+Le sens entrant sera décalé sur la rue George Bonnac.
 La concertation est en cours.
 [Lien de la concertation](https://participation.bordeaux-metropole.fr/processes/projet-6859?locale=fr)
 
@@ -31,7 +31,7 @@ caption: Reve 11 - Place Mondésir (image extraite de la concertation).
 ---
 ::
 
-[Lien de la concertation](https://participation.bordeaux-metropole.fr/participation/reamenagement-de-la-place-mondesir-bordeaux-et-merignac)
+[Lien de la concertation](https://participation.bordeaux-metropole.fr/processes/projet-6602)
 
 ### Avenue de la Marne
 Études en cours.
@@ -55,7 +55,7 @@ caption: Portion du ReVE le long de l'extension du Tram A à Mérignac - © Bord
 
 Concertation en cours pour les avenues du colonel Bourgoin et du 18 juin 1940 sur les communes de Martignas-sur-Jalle et Mérignac
 
-[Lien de la concertation](https://participation.bordeaux-metropole.fr/participation/amenagements-en-faveur-des-modes-actifs-avenue-du-colonel-bourgoin-et-avenue-du-18)
+[Lien de la concertation](https://participation.bordeaux-metropole.fr/processes/projet-6692)
 
 ## Fil d'actu
 - 16 mars 2023 : Ouverture de la concertation pour l'avenue Marcel Dassault.

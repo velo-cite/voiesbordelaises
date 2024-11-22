@@ -11,17 +11,17 @@ cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ## Les tronçons (dans le sens sortant)
 
 ### Place Stalingrad
-Une concertation a eu lieu pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/participation/reamenagement-de-la-place-stalingrad-bordeaux).
+Une concertation a eu lieu pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/processes/projet-6509).
 
 ### Avenue Thiers
 
 ### Cote 4 pavillons
 
 ### Avenue Carnot - Avenue Kennedy
-Une concertation a eu lieu pour les [avenues Carnot et Kennedy](https://participation.bordeaux-metropole.fr/participation/amenagement-de-laxe-avenue-carnot-avenue-kennedy-communes-de-cenon-et-lormont).
+Une concertation a eu lieu pour les [avenues Carnot et Kennedy](https://participation.bordeaux-metropole.fr/processes/projet-6095).
 
 ### Artigues-près-Bordeaux
 
 ## Fil d'actu
-- 5 septembre 2023 : Ouverture de la concertation pour les [avenues Carnot et Kennedy](https://participation.bordeaux-metropole.fr/participation/amenagement-de-laxe-avenue-carnot-avenue-kennedy-communes-de-cenon-et-lormont)
-- 10 janvier 2024 : Ouverture de la concertation pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/participation/reamenagement-de-la-place-stalingrad-bordeaux) 
+- 5 septembre 2023 : Ouverture de la concertation pour les [avenues Carnot et Kennedy](https://participation.bordeaux-metropole.fr/processes/projet-6095)
+- 10 janvier 2024 : Ouverture de la concertation pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/processes/projet-6509)

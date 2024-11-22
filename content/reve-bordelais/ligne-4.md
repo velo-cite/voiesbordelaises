@@ -13,7 +13,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ### Bassens
 #### Quai Français
 Les études sont en cours pour une partie de la ville.
-Une concertation a eu lieu pour le [quai Français](https://participation.bordeaux-metropole.fr/participation/realisation-dun-amenagement-en-faveur-des-transports-et-des-modes-actifs-commune-de).
+Une concertation a eu lieu pour le [quai Français](https://participation.bordeaux-metropole.fr/processes/projet-5819).
 ::banner{type="wip"}
 Les travaux ont été démarrés le 16 octobre 2024.
 ::
@@ -23,12 +23,12 @@ Les études sont en cours.
 
 ### Cenon
 #### Quai Brazza - Boulevard André Ricard
-Une concertation a eu lieu pour un chantier entre le [Quai de Brazza et le Boulevard André Ricard Nord (Bordeaux, Cenon et Lormont)](https://participation.bordeaux-metropole.fr/participation/amenagement-en-faveur-des-transports-en-commun-et-des-modes-actifs-entre-le-quai-de)
+Une concertation a eu lieu pour un chantier entre le [Quai de Brazza et le Boulevard André Ricard Nord (Bordeaux, Cenon et Lormont)](https://participation.bordeaux-metropole.fr/processes/projet-6079)
 
-### Bordeaux 
+### Bordeaux
 
 #### Parkway
-Une concertation concernant le [parc des Angéliques et le quai de Brazza](https://participation.bordeaux-metropole.fr/participation/requalification-des-quais-rive-droite-de-bordeaux#:~:text=La%20concertation%20a%20%C3%A9t%C3%A9%20ouverte,24%20novembre%202022%20par%20d%C3%A9lib%C3%A9ration.)
+Une concertation concernant le [parc des Angéliques et le quai de Brazza](https://participation.bordeaux-metropole.fr/processes/projet-5045)
 jusqu'au giratoire de la souricière a eu lieu jusqu'en 2022.
 L'obectif est d'aménager le parc depuis le quai des Queyries en y intégrant le ReVE.
 Cette piste bidirectionnelle permettra de desservir Brazza.
@@ -43,7 +43,7 @@ Les piéton·nes en ont profité pour récupérer un usage exclusif de la voie v
 La piste cyclable a été inaugurée le 15 juin 2024, lors de la grande convergence (Fête du vélo).
 
 #### Place Stalingrad
-Une concertation a eu lieu pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/participation/reamenagement-de-la-place-stalingrad-bordeaux).
+Une concertation a eu lieu pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/processes/projet-6509).
 
 #### Quai Deschamps
 Dans le cadre de l'OIM Euratlantique, le quai Deschamps a été traité afin d'intégrer une piste bidirectionnelle du ReVE.
@@ -116,9 +116,8 @@ Une station atelier ALTEO fix’air sera installée sur la place de Courréjean.
 
 ## Fil d'actu
 
-- 24 janvier 2022 : Ouverture de la concertation concernant le [parc des Angéliques et le quai de Brazza](https://participation.bordeaux-metropole.fr/participation/requalification-des-quais-rive-droite-de-bordeaux#:~:text=La%20concertation%20a%20%C3%A9t%C3%A9%20ouverte,24%20novembre%202022%20par%20d%C3%A9lib%C3%A9ration.)
-- 20 février 2023 : Ouverture de la concertation pour le [quai Français](https://participation.bordeaux-metropole.fr/participation/realisation-dun-amenagement-en-faveur-des-transports-et-des-modes-actifs-commune-de)
-- 3 juin 2023 : Ouverture de la concertation a eu lieu pour le [Quai de Brazza et le Boulevard André Ricard Nord (Bordeaux, Cenon et Lormont)](https://participation.bordeaux-metropole.fr/participation/amenagement-en-faveur-des-transports-en-commun-et-des-modes-actifs-entre-le-quai-de)
-- 23 juin 2023 : Ouverture de la concertation pour un projet entre le [Quai de Brazza et le Boulevard André Ricard Nord](https://participation.bordeaux-metropole.fr/participation/amenagement-en-faveur-des-transports-en-commun-et-des-modes-actifs-entre-le-quai-de)
-- 10 janvier 2024 : Ouverture de la concertation pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/participation/reamenagement-de-la-place-stalingrad-bordeaux)
-- 16 octobre 2024 : Lancement des travaux sur le quai Français entre le giratoire Côte de la Garonne et le giratoire Puy Pla 
+- 24 janvier 2022 : Ouverture de la concertation concernant le [parc des Angéliques et le quai de Brazza](https://participation.bordeaux-metropole.fr/processes/projet-5045)
+- 20 février 2023 : Ouverture de la concertation pour le [quai Français](https://participation.bordeaux-metropole.fr/processes/projet-5819)
+- 23 juin 2023 : Ouverture de la concertation pour un projet entre le [Quai de Brazza et le Boulevard André Ricard Nord](https://participation.bordeaux-metropole.fr/processes/projet-6079)
+- 10 janvier 2024 : Ouverture de la concertation pour la [place Stalingrad](https://participation.bordeaux-metropole.fr/processes/projet-6509)
+- 16 octobre 2024 : Lancement des travaux sur le quai Français entre le giratoire Côte de la Garonne et le giratoire Puy Pla
