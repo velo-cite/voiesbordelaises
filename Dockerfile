@@ -12,7 +12,7 @@ RUN npm install
 ADD . .
 
 # Build the pages
-RUN npm run build
+RUN npm run generate
 
 # Configure Nitro server
 ENV NITRO_PORT 80
