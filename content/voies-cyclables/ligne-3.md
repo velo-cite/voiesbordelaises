@@ -31,6 +31,10 @@ streetView: 45.885026,4.8102775,3a,75y,162.21h,90t
 #### Massieux à Neuville
 Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagé en voie verte de 3m de large situé côté Ouest de la route de Trévoux puis de l'avenue Sadi Carnot. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
 
+::banner{type="info"}
+Bien que le projet de la Métropole de Lyon nommé "Les Quais de Neuville" réaménage complètement l'esplanade Jean Vilar en 2025-2026, le morceau de piste cyclable qui sera créé ne sera relié à rien et nous invitons les cyclistes du secteur à continuer d'utiliser la voie verte aménagée en fond de quai lors de l'hiver 2022-2023.
+::
+
 ::banner{type="postponed"}
 La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargissement en encorbellements du pont actuel.
 ::
@@ -41,6 +45,13 @@ La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargi
 
 La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte de 3 à 4m de large sur la commune d'Albigny, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle de 3.00 à 3.50m de large sur les communes de Couzon, St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
 
+::banner{type="wip"}
+La section sur la commune d'Albigny devrait être réalisée entre novembre 2024 et l'été 2025.\
+La section sur la commune de Couzon a été réalisée en deux phases : Sud de l'avenue De Gaulle à l'automne 2019 et Nord de l'avenue de juin à décembre 2022.\
+La section sur la commune de St-Romain a été réalisée entre février et juillet 2024.\
+La section sur la commune de Collonges devrait être en travaux à partir du printemps 2025 jusqu'à l'été 2026.
+::
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/couzon-au-mont-d-or.jpg
@@ -50,29 +61,30 @@ streetView: 45.8499282,4.8325735,3a,75y,22.52h,90t
 ---
 ::
 
-::banner{type="info"}
-La section sur la commune de Couzon est terminée, réalisée en deux phases : Sud de l'avenue De Gaulle à l'automne 2019 et Nord de l'avenue de juin à décembre 2022.
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl3/VL3_St-Romain.jpg
+caption: Photo de la Voie Lyonnaise 3 - Quai de Charézieux (St-Romain-au-Mont-d'Or)
+credit: La Ville à Vélo
+streetView: 45.8337609,4.8371625,3a,46.1y,312.7h,87.18t
+---
 ::
 
-::banner{type="wip"}
-La section sur la commune de St-Romain est en travaux entre février 2024 et l'été 2024.
-::
-
 ::banner{type="info"}
-Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire a été aménagée depuis l'été 2020.
+Entre Saint-Romain et Saint-Rambert, une piste cyclable bidirectionnelle transitoire a été aménagée pendant l'été 2020.
 ::
 
 #### Saint-Rambert à pont de l'Île Barbe
 Cette section de 500m a l'inconvénient d'être particulièrement étroite et de ne pas pouvoir accueillir d'aménagements séparatifs sans travaux lourd. Plusieurs hypothèses techniques sont actuellement étudiées par la Métropole de Lyon : alternat routier, encorbellement ou encore détour par la Grande Rue de St-Rambert transformée en vélorue. L'objectif est de proposer un cheminement sécurisé pour les cyclistes les moins aguerris.
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.
+La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Nord_IleBarbe_Quincieux.pdf)
 
 ### Île Barbe au Pont Kitchener Marchand
 *Parcours commun avec la véloroute touristique "La Voie Bleue"*
 
-#### Île Barbe à rue Antonin Laborde
+#### Île Barbe à rue Antonin Laborde (Quai Sédallian)
 L'objectif est de transformer la piste cyclable bidirectionnelle transitoire créée à l'été 2020 en aménagement pérenne de 2.50 à 3.50m de large aux standards d'une Voie Lyonnaise. La concertation a fait remonter le besoin de sécuriser la traversée du carrefour avec la rue Antonin Laborde.
 
 #### Rue Antonin Laborde au pont Clémenceau
@@ -116,18 +128,18 @@ streetView: 45.7579128,4.8260787,3a,75y,191.02h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont lieu entre avril 2024 et début 2025.
+Les travaux sur cette section ont lieu entre avril 2024 et mars 2025.
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
+La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_Ile%20Barbe_Pont%20Kitchener.pdf)
 
 ### Quai Jean-Jacques Rousseau et Quai des Etroits
 
 L'aménagement proposé par la Métropole de Lyon consiste en une mise à sens unique de ce quai très étroit pour pouvoir y insérer une piste cyclable bidirectionnelle de 3m de large le long de la Saône. Cette solution impacterait fortement la ligne de bus qui dessert aujourd'hui ce quai dans les deux sens. La concertation a fait remonter une vive opposition des riverains à ce projet, qui ont fait plusieurs contre-propositions, notamment via la construction d'estacades sur une partie du linéaire.
 
-*La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*
+*La concertation publique sur ce tronçon s'est tenue du 30/01 au 10/03/2023.*\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Centre_QuaiJJRousseau.pdf)
 
 ::banner{type="postponed"}
@@ -145,14 +157,27 @@ streetView: 45.7372908,4.8119765,3a,75y,349.91h,90t
 
 ### Pont de la Mulatière au Barrage de Pierre-Bénite
 
-*via Oullins-La Saulaie et Pierre-Bénite Centre*
+*via Oullins-La Saulaie et Pierre-Bénite Centre*\
 *Tronçon commun avec la véloroute touristique ViaRhôna*
 
 #### Quai Pierre Sémard
 Sur ce tronçon, la Métropole propose de conserver la voie verte existante sur trottoir de 3m de large côté Ouest de la chaussée, créée entre 2019 et 2020. L'objectif est tout de même de l'améliorer ponctuellement en l'élargissant sur les sections les plus étroites et en améliorant certaines zones dangereuses avec une mauvaise visibilité et du conflit avec les piétons.
 
+::banner{type="modified"}
+Sur la section entre le carrefour du pont de la Mulatière et la rue Chardiny, le trafic vélo est particulièrement soutenu. Suite à la concertation, la Métropole souhaitait séparer piétons et cyclistes pour mettre fin aux nombreux conflits actuels, grace à la suppression de l'ensemble des stationnements. Malheureusement, à cause de l'entêtement de la mairie de la Mulatière, les places bus au Nord seront conservées et les piétons et cyclistes continueront à se partager un trottoir étroit de 3m de large sur 50m de long. La Ville à Vélo le déplore alors qu'il était possible d'utiliser le grand parking de l'Aquarium pour gérer les déposes des bus.
+::
+
+::banner{type="wip"}
+Les travaux sur les sections au Sud de la rue Chardiny ont lieu entre septembre 2024 et début 2025.\
+Ceux au nord de la rue Chardiny débuteront après les travaux de l'aquarium, au cours du second semestre 2025.
+::
+
 #### Quartier de la Saulaie
-La Voie Lyonnnaire 3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
+La Voie Lyonnaise 3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
+
+::banner{type="info"}
+Les travaux de voirie liés au projet urbain de la Saulaie ont pris du retard et auront lieu au plus tôt en 2026. En attendant, les cyclistes utiliseront les aménagements sécurisés existants sur l'avenue Locard et l'avenue des Saules. Avant l'aménagement de le rue Dubois Crancé, nous recommandons de passer par l'Est de l'avenue des Saules et la voie verte sur trottoir Ouest de l'avenue Jean Jaurès.
+::
 
 #### Traversée de Pierre-Bénite
 Cette section sera totalement réaménagée, avec une sécurisation du carrefour Chardon très accidentogène, et la création d'une double piste cyclable bilatérale axiale végétalisée de 2.5m de large chacune au centre de la chaussée sur le boulevard de l'Europe. Au Sud, le giratoire des Mûriers sera repris pour devenir un véritable giratoire à la hollandaise permettant de sécuriser les cheminements vélo sur cet échangeur autoroutier.
@@ -166,8 +191,12 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Les travaux préalables sur les réseaux souterrains ont commencé fin août 2024 et continueront jusqu'en octobre 2024, avant d'enchainer en novembre avec les travaux d'aménagement jusque mi-2026.
+::
+
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.
+La concertation publique sur ce tronçon s'est tenue du 19/09 au 21/10/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3Sud_Pont%20Mulati%c3%a8re_Barrage%20CNR.pdf)
 
 
@@ -183,13 +212,13 @@ Initialement porté par la Région Auvergne-Rhône-Alpes, le projet avait fait l
 ::
 
 #### Pour en savoir plus
-La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.
-[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_201906.pdf)
+La concertation publique sur ce tronçon, organisée par la Région Auvergne-Rhône-Alpes, s'est tenue du 04/06 au 28/06/2019.\
+[Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_201906.pdf)\
 [Voir le bilan de la concertation publique.](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_Bilan201912.pdf)
 
-L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s'est tenue du 27/09 au 27/10/2021.
-[Voir le rapport de la commission de l'enquête publique](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_EnquetePublique202111.pdf)
-[Voir la réponse de la Région au rapport de la commission d'enquête](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_ReponseRegionEnquetePublique202112.pdf)
+L'enquête préalable à la déclaration d’utilité publique sur ce tronçon s'est tenue du 27/09 au 27/10/2021.\
+[Voir le rapport de la commission de l'enquête publique](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_EnquetePublique202111.pdf)\
+[Voir la réponse de la Région au rapport de la commission d'enquête](https://cyclopolis.lavilleavelo.org/vl3/VL3_ViaRhona_ReponseRegionEnquetePublique202112.pdf)\
 [Voir la délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrnofZUeuR6NXc4mHg89XdeHsg4lPRLipPME9MNyZ2%2BsxOnlPZg%2FlCIU)
 
 ### Givors Sud
@@ -200,7 +229,7 @@ Ce projet permet d'accueillir un tronçon isolé de la Voie Lyonnaise 3. Il n'es
 ::
 
 ::banner{type="wip"}
-Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux est prévue courant 2024 jusqu'au chemin de Freyssinet.
+Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux jusqu'au chemin de Freyssinet a débuté en juin 2024 et se poursuit jusqu'en novembre.
 ::
 
 ## Budget prévisionnel

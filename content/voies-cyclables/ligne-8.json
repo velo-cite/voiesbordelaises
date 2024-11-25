@@ -164,7 +164,7 @@
         "name": "La Tour de Salvagny - Ouest",
         "status": "postponed",
         "type": "voie-verte",
-        "link": "/reve-8#traversée-de-la-tour-de-salvagny"
+        "link": "/voie-lyonnaise-8#traversée-de-la-tour-de-salvagny"
       },
       "geometry": {
         "type": "LineString",
@@ -224,7 +224,7 @@
         "name": "La Tour de Salvagny - Centre",
         "status": "postponed",
         "type": "aucun",
-        "link": "/reve-8#traversée-de-la-tour-de-salvagny"
+        "link": "/voie-lyonnaise-8#traversée-de-la-tour-de-salvagny"
       },
       "geometry": {
         "type": "LineString",
@@ -259,15 +259,16 @@
           [4.71381046306351, 45.81549538033681]
         ]
       }
-    },
+    },    
     {
       "type": "Feature",
       "properties": {
         "line": 8,
         "name": "La Tour de Salvagny - Est",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "31/07/2024",
         "type": "voie-verte",
-        "link": "/reve-8#la-tour-de-salvagny-est-à-dardilly-montcourand"
+        "link": "/voie-lyonnaise-8#la-tour-de-salvagny-est-à-dardilly-montcourand"
       },
       "geometry": {
         "type": "LineString",
@@ -310,10 +311,7 @@
           [4.734700930624655, 45.80764139278878],
           [4.735609542307884, 45.80681364284908],
           [4.73597868127456, 45.8064728927595],
-          [4.736024604216311, 45.80630153332521],
-          [4.736897140110443, 45.805414598594865],
-          [4.737107621887105, 45.80519801275952],
-          [4.737242689363228, 45.805213077644595]
+          [4.736024604216311, 45.80630153332521]
         ]
       }
     },
@@ -322,13 +320,16 @@
       "properties": {
         "line": 8,
         "name": "Dardilly - RN7",
-        "status": "planned",
+        "status": "wip",
         "type": "voie-verte",
-        "link": "/reve-8#rd307-ancienne-route-nationale-7"
+        "link": "/voie-lyonnaise-8#rd307-ancienne-route-nationale-7"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [4.736024604216311, 45.80630153332521],
+          [4.736897140110443, 45.805414598594865],
+          [4.737107621887105, 45.80519801275952],
           [4.737242689363228, 45.805213077644595],
           [4.73760125925196, 45.804845416639694],
           [4.738015799534821, 45.8044122724761],
@@ -376,10 +377,10 @@
       "type": "Feature",
       "properties": {
         "line": 8,
-        "name": "Charbonnières-les-Bains",
+        "name": "Charbonnières-les-Bains Nord",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#traversée-de-charbonnières-les-bains"
+        "link": "/voie-lyonnaise-8#traversée-de-charbonnières-les-bains"
       },
       "geometry": {
         "type": "LineString",
@@ -396,6 +397,22 @@
           [4.748717630258255, 45.78510692840794],
           [4.7496451554022485, 45.783533777135204],
           [4.749750107678722, 45.78333893221205],
+          [4.749905040643256, 45.78301377381564]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "name": "Charbonnières-les-Bains Sud",
+        "status": "wip",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-8#traversée-de-charbonnières-les-bains"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.749905040643256, 45.78301377381564],
           [4.750013651225345, 45.782661631623796],
           [4.750157726524037, 45.78200059976527],
@@ -430,7 +447,7 @@
         "name": "Tassin - Route de Paris",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#tassin-montcelard-à-valvert"
+        "link": "/voie-lyonnaise-8#tassin-montcelard-à-valvert"
       },
       "geometry": {
         "type": "LineString",
@@ -473,7 +490,7 @@
         "name": "Boulevard du Valvert",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#tassin-valvert-à-victor-hugo"
+        "link": "/voie-lyonnaise-8#tassin-valvert-à-victor-hugo"
       },
       "geometry": {
         "type": "LineString",
@@ -549,7 +566,7 @@
         "status": "done",
         "doneAt": "31/12/2021",
         "type": "bidirectionnelle",
-        "link": "/reve-8#tassin-victor-hugo-à-république-hespérides"
+        "link": "/voie-lyonnaise-8#tassin-victor-hugo-à-république-hespérides"
       },
       "geometry": {
         "type": "LineString",
@@ -566,7 +583,7 @@
         "name": "Avenue Vincent Serre",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#tassin-victor-hugo-à-république-hespérides"
+        "link": "/voie-lyonnaise-8#tassin-victor-hugo-à-république-hespérides"
       },
       "geometry": {
         "type": "LineString",
@@ -593,7 +610,7 @@
         "name": "Carrefour des Hespérides",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#tassin-victor-hugo-à-république-hespérides"
+        "link": "/voie-lyonnaise-8#tassin-victor-hugo-à-république-hespérides"
       },
       "geometry": {
         "type": "LineString",
@@ -614,7 +631,7 @@
         "name": "Avenue Barthélémy Buyer",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#avenue-barthélémy-buyer"
+        "link": "/voie-lyonnaise-8#avenue-barthélémy-buyer"
       },
       "geometry": {
         "type": "LineString",
@@ -677,7 +694,7 @@
         "name": "Avenue Sidoine Apollinaire",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#avenue-apollinaire-et-quartier-de-la-gravière"
+        "link": "/voie-lyonnaise-8#avenue-apollinaire-et-quartier-de-la-gravière"
       },
       "geometry": {
         "type": "LineString",
@@ -699,12 +716,12 @@
         "name": "Lotissement La Gravière",
         "status": "planned",
         "type": "velorue",
-        "link": "/reve-8#avenue-apollinaire-et-quartier-de-la-gravière"
+        "link": "/voie-lyonnaise-8#avenue-apollinaire-et-quartier-de-la-gravière"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.804508885126735, 45.76157686777048],
+          [4.804508885126735, 45.76157686777048], 
           [4.804759215394199, 45.761609036008025],
           [4.805114589459748, 45.76166599760242],
           [4.805328517957378, 45.761700088217964],
@@ -716,7 +733,7 @@
           [4.806657921003193, 45.761735105201325],
           [4.8066982963419775, 45.761728097964465],
           [4.806902334963212, 45.761666585457675],
-          [4.807073549438741, 45.76160354099349],
+          [4.807073549438741, 45.76160354099349], 
           [4.807227669816768, 45.7615143935935],
           [4.807306487715891, 45.76141451531976],
           [4.80768554859489, 45.76153163084584],
@@ -741,7 +758,7 @@
         "status": "done",
         "doneAt": "01/04/2022",
         "type": "bilaterale",
-        "link": "/reve-12#rue-pierre-audry"
+        "link": "/voie-lyonnaise-12#rue-pierre-audry"
       },
       "geometry": {
         "type": "LineString",
@@ -767,7 +784,7 @@
         "name": "Trion - Quatre Colonnes",
         "status": "planned",
         "type": "bilaterale",
-        "link": "/reve-12#avenue-barthélémy-buyer-pierre-audry-à-trion"
+        "link": "/voie-lyonnaise-12#avenue-barthélémy-buyer-pierre-audry-à-trion"
       },
       "geometry": {
         "type": "LineString",
@@ -791,9 +808,9 @@
         "id": "StJust-commun",
         "line": 8,
         "name": "Saint-Just",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
-        "link": "/reve-12#traversée-de-saint-just"
+        "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
       "geometry": {
         "type": "LineString",
@@ -843,9 +860,9 @@
         "id": "ChNeuf-commun",
         "line": 8,
         "name": "Montée du Chemin Neuf",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
-        "link": "/reve-12#traversée-de-saint-just"
+        "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
       "geometry": {
         "type": "LineString",
@@ -889,9 +906,9 @@
         "id": "StJean-commun",
         "line": 8,
         "name": "Saint-Jean",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
-        "link": "/reve-12#traversée-de-saint-jean"
+        "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -915,7 +932,7 @@
         "name": "Avenue Adolphe Max",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#traversée-de-saint-jean"
+        "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -934,7 +951,7 @@
         "name": "Pont Bonaparte",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#traversée-de-la-presquîle-de-lyon"
+        "link": "/voie-lyonnaise-8#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
         "type": "LineString",
@@ -952,7 +969,7 @@
         "name": "Traversée Presqu'île (par Bellecour)",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#traversée-de-la-presquîle-de-lyon"
+        "link": "/voie-lyonnaise-8#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
         "type": "LineString",
@@ -972,7 +989,7 @@
         "name": "Traversée Presqu'île (par Perrache)",
         "status": "postponed",
         "type": "aucun",
-        "link": "/reve-8#traversée-de-la-presquîle-de-lyon"
+        "link": "/voie-lyonnaise-8#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
         "type": "LineString",
@@ -1020,7 +1037,7 @@
         "name": "Pont Guillotière - Pont Université",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#traversée-de-la-presquîle-de-lyon"
+        "link": "/voie-lyonnaise-8#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
         "type": "LineString",
@@ -1039,7 +1056,7 @@
         "name": "Pont de l'Université",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#pont-de-luniversité"
+        "link": "/voie-lyonnaise-8#pont-de-luniversité"
       },
       "geometry": {
         "type": "LineString",
@@ -1049,7 +1066,7 @@
           [4.8338006768830155,45.753082372135076]
         ]
       }
-    },
+    },    
     {
       "type": "Feature",
       "properties": {
@@ -1057,7 +1074,7 @@
         "name": "Rue de l'Université",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#rue-de-luniversité-et-rue-marc-bloch"
+        "link": "/voie-lyonnaise-8#rue-de-luniversité-et-rue-marc-bloch"
       },
       "geometry": {
         "type": "LineString",
@@ -1077,7 +1094,7 @@
         "name": "Rue Marc Bloch",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#rue-de-luniversité-et-rue-marc-bloch"
+        "link": "/voie-lyonnaise-8#rue-de-luniversité-et-rue-marc-bloch"
       },
       "geometry": {
         "type": "LineString",
@@ -1104,7 +1121,7 @@
         "name": "Garibaldi - CROUS",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#rue-de-luniversité-et-rue-marc-bloch"
+        "link": "/voie-lyonnaise-8#rue-de-luniversité-et-rue-marc-bloch"
       },
       "geometry": {
         "type": "LineString",
@@ -1121,7 +1138,7 @@
         "name": "Rue Camille Roy",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#rue-camille-roy"
+        "link": "/voie-lyonnaise-8#rue-camille-roy"
       },
       "geometry": {
         "type": "LineString",
@@ -1139,7 +1156,7 @@
         "name": "Rue et Pont de l'Epargne",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#rue-et-pont-de-lepargne"
+        "link": "/voie-lyonnaise-8#rue-et-pont-de-lepargne"
       },
       "geometry": {
         "type": "LineString",
@@ -1180,7 +1197,7 @@
         "name": "Rue Marius Berliet",
         "status": "postponed",
         "type": "voie-bus",
-        "link": "/reve-8#rue-marius-berliet"
+        "link": "/voie-lyonnaise-8#rue-marius-berliet"
       },
       "geometry": {
         "type": "LineString",
@@ -1208,7 +1225,7 @@
         "name": "Avenue Mermoz Ouest",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link" : "/reve-8#avenue-jean-mermoz"
+        "link" : "/voie-lyonnaise-8#avenue-jean-mermoz"
       },
       "geometry": {
         "type": "LineString",
@@ -1231,7 +1248,7 @@
         "name": "Avenue Mermoz - T6",
         "status": "postponed",
         "type": "bilaterale",
-        "link" : "/reve-8#avenue-jean-mermoz"
+        "link" : "/voie-lyonnaise-8#avenue-jean-mermoz"
       },
       "geometry": {
         "type": "LineString",
@@ -1259,7 +1276,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-8#avenue-mermoz-pinel-à-lionel-terray"
+        "link": "/voie-lyonnaise-8#avenue-mermoz-pinel-à-lionel-terray"
       },
       "geometry": {
         "type": "LineString",
@@ -1293,7 +1310,7 @@
         "name": "Rue Lionel Terray",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-8#rue-lionel-terray"
+        "link": "/voie-lyonnaise-8#rue-lionel-terray"
       },
       "geometry": {
         "type": "LineString",
@@ -1357,11 +1374,25 @@
           [4.912447499587898, 45.725772514830226],
           [4.912902048291073, 45.72573263529429],
           [4.913494104838094, 45.72558687141316],
-          [4.913779494578989, 45.725514178608734],
-          [4.913833267122385, 45.72543973129248],
-          [4.914260225578516, 45.725042267377376],
-          [4.914572397477883, 45.724755024374275],
-          [4.914927122417055, 45.72446083548425]
+          [4.913682237569532, 45.72553907335893]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 8,
+        "name": "Shunt Lionel Terray",
+        "status": "done",
+        "doneAt": "15/11/2024",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-8#rue-lionel-terray"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.913682237569532, 45.72553907335893],
+          [4.914901187214582, 45.724435940257024]
         ]
       }
     },
@@ -1370,20 +1401,19 @@
       "properties": {
         "line": 8,
         "name": "Branche Campus Parilly",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "15/11/2024",
         "type": "bidirectionnelle",
-        "link": "/reve-8#branche-vers-campus-sud"
+        "link": "/voie-lyonnaise-8#branche-vers-campus-sud"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.914927122417055, 45.72446083548425],
+          [4.914901187214582, 45.724435940257024],
           [4.915016674231566,45.7243289180646],
           [4.914999164304163,45.72402632369065],
           [4.9149286781595265,45.72322582543018],
-          [4.914658121329978,45.72243867004411],
-          [4.914912102180068,45.722367549225055],
-          [4.915225376302175,45.72195367700772]
+          [4.914658121329978,45.72243867004411]
         ]
       }
     },
@@ -1392,14 +1422,15 @@
       "properties": {
         "line": 8,
         "name": "Bron - Boulevard de l'Université",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "15/11/2024",
         "type": "bidirectionnelle",
-        "link": "/reve-8#boulevard-de-luniversité"
+        "link": "/voie-lyonnaise-8#boulevard-de-luniversité"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.914927122417055, 45.72446083548425],
+          [4.914901187214582, 45.724435940257024],
           [4.915060155921935,45.72454078052286],
           [4.915322148926606,45.72454423145885],
           [4.915529766024548,45.72433372399996],
@@ -1420,9 +1451,10 @@
       "properties": {
         "line": 8,
         "name": "Bron - Rue Paul Langevin",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "15/11/2024",
         "type": "voie-verte",
-        "link": "/reve-8#rue-paul-langevin"
+        "link": "/voie-lyonnaise-8#rue-paul-langevin"
       },
       "geometry": {
         "type": "LineString",
@@ -1445,9 +1477,10 @@
       "properties": {
         "line": 8,
         "name": "Bron - Porte des Alpes",
-        "status": "planned",
+        "status": "done",
+        "doneAt": "15/11/2024",
         "type": "bidirectionnelle",
-        "link": "/reve-8#cours-du-professeur-jean-bernard"
+        "link": "/voie-lyonnaise-8#cours-du-professeur-jean-bernard"
       },
       "geometry": {
         "type": "LineString",
@@ -1467,7 +1500,7 @@
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-8#cours-du-professeur-jean-bernard"
+        "link": "/voie-lyonnaise-8#cours-du-professeur-jean-bernard"
       },
       "geometry": {
         "type": "LineString",
@@ -1484,9 +1517,9 @@
       "properties": {
         "line": 8,
         "name": "Cours du Professeur Jean Bernard",
-        "status": "planned",
-        "type": "bilaterale",
-        "link": "/reve-8#cours-du-professeur-jean-bernard"
+        "status": "postponed",
+        "type": "bandes-cyclables",
+        "link": "/voie-lyonnaise-8#cours-du-professeur-jean-bernard"
       },
       "geometry": {
         "type": "LineString",

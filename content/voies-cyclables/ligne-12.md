@@ -27,6 +27,7 @@ Cet aménagement très attendu permettra d'enfin sécuriser les déplacements de
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/rue-sergent-berthet.png
 caption: Aperçu de la Voie Lyonnaise 12 - rue du Sergent Berthet (Lyon 9)
 credit: Métropole de Lyon
+streetView: 45.7712756,4.8054564,3a,75y,151.48h,90t
 ---
 ::
 
@@ -38,6 +39,7 @@ Cette rue a fait l'objet d'un vaste projet de requalification qui s'est achevé 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/pierre-audry.jpg
 caption: Photo de la Voie Lyonnaise 12 - rue Pierre Audry (Lyon 9)
 credit: Métropole de Lyon
+streetView: 45.7653309,4.8060854,3a,75y,143.07h,90t
 ---
 ::
 
@@ -56,7 +58,7 @@ Le projet a pour objectif d'élargir les trottoirs et de baisser très fortement
 La montée du Chemin Neuf pourrait être aménagée en vélorue avec un trafic automobile proche de zéro, si et seulement si sa fermeture à la circulation générale est décidée.
 
 ::banner{type="modified"}
-Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu un troisième scénario qui ne modifie pas le plan de circulation à l'intérieur du quartier de Saint-Just pour faciliter les déplacements des riverains. En revanche, le trafic de transit reste supprimé avec la fermeture de la montée du Chemin Neuf aux automobiles, et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy. Il sera d'abord expérimenté entre août 2024 et avril 2025.
+Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu un troisième scénario qui ne modifie pas le plan de circulation à l'intérieur du quartier de Saint-Just pour faciliter les déplacements des riverains. En revanche, le trafic de transit reste supprimé avec la fermeture de la montée du Chemin Neuf aux automobiles, et l'impossibilité de continuer tout droit en haut de la montée Saint-Barthélémy. Cette expérimentation a débuté mi-Août 2024 et durera 9 mois.
 ::
 
 ::content-image
@@ -64,16 +66,17 @@ Suite à la concertation, la Métropole a annoncé en février 2024 avoir retenu
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/rue-de-trion.png
 caption: Aperçu de la Voie Lyonnaise 12 - rue de Trion (Lyon 5)
 credit: Métropole de Lyon
+streetView: 45.7567455,4.8164702,3a,75y,326.99h,90t
 ---
 ::
 
 ### Traversée de Saint-Jean
 Dans le Vieux Lyon, la Voie Lyonnaise 12 empruntera la rue Tramassac puis la rue Jean Carries. Profitant de la fermeture de Chemin Neuf et de la suppression de la majorité du stationnement, ces deux rues pourront être aménagées en vélorue et fortement végétalisées avec un trafic automobile qui sera très faible.
 
-En arrivant devant le métro Saint-Jean, l'itinéraire emprunte l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
+En arrivant devant le :transport-link{type=métro line=D} Saint-Jean, l'itinéraire emprunte l'avenue Adolphe Max sur une piste cyclable bidirectionnelle côté Nord.
 
 ::banner{type="wip"}
-Les travaux auront lieu en 2025.
+Les travaux sur l'avenue Adolphe Max auront lieu fin 2025-début 2026.
 ::
 
 ### Traversée de la Presqu'Île de Lyon
@@ -86,11 +89,12 @@ En plus de la création de cet aménagement cyclable sécurisé, le projet prév
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/place-bellecour.png
 caption: Aperçu de la Voie Lyonnaise 12 - Place Bellecour (Lyon 2)
 credit: Métropole de Lyon
+streetView: 45.7582316,4.8331345,3a,75y,261.07h,90t
 ---
 ::
 
 ::banner{type="wip"}
-Les travaux auront lieu en 2025.
+Les travaux devraient globalement avoir lieu au premier semestre 2026.
 ::
 
 ### Pont de la Guillotière à Grange Blanche
@@ -102,7 +106,7 @@ L'aménagement prévu consiste à aménager une piste cyclable bidirectionnelle 
 Les différents carrefours majeurs de la section (place Gabriel Péri, Manufacture des Tabacs, place d'Arsonval) seront tous réaménagés pour permettre une traversée cyclable la plus sécurisée possible.
 
 ::banner{type="modified"}
-Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d’urgence qui relient l'hypercentre et l'hôpital Edouard Herriot de circuler en toute circonstance. Les travaux auront lieu en 2025.
+Contrairement à ce qui était annoncé lors de la concertation, la Métropole a annoncé le 29 février 2024 que la bande technique végétalisée entre la piste cyclable et la voirie serait supprimée de manière à élargir la voirie pour permettre aux différents véhicules d’urgence qui relient l'hypercentre et l'hôpital Edouard Herriot de circuler en toute circonstance.
 ::
 
 ::content-image
@@ -110,6 +114,7 @@ Contrairement à ce qui était annoncé lors de la concertation, la Métropole a
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/place-gabriel-peri.png
 caption: Aperçu de la Voie Lyonnaise 12 - place Gabriel Péri (Lyon 7)
 credit: Métropole de Lyon
+streetView: 45.7552461,4.8429654,3a,75y,119.8h,90t
 ---
 ::
 
@@ -118,14 +123,23 @@ credit: Métropole de Lyon
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 caption: Aperçu de la Voie Lyonnaise 12 - Cours Gambetta (Lyon 7)
 credit: Métropole de Lyon
+streetView: 45.752313,4.8515856,3a,75y,295h,90t
 ---
+::
+
+::banner{type="wip"}
+Les travaux devraient commencer début 2025 et durer jusqu'au début de l'année 2026.
 ::
 
 ### Place d'Arsonval
 Le projet prévoit la création d'une piste cyclable bidirectionnelle au nord de cette place, pour relier les aménagements cyclables prévus à l'Ouest (Cours Gambetta) et à l'Est (Avenue Rockefeller).
 
 ::banner{type="unsecured"}
-Après des échanges avec les services de secours et l'hôpital Edouard Herriot, la Métropole de Lyon a annoncé le 29 février 2024 que cet aménagement cyclable était reporté à un prochain mandat et remplacé par un anneau unidirectionnel réservé aux bus, taxis, véhicules de secours et vélos sur la voie de droite. La place d'Arsonval va donc rester un point noir majeur pour les cyclistes du secteur. Si l'ajout de cette voie bus est une amélioration par rapport à l'existant, elle reste dangereuse et partagée avec des véhicules lourds. Cette zone restera donc un frein au développement du vélo vers l'Est de l'agglomération pendant encore de nombreuses années. Les travaux auront lieu en 2025.
+Après des échanges avec les services de secours et l'hôpital Edouard Herriot, la Métropole de Lyon a annoncé le 29 février 2024 que cet aménagement cyclable était reporté à un prochain mandat et remplacé par un anneau unidirectionnel réservé aux bus, taxis, véhicules de secours et vélos sur la voie de droite. La place d'Arsonval va donc rester un point noir majeur pour les cyclistes du secteur. Si l'ajout de cette voie bus est une amélioration par rapport à l'existant, elle reste dangereuse et partagée avec des véhicules lourds. Cette zone restera donc un frein au développement du vélo vers l'Est de l'agglomération pendant encore de nombreuses années.
+::
+
+::banner{type="wip"}
+Les travaux auront lieu au premier semestre 2025.
 ::
 
 ### Grange Blanche à Boulevard Pinel
@@ -141,11 +155,17 @@ Entre le boulevard Ambroise Paré et le boulevard Pinel, l'avenue Rockefeller es
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/av-rockfeller.png
 caption: Aperçu de la Voie Lyonnaise 12 - avenue Rockefeller (Lyon 3/Lyon 8)
 credit: Métropole de Lyon
+streetView: 45.7399229,4.8893137,3a,75y,98.22h,90t
 ---
 ::
 
 ::banner{type="info"}
-Afin de confirmer le bon fonctionnement de la mise en sens unique de Rockefeller sur la portion Paré-Pinel, une expérimentation aura lieu entre fin 2024 et l'été 2025. Ailleurs, les travaux débuteront courant 2025.
+Afin de confirmer le bon fonctionnement de la mise en sens unique de Rockefeller sur la portion Paré-Pinel, une expérimentation a lieu entre fin octobre 2024 et avril 2025.
+::
+
+::banner{type="wip"}
+Entre Grange Blanche et la rue Viala, les travaux auront lieu entre début 2025 et l'été 2025.\
+Si l'expérimentation de la mise à sens unique est concluante, les travaux définitifs entre la rue Viala et le boulevard Pinel auront lieu entre l'été et l'automne 2025.
 ::
 
 ### Boulevard Pinel à Bron - Boutasse
@@ -156,6 +176,7 @@ Sur l'avenue Franklin Roosevelt à l'Ouest du périphérique, la piste cyclable 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl12/av-franklin-roosevelt.png
 caption: Aperçu de la Voie Lyonnaise 12 - avenue Franklin Roosevelt (Bron)
 credit: Métropole de Lyon
+streetView: 45.7372552,4.8974954,3a,75y,120.06h,90t
 ---
 ::
 
@@ -163,12 +184,12 @@ La traversée du périphérique sera améliorée avec la suppression d'une des 3
 
 Au niveau de l'arrêt Boutasse, la voirie sera élargie au Nord via la démolition des bâtiments actuel. Cela permettra d'aménager une piste cyclable bidirectionnelle de 4m de ce côté. Enfin, le giratoire de la Boutasse sera transformé en carrefour à feux et un cheminement cyclable sécurisé en fera le tour pour desservir l'ensemble des rues qui y convergent.
 
-::banner{type="wip"}
-Les travaux auront lieu en 2026.
+::banner{type="postponed"}
+Lors de la réunion publique consacrée au quartier des Essarts du 20/06/2024, la Métropole de Lyon a annoncé que ce tronçon sera finalement reporté à un mandat ultérieur à cause de l'opposition non constructive de la mairie de Bron. Les cyclistes continueront donc à utiliser la piste cyclable existante en conflit avec les piétons aux arrêts de tramway, et le giratoire de la Boutasse restera très routier et anxiogène pour les modes actifs.
 ::
 
 ### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.
+La concertation publique sur ce tronçon s'est tenue du 27/02 au 21/04/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl12/VL12_Valmy_Bron.pdf)
 
 ## Calendrier prévisionnel

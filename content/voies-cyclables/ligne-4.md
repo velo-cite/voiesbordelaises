@@ -30,7 +30,9 @@ streetView: 45.8269269,4.7562217,3a,90y,332.82h,76.54t
 Après consultation du Dossier de Consultation des Entreprises disponible publiquement en avril-mai 2024 sur [cette page](https://www.marches-publics.info/mpiaws/index.cfm?fuseaction=dematEnt.choixDCE&IDM=1448259&XFAOK=dce.verifLotsDCE), nous constatons qu'un petit tronçon de 450m entre le giratoire de la Chicotière et la bretelle de sortie vers la gare de Dommartin-Lissieu ne sera pas aménagé sur ce mandat. Sur cette portion, les cyclistes continueront donc à circuler en bordure d'une 2x2 voies avec une piste cyclable étroite vers Lissieu et aucun aménagement vers Dardilly.
 ::
 
-entre l'automne 2023 et fin mars 2024.
+::banner{type="wip"}
+Les travaux sur cette section commencent en décembre 2024 et continueront par section jusqu'à fin 2025.
+::
 
 #### Porte de Lyon
 *via Parc Relais TCL et pont sur A6*
@@ -46,19 +48,24 @@ streetView: 45.8214606,4.7641739,3a,75y,100.21h,90t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux sur cette section commencent en novembre 2024 et continueront par section jusqu'en juin 2025.
+::
+
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 24/11 au 23/12/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl4/VL4Nord_Lissieu_La%20Garde.pdf)
 
-::banner{type="wip"}
-Les travaux sur ce tronçon vont débuter en octobre 2024 et se prolongeront jusqu'en fin d'année 2025.
-::
-
 ### La Garde - Porte de Lyon à Mouillard - Porte de Vaise
 *via Techlid et Champagne-au-Mont-d'Or*
 
-#### Avenue Porte de Lyon à Chemin de St-Didier
-Depuis le [giratoire de la porte de Lyon](https://www.google.com/maps/search/45.821406,+4.766743), la Voie Lyonnaise 4 continue de suivre la D306 en direction du Sud. Elle prendra la forme d'une piste cyclable bidirectionnelle de 3m de large située côté Est, à la place d'un des deux couloirs bus. L'emplacement des couloirs bus sera optimisé de manière à ne pas impacter la performance des lignes de transport en commun du secteur. L'ensemble des carrefours seront sécurisés, et en particulier le lien vers la zone d'emploi de Techlid côté Ouest. Le giratoire du Puy d'Or vers Limonest et le rond point des Monts d'Or au Sud seront réaménagés dans une configuration hollandaise pour sécuriser leurs traversées.
+#### Avenue Porte de Lyon à Avenue de Montlouis
+Depuis le [giratoire de la porte de Lyon](https://www.google.com/maps/search/45.821406,+4.766743), la Voie Lyonnaise 4 devait suivre la D306 en direction du Sud. Elle aurait pris la forme d'une piste cyclable bidirectionnelle de 3m de large située côté Est, à la place d'un des deux couloirs bus. L'emplacement des couloirs bus aurait été optimisé de manière à ne pas impacter la performance des lignes de transport en commun du secteur. L'ensemble des carrefours auraient été sécurisés, et en particulier le lien vers la zone d'emploi de Techlid côté Ouest. Le giratoire du Puy d'Or vers Limonest et le rond point des Monts d'Or au Sud auraient été réaménagés dans une configuration hollandaise pour sécuriser leurs traversées.
+
+::banner{type="postponed"}
+Suite à la vive opposition caricaturale et infondée de la mairie de Limonest, la Voie Lyonnaise 4 ne sera pas aménagée sur le territoire de la commune entre le giratoire de la Porte de Lyon et la rue Sans Souci. Les deux carrefours aux extremités de ce tronçon abandonné seront tout de même aménagés et sécurisés au mieux pour assurer la transition entre les couloirs de bus bilatéraux et la piste cyclable bidirectionnelle côté Nord.\
+C'est une terrible décision pour les habitants de Limonest et les milliers de salariés du Techlid qui souhaiteraient pouvoir se déplacer en vélo en sécurité et qui devront continuer à partager un couloir avec les bus, les taxis et les véhicules de secours sur près de 2km.
+::
 
 ::content-image
 ---
@@ -70,13 +77,13 @@ streetView: 45.800433,4.7867128,3a,75y,163.52h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux devraient commencer courant 2025 et durer environ un an.
+Les travaux sur la commune de Champagne entre la rue Sans Souci et l'avenue de Montlouis commenceront en décembre 2024 et continueront par sections jusqu'à début 2026.
 ::
 
-#### Chemin de St-Didier à Rue Juttet
+#### Avenue de Montlouis à Rue Juttet
 Cette section faisait l'objet de 2 variantes pendant la concertation :
-- par avenue Lanessan, trajet le plus direct et le plus court, qui impliquait une suppression du stationnement côté Nord pour y insérer une piste cyclable bidirectionnelle de 2.40m de large, et une reprise de l'aménagement récent au Sud de la place Monnier, qui est la section la plus étroite et qui nécessitait de réduire la largeur des terrasses et zones de stationnement côté Ouest pour conserver un double sens de circulation générale.
-- par avenue de Montlouis, puis boulevard de la République et rue de la Mairie, avec une voie verte sur trottoir de 4m de large côté Sud sur Montlouis, une piste cyclable bidirectionnelle de 3.25m de large côté Est sur République qui implique une mise à sens unique de la rue et qui continue au Sud de la rue de la Mairie pour rejoindre l'avenue Lanessan via la place de la Liberté.
+ - par avenue Lanessan, trajet le plus direct et le plus court, qui impliquait une suppression du stationnement côté Nord pour y insérer une piste cyclable bidirectionnelle de 2.40m de large, et une reprise de l'aménagement récent au Sud de la place Monnier, qui est la section la plus étroite et qui nécessitait de réduire la largeur des terrasses et zones de stationnement côté Ouest pour conserver un double sens de circulation générale.
+ - par avenue de Montlouis, puis boulevard de la République et rue de la Mairie, avec une voie verte sur trottoir de 4m de large côté Sud sur Montlouis, une piste cyclable bidirectionnelle de 3.25m de large côté Est sur République qui implique une mise à sens unique de la rue et qui continue au Sud de la rue de la Mairie pour rejoindre l'avenue Lanessan via la place de la Liberté.
 
 ::banner{type="info"}
 La concertation a fait remonter de vifs débats sur les variantes, avec des commerçants craignant de voir leur chiffre d'affaire chuter avec la variante Lanessan (malgré l'unanimité des études démontrant le contraire), et d'autres usagers qui déploraient le détour par République qui sera peu incitatif et qui ne sécurise pas le centre-ville de Champagne pour les modes actifs.
@@ -96,21 +103,21 @@ streetView: 45.795975,4.7877227,3a,75y,343.47h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux devraient avoir lieu au premier semestre 2025 et durer 4 à 5 mois.
+Les travaux devraient commencer en mars 2025 et durer jusqu'en septembre 2025.
 ::
 
 #### Rue Juttet à Avenue de Champagne
 Sur cette section, la Voie Lyonnaise 4 empruntera l'avenue Lanessan sous la forme d'une piste cyclable bidirectionnelle de 3m de large côté Est, en lieu et place du stationnement existant. Le carrefour avec l'avenue de Champagne sera entièrement réaménagé pour sécuriser le lien avec le quartier de la Duchère.
 
 ::banner{type="wip"}
-Les travaux devraient avoir lieu au premier semestre 2025 et durer environ un mois.
+Les travaux devraient commencer en juillet 2025 et durer jusqu'en début d'année 2026.
 ::
 
 #### Avenue du 25e Régiment de Tirailleurs Sénégalais
 Cette portion en pente sera totalement réaménagée : une piste cyclable bidirectionnelle de 3.60m de large sera créée côté Est, et séparée d'une voirie routière à double-sens par une large bande végétalisée. Elle rejoindra le carrefour de la rue Mouillard au niveau de la Porte de Vaise.
 
 ::banner{type="wip"}
-Les travaux préalables sur les réseaux souterrains ont eu lieu entre mars et août 2024, puis enchainent avec les travaux d'aménagement entre l'automne 2024 et l'été 2025.
+Les travaux préalables sur les réseaux souterrains ont eu lieu entre mars et août 2024, puis enchainent avec les travaux d'aménagement entre octobre 2024 et juin 2025.
 ::
 
 #### *Concertation*
@@ -159,9 +166,9 @@ Dans le **tunnel mode doux de la Croix-Rousse**, la Métropole prévoit de conse
 
 ::banner{type="info"}
 La Ville à Vélo demande au SYTRAL d'étudier la possibilité de dévier les bus diesel de la ligne C6 dans le tunnel routier pour :
-- élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers
-- arrêter d'exposer les piétons et cyclistes à la pollution aux particules fines des bus, dans un contexte de hausse de la fréquence du C6 aux heures de pointes dans ce tunnel qui porte aujourd’hui bien mal son nom.
-  ::
+ - élargir au plus tôt la piste existante de 3m dans le tunnel mode doux dans un contexte de trafic en hausse continue et de forts différentiels de vitesse menant à des dépassements dangereux et des accidents graves réguliers
+ - arrêter d'exposer les piétons et cyclistes à la pollution aux particules fines des bus, dans un contexte de hausse de la fréquence du C6 aux heures de pointes dans ce tunnel qui porte aujourd’hui bien mal son nom.
+::
 
 Sur le **pont de Lattre de Tassigny**, le projet permettra l'élargissement de la piste bidirectionnelle actuelle côté Nord qui passera à 4m de large à la place d'une voie de circulation automobile.
 
@@ -195,14 +202,14 @@ streetView: 45.7725923,4.8562026,3a,75y,270.71h,90t
 ::
 
 #### Cours André Philip et rue Francis de Pressensé
-Les deux pistes unidirectionnelles de chaque côté de l'alignement d'arbres se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle de 3.50m de large avant d'arriver sur le rond-point des Charpennes. La Voie Lyonnaise 4 se prolonge ensuite sous la forme d'une piste bidirectionnelle d'environ 4m de large sur la rue Francis de Pressensé.
+Les deux pistes unidirectionnelles de chaque côté de l'alignement d'arbres se prolongent côté Villeurbanne sur le début du cours André Philip. Elles se rassemblent en une piste bidirectionnelle de 3.50m de large après la traversée des rails de tramway. La Voie Lyonnaise 4 se prolonge ensuite sous la forme d'une piste bidirectionnelle de 3 à 4m de large sur la rue Francis de Pressensé, hormis un pincement entre 2m50 et 3m entre les rues Branly et Bernoux.
 
-Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera réaménagé avec un anneau cyclable, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.
+Les carrefours dangereux seront sécurisés : le giratoire des Charpennes sera réaménagé avec un demi-anneau cyclable côté Nord, tandis que le giratoire de la rue d'Alsace et du cours de la République seront transformés en carrefours à feux.
 
-Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. <!--Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.-->
+Ce projet nécessite la suppression du stationnement du côté de la piste cyclable sur l'ensemble du linéaire de tronçon. En outre, il implique la  mise en sens unique du cours André Philip à l'Est de la rue Bât Yam et sur l'ensemble de la rue Francis de Pressensé. Les sens de circulation définitifs retenus par la Métropole convergent vers le cours de la République.
 
 ::banner{type="wip"}
-Les travaux commenceront en novembre 2024 et avanceront progressivement par tronçon de l'Est vers l'Ouest jusqu'en fin d'année 2025.
+Les travaux ont commencé fin novembre 2024 et avanceront progressivement par tronçon de l'Est vers l'Ouest jusqu'en fin d'année 2025.
 ::
 
 ::banner{type="info"}
@@ -231,16 +238,16 @@ streetView: 45.7718908,4.8734156,3a,75y,276.55h,90t
 - au moins **23 752 000 € HT** connus dont :
 
   - **9 200 000 € HT** pour le tronçon Lissieu à Parc Relais - Porte de Vaise
-    <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278910/d542719018444985_6070.pdf)*
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278910/d542719018444985_6070.pdf)*
 
   - **9 252 000 € HT** pour le tronçon du Parc Relais - Porte de Lyon à Mouillard - Porte de Vaise
-    <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363227760188130_6291.pdf)*
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278909/d363227760188130_6291.pdf)*
 
--  **1 000 000 € HT** pour le tronçon central (pont Clémenceau à avenue Verguin)
-   <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrlzrDjrXmLxiZr7Y2VVWXnfBHPF8XlIiq8H6s%2BQkgCsyNfTSYath86%2F)*
+ -  **1 000 000 € HT** pour le tronçon central (pont Clémenceau à avenue Verguin)
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrlzrDjrXmLxiZr7Y2VVWXnfBHPF8XlIiq8H6s%2BQkgCsyNfTSYath86%2F)*
 
--  **4 300 000 € HT** pour le tronçon est (avenue Verguin à rue Flachet via Pressensé)
-   <br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278912/d554034993937205_7947.pdf)*
+  -  **4 300 000 € HT** pour le tronçon est (avenue Verguin à rue Flachet via Pressensé)
+<br>*source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_278912/d554034993937205_7947.pdf)*
 
 
 

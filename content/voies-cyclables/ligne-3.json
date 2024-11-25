@@ -99,7 +99,7 @@
         "name": "Grand Veissieux",
         "status": "postponed",
         "type": "aucun",
-        "link": "/reve-3#quincieuxgenay-à-lîle-barbe"
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -122,7 +122,7 @@
           [4.750464825916424, 45.92315474009709]
         ]
       }
-    },
+    },    
     {
       "type": "Feature",
       "properties": {
@@ -130,7 +130,7 @@
         "name": "Route du Grand Veissieux",
         "status": "postponed",
         "type": "bandes-cyclables",
-        "link": "/reve-3#quincieuxgenay-à-lîle-barbe"
+        "link": "/voie-lyonnaise-3#quincieuxgenay-à-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -167,10 +167,42 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Quincieux - Neuville-sur-Saône",
+        "name": "Quincieux",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/reve-3#quincieux-à-neuville"
+        "link": "/voie-lyonnaise-3#quincieux-à-neuville"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.805735086496611, 45.88954516276999],
+          [4.805013944985944, 45.891506219861895],
+          [4.80276774297667, 45.89409220881464],
+          [4.801139760345222, 45.897804120542844],
+          [4.79915600610633, 45.90244685110278],
+          [4.798441696513294, 45.90309686881642],
+          [4.79638634705168, 45.90470872518938],
+          [4.795356090601331, 45.905960904139334],
+          [4.7941472589827185, 45.90797771836995],
+          [4.793046364763455, 45.90885841818664],
+          [4.788822883348843, 45.91117628812225],
+          [4.786895891625306, 45.912182436747315],
+          [4.778983539216, 45.915861938249435],
+          [4.777871139592833, 45.9163245067478],
+          [4.777464385121135, 45.916453731899566],
+          [4.776460367608593, 45.916706785865514],
+          [4.775082910791525, 45.91698583216257]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "St-Germain-au-Mont-d'Or",
+        "status": "planned",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-3#quincieux-à-neuville"
       },
       "geometry": {
         "type": "LineString",
@@ -197,23 +229,7 @@
           [4.807880792922788, 45.88718452887764],
           [4.8064545780562185, 45.88853163902152],
           [4.805861517967713, 45.88937851937223],
-          [4.805735086496611, 45.88954516276999],
-          [4.805013944985944, 45.891506219861895],
-          [4.80276774297667, 45.89409220881464],
-          [4.801139760345222, 45.897804120542844],
-          [4.79915600610633, 45.90244685110278],
-          [4.798441696513294, 45.90309686881642],
-          [4.79638634705168, 45.90470872518938],
-          [4.795356090601331, 45.905960904139334],
-          [4.7941472589827185, 45.90797771836995],
-          [4.793046364763455, 45.90885841818664],
-          [4.788822883348843, 45.91117628812225],
-          [4.786895891625306, 45.912182436747315],
-          [4.778983539216, 45.915861938249435],
-          [4.777871139592833, 45.9163245067478],
-          [4.777464385121135, 45.916453731899566],
-          [4.776460367608593, 45.916706785865514],
-          [4.775082910791525, 45.91698583216257]
+          [4.805735086496611, 45.88954516276999]
         ]
       }
     },
@@ -224,7 +240,7 @@
         "name": "Pont de Neuville-sur-Saône",
         "status": "postponed",
         "type": "aucun",
-        "link": "/reve-3#massieux-à-neuville"
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
         "type": "LineString",
@@ -232,7 +248,9 @@
           [4.8355811008772775, 45.87678084242725],
           [4.835635060368276, 45.87678481654882],
           [4.83813914577766, 45.87697821322175],
-          [4.838249739706839, 45.877002861354015]
+          [4.838249739706839, 45.877002861354015],
+          [4.838266913239508, 45.87706420189066],
+          [4.838303652730474, 45.87711881230217]
         ]
       }
     },
@@ -240,20 +258,82 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Neuville - Quais de Saône",
-        "status": "planned",
-        "type": "zone-de-rencontre",
-        "link": "/reve-3#massieux-à-neuville"
+        "name": "Neuville - Accès parking berges",
+        "status": "done",
+        "doneAt": "31/12/2019",
+        "type": "velorue",
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.838249796365261, 45.87700276084317],
-          [4.838269313149823, 45.87712051995911],
-          [4.8365697867050415, 45.879164234730666],
-          [4.83516457820005, 45.879676012242925],
-          [4.834039110277473, 45.879943221636836],
-          [4.834916892397075, 45.881148860332246]
+          [4.838303652730474, 45.87711881230217],
+          [4.838226530070656, 45.877147676512394],
+          [4.838170798949669, 45.87721163079862],
+          [4.83794180156087, 45.87719750192498]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Neuville - Esplanade Jean Vilar",
+        "status": "done",
+        "doneAt": "25/02/2023",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.83794180156087, 45.87719750192498],
+          [4.837952397052147, 45.87730826539683],
+          [4.837886562810218, 45.87757881138124],
+          [4.83770485943953, 45.87792582537079],
+          [4.837372893991672, 45.87838102963801],
+          [4.836819214737545, 45.87888640154489],
+          [4.83616788180224, 45.879331370862914],
+          [4.835971086485081, 45.879394681475624],
+          [4.835996004972259, 45.879463780675394],
+          [4.8359709269895745, 45.87951056348726]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Neuville - Quai Armand Barbès",
+        "status": "done",
+        "doneAt": "25/02/2023",
+        "type": "velorue",
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.8359709269895745, 45.87951056348726],
+          [4.835315417961425, 45.879715316226665],
+          [4.834068354429007, 45.879987298732544]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Neuville - Rue Barrée",
+        "status": "done",
+        "doneAt": "25/02/2023",
+        "type": "zone-de-rencontre",
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.834068354429007, 45.879987298732544],
+          [4.834869778213545, 45.881081333983275]
         ]
       }
     },
@@ -264,18 +344,17 @@
         "name": "Neuville - Avenue Sadi Carnot",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/reve-3#massieux-à-neuville"
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.834916892397075, 45.881148860332246],
-          [4.834379909929169, 45.88193750037402],
-          [4.833485021450343, 45.884224580156626],
-          [4.832708482253423, 45.88546079905214],
-          [4.830206684705814, 45.88747792773063],
-          [4.828029595942098, 45.889249818892495],
-          [4.825596785059901, 45.89065348113678]
+          [4.834869778213545, 45.881081333983275],
+          [4.83454116193775, 45.881490763374586],
+          [4.834261262275334, 45.88195973756021],
+          [4.833466767966058, 45.88406574941283],
+          [4.832658285168691, 45.88540044475897],
+          [4.82990093883069, 45.88763039587079]
         ]
       }
     },
@@ -283,30 +362,42 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Genay - Rte de Trévoux",
+        "name": "Genay - Route de Trévoux",
         "status": "done",
         "doneAt": "30/04/2021",
         "type": "voie-verte",
-        "link": "/reve-3#massieux-à-neuville"
+        "link": "/voie-lyonnaise-3#massieux-à-neuville"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.825596785059901, 45.89065348113678],
-          [4.825081641785118, 45.89077391809289],
-          [4.824920356072283, 45.89119124482869],
+          [4.82990093883069, 45.88763039587079],
+          [4.827445484419627, 45.88961827117359],
+          [4.825701742599051, 45.89054231253846],
+          [4.8255271889990325, 45.89060570066391],
+          [4.825328618519535, 45.89059334351373],
+          [4.824933824172945, 45.89100474892187],
+          [4.825007988950773, 45.8911775232298],
+          [4.824227971116585, 45.892307087528366],
           [4.8236754792503405, 45.89289900123981],
-          [4.82189287737927, 45.89447392731515],
-          [4.821101279997805, 45.894992456657235],
-          [4.820651185648671, 45.89517909546632],
-          [4.820449113647356, 45.89568655733464],
-          [4.819447179593936, 45.89711636137753],
-          [4.817409257579641, 45.89902119911662],
+          [4.821829592410552, 45.89443220026459],
+          [4.821154572603433, 45.89501563812351],
+          [4.820661488815276, 45.895082093934775],
+          [4.820569392237616, 45.89520825269088],
+          [4.820634935501744, 45.89531828059114],
+          [4.820633792792094, 45.89543160890754],
+          [4.8204830279890984, 45.89570321845707],
+          [4.819371371065756, 45.89710247746328],
+          [4.818470253232192, 45.89811515270674],
+          [4.81751584279192, 45.89897715749669],
+          [4.817388497799428, 45.89904090796815],
+          [4.817181213899488, 45.899076842698136],
           [4.817019785974708, 45.899199707661325],
-          [4.816977061737646, 45.89959028838993],
-          [4.816608631873777, 45.9003703265106],
-          [4.816398426553974, 45.90094260482462],
-          [4.816303596984227, 45.901447800476575]
+          [4.817005085431589, 45.89936254652841],
+          [4.817057689341098, 45.89949496113303],
+          [4.816537397740916, 45.900644948028855],
+          [4.8164517191595735, 45.900944922723454],
+          [4.816343566437865, 45.90145011835381]
         ]
       }
     },
@@ -317,12 +408,12 @@
         "name": "Albigny-sur-Saône",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/reve-3#neuville-sur-saône-à-saint-rambert"
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.834096957012434, 45.85436127198426],
+          [4.834107756614684, 45.85434975951034],
           [4.834882824981577, 45.8567117382095],
           [4.8351399520766165, 45.859022105454926],
           [4.835169887939742, 45.861054842943275],
@@ -351,12 +442,12 @@
         "status": "done",
         "doneAt": "25/01/2023",
         "type": "bidirectionnelle",
-        "link": "/reve-3#neuville-sur-saône-à-saint-rambert"
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.831892251968384, 45.84692910117725],
+          [4.831902980804443, 45.8469253644433],
           [4.831779599189758, 45.847328930258776],
           [4.831790328025818, 45.84762039263795],
           [4.832047820091248, 45.84865544541195],
@@ -376,7 +467,7 @@
         "status": "done",
         "doneAt": "31/11/2019",
         "type": "bidirectionnelle",
-        "link": "/reve-3#neuville-sur-saône-à-saint-rambert"
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
@@ -395,9 +486,10 @@
       "properties": {
         "line": 3,
         "name": "Saint-Romain",
-        "status": "wip",
+        "status": "done",
+        "doneAt": "31/07/2024",
         "type": "bidirectionnelle",
-        "link": "/reve-3#neuville-sur-saône-à-saint-rambert"
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
@@ -421,29 +513,29 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Collonges - Gare",
+        "name": "Quai de la Libération",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-3#neuville-sur-saône-à-saint-rambert"
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.844643134484471, 45.83201244372516],
           [4.845832497556785, 45.83173613123345],
-          [4.847359994336557, 45.83104992944662]
+          [4.847387652311426, 45.831055576044875]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "FontaineBarbe-commun",
+        "id": "Collonges-commun",
         "line": 3,
-        "name": "Île barbe - Pont Leclerc",
+        "name": "Collonges",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-3#neuville-sur-saône-à-saint-rambert"
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
       },
       "geometry": {
         "type": "LineString",
@@ -496,8 +588,25 @@
           [4.840011247250175, 45.80385215339368],
           [4.8397114764978255, 45.803484874191014],
           [4.8393935790156775, 45.80315803188831],
-          [4.839045404666251, 45.802610507676874],
-          [4.838801834596239, 45.80199872284796],
+          [4.839157418246998, 45.802784532756064]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Barbe-commun",
+        "line": 3,
+        "name": "Quai Raoul Carrié",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-3#neuville-sur-saône-à-saint-rambert"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.839157418246998, 45.802784532756064],
+          [4.8387218248955435, 45.801766686008584],
           [4.838409706739142, 45.80135938729437],
           [4.837771654129028, 45.80075755554231],
           [4.836815194232855, 45.80022843351546],
@@ -509,12 +618,12 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "variante2",
+        "id": "StRambert-commun",
         "line": 3,
         "name": "Variante - Gde Rue de Saint Rambert",
         "status": "variante",
         "type": "velorue",
-        "link": "/reve-3#saint-rambert-à-pont-de-lîle-barbe"
+        "link": "/voie-lyonnaise-3#saint-rambert-à-pont-de-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -542,12 +651,12 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "StRambert-commun",
+        "id": "Carrié-commun",
         "line": 3,
         "name": "Variante - Quai Raoul Carrié",
         "status": "variante",
         "type": "inconnu",
-        "link": "/reve-3#saint-rambert-à-pont-de-lîle-barbe"
+        "link": "/voie-lyonnaise-3#saint-rambert-à-pont-de-lîle-barbe"
       },
       "geometry": {
         "type": "LineString",
@@ -562,15 +671,15 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Île Barbe - Laborde",
+        "name": "Quai Paul Sédallian",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-3#île-barbe-à-rue-antonin-laborde"
+        "link": "/voie-lyonnaise-3#île-barbe-à-rue-antonin-laborde-quai-sédallian"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.813299179077148, 45.78557924146629],
+          [4.81325626373291, 45.78554931463521],
           [4.814404249191284, 45.78730000723163],
           [4.8150694370269775, 45.788122963385696],
           [4.815702438354492, 45.78875139444901],
@@ -591,10 +700,10 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Laborde - Pont Schuman",
+        "name": "Quai du Commerce",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-3#rue-antonin-laborde-au-pont-clémenceau"
+        "link": "/voie-lyonnaise-3#rue-antonin-laborde-au-pont-clémenceau"
       },
       "geometry": {
         "type": "LineString",
@@ -616,7 +725,7 @@
         "name": "Quai Jaÿr Nord",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-3#rue-antonin-laborde-au-pont-clémenceau"
+        "link": "/voie-lyonnaise-3#rue-antonin-laborde-au-pont-clémenceau"
       },
       "geometry": {
         "type": "LineString",
@@ -641,12 +750,12 @@
         "name": "Quai Jaÿr Sud",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-3#rue-antonin-laborde-au-pont-clémenceau"
+        "link": "/voie-lyonnaise-3#rue-antonin-laborde-au-pont-clémenceau"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.808706294787697, 45.775022983964156],
+          [4.808707237243652, 45.775036521310206],
           [4.808527731066491, 45.77509981028865],
           [4.808323764659264, 45.77550568053769],
           [4.80777915558761,45.77690650986693]
@@ -657,18 +766,50 @@
       "type": "Feature",
       "properties": {
         "line": 3,
-        "name": "Pont Clemenceau - Pont Koenig",
-        "link": "/reve-3#pont-clémenceau-au-pont-koenig",
+        "name": "Quai Jaÿr Trémie",
+        "link": "/voie-lyonnaise-3#pont-clémenceau-au-pont-koenig",
         "type": "bidirectionnelle",
         "status": "planned"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.808707208292361, 45.7750202200743],
-          [4.808793763870483, 45.77464739768229],
-          [4.809195399284363, 45.77411983150463],
-          [4.8094260692596436, 45.77378682617064],
+          [4.808707237243652, 45.775036521310206],
+          [4.808658289530314, 45.77482922087245],
+          [4.809234141908888, 45.77406192601236]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Place du Port Mouton",
+        "link": "/voie-lyonnaise-3#pont-clémenceau-au-pont-koenig",
+        "type": "bidirectionnelle",
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.809234141908888, 45.77406192601236],
+          [4.809828572976301, 45.773393910281705]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Quai Arloing",
+        "link": "/voie-lyonnaise-3#pont-clémenceau-au-pont-koenig",
+        "type": "bidirectionnelle",
+        "status": "planned"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.809828572976301, 45.773393910281705],
           [4.810037612915039, 45.773165709785125],
           [4.811448454856873, 45.77193468156785],
           [4.812290668487549, 45.77029576292904],
@@ -682,7 +823,7 @@
       "properties": {
         "line": 3,
         "name": "Pont Koenig - Pont Bonaparte",
-        "link": "/reve-3#pont-koenig-au-pont-kitchener-marchand",
+        "link": "/voie-lyonnaise-3#pont-koenig-au-pont-kitchener-marchand",
         "type": "bidirectionnelle",
         "status": "wip"
       },
@@ -722,7 +863,7 @@
         "line": 3,
         "name": "Quai Fulchiron",
         "status": "done",
-        "link": "/reve-3#pont-koenig-au-pont-kitchener-marchand",
+        "link": "/voie-lyonnaise-3#pont-koenig-au-pont-kitchener-marchand",
         "doneAt": "31/12/2019",
         "type": "bidirectionnelle"
       },
@@ -749,7 +890,7 @@
         "name": "Quai des Etroits - Quai Jean-Jacques Rousseau",
         "status": "postponed",
         "type": "aucun",
-        "link": "/reve-3#quai-jean-jacques-rousseau-et-quai-des-etroits"
+        "link": "/voie-lyonnaise-3#quai-jean-jacques-rousseau-et-quai-des-etroits"
       },
       "geometry": {
         "type": "LineString",
@@ -771,30 +912,48 @@
           [4.813352823257446, 45.731748588469834],
           [4.813562035560608, 45.731362907390924],
           [4.814575910568237, 45.73078250851471],
-          [4.815332293510437, 45.7294494405193]
+          [4.8149651741207435, 45.73038767082417],
+          [4.815293115375653, 45.729812100139966]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "QuaiLiberation-commun",
+        "id": "CarrefourAqua-commun",
         "line": 3,
-        "name": "Quai de la Libération",
+        "name": "Carrefour Aquarium",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-3#pont-de-la-mulatière-au-barrage-de-pierre-bénite"
+        "link": "/voie-lyonnaise-3#pont-de-la-mulatière-au-barrage-de-pierre-bénite"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.815337657928467,45.729456929754214],
-          [4.815665327967224,45.7290793455451],
-          [4.816080626827045,45.72787636722866],
-          [4.81618008422717,45.72745452293236],
-          [4.816106100032769,45.72734229848851],
-          [4.816110345566095,45.727281045698874],
-          [4.8161502007688455,45.72724285638159]
+          [4.815293115375653, 45.729812100139966],
+          [4.815705143859731, 45.729011846851506]
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "QuaiLiberation-commun",
+        "line": 3,
+        "name": "La Mulatière - Quai de la Libération",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-3#pont-de-la-mulatière-au-barrage-de-pierre-bénite"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.815705143859731, 45.729011846851506],
+          [4.816080626827045, 45.72787636722866],
+          [4.81618008422717, 45.72745452293236],
+          [4.816106100032769, 45.72734229848851],
+          [4.816110345566095, 45.727281045698874],
+          [4.8161502007688455, 45.72724285638159]
         ]
       }
     },
@@ -804,7 +963,7 @@
         "line": 3,
         "name": "Quai Pierre Semard - Parc urbain",
         "status": "done",
-        "link": "/reve-3#quai-pierre-sémard",
+        "link": "/voie-lyonnaise-3#quai-pierre-sémard",
         "doneAt": "31/12/2019",
         "type": "voie-verte"
       },
@@ -828,9 +987,9 @@
       "properties": {
         "line": 3,
         "name": "Quai Semard - Points durs",
-        "link": "/reve-3#quai-pierre-sémard",
+        "link": "/voie-lyonnaise-3#quai-pierre-sémard",
         "type": "voie-verte",
-        "status": "planned"
+        "status": "wip"
       },
       "geometry": {
         "type": "LineString",
@@ -846,7 +1005,7 @@
         "line": 3,
         "name": "Quai Semard - Friche SNCF",
         "status": "done",
-        "link": "/reve-3#quai-pierre-sémard",
+        "link": "/voie-lyonnaise-3#quai-pierre-sémard",
         "doneAt": "31/12/2019",
         "type": "voie-verte"
       },
@@ -866,7 +1025,7 @@
         "name": "Quai Sémard - Péri Yzeron",
         "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-3#quai-pierre-sémard"
+        "link": "/voie-lyonnaise-3#quai-pierre-sémard"
       },
       "geometry": {
         "type": "LineString",
@@ -882,7 +1041,7 @@
         "id": "YzeronEst-commun",
         "line": 3,
         "name": "Berge Yzeron Est",
-        "link": "/reve-3#quartier-de-la-saulaie",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie",
         "status": "done",
         "doneAt": "31/12/2019",
         "type": "voie-verte"
@@ -905,7 +1064,7 @@
         "name": "Yzeron - Gare Oullins",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-3#quartier-de-la-saulaie"
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
       },
       "geometry": {
         "type": "LineString",
@@ -921,32 +1080,67 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "OullinsSaulaie-commun",
+        "id": "OullinsLocard-commun",
         "line": 3,
-        "name": "Oullins - La Saulaie",
-        "status": "planned",
+        "name": "Oullins - Avenue Locard",
+        "status": "done",
+        "doneAt": "25/01/2013",
         "type": "bidirectionnelle",
-        "link": "/reve-3#quartier-de-la-saulaie"
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [4.815123081207275, 45.7172359709913],
-          [4.8151445388793945, 45.71695599891663],
-          [4.815235733985901, 45.7163969869322],
-          [4.815324246883392, 45.715882915699105],
-          [4.815479815006256, 45.71493528930224],
-          [4.815670251846313, 45.71382096497764],
-          [4.817286015691224, 45.71401348810201],
-          [4.81740671671912, 45.71361453649226],
-          [4.81762354766434, 45.713244351560434],
-          [4.818173938738482, 45.71248959812788],
-          [4.818619506423801, 45.711971554564784],
-          [4.818940324236856, 45.71178211046319],
-          [4.819288607739097, 45.71166937999517],
-          [4.819684956199943, 45.71158062213708],
-          [4.819862531162993, 45.711565010936],
-          [4.81993574483792,45.711520632000436]
+          [4.8153115574453125, 45.71724764785938],
+          [4.815359540477999, 45.717230689870796],
+          [4.815386067680691, 45.71720648447229],
+          [4.815398262642361, 45.71714628639625],
+          [4.8159242620327225, 45.71393305685869],
+          [4.815988402129236, 45.71382570856283]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OullinsSaules-commun",
+        "line": 3,
+        "name": "Oullins - Avenue des Saules",
+        "status": "done",
+        "doneAt": "25/01/2013",
+        "type": "bilaterale",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.815988402129236, 45.71382570856283],
+          [4.817267726957937, 45.71396524612453]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OullinsCrance-commun",
+        "line": 3,
+        "name": "Oullins - Rue Dubois Crancé",
+        "status": "planned",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.817267726957937, 45.71396524612453],
+          [4.81742906961523, 45.713505281766004],
+          [4.818086559233677, 45.71252649002994],
+          [4.818586993120078, 45.71200277108274],
+          [4.818783853963005, 45.71184028687],
+          [4.818985827597814, 45.711737489103754],
+          [4.819813761206756, 45.71153237523109],
+          [4.81993574483792, 45.711520632000436]
         ]
       }
     },
@@ -957,7 +1151,7 @@
         "line": 3,
         "name": "Oullins - Avenue Jaurès",
         "status": "done",
-        "link": "/reve-3#quartier-de-la-saulaie",
+        "link": "/voie-lyonnaise-3#quartier-de-la-saulaie",
         "doneAt": "31/12/2019",
         "type": "voie-verte"
       },
@@ -979,9 +1173,9 @@
         "id": "PierreBeniteN-commun",
         "line": 3,
         "name": "Pierre Bénite Nord",
-        "status": "planned",
+        "status": "wip",
         "type": "voie-verte",
-        "link": "/reve-3#traversée-de-pierre-bénite"
+        "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
         "type": "LineString",
@@ -999,9 +1193,9 @@
         "id": "BoulEurope-commun",
         "line": 3,
         "name": "Boulevard de l'Europe",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-3#traversée-de-pierre-bénite"
+        "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
         "type": "LineString",
@@ -1024,9 +1218,9 @@
         "id": "A450-commun",
         "line": 3,
         "name": "Traversée A450",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-3#traversée-de-pierre-bénite"
+        "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite"
       },
       "geometry": {
         "type": "LineString",
@@ -1060,7 +1254,7 @@
         "line": 3,
         "name": "Chemin du Barrage",
         "status": "done",
-        "link": "/reve-3#traversée-de-pierre-bénite",
+        "link": "/voie-lyonnaise-3#traversée-de-pierre-bénite",
         "doneAt": "31/12/2019",
         "type": "voie-verte"
       },
@@ -1095,7 +1289,7 @@
         "name": "Irigny - Grigny Le Sablon par Berges du Rhône",
         "status": "postponed",
         "type": "aucun",
-        "link": "/reve-3#irigny-à-givorsvia-vernaison-et-grigny"
+        "link": "/voie-lyonnaise-3#irigny-à-givorsvia-vernaison-et-grigny"
       },
       "geometry": {
         "type": "LineString",
@@ -1465,7 +1659,7 @@
         "line": 3,
         "name": "Quai Rosenberg - Avenue Anatole France",
         "status": "done",
-        "link": "/reve-3#givors-sud",
+        "link": "/voie-lyonnaise-3#givors-sud",
         "doneAt": "15/12/2023",
         "type": "bidirectionnelle"
       },
@@ -1489,9 +1683,9 @@
       "properties": {
         "line": 3,
         "name": "Givors Sud",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-3#givors-sud"
+        "link": "/voie-lyonnaise-3#givors-sud"
       },
       "geometry": {
         "type": "LineString",
@@ -1500,8 +1694,23 @@
           [4.789397000058187,45.5763002055447],
           [4.790301739344329,45.57561997493761],
           [4.791001503466248,45.57502732902702],
-          [4.793555251480029,45.57289455486935],
-          [4.795201308075832,45.57151606507773],
+          [4.794162593375404,45.57240475995411]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 3,
+        "name": "Givors Freyssinet",
+        "status": "wip",
+        "type": "voie-verte",
+        "link": "/voie-lyonnaise-3#givors-sud"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.794162593375404,45.57240475995411],
           [4.79735602819872,45.56969195472354]
         ]
       }

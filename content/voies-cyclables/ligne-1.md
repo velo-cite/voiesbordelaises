@@ -14,7 +14,7 @@ cover: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-4.jpg
 
 *via Villeurbanne St-Jean*
 
-Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur tram T9 et la Voie Lyonnaise 5. Sa réalisation sera traitée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
+Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur :transport-link{type=tram line=9} et la :line-link{line=5 anchor=vaulx-en-velin-ouest}. Sa réalisation sera traitée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Il s'agira d'une piste cyclable bidirectionnelle de 3 à 4m de large située au Sud de la plateforme tramway. Elle traversera le Sud de la future ZAC Mas du Taureau à Vaulx-en-Velin et la quartier de St-Jean à Villeurbanne. Elle enjambera le canal de Jonage sur un nouvel ouvrage d'art, situé juste au Sud du pont actuel de Croix-Luizet.
 
@@ -27,14 +27,14 @@ streetView: 45.7832245,4.8937612,3a,75y,259.87h,90t
 ---
 ::
 
-La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.
-La concertation continue s'est déroulée de janvier 2022 à juin 2023.
-L'enquête publique a eu lieu du 4 septembre au 3 octobre 2023.
-Le projet a été validé et déclaré d'utilité publique le 26 février 2024.
+La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.\
+La concertation continue s'est déroulée de janvier 2022 à juin 2023.\
+L'enquête publique a eu lieu du 4 septembre au 3 octobre 2023.\
+Le projet a été validé et déclaré d'utilité publique le 26 février 2024.\
 [Voir la présentation du projet du tram T9](https://www.sytral.fr/625-tramway-t9.htm){:target="_blank"}
 
 ::banner{type="wip"}
-Les premiers travaux sur les réseaux débutent en février 2024, et s'enchaineront avec les travaux d'aménagement en 2025-2026.
+Les travaux préparatoires sur les réseaux ont lieu entre février et l'automne 2024, et s'enchaineront avec les travaux d'aménagement jusqu'à début 2026.
 ::
 
 ::content-image
@@ -51,14 +51,17 @@ streetView: 45.7842013,4.8861424,3a,75y,259.87h,90t
 
 *sur avenue Einstein et Boulevard du 11 Novembre*
 
-Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large sera créée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.
+Une nouvelle piste cyclable bidirectionnelle de 3.00 à 3.50m de large sera créée au nord du Boulevard du 11 novembre et de l'Avenue Albert Einstein à la place d'une voie de circulation.\
 Le trottoir actuellement partagé avec les vélos sera rendu aux seuls piétons.
 
 #### *Spécificités de ce tronçon*
 Le rond point de la Doua sera réaménagé en carrefour à feux à la hollandaise pour se connecter en sécurité aux bandes cyclables de la rue de la Doua.
-De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
 
-La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.
+::banner{type="postponed"}
+De manière transitoire, la VL1 empruntera la piste récemment aménagée sur l'avenue Jean Capelle à partir de la rue des Antonins. Elle sera déplacée sur l'avenue Einstein à l'horizon 2030, le temps de la démolition de certains bâtiments désaffectés côté Sud de l'avenue.
+::
+
+La concertation publique sur ce tronçon s'est tenue du 20/02 au 20/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Nord_11Nov_Einstein.pdf)
 
 ::content-image
@@ -70,6 +73,10 @@ streetView: 45.7793808,4.8620772,3a,75y,69.67h,90.63t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux devraient commencer début 2025 sur le boulevard du 11 Novembre et se poursuivre jusqu'à début 2026 sur l'avenue Einstein.
+::
+
 ### Stalingrad Nord
 Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard-stalingrad-nord"}.
 
@@ -78,18 +85,22 @@ Cette section est en tronçon commun avec la :line-link{line=2 anchor="boulevard
 *via Quais du Rhône rive gauche*
 
 #### Allée Achille Lignon
-Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large sera aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé sera créé entre le site propre bus et la nouvelle piste cyclable.
+Pour desservir le quartier de la Cité Internationale, une piste cyclable bidirectionnelle de 4m de large sera aménagée en enrobé sur la voie verte actuelle en sable stabilisé. Un nouveau cheminement piéton bien séparé sera créé entre le site propre bus et la nouvelle piste cyclable.\
 *Aucune information sur le calendrier des travaux n'a été rendue publique.*
+
+::banner{type="modified"}
+Après des études complémentaires de la Métropole, le scénario initial de création d'un nouveau cheminement parallèle pour séparer piétons et cyclistes s'est avéré plus complexe que prévu. En cause : les oeuvres d'art qui ponctuent l'espace végétalisé, ainsi que l'emprise importante de l'Amphithéâtre 3000. Il a donc été décidé de conserver dans un premier temps la voie verte actuelle avec un simple changement du revêtement stabilisé côté Ouest, remplacé par un enrobé lisse plus confortable pour tous. Nous déplorons ce choix qui va maintenir un fort conflit dans une zone très fréquentée par les piétons.
+::
 
 #### Quai de Grande-Bretagne et Quai de Serbie
 
 *(Tête d'Or <> Pont Morand)*
 
-Une piste cyclable de 4m de large a été créée sur une des voies de circulation du quai et l'allée cavalière a été rendue aux piétons, avec d'importants travaux de végétalisation.
+Une piste cyclable de 4m de large a été créée sur une des voies de circulation du quai et l'allée cavalière a été rendue aux piétons, avec d'importants travaux de végétalisation.\
 Cette section a été aménagée entre l'automne 2022 et l'hiver 2022/2023, et le marquage au sol a été réalisé fin février 2023.
 
 ::banner{type="info"}
-Une reprise ponctuelle est attendue de chaque côté du pont de Lattre de Tassigny au premier semestre 2024 pour améliorer la connexion avec les rampes vers les berges du Rhône.
+Une reprise ponctuelle a été réalisée de chaque côté du pont de Lattre de Tassigny en mars-avril 2024 pour améliorer la connexion avec les rampes vers les berges du Rhône.
 ::
 
 ::content-image
@@ -107,33 +118,48 @@ streetView: 45.7756491,4.8431614,3a,75y,14.38h,86.38t
 Cette section, qui concentre le trafic vélo le plus important de la Métropole (jusqu'à 18 000 vélos par jour), verra la piste cyclable existante être élargie à 4m sur une des 3 voies de circulation actuelles.
 
 ::banner{type="wip"}
-Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont lieu entre novembre 2023 et l'été 2024.
+Après des travaux préalables de désamiantage sur le quai Sarrail au printemps 2023, les travaux de réaménagement ont eu lieu entre novembre 2023 et juin 2024. La nouvelle piste est ouverte à la fin du mois.
+::
+
+::content-image
+---
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/VL1_Augagneur.jpg
+caption: Photo de la Voie Lyonnaise 1 - quai Augagneur (Lyon 3)
+credit: La Ville à Vélo
+streetView: 45.7573504,4.8407715,3a,75y,196.69h,85.05t
+---
 ::
 
 #### Quai Claude Bernard
 
 *(Pont de la Guillotière <> Pont Gallieni)*
 
-La piste cyclable existante a été décalée sur une des voies de circulation existante entre la piscine du Rhône et le pont de l'Université.
+La piste cyclable existante a été décalée sur une des voies de circulation existante entre la piscine du Rhône et le pont de l'Université.\
 Entre le pont de l'Université et le pont Gallieni une nouvelle piste cyclable de 3 à 4m de large a été créé sur une partie de l'allée cavalière puis sur une des voies de circulation.
+
+::banner{type="wip"}
 Après de nombreux contre-temps avec les Architectes des Batiments de France liés à la couleur de l'enrobé de la piste sur l'allée cavalière, cette section a finalement été réalisée entre mars et juin 2022.
-Elle a été inaugurée début juillet 2022.
+::
 
 ::content-image
 ---
-imageUrl: https://cyclopolis.lavilleavelo.org/vl1/quai-claude-bernard-2.jpg
-caption: Photo du 1er tronçon de la Voie Lyonnaise 1 - Quai Claude Bernard (Lyon 7)
-streetView: 45.7481215,4.8338698,3a,75y,42.05h,95.66t
+imageUrl: https://cyclopolis.lavilleavelo.org/vl1/VL1_ClaudeBernard.jpg
+caption: Photo de la Voie Lyonnaise 1 - Quai Claude Bernard (Lyon 7)
+credit: Métropole de Lyon
+streetView: 45.7502784,4.8356748,3a,75y,12.37h,82.36t
 ---
 ::
 
 #### Avenue Général Leclerc
-Une piste cyclable bidirectionnelle sera créée côté Rhône à la place d'une voie de circulation, dans la continuité des aménagements au Nord.
-A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Raymond Barre vers Confluence.
-*Aucune information sur le calendrier des travaux n'a été rendue publique.*
+Une piste cyclable bidirectionnelle sera créée côté Rhône à la place d'une voie de circulation, dans la continuité des aménagements au Nord.\
+A son extrémité Sud, elle rejoindra la piste cyclable qui traverse le pont Raymond Barre vers Confluence ou le pont de la Mulatière.\
+
+::banner{type="wip"}
+Les travaux devraient commencer au printemps 2025 et continuer jusqu'à l'été 2026.
+::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.
+La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl1/VL1Centre_TetedOr_HalleGarnier.pdf)
 
 
@@ -141,7 +167,7 @@ La concertation publique sur ce tronçon s'est tenue du 14/03 au 15/04/2022.
 
 *via Gerland et le nord de la vallée de la Chimie*
 
-Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur tram T10.
+Sur cette section, la Voie Lyonnaise 1 partagera son itinéraire avec le futur :transport-link{type=tram line=10}.
 Sa réalisation sera réalisée en même temps que la ligne de tramway, sous maitrise d'ouvrage SYTRAL Mobilités.
 
 Sur l'avenue Tony Garnier, entre l'avenue Debourg et l'avenue Jean Jaurès, il s'agira d'une piste cyclable bidirectionnelle de 3.20m de large située au centre de la chaussée actuelle au sein du double alignement arboré qui sert aujourd'hui de voie bus. Sur le reste de l'avenue, sa largeur sera de 4m.
@@ -165,7 +191,7 @@ streetView: 45.7125629,4.8448908,3a,75y,357.13h,90.44t
 ---
 ::
 
-Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit pétion sur l'extrémité Est. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
+Enfin, sur la rue Charles Plasse, il s'agira d'une piste de 3m de large côté Sud, qui sera pincée à 2.50m avec du conflit piéton sur l'extrémité Est. On notera un passage ponctuel sous la forme de deux pistes bilatérale de 1.60m de chaque côté d'un alignement d'arbres au nord de la rue St-Jean-de-Dieu.
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl1/rue-charles-plasse.jpeg
@@ -175,14 +201,14 @@ streetView: 45.7088794,4.8538795,3a,75y,320h,90t
 ---
 ::
 
-La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.
-La concertation continue s'est déroulée de janvier 2022 à février 2023.
-L'enquête publique a eu lieu du 13 mars au 14 avril 2023.
-Le projet a été validé et déclaré d'utilité publique le 10 octobre 2023.
+La concertation préalable sur ce projet a eu lieu du 23/08 au 23/10/2021.\
+La concertation continue s'est déroulée de janvier 2022 à février 2023.\
+L'enquête publique a eu lieu du 13 mars au 14 avril 2023.\
+Le projet a été validé et déclaré d'utilité publique le 10 octobre 2023.\
 [Voir la présentation du projet du tram T10](https://www.sytral.fr/634-tramway-t10.htm)
 
 ::banner{type="wip"}
-Les premiers travaux sur les réseaux ont débuté en septembre 2023 et se poursuivent en 2024. Ils laisseront place aux travaux d'aménagement en 2025-2026.
+Les travaux préparatoires sur les réseaux ont lieu entre septembre 2023 et l'automne 2024, et s'enchaineront avec les travaux d'aménagement jusqu'à début 2026. Les premiers travaux d'aménagement sur l'Ouest de l'avenue Tony Garnier ont débuté en mai 2024.
 ::
 
 ## Calendriers prévisionnels

@@ -100,7 +100,7 @@
         "name": "Place Valmy",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#valmy-à-place-de-trion"
+        "link": "/voie-lyonnaise-12#valmy-à-place-de-trion"
       },
       "geometry": {
         "type": "LineString",
@@ -117,7 +117,7 @@
         "name": "Rue du Sergent Berthet",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#rue-du-sergent-michel-berthet"
+        "link": "/voie-lyonnaise-12#rue-du-sergent-michel-berthet"
       },
       "geometry": {
         "type": "LineString",
@@ -143,7 +143,7 @@
         "status": "done",
         "doneAt": "01/04/2022",
         "type": "bilaterale",
-        "link": "/reve-12#rue-pierre-audry"
+        "link": "/voie-lyonnaise-12#rue-pierre-audry"
       },
       "geometry": {
         "type": "LineString",
@@ -170,7 +170,7 @@
         "status": "done",
         "doneAt": "01/04/2022",
         "type": "bilaterale",
-        "link": "/reve-12#rue-pierre-audry"
+        "link": "/voie-lyonnaise-12#rue-pierre-audry"
       },
       "geometry": {
         "type": "LineString",
@@ -196,7 +196,7 @@
         "name": "Trion - Quatre Colonnes",
         "status": "planned",
         "type": "bilaterale",
-        "link": "/reve-12#avenue-barthélémy-buyer-pierre-audry-à-trion"
+        "link": "/voie-lyonnaise-12#avenue-barthélémy-buyer-pierre-audry-à-trion"
       },
       "geometry": {
         "type": "LineString",
@@ -220,9 +220,9 @@
         "id": "StJust-commun",
         "line": 12,
         "name": "Saint-Just",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
-        "link": "/reve-12#traversée-de-saint-just"
+        "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
       "geometry": {
         "type": "LineString",
@@ -272,9 +272,9 @@
         "id": "ChNeuf-commun",
         "line": 12,
         "name": "Montée du Chemin Neuf",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
-        "link": "/reve-12#traversée-de-saint-just"
+        "link": "/voie-lyonnaise-12#traversée-de-saint-just"
       },
       "geometry": {
         "type": "LineString",
@@ -318,9 +318,9 @@
         "id": "StJean-commun",
         "line": 12,
         "name": "Saint-Jean",
-        "status": "planned",
+        "status": "tested",
         "type": "velorue",
-        "link": "/reve-12#traversée-de-saint-jean"
+        "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -344,7 +344,7 @@
         "name": "Avenue Adolphe Max",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#traversée-de-saint-jean"
+        "link": "/voie-lyonnaise-12#traversée-de-saint-jean"
       },
       "geometry": {
         "type": "LineString",
@@ -363,7 +363,7 @@
         "name": "Pont Bonaparte",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#traversée-de-la-presquîle-de-lyon"
+        "link": "/voie-lyonnaise-12#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
         "type": "LineString",
@@ -381,7 +381,7 @@
         "name": "Traversée Presqu'île (par Bellecour)",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#traversée-de-la-presquîle-de-lyon"
+        "link": "/voie-lyonnaise-12#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
         "type": "LineString",
@@ -400,7 +400,7 @@
         "name": "Pont de la Guillotière",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#pont-de-la-guillotière-à-grange-blanche"
+        "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
         "type": "LineString",
@@ -410,7 +410,7 @@
           [4.836761844916594,45.75730585999979]
         ]
       }
-    },
+    },    
     {
       "type": "Feature",
       "properties": {
@@ -418,7 +418,7 @@
         "name": "Cours Gambetta",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#pont-de-la-guillotière-à-grange-blanche"
+        "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
         "type": "LineString",
@@ -440,7 +440,7 @@
         "name": "Cours Albert Thomas",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#pont-de-la-guillotière-à-grange-blanche"
+        "link": "/voie-lyonnaise-12#pont-de-la-guillotière-à-grange-blanche"
       },
       "geometry": {
         "type": "LineString",
@@ -465,7 +465,7 @@
         "name": "Place d'Arsonval",
         "status": "postponed",
         "type": "voie-bus",
-        "link": "/reve-12#place-darsonval"
+        "link": "/voie-lyonnaise-12#place-darsonval"
       },
       "geometry": {
         "type": "LineString",
@@ -484,10 +484,10 @@
       "type": "Feature",
       "properties": {
         "line": 12,
-        "name": "Avenue Rockefeller",
+        "name": "Avenue Rockefeller Ouest",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#grange-blanche-à-boulevard-pinel"
+        "link": "/voie-lyonnaise-12#grange-blanche-à-boulevard-pinel"
       },
       "geometry": {
         "type": "LineString",
@@ -497,6 +497,22 @@
           [4.880357785531004, 45.74247396102035],
           [4.882385243806397, 45.7421600494402],
           [4.883288570833457, 45.74199682946937],
+          [4.885164665377005, 45.74137116543628]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "name": "Avenue Rockefeller Est",
+        "status": "tested",
+        "type": "bidirectionnelle",
+        "link": "/voie-lyonnaise-12#grange-blanche-à-boulevard-pinel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
           [4.885164665377005, 45.74137116543628],
           [4.890450516247739, 45.73964499087779],
           [4.892042547504985, 45.739120652271595]
@@ -508,26 +524,47 @@
       "properties": {
         "line": 12,
         "name": "Avenue Franklin Roosevelt",
-        "status": "planned",
+        "status": "postponed",
         "type": "bidirectionnelle",
-        "link": "/reve-12#boulevard-pinel-à-bron-boutasse"
+        "link": "/voie-lyonnaise-12#boulevard-pinel-à-bron-boutasse"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.892042547504985, 45.739120652271595],
-          [4.899770978980939, 45.7365413588839],
-          [4.900141462560896, 45.73644164733656],
-          [4.900537298800032, 45.73630654550121],
-          [4.901048281114413, 45.736171583470735],
-          [4.901398994892233, 45.73608632336187],
-          [4.901720492697933, 45.73598130878507],
-          [4.902541752524542, 45.735702765708936],
-          [4.9030340158443835, 45.73553655108546],
-          [4.9039804721940925, 45.735194190532226],
-          [4.904134736170931, 45.73512375444963],
-          [4.904487082204213, 45.73500446251747],
-          [4.904928567908968, 45.734852791734]
+          [4.892042547504985,45.739120652271595],
+          [4.892690342393145,45.73907464916134],
+          [4.89279194315877,45.738937157141066],
+          [4.893671494140541,45.738624329547605],
+          [4.900888959152411,45.73626418147646],
+          [4.90114418550381,45.736277792426115],
+          [4.901572135988317,45.736078428794414],
+          [4.902812962793945,45.735668363147425],
+          [4.903039575031414,45.73563509605893],
+          [4.903270399594234,45.73552433863711],
+          [4.904073188835952,45.73523312137333]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "line": 12,
+        "name": "Bron - Boutasse",
+        "status": "postponed",
+        "type": "aucun",
+        "link": "/voie-lyonnaise-12#boulevard-pinel-à-bron-boutasse"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [4.904073188835952,45.73523312137333],
+          [4.904511410713411,45.73506985472036],
+          [4.9049757560406135,45.73490123092208],
+          [4.905103605589488,45.73491793552067],
+          [4.905217185169818,45.734899871593264],
+          [4.905307448812323,45.73484789372438],
+          [4.905369298989683,45.734783670303926],
+          [4.905390232327136,45.73471587698813]
         ]
       }
     }

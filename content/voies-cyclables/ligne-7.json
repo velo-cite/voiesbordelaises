@@ -588,7 +588,7 @@
           [4.862873628518969,45.8015038894097]
         ]
       }
-    },
+    },    
     {
       "type": "Feature",
       "properties": {
@@ -678,7 +678,7 @@
           [4.848764949190354,45.79718170441182]
         ]
       }
-    },
+    }, 
     {
       "type": "Feature",
       "properties": {
@@ -764,7 +764,7 @@
           [4.834096218021784, 45.786094224901916]
         ]
       }
-    },
+    },    
     {
       "type": "Feature",
       "properties": {
@@ -1209,7 +1209,7 @@
         "id": "GaribaldiPhase3-commun",
         "line": 7,
         "name": "Garibaldi - Arménie Gde Rue Guill",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-7#garibaldi-arménie-à-gde-rue-de-la-guillotière"
       },
@@ -1473,7 +1473,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [
+        "coordinates": [    
           [4.861798883769694,45.68864118284915],
           [4.861638037750993,45.6884515784416],
           [4.861366616740156,45.68709624645268],

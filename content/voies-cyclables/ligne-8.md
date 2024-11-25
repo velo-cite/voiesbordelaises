@@ -22,21 +22,33 @@ Les cyclistes de la commune qui y circulent continueront donc à le faire sans a
 #### La-Tour-de-Salvagny - Est à Dardilly - Montcourand
 Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour mettre fin à l'interruption de la voie verte.
 
+::banner{type="info"}
+Les finitions de ce tronçon sont médiocres, avec des différences d'enrobé à la suite du creusement d'une tranchée, un revêtement régulièrement bosselé, des marquages au sol non conventionnels et une bordure transversale très inconfortable dans la traversée de la rue de la Veyrie.
+::
+
 ::banner{type="wip"}
-Les travaux principaux de cette section ont eu lieu à l'automne 2023, mais les travaux de finalisation semblent au point mort depuis début 2024 (revêtement, marquage)...
+Les travaux principaux de cette section ont eu lieu à l'automne 2023, mais les travaux de finalisation (plateau, marquages) ont eu lieu en juillet 2024. 
 ::
 
 #### RD307 (Ancienne Route Nationale 7)
 Cette ancienne route nationale située hors agglomération sera profondément réaménagée. Aujourd'hui limitée à 70km/h avec 2 à 4 larges voies de circulation, cette route sera reconfigurée à 2x1 voies, avec la création d'une voie verte de 3 à 4m de large côté Ouest de la chaussée, séparée par un terre-plein végétalisé de 2 à 3m de large. La vitesse sera en outre abaissée à 50km/h sur certains tronçons accidentogènes.
 
+::banner{type="wip"}
+Les travaux auront lieu entre octobre 2024 et février 2025.
+::
+
 #### Traversée de Charbonnières-les-Bains
 Cette section fait l'objet d'un vaste projet de requalification qui consiste à réaménager la très large Route de Paris. Le projet prévoit la création de larges trottoirs de minimum 2m de large, une voirie automobile à 2x1 voies de circulation et la création d'une piste cyclable bidirectionnelle de 4m de large côté Ouest de la chaussée et séparée ponctuellement par une bande végétalisée. Une voie de bus sera aussi créé ponctuellement pour améliorer les performances des transports en commun du secteur.
 
 Ce projet ambitieux sera réalisé en deux phases :
- - entre le chemin des Verrières et le chemin du Siroux, l'aménagement sera réalisé en transitoire d'ici 2026, et le réaménagement définitif prévu ultérieurement
- - entre le chemin du Siroux et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
+ - entre le chemin des Verrières et l'allée du Mas, l'aménagement sera réalisé en transitoire au second semestre 2026, et le réaménagement définitif prévu à un mandat ultérieur
+ - entre l'alée du Mas et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
-*La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*
+::banner{type="wip"}
+Entre l'allée du Mas et le giratoire du Montcelard, les travaux préalables sur les réseaux ont lieu entre l'été 2022 et l'automne 2024, puis les travaux d'aménagement enchaineront entre fin 2024 et l'été 2026.
+::
+
+*La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_Charbonni%c3%a8res.pdf)
 
 #### Tassin - Montcelard à Valvert
@@ -54,6 +66,10 @@ La Voie Lyonnaise 8 continue ensuite sur le boulevard du Valvert. Au Sud de l'av
 
 Sur la suite du boulevard du Valvert, le projet prévoit de conforter la piste cyclable bidirectionnelle actuelle côté Sud, en l'élargissant jusqu'à 4.00m de large, et en la séparant mieux de la voirie automobile avec un séparateur béton de grande taille.
 
+::banner{type="wip"}
+Les travaux sur cette section, initialement prévus au second semestre 2024 ont été reporté au entre le second semestre 2025 et l'été 2026 à la demande du maire de Tassin. La sécurisation des cyclistes attendra.
+::
+
 #### Tassin - Valvert à Victor Hugo
 Sur le chemin de la Vernique, le projet prévoit la création d'une piste cyclable bidirectionnelle de 4m côté Sud, avec la suppression du trottoir Nord mais le maintien de l'accès au square de la Vernique.
 
@@ -70,7 +86,7 @@ credit: Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.
+La concertation publique sur ce tronçon (hors traversée de Charbonnières) s'est tenue du 19/09 au 21/10/2022.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Nord_La%20Tour%20de%20Salvagny_Tassin%20Valvert.pdf){:target="_blank"}
 
 
@@ -95,7 +111,11 @@ credit: Métropole de Lyon
 ::
 
 #### Avenue Barthélémy Buyer
-Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée pour y insérer une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.00m de large. La piste s'interrompera au niveau du carrefour avec l'avenue Apollinaire compte-tenu de l'étroitesse de la partie Est, qui obligerait à une mise en sens unique fortement impactante pour les lignes de bus du secteur.
+Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée pour y insérer une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.00m de large. La piste s'interrompra au niveau du carrefour avec l'avenue Apollinaire compte-tenu de l'étroitesse de la partie Est, qui obligerait à une mise en sens unique fortement impactante pour les lignes de bus du secteur.
+
+::banner{type="wip"}
+Après des travaux préliminaires sur les réseaux souterrains en 2024, les travaux d'aménagement devraient commencer début 2025 et durer environ un an.
+::
 
 ::content-image
 ---
@@ -117,7 +137,7 @@ credit: Métropole de Lyon
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.
+La concertation publique sur ce tronçon s'est tenue du 27/03 au 28/04/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Ouest_Tassin_Buyer.pdf){:target="_blank"}
 
 ### Rue Pierre Audry
@@ -160,6 +180,10 @@ credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
+::banner{type="wip"}
+Après des travaux préliminaires sur les réseaux souterrains à l'automne 2024, les travaux d'aménagement devraient commencer début 2025 et durer environ un an.
+::
+
 #### Rue Camille Roy
 Cette courte rue sera réaménagée pour conserver le sens unique actuel et le stationnement côté Sud. Côté Nord, le stationnement en épi sera supprimé et une piste cyclable bidirectionnelle prendra place le long d'une large bande végétalisée et arborée.
 
@@ -174,11 +198,11 @@ credit: Street Architecture / Métropole de Lyon
 #### Rue et Pont de l'Epargne
 Le projet prévoit d'aménager une piste cyclable bidirectionnelle côté Nord à l'Ouest du pont et côté Sud à l'Est.
 Concernant la circulation automobile et le traitement du pont, deux variantes sont soumises à concertation :
- - La coupure de la circulation automobile sur le pont de l'Epargne, où l'espace libéré est réparti entre une piste cyclable au Sud et un trottoir au Nord. La circulation automobile passe alors en sens unique côté Ouest, en direction du boulevard des Tchecoslovaques. Cela permet de libérer davantage d'espace et de végétaliser et arborer massivement.
+ - La coupure de la circulation automobile sur le pont de l'Epargne, où l'espace libéré est réparti entre une piste cyclable au Sud et un trottoir au Nord. La circulation automobile passe alors en sens unique côté Ouest, en direction du boulevard des Tchécoslovaques. Cela permet de libérer davantage d'espace et de végétaliser et arborer massivement.
  - Le maintien de la circulation automobile sur le pont de l'Epargne, où une voie verte étroite mélangeant cyclistes et piétons est aménagée au Sud et la voirie automobile au Nord. Le circulation automobile est maintenue à double sens côté Ouest, les piétons et vélos sont contraints de traverser la voirie, et il reste peu d'espace pour végétaliser davantage la rue.
 
 #### Rue Marius Berliet
-Cette rue très routière et inconfortable a bénéficié de la création de deux couloirs de bus bilatéraux ouverts aux cyclistes en 2020 et pérénisés en 2021. Une seule voie de circulation a été maintenue dans le sens Est>Ouest.
+Cette rue très routière et inconfortable a bénéficié de la création de deux couloirs de bus bilatéraux ouverts aux cyclistes en 2020 et pérennisés en 2021. Une seule voie de circulation a été maintenue dans le sens Est>Ouest.
 
 ::banner{type="postponed"}
 La création d'une véritable piste cyclable séparée sur ce tronçon est reporté à un mandat ultérieur, en raison de l'étroitesse de la rue qui obligerait à supprimer l'un des couloirs de bus existants, ce qui dégraderait les performances de la ligne C25. Les cyclistes auront par conséquence une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
@@ -195,14 +219,18 @@ credit: Street Architecture / Métropole de Lyon
 ---
 ::
 
-Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du tramway T6.
+::banner{type="wip"}
+Les travaux sont prévus entre novembre 2024 et le printemps 2025.
+::
+
+Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du :transport-link{type=tram line=6}.
 
 ::banner{type="unsecured"}
 L'aménagement est cependant peu qualitatif pour les cyclistes avec une succession de bandes et de pistes cyclables bilatérales et étroites. Les cyclistes auront donc à nouveau une discontinuité dans leur itinéraire sécurisé sur ce tronçon.
 ::
 
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.
+La concertation publique sur ce tronçon s'est tenue du 09/10 au 12/11/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Centre_Perrache_Mermoz.pdf)
 
 ### Mermoz-Pinel à Saint-Priest - Porte des Alpes
@@ -263,8 +291,16 @@ credit: Métropole de Lyon
 ---
 ::
 
+::banner{type="postponed"}
+Entre la rue Lwoff et le boulevard de la Porte des Alpes, le projet initial était de transformer la voirie côté nord en piste bidirectionnelle vélo végétalisée, et la voirie côté Sud en double-sens pour les voitures. Cela impliquait de supprimer les places de stationnement sur la voirie Nord. La mairie de St-Priest s'est opposée à ce projet et les bandes cyclables existantes ont dont été conservées.
+::
+
+::banner{type="wip"}
+Les travaux entre le giratoire à l'extrémité Est de la rue Lionel Terray et la Porte des Alpes ont commencé en mai 2024 et se sont terminés en novembre 2024.
+::
+
 #### *Concertation*
-La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
+La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.\
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl8/VL8Est_Mermoz_Bron%20Porte%20des%20Alpes.pdf){:target="_blank"}
 
 ## Budget prévisionnel
@@ -277,7 +313,7 @@ La concertation publique sur ce tronçon s'est tenue du 01/02 au 10/03/2023.
      <br>_source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/portail/jsp/openfile.jsp?pdf=A9iCZwGvgK5FubNtu322bcS53GS0sK4fqUNzpPiImFcNNkx%2BTqSn6NcCoEvAfojpQXos53usMrkPJoSRf%2FIaOjIxzujE5b5UidGmgvThB8NQPa09zP%2FCkqvNEHNaOfPc)_
 
  A ce budget se rajoutent :
- - **18 100 000 € HT** pour la requalifaction de la route de Paris à Charbonnières
+ - **18 100 000 € HT** pour la requalification de la route de Paris à Charbonnières\
 source: [délibération de la Métropole de Lyon](https://agora.grandlyon.com/webdelib/files/unzip//seance_264256/19_d1657539085744.pdf)
 
 
