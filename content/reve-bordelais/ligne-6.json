@@ -21,8 +21,7 @@
         "name": "Pont Saint Jean",
         "status": "wip",
         "type": "voie-bus-elargie",
-        "link": "/reve-6#pont-saint-jean",
-        "id": "6-1"
+        "link": "/reve-6#pont-saint-jean"
       }
     },
     {
@@ -65,8 +64,7 @@
         "name": "Belvedere",
         "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-6#belvedere",
-        "id": "6-2"
+        "link": "/reve-6#belvedere"
       }
     },
     {
@@ -129,8 +127,7 @@
         "name": "Saint-Fons - Sud",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/reve-6",
-        "id": "6-3"
+        "link": "/reve-6#les-tronçons-de-louest-à-lest"
       }
     },
     {
@@ -189,8 +186,7 @@
         "name": "floirac bas et bordeaux",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-6#floirac-bas-bordeaux",
-        "id": "6-4"
+        "link": "/reve-6#floirac-bas-bordeaux"
       }
     }
   ]

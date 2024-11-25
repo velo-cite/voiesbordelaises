@@ -73,7 +73,6 @@
         ]
       },
       "properties": {
-        "id": "2-3",
         "line": 2,
         "name": "3",
         "status": "planned",
@@ -169,7 +168,6 @@
         ]
       },
       "properties": {
-        "id": "2-5",
         "line": 2,
         "name": "5",
         "status": "planned",
@@ -237,7 +235,6 @@
         ]
       },
       "properties": {
-        "id": "2-7",
         "line": 2,
         "name": "7",
         "status": "planned",
@@ -285,7 +282,6 @@
         ]
       },
       "properties": {
-        "id": "2-8",
         "line": 2,
         "name": "10",
         "status": "planned",
@@ -317,7 +313,6 @@
         ]
       },
       "properties": {
-        "id": "2-9",
         "line": 2,
         "name": "11",
         "status": "planned",
@@ -365,7 +360,6 @@
         ]
       },
       "properties": {
-        "id": "2-10",
         "line": 2,
         "name": "Parc de Bourgailh",
         "status": "done",
@@ -434,7 +428,6 @@
         ]
       },
       "properties": {
-        "id": "2-11",
         "line": 2,
         "name": "8",
         "status": "planned",
@@ -458,7 +451,6 @@
         ]
       },
       "properties": {
-        "id": "2-12",
         "line": 2,
         "name": "Passerelle",
         "status": "done",
@@ -603,7 +595,6 @@
         ]
       },
       "properties": {
-        "id": "2-13",
         "line": 2,
         "name": "9",
         "status": "planned",
@@ -635,7 +626,6 @@
         ]
       },
       "properties": {
-        "id": "2-1",
         "line": 2,
         "name": "Accès au Taillan Médoc",
         "status": "planned",
@@ -671,7 +661,6 @@
         ]
       },
       "properties": {
-        "id": "2-1",
         "line": 2,
         "name": "Giratoire de Cantinolle",
         "status": "wip",
@@ -839,7 +828,6 @@
         ]
       },
       "properties": {
-        "id": "2-14",
         "line": 2,
         "name": "14",
         "status": "planned",

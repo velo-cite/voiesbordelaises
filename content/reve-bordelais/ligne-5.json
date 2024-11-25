@@ -89,8 +89,7 @@
         "name": "Artigues-Près-Bordeaux",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/reve-5#artigues-près-bordeaux",
-        "id": "5-1"
+        "link": "/reve-5#artigues-près-bordeaux"
       }
     },
     {
@@ -141,8 +140,7 @@
         "name": "Cote des 4 pavillons 1",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-5#avenue-carnot-avenue-kennedy",
-        "id": "5-2"
+        "link": "/reve-5#avenue-carnot-avenue-kennedy"
       }
     },
     {
@@ -265,8 +263,7 @@
         "name": "Cote des 4 pavillons 2",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-5#cote-4-pavillons",
-        "id": "5-3"
+        "link": "/reve-5#cote-4-pavillons"
       }
     },
     {
@@ -313,8 +310,7 @@
         "name": "Avenue Thiers",
         "status": "under-study",
         "type": "bilaterale",
-        "link": "/reve-5#avenue-thiers",
-        "id": "5-4"
+        "link": "/reve-5#avenue-thiers"
       }
     }
   ]

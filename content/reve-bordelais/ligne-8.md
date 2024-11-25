@@ -10,6 +10,8 @@ trafic:
 cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 ---
 
+## Les tronçons
+
 ::banner{type="unsecured"}
 Cette ligne de ReVE en direction du Campus n'est pas encore étudiée.
 ::

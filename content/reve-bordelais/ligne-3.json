@@ -29,8 +29,7 @@
         "name": "Cours du Médoc",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-3#cours-du-médoc",
-        "id": "3-1"
+        "link": "/reve-3#cours-du-médoc"
       }
     },
     {
@@ -73,8 +72,7 @@
         "name": "Ravezies",
         "status": "planned",
         "type": "aucun",
-        "link": "/reve-3#place-ravezies",
-        "id": "3-2"
+        "link": "/reve-3#place-ravezies"
       }
     },
     {
@@ -190,8 +188,7 @@
         "status": "done",
         "doneAt": "10/07/2023",
         "type": "bidirectionnelle",
-        "link": "/reve-3#bordeaux-lac",
-        "id": "3-3"
+        "link": "/reve-3#bordeaux-lac"
       }
     },
     {
@@ -259,12 +256,11 @@
       },
       "properties": {
         "line": 3,
-        "name": "Bordeaux Lac 2",
+        "name": "Bordeaux Lac 3",
         "status": "done",
         "doneAt": "10/07/2023",
         "type": "bidirectionnelle",
-        "link": "/reve-3#bordeaux-lac",
-        "id": "3-4"
+        "link": "/reve-3#bordeaux-lac"
       }
     },
     {
@@ -312,7 +308,7 @@
       },
       "properties": {
         "line": 3,
-        "name": "Bordeaux Lac 3",
+        "name": "Bordeaux Lac 4",
         "status": "done",
         "doneAt": "10/07/2023",
         "type": "bidirectionnelle",
@@ -364,8 +360,7 @@
         "name": "Traverser Parempuyre à vélo",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-3#traverser-parempuyre-à-vélo",
-        "id": "3-5"
+        "link": "/reve-3#traverser-parempuyre-à-vélo"
       }
     },
     {
@@ -496,8 +491,7 @@
         "name": "Blanquefort",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-3#blanquefort",
-        "id": "3-6"
+        "link": "/reve-3#blanquefort"
       }
     },
     {
@@ -541,12 +535,11 @@
       },
       "properties": {
         "line": 3,
-        "name": "Bordeaux Lac 1",
+        "name": "Bordeaux Lac 2",
         "status": "done",
         "type": "bidirectionnelle",
         "link": "/reve-3#bordeaux-lac",
-        "doneAt": "10/07/2023",
-        "id": "3-7"
+        "doneAt": "10/07/2023"
       }
     },
     {
@@ -601,8 +594,7 @@
         "name": "Allée de Boutaut",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-3#allée-de-boutaut",
-        "id": "3-8"
+        "link": "/reve-3#allée-de-boutaut"
       }
     }
   ]

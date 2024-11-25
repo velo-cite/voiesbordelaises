@@ -10,6 +10,8 @@ trafic:
 cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ---
 
+## Les tronçons
+
 ::banner{type="unsecured"}
 Cette ligne de ReVE n'est pas encore étudiée.
 ::

@@ -10,6 +10,7 @@ trafic:
 cover: https://cyclopolis.lavilleavelo.org/vl10/voie-lyonnaise-10.png
 ---
 
+### informations
 ::banner{type="unsecured"}
 Cette ligne de ReVE en direction de Merignac Beutre et Saint Jean d'Illac n'est pas encore étudiée.
 ::

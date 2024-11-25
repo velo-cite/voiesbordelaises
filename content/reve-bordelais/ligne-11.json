@@ -37,8 +37,7 @@
         "name": "Rue Judaïque et Av de la République",
         "status": "under-study",
         "type": "bilaterale",
-        "link": "/reve-11#rue-judaïque-et-avenue-de-la-république",
-        "id": "11-1"
+        "link": "/reve-11#rue-judaïque-et-avenue-de-la-république"
       }
     },
     {
@@ -102,8 +101,7 @@
         "status": "done",
         "doneAt": "29/04/2023",
         "type": "bidirectionnelle",
-        "link": "/reve-11#aéroport",
-        "id": "11-2"
+        "link": "/reve-11#aéroport"
       }
     },
     {
@@ -190,8 +188,7 @@
         "name": "Avenue de la Marne",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-11#avenue-de-la-marne",
-        "id": "11-3"
+        "link": "/reve-11#avenue-de-la-marne"
       }
     },
     {
@@ -214,8 +211,7 @@
         "link": "/reve-11#place-mondésir",
         "status": "planned",
         "name": "Place Mondésir",
-        "type": "bilaterale",
-        "id": "11-4"
+        "type": "bilaterale"
       }
     },
     {
@@ -334,8 +330,7 @@
         "name": "Rue Bonnac et Av d'Arès",
         "status": "under-study",
         "type": "bilaterale",
-        "link": "/reve-11#rue-george-bonnac-et-avenue-darès",
-        "id": "11-5"
+        "link": "/reve-11#rue-george-bonnac-et-avenue-darès"
       }
     },
     {
@@ -434,8 +429,7 @@
         "name": "Avenue Marcel Dassault",
         "status": "under-study",
         "type": "voie-verte",
-        "link": "/reve-11#avenue-marcel-dassault",
-        "id": "11-6"
+        "link": "/reve-11#avenue-marcel-dassault"
       }
     },
     {
@@ -534,8 +528,7 @@
         "name": "Martignas",
         "status": "under-study",
         "type": "voie-verte",
-        "link": "/reve-11#martignas",
-        "id": "11-7"
+        "link": "/reve-11#martignas"
       }
     }
   ]

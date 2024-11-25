@@ -69,8 +69,7 @@
         "name": "Beutre",
         "status": "planned",
         "type": "inconnu",
-        "link": "/reve-10#concertation",
-        "id": "10-1"
+        "link": "/reve-10#informations"
       }
     },
     {
@@ -93,7 +92,7 @@
         "name": "Rocade",
         "status": "planned",
         "type": "inconnu",
-        "link": "/reve-10#concertation",
+        "link": "/reve-10#informations",
         "id": "reve-2-10-commun"
       }
     },
@@ -205,8 +204,7 @@
         "name": "Intra-Rocade",
         "status": "planned",
         "type": "inconnu",
-        "link": "/reve-10#concertation",
-        "id": "10-2"
+        "link": "/reve-10#informations"
       }
     }
   ]

@@ -59,8 +59,7 @@
         "name": "Quai Brazza - Boulevard André Ricard",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#quai-brazza-boulevard-andré-ricard",
-        "id": "4-1"
+        "link": "/reve-4#quai-brazza-boulevard-andré-ricard"
       }
     },
     {
@@ -95,8 +94,7 @@
         "name": "Cenon",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#cenon",
-        "id": "4-2"
+        "link": "/reve-4#cenon"
       }
     },
     {
@@ -135,8 +133,7 @@
         "name": "Parkway 1",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#parkway",
-        "id": "4-3"
+        "link": "/reve-4#parkway"
       }
     },
     {
@@ -191,8 +188,7 @@
         "name": "Parkway 3",
         "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-4#parkway",
-        "id": "4-4"
+        "link": "/reve-4#parkway"
       }
     },
     {
@@ -236,8 +232,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "link": "/reve-4#quai-des-queyries",
-        "doneAt": "15/06/2024",
-        "id": "4-5"
+        "doneAt": "15/06/2024"
       }
     },
     {
@@ -264,8 +259,7 @@
         "name": "Place Stalingrad",
         "status": "under-study",
         "type": "voie-verte",
-        "link": "/reve-4#place-stalingrad",
-        "id": "4-6"
+        "link": "/reve-4#place-stalingrad"
       }
     },
     {
@@ -301,8 +295,7 @@
         "status": "done",
         "type": "bidirectionnelle",
         "link": "/reve-4#quai-deschamps",
-        "doneAt": "01/03/2023",
-        "id": "4-7"
+        "doneAt": "01/03/2023"
       }
     },
     {
@@ -366,8 +359,7 @@
         "name": "Villenave d'Ornon : Tronçon 8",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#tronçon-8",
-        "id": "4-8"
+        "link": "/reve-4#tronçon-8"
       }
     },
     {
@@ -422,8 +414,7 @@
         "name": "Villenave d'Ornon : Tronçon 9",
         "status": "under-study",
         "type": "voie-verte",
-        "link": "/reve-4#tronçon-9-fin-du-reve-n°4",
-        "id": "4-9"
+        "link": "/reve-4#tronçon-9-fin-du-reve-n°4"
       }
     },
     {
@@ -466,8 +457,7 @@
         "name": "Villenave d'Ornon : Tronçon 7",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#tronçon-7",
-        "id": "4-10"
+        "link": "/reve-4#tronçon-7"
       }
     },
     {
@@ -522,8 +512,7 @@
         "name": "Bègles : tronçon 6 bis",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#tronçon-6",
-        "id": "4-11"
+        "link": "/reve-4#tronçon-6"
       }
     },
     {
@@ -558,8 +547,7 @@
         "name": "Bègles : tronçon 6",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#tronçon-6",
-        "id": "4-12"
+        "link": "/reve-4#tronçon-6"
       }
     },
     {
@@ -606,8 +594,7 @@
         "name": "Bègles : tronçon 5",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#tronçon-5",
-        "id": "4-13"
+        "link": "/reve-4#tronçon-5"
       }
     },
     {
@@ -630,8 +617,7 @@
         "name": "Bègles : tronçon 4",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#tronçon-4",
-        "id": "4-14"
+        "link": "/reve-4#tronçon-4"
       }
     },
     {
@@ -670,8 +656,7 @@
         "name": "Bègles : tronçon 3",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#tronçon-3",
-        "id": "4-15"
+        "link": "/reve-4#tronçon-3"
       }
     },
     {
@@ -738,8 +723,7 @@
         "name": "Lormont - Bassens",
         "status": "under-study",
         "type": "bidirectionnelle",
-        "link": "/reve-4#bassens",
-        "id": "4-16"
+        "link": "/reve-4#bassens"
       }
     },
     {
@@ -770,8 +754,7 @@
         "name": "Entre giratoire Côte de la Garonne et le giratoire Puy Pla",
         "status": "wip",
         "type": "bidirectionnelle",
-        "link": "/reve-4#bassens",
-        "id": "4-17"
+        "link": "/reve-4#bassens"
       }
     },
     {
@@ -919,11 +902,10 @@
       },
       "properties": {
         "line": 4,
-        "name": "Lormont - Bassens",
+        "name": "Lormont - Bassens 2",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-4#bassens",
-        "id": "4-18"
+        "link": "/reve-4#bassens"
       }
     }
   ]

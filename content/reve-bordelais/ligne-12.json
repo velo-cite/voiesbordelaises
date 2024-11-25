@@ -46,7 +46,7 @@
         "status": "done",
         "doneAt": "10/07/2023",
         "type": "bidirectionnelle",
-        "link": "/reve-12#concertation",
+        "link": "/reve-12#les-tronçons-douest-en-est",
         "id": "reve-3-12-commun"
       }
     },
@@ -378,8 +378,7 @@
         "name": "3",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#concertation",
-        "id": "12-1"
+        "link": "/reve-12#les-tronçons-douest-en-est"
       }
     },
     {
@@ -478,8 +477,7 @@
         "name": "4",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/reve-12#concertation",
-        "id": "12-2"
+        "link": "/reve-12#les-tronçons-douest-en-est"
       }
     },
     {
@@ -526,7 +524,7 @@
         "name": "5",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/reve-12#concertation",
+        "link": "/reve-12#les-tronçons-douest-en-est",
         "id": "reve-1-12-commun"
       }
     },
@@ -746,8 +744,7 @@
         "name": "1",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#concertation",
-        "id": "12-3"
+        "link": "/reve-12#les-tronçons-douest-en-est"
       }
     },
     {
@@ -1215,11 +1212,10 @@
       },
       "properties": {
         "line": 12,
-        "name": "1",
+        "name": "7",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-12#concertation",
-        "id": "12-4"
+        "link": "/reve-12#les-tronçons-douest-en-est"
       }
     },
     {
@@ -1278,8 +1274,7 @@
         "name": "Rue de Mouline - Avenue de l'Europe",
         "status": "planned",
         "type": "voie-verte",
-        "link": "/reve-12#concertation",
-        "id": "12-5"
+        "link": "/reve-12#les-tronçons-douest-en-est"
       }
     }
   ]
