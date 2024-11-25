@@ -974,8 +974,8 @@
             "properties": {
                 "line": 14,
                 "name": "Périphérique Commun ligne 4",
-                "status": "planned",
-                "type": "inconnu",
+                "status": "under-study",
+                "type": "bidirectionnelle",
                 "link": "/reve-14#les-tronçons",
                 "id": "reve-4-14-commun"
             }
