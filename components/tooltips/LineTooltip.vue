@@ -120,6 +120,10 @@ function getStatus(properties: LineStringFeature['properties']): { label: string
       date: 'après 2030',
       class: 'text-white bg-lvv-pink rounded-xl px-2'
     },
+    canceled: {
+      label: 'annulée',
+      class: 'text-white bg-lvv-pink rounded-xl px-2'
+    },
     variante: {
       label: 'variante',
       class: ''

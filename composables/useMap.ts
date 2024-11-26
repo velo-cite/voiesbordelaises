@@ -542,6 +542,58 @@ export const useMap = () => {
     }
   }
 
+  function plotCanceledSections({ map, features }: { map: Map; features: ColoredLineStringFeature[] }) {
+    const sections = features.filter(feature => feature.properties.status === 'canceled');
+
+    if (sections.length === 0) {
+      for (let line = 1; line <= getNbVoiesCyclables(); line++) {
+        upsertMapSource(map, `canceled-sections-${getLineColor(line)}`, []);
+      }
+      return;
+    }
+
+    const featuresByColor = groupFeaturesByColor(sections);
+    for (const [color, sameColorFeatures] of Object.entries(featuresByColor)) {
+      if (upsertMapSource(map, `canceled-sections-${color}`, sameColorFeatures as Feature[])) {
+        continue;
+      }
+
+      map.addLayer({
+        id: `canceled-symbols-${color}`,
+        type: 'symbol',
+        source: `canceled-sections-${color}`,
+        layout: {
+          'symbol-placement': 'line',
+          'symbol-spacing': 1,
+          'icon-image': 'cross-icon',
+          'icon-size': 1.2
+        },
+        paint: {
+          'icon-color': color
+        }
+      });
+      map.addLayer({
+        id: `canceled-text-${color}`,
+        type: 'symbol',
+        source: `canceled-sections-${color}`,
+        paint: {
+          'text-halo-color': '#fff',
+          'text-halo-width': 3
+        },
+        layout: {
+          'symbol-placement': 'line',
+          'symbol-spacing': 150,
+          'text-font': ['Open Sans Regular'],
+          'text-field': 'annulé',
+          'text-size': 14
+        }
+      });
+
+      map.on('mouseenter', `canceled-symbols-${color}`, () => (map.getCanvas().style.cursor = 'pointer'));
+      map.on('mouseleave', `canceled-symbols-${color}`, () => (map.getCanvas().style.cursor = ''));
+    }
+  }
+
   function plotPerspective({ map, features }: { map: Map; features: Feature[] }) {
     const perspectives = features.filter(isPerspectiveFeature).map(feature => ({
       ...feature,
@@ -747,6 +799,7 @@ export const useMap = () => {
     plotUnderStudiesSections({ map, features: lineStringFeatures });
     plotUnknownSections({ map, features: lineStringFeatures });
     plotPostponedSections({ map, features: lineStringFeatures });
+    plotCanceledSections({ map, features: lineStringFeatures });
 
     plotPerspective({ map, features });
     plotCompteurs({ map, features });
