@@ -78,6 +78,96 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        -0.594721,
+                        44.829069
+                    ],
+                    [
+                        -0.584636,
+                        44.83352
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "Rue Dandicolle",
+                "status": "done",
+                "type": "velorue",
+                "link": "/reve-8#vélorue-dandicolle",
+                "doneAt": "31/12/2019"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.584636,
+                        44.83352
+                    ],
+                    [
+                        -0.5847,
+                        44.833763
+                    ],
+                    [
+                        -0.580623,
+                        44.835315
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "Rue Servandoni",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-8#les-tronçons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.598476,
+                        44.825378
+                    ],
+                    [
+                        -0.597446,
+                        44.825911
+                    ],
+                    [
+                        -0.596673,
+                        44.826808
+                    ],
+                    [
+                        -0.597231,
+                        44.827737
+                    ],
+                    [
+                        -0.594994,
+                        44.828961
+                    ],
+                    [
+                        -0.594721,
+                        44.829069
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "Stade Chaban Delmas",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-8#les-tronçons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
                         -0.646697,
                         44.783601
                     ],
@@ -248,6 +338,25 @@
                     [
                         -0.601866,
                         44.817829
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "ReVE 8 intra rocade",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-8#les-tronçons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.601866,
+                        44.817829
                     ],
                     [
                         -0.602381,
@@ -268,86 +377,15 @@
                     [
                         -0.598476,
                         44.825378
-                    ],
-                    [
-                        -0.597446,
-                        44.825911
-                    ],
-                    [
-                        -0.596673,
-                        44.826808
-                    ],
-                    [
-                        -0.597231,
-                        44.827737
-                    ],
-                    [
-                        -0.594994,
-                        44.828961
-                    ],
-                    [
-                        -0.594721,
-                        44.829069
                     ]
                 ]
             },
             "properties": {
                 "line": 8,
-                "name": "ReVE 8 intra rocade",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-8#les-tronçons"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.594721,
-                        44.829069
-                    ],
-                    [
-                        -0.584636,
-                        44.83352
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "Rue Dandicolle",
-                "status": "done",
-                "type": "velorue",
-                "link": "/reve-8#vélorue-dandicolle",
-                "doneAt": "31/12/2019"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.584636,
-                        44.83352
-                    ],
-                    [
-                        -0.5847,
-                        44.833763
-                    ],
-                    [
-                        -0.580623,
-                        44.835315
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "Rue Servandoni",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-8#les-tronçons"
+                "name": "Commun Bus Express Pellegrin Malartic",
+                "status": "under-study",
+                "type": "bilaterale",
+                "link": "/reve-8#bus-express-pellegrin-malartic"
             }
         }
     ]

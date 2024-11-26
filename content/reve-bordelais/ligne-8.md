@@ -5,8 +5,7 @@ color: "#e743b1"
 from: Inno Campus
 to: Bordeaux
 distance: 10500
-description:
-trafic:
+description: De Bordeaux jusqu'à Pessac Bersol en passant par le campus
 cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 ---
 
@@ -15,6 +14,10 @@ cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 ::banner{type="unsecured"}
 Cette ligne de ReVE en direction du Campus n'est que partiellement étudiée.
 ::
+
+### Bus Express Pellegrin - Malartic
+Une partie du ReVE 8 partage son itinéraire avec le Bus Express Pellegrin-Malartic.
+Les études du ReVE sur ce tronçon sont d'ailleurs réalisées dans le cadre du BEx.
 
 ### Vélorue Dandicolle
 
