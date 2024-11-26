@@ -258,7 +258,7 @@
                 "line": 4,
                 "name": "Place Stalingrad",
                 "status": "under-study",
-                "type": "voie-verte",
+                "type": "bidirectionnelle",
                 "link": "/reve-4#place-stalingrad"
             }
         },
@@ -857,7 +857,7 @@
                 "line": 4,
                 "name": "Lormont - Bassens 2",
                 "status": "planned",
-                "type": "bidirectionnelle",
+                "type": "inconnu",
                 "link": "/reve-4#bassens"
             }
         },
