@@ -28,7 +28,8 @@ caption: Reve 1 - Bande cyclable dont la peinture est déjà effacée.
 ::
 
 ### Bordeaux - Intra-boulevard
-En attente d'informations.
+Ce tronçon réalisé dans le cadre du Bus Express G ne sera pas labélisé ReVE.
+En effet, la métropole a jugé que les aménagements cyclables y sont insuffisants.
 
 ## Fil d'actu
 

@@ -461,7 +461,7 @@
             "properties": {
                 "line": 1,
                 "name": "Bordeaux Sortant intra-boulevard",
-                "status": "planned",
+                "status": "canceled",
                 "type": "voie-bus",
                 "link": "/reve-1#bordeaux-intra-boulevard"
             }
@@ -534,17 +534,13 @@
                     [
                         -0.583155,
                         44.841493
-                    ],
-                    [
-                        -0.58116,
-                        44.841645
                     ]
                 ]
             },
             "properties": {
                 "line": 1,
                 "name": "Bordeaux Intra-Boulevards",
-                "status": "planned",
+                "status": "canceled",
                 "type": "voie-bus",
                 "link": "/reve-1#bordeaux-intra-boulevard"
             }
