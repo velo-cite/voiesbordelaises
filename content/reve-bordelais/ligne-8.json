@@ -282,9 +282,52 @@
                         44.827737
                     ],
                     [
-                        -0.594914,
-                        44.829076
+                        -0.594994,
+                        44.828961
                     ],
+                    [
+                        -0.594721,
+                        44.829069
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "ReVE 8 intra rocade",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-8#les-tronçons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.594721,
+                        44.829069
+                    ],
+                    [
+                        -0.584636,
+                        44.83352
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "Rue Dandicolle",
+                "status": "done",
+                "type": "velorue",
+                "link": "/reve-8#vélorue-dandicolle",
+                "doneAt": "31/12/2019"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         -0.584636,
                         44.83352
@@ -301,7 +344,7 @@
             },
             "properties": {
                 "line": 8,
-                "name": "ReVE 8 intra rocade",
+                "name": "Rue Servandoni",
                 "status": "planned",
                 "type": "inconnu",
                 "link": "/reve-8#les-tronçons"
