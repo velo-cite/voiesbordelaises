@@ -147,7 +147,7 @@
         "line": 7,
         "name": "Route de Toulouse",
         "status": "under-study",
-        "type": "voie-verte",
+        "type": "voie-bus",
         "link": "/reve-7#route-de-toulouse"
       }
     },
