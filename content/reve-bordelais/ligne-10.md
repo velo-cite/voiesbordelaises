@@ -12,5 +12,20 @@ cover: https://cyclopolis.lavilleavelo.org/vl10/voie-lyonnaise-10.png
 
 ### informations
 ::banner{type="unsecured"}
-Cette ligne de ReVE en direction de Merignac Beutre et Saint Jean d'Illac n'est pas encore étudiée.
+Cette ligne de ReVE en direction de Merignac Beutre et Saint Jean d'Illac n'est que partiellement étudiée.
 ::
+
+## Les tronçons (d'Ouest en Est)
+
+### Boulevard George Pompidou
+Ce tronçon est en cours d'étude dans le cadre du Bus Express Pellegrin Malartic.
+Des pistes bilatérales devraient voir le jour.
+
+### Vélorue Dandicolle
+
+La vélorue Dandicolle a été terminée en 2019.
+
+Elle est régulièrement citée comme exemple de mise en place de plan de circulation mais aussi comme contre-exemple pour
+le taille et la qualité de roulement de ces bandes.
+- https://www.cerema.fr/system/files/documents/2022/04/3_rdvmob_velorue_bordeaux_dandicolle_1.pdf
+- https://www.cerema.fr/fr/actualites/concevoir-sa-velorue-cyclistes-nombre-circulation-apaisee#toc-concevoir-la-velorue
