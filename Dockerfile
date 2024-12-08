@@ -1,3 +1,7 @@
+###############
+# Build stage #
+###############
+
 FROM node:20.6.1-alpine3.18 AS build
 
 # Set working directory
@@ -14,8 +18,10 @@ ADD . .
 # Build the pages
 RUN npm run generate
 
-# Configure Nitro server
-ENV NITRO_PORT 80
+####################
+# Web server stage #
+####################
 
-# Start Nitro server
-CMD ["node", ".output/server/index.mjs"]
+FROM nginx:1.27.3-alpine
+
+COPY --from=build /voiesbordelaises/dist /usr/share/nginx/html
