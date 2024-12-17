@@ -38,9 +38,6 @@ caption: Reve 14 - Calendrier du projet
 ---
 ::
 
-Actuellement (novembre 2024), le projet est à l’étape du choix de l’entreprise et du maître d’ouvrage en charge des travaux. 
-La « notification du marché » pour sa création devrait se tenir au dernier trimestre de l’année 2024.
-
 ### Connexion au pont Mitterrand (rive gauche)
 Tronçon à l'étude (phase EP) longueur 600 mètres.
 Reprise de l’ancienne piste cyclable, conversion en voie verte pour vélo, piétons et PMR pour accès a la piste qui traversera le pont François Mitterrand
