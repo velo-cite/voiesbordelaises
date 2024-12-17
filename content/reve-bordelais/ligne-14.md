@@ -17,18 +17,24 @@ Cette ligne de ReVE n'est étudiée que partiellement.
 ::
 
 ### Pont François Mitterrand
-(fermé en 2018)
-Actuellement à l’étude par Bordeaux Métropole pour une ouverture en 2026.
-Elle a fait l’objet d’une concertation en juin/juillet 2022.
-Elle mesurera 700 mètres de longueur pour une largeur d’au moins 3 mètres.
-La passerelle sera accrochée au pont François Mitterrand.
-Sa réalisation en encorbellement évitera la création de nouvelles piles dans la Garonne.
-Elle permettra le franchissement pour les cyclistes, piéton·nes et PMR.
+Fermée en 2018, la passerelle cycliste fait actuellement l’objet d’une étude par Bordeaux Métropole pour une réouverture prévue en 2026. Une concertation publique a été organisée en juin et juillet 2022.
+Le projet proposé par le groupement de conception/réalisation MOGA architectes, SETEC et Eiffage a été retenu (décembre 2024).
+- **Dimensions** : Longueur de 642 mètres et largeur d’environ 3 mètres.
+- **Accessibilité** : Ouverte aux piétons, aux cyclistes et adaptée aux personnes à mobilité réduite (PMR).
+- **Structure** : La passerelle sera suspendue sous le pont, offrant une protection contre le vent, la pluie et les projections des voies de circulation.
+- **Éclairage** : Des projecteurs intégrés à la corniche du pont illumineront discrètement la piste, limitant l’impact sur la faune locale.
+- **Belvédères** : Deux espaces d’observation seront aménagés sur caillebotis d’acier, situés au niveau des 3e et 5e piles du pont, pour offrir des points de vue uniques.
 
 ::content-image
 ---
 imageUrl: /reve/14/pont-françois-mitterrand.png
 caption: Reve 14 - La passerelle sera accrochée au pont François Mitterrand
+---
+::
+::content-image
+---
+imageUrl: /reve/14/calendrier_mitterrand.jpg
+caption: Reve 14 - Calendrier du projet
 ---
 ::
 
