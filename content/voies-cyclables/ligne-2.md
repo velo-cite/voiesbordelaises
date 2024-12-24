@@ -95,7 +95,7 @@ Compte-tenu de son partage avec les bus, taxis et véhicules de secours, ce tron
 ::
 
 ::banner{type="info"}
-La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu pour l'automne 2024.
+La modification du marquage au sol a été réalisée pendant les vacances scolaires de la Toussaint 2023 pour la partie au nord de la rue Fournet. Le reste est prévu pour janvier 2025.
 ::
 
 #### Tunnel Vivier-Merle
@@ -103,7 +103,7 @@ La Voie Lyonnaise 2 passera dans le nouveau tunnel sous le pole multimodal de la
 Il sera néanmoins possible pour les cyclistes d'accéder au pole multimodal en surface en utilisant l'aménagement de la SPL Part-Dieu livré entre début 2023 et l'été 2024 et qui comporte principalement de larges voies de bus partagées avec les cyclistes.
 
 ::banner{type="wip"}
-Les travaux auront lieu de fin septembre à décembre 2024.
+Les travaux auront lieu de fin septembre à novembre 2024, mais la piste cyclable ne sera pas ouverte avant fin janvier 2025 le temps de mettre en conformité les équipements de sécurité du tunnel.
 ::
 
 #### Boulevard Vivier-Merle et Boulevard des Tchécoslovaques
@@ -123,7 +123,7 @@ streetView: 45.7533388,4.8593519,3a,75y,175.99h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur la section Paul Bert à Félix Faure auront lieu entre décembre 2024 et avril 2025.\
+Les travaux sur la section Paul Bert à Félix Faure ont lieu entre décembre 2024 et mars 2025.\
 Les travaux sur la section Félix Faure à Gambetta ont débuté en juillet 2023 et se sont poursuivis jusqu'à fin mars 2024.\
 Les travaux sur le boulevard des Tchécoslovaques ont eu lieu entre janvier et août 2024. Une petite portion entre l'ancien cimetière de la Guillotière et l'avenue Berthelot restent à aménager à l'automne 2024.
 ::
@@ -197,7 +197,7 @@ Les travaux auront lieu entre mars 2025 et mars 2026.
 Depuis l'avenue Viviani, les cyclistes emprunteront le passage sécurisé en voie verte sous le boulevard périphérique Laurent Bonnevay, inauguré au printemps 2019. Ils traverseront ensuite la place Grandclément (accès :transport-link{type=métro line=D}) avec une piste bidirectionnelle, puis emprunteront l'ancienne route d'Heyrieux qui sera aménagée en vélorue. Ils traverseront ensuite l'angle Sud-Ouest de la Plaine des Sports du Parc de Parilly avant de rejoindre l'avenue Charles de Gaulle.
 
 ::banner{type="wip"}
-Les travaux sont prévus de novembre 2024 au printemps 2025.
+Les travaux sont prévus de novembre 2024 au printemps 2025, de l'Ouest vers l'Est.
 ::
 
 #### Route de Lyon (parc Parilly à rue des Alouettes)
@@ -217,7 +217,7 @@ streetView: 45.7125597,4.8999136,3a,75y,309.97h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sont prévus entre début 2025 et l'été 2025.
+Les travaux ont lieu entre décembre 2024 et l'été 2025.
 ::
 
 #### Route de Lyon (rue des Alouettes à rue Diderot)

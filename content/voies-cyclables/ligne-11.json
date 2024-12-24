@@ -313,7 +313,8 @@
         "type": "LineString",
         "coordinates": [
           [4.8280060273045535, 45.75972816081131],
-          [4.829598412924241, 45.75923993359143]
+          [4.829598412924241, 45.75923993359143],
+          [4.830851765912087, 45.75884749645334]
         ]
       }
     },
@@ -323,15 +324,14 @@
         "id": "Presquile-commun",
         "line": 11,
         "name": "Traversée Presqu'île (par Bellecour)",
-        "status": "planned",
-        "type": "bidirectionnelle",
+        "status": "postponed",
+        "type": "voie-bus",
         "link": "/voie-lyonnaise-11#traversée-de-la-presquîle-de-lyon"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [4.829598412924241, 45.75923993359143],
-          [4.832233994550734, 45.758491756143144],
+          [4.830851765912087, 45.75884749645334],
           [4.834175882882562, 45.75795745946414],
           [4.836761844916594,45.75730585999979]
         ]
@@ -634,32 +634,16 @@
       "type": "Feature",
       "properties": {
         "line": 11,
-        "name": "Reconnaissance Balzac Sud",
-        "status": "planned",
-        "type": "bidirectionnelle",
-        "link": "/voie-lyonnaise-11#dauphiné-lacassagne-à-reconnaissance-balzac"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [4.884866533442903, 45.7542735045167],
-          [4.885171989518852, 45.754270309987476],
-          [4.8856584375063505, 45.75426204147527]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "line": 11,
         "name": "Reconnaissance Balzac - Kimmerling",
-        "status": "planned",
+        "status": "wip",
         "type": "bidirectionnelle",
         "link": "/voie-lyonnaise-11#reconnaissance-balzac-à-bron-sept-chemins"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
+          [4.884866533442903, 45.7542735045167],
+          [4.885171989518852, 45.754270309987476],
           [4.8856584375063505, 45.75426204147527],
           [4.886923567414328, 45.754266774996495],
           [4.887543335014584, 45.754267461916186],
