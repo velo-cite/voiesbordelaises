@@ -19,7 +19,7 @@ En attente d'informations.
 ### Le Haillan Les 5 chemins
 En attente d'informations.
 
-### Mérignac : voie verte rue Germaine Tillion
+### Mérignac - voie verte rue Germaine Tillion
 La voie verte de la rue Germaine Tillion permet de connecter l'axe du Bus Express G aux Haillan (Les 5 chemins).
 Cette voie serpente entre la végétation mais présente l'avantage d'être sans voiture à proximité. 
 
