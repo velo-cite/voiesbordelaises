@@ -21,6 +21,10 @@ La piste cyclable sécurisée a été détruite pour être remplacée par un cou
 Les travaux sont en cours.
 Une piste bidirectionnelle prendra la suite du couloir de bus du pont saint Jean.
 
-### Floirac Bas Bordeaux
+### Boulevard Jolie-Curie
+
+Étudié avec la :line-link{line=13}, le boulevard Jolie-Curie sera revu avec l'intégration d'une piste cyclable bidirectionnelle.
+
+### Boulevard Entre Deux Mers
 Ce tronçon historiquement très routier, en connexion directe avec la rocade devrait être considérablement amélioré avec 
 la réduction du nombre de voies et la création d'une piste bidirectionnelle.

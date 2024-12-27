@@ -54,8 +54,14 @@ Elle n'est séparée que par de la peinture avec la voie de bus.
 
 ### Bègles
 
-#### Tronçon 3
-En attente d'informations.
+#### Quai Wilson
+En simultanée de l'ouverture du pont Simone Veil, une piste bidirectionnelle en béton a été réalisée sur le quai Wilson.
+::content-image
+---
+imageUrl: /reve/4/quai-wilson.jpg
+caption: piste cyclable en béton du quai wilson
+---
+::
 
 #### Tronçon 4
 longueur 200 mètres environ, il débute au giratoire des rues des quatre Castera et Michel Slitinsky jusqu’au giratoire « Louis Delgrès ».<br>
