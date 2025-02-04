@@ -32,7 +32,11 @@ streetView: 45.885026,4.8102775,3a,75y,162.21h,90t
 Ce tronçon débute à l'entrée de la commune de Massieux entre les deux giratoires qui servent d'échangeur avec l'A46. Il continue vers le Sud dans la commune de Genay sur un large trottoir déjà aménagé en voie verte de 3m de large situé côté Ouest de la route de Trévoux puis de l'avenue Sadi Carnot. A l'entrée du centre-ville de Neuville-sur-Saône, il emprunte la rue Barrée aménagée en zone de rencontre, puis rejoint les quais de Saône jusqu'au Pont de Neuville.
 
 ::banner{type="info"}
-Bien que le projet de la Métropole de Lyon nommé "Les Quais de Neuville" réaménage complètement l'esplanade Jean Vilar en 2025-2026, le morceau de piste cyclable qui sera créé ne sera relié à rien et nous invitons les cyclistes du secteur à continuer d'utiliser la voie verte aménagée en fond de quai lors de l'hiver 2022-2023.
+Sur l'avenue Sadi Carnot, des travaux mineurs de sécurisation des carrefours devraient avoir lieu pour relier la voie verte et les rues perpendiculaires à l'Est.
+::
+
+::banner{type="wip"}
+La première phase du projet de la Métropole de Lyon nommé "Les Quais de Neuville" réaménagera complètement l'esplanade Jean Vilar entre juin 2025 et mars 2026 avec la création d'un morceau de piste cyclable bidirectionnelle de 3m50 de large qui sera relié au Nord à la voie verte aménagée en fond de quai lors de l'hiver 2022-2023 et au Sud à l'entrée du parking avec le giratoire du pont de Neuville.
 ::
 
 ::banner{type="postponed"}
@@ -46,10 +50,10 @@ La traversée du pont de Neuville sera sécurisée à horizon 2030 via l'élargi
 La Voie Lyonnaise 3 longera la Saône en rive droite sur le côté Est de la D51 en desservant les communes d'Albigny-sur-Saône, Couzon-au-Mont-d'Or, Saint-Romain-au-Mont-d'Or et Collonges-au-Mont-d'Or. Elle sera aménagée sous la forme d'une voie verte de 3 à 4m de large sur la commune d'Albigny, tandis qu'elle sera aménagée en piste cyclable bidirectionnelle de 3.00 à 3.50m de large sur les communes de Couzon, St-Romain et Collonges. Les carrefours giratoires avec les ponts seront tous sécurisés.
 
 ::banner{type="wip"}
-La section sur la commune d'Albigny devrait être réalisée entre novembre 2024 et l'été 2025.\
+La section sur la commune d'Albigny devrait est réalisée entre février et décembre 2025.\
 La section sur la commune de Couzon a été réalisée en deux phases : Sud de l'avenue De Gaulle à l'automne 2019 et Nord de l'avenue de juin à décembre 2022.\
 La section sur la commune de St-Romain a été réalisée entre février et juillet 2024.\
-La section sur la commune de Collonges devrait être en travaux à partir du printemps 2025 jusqu'à l'été 2026.
+La section sur la commune de Collonges devrait être en travaux à partir de l'été 2025 jusqu'à l'été 2026.
 ::
 
 ::content-image
@@ -98,9 +102,21 @@ streetView: 45.7849251,4.8127776,3a,75y,201.14h,90t
 ---
 ::
 
+::banner{type="wip"}
+Les travaux entre le pont Clémenceau et le pont Schuman devraient avoir lieu entre le printemps 2025 et le printemps 2026.
+::
+
 #### Pont Clémenceau au pont Koenig
 Cette portion doit faire l'objet d'un réaménagement majeur, avec la mise en sens unique Sud-Nord du quai, qui permettra de créer une piste cyclable bidirectionnelle de 3.50m de large le long de la Saône.
 
+::banner{type="modified"}
+Contrairement à ce qui a été annoncé lors de la concertation, une petite portion entre la place du port Mouton et le pont Clémenceau ne sera pas aménagée pour maintenir le couloir bus sur la rampe Est de la trémie essentiel à la bonne performance des nombreuses lignes de bus qui rejoignent Valmy. Il faudra attendre un projet de suppression de la trémie sous le pont Clémenceau pour pouvoir aménager une piste cyclable sur ce tronçon de 125m de long.\
+En attendant, pour les cyclistes en transit le long de la Saône, la Métropole a décidé d'aménager les berges de Saône qui passent sous le pont Clémenceau en voie verte pour relier en sécurité le quai Arloing et le carrefour des Monts d'Or au nord.
+::
+
+::banner{type="wip"}
+Les travaux devraient avoir lieu entre le printemps 2025 et le printemps 2026.
+::
 
 ::content-image
 ---
@@ -128,7 +144,7 @@ streetView: 45.7579128,4.8260787,3a,75y,191.02h,90t
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont lieu entre avril 2024 et mars 2025.
+Les travaux sur cette section ont débuté en avril 2024. Une première tranche couvrant les quais de Saône du Vieux Lyon a été livrée fin 2024, et une seconde tranche sur les arrêts de bus du quai Pierre Scize a débuté en novembre 2024 et se poursuit jusqu'en avril 2025.
 ::
 
 #### *Concertation*
@@ -173,10 +189,10 @@ Ceux au nord de la rue Chardiny débuteront après les travaux de l'aquarium, au
 ::
 
 #### Quartier de la Saulaie
-La Voie Lyonnaise 3 fera ici un léger détour en s'éloignant du Rhône via les berges Nord de l'Yzeron et un itinéraire en voie verte. Elle traversera la rivière au niveau de l'avenue Edmond Locard qu'elle empruntera jusqu'à son extrémité Sud sur des pistes cyclables sécurisées existantes qui seront élargies. Elle empruntera ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
+La Voie Lyonnaise 3 fait ici un léger détour en s'éloignant du Rhône via la rue Gabriel Péri compatible avec un aménagement en vélorue pour desservir le complexe évenementiel des Grandes Locos. Elle traverse l'Yzeron en voie verte sur la passerelle existante au niveau de l'avenue Edmond Locard. Ce franchissement étroit de la rivière devra être amélioré à moyen-terme pour ne pas en faire un point noir piéton. Les cyclistes continueront ensuite sur l'avenue Locard qu'ils emprunteront jusqu'à son extrémité Sud sur de nouvelles pistes cyclables sécurisées et élargies. Ils emprunteront ensuite la rue Dubois Crancé via la création d'une nouvelle piste cyclable bidirectionnelle de 3m de large côté Est, puis rejoindra la voie verte existante sur trottoir de l'avenue Jean Jaurès, datant de 2020, et qui sera conservée en l'état (3.5m de large).
 
 ::banner{type="info"}
-Les travaux de voirie liés au projet urbain de la Saulaie ont pris du retard et auront lieu au plus tôt en 2026. En attendant, les cyclistes utiliseront les aménagements sécurisés existants sur l'avenue Locard et l'avenue des Saules. Avant l'aménagement de le rue Dubois Crancé, nous recommandons de passer par l'Est de l'avenue des Saules et la voie verte sur trottoir Ouest de l'avenue Jean Jaurès.
+Les travaux de voirie liés au projet urbain de la Saulaie commenceront à l'été 2025 et se termineront au printemps 2026. En attendant, les cyclistes utiliseront les aménagements sécurisés existants sur l'avenue Locard et l'avenue des Saules. Avant l'aménagement de le rue Dubois Crancé, nous recommandons de passer par l'Est de l'avenue des Saules et la voie verte sur trottoir Ouest de l'avenue Jean Jaurès.
 ::
 
 #### Traversée de Pierre-Bénite
@@ -188,6 +204,7 @@ Enfin, les cyclistes emprunteront la voie verte existante de 3m de large sur le 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl3/bd-europe.png
 caption: Aperçu de la Voie Lyonnaise 3 - Boulevard de l’Europe (Pierre-Bénite)
 credit: Métropole de Lyon
+streetView: 45.7021441,4.821693,3a,75y,314.96h,90t
 ---
 ::
 
@@ -229,7 +246,7 @@ Ce projet permet d'accueillir un tronçon isolé de la Voie Lyonnaise 3. Il n'es
 ::
 
 ::banner{type="wip"}
-Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux jusqu'au chemin de Freyssinet a débuté en juin 2024 et se poursuit jusqu'en novembre.
+Un première tranche de travaux a été effectuée au dernier trimestre 2023 entre le pont de Chasse et l'allée Nelson Mandela. Une seconde tranche de travaux jusqu'à la route de la Centrale a débuté en juin 2024 et s'est terminée en fin d'année 2024. Une dernier tranche de travaux jusqu'au chemin de Freyssinet a débuté à l'automne 2024 et se poursuit jusqu'en février 2025.
 ::
 
 ## Budget prévisionnel

@@ -26,6 +26,7 @@ L'aménagement cyclable continue ensuite sur la route du Mas Rillier sous la for
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rilleux-route-mas-rillier.png
 caption: Aperçu de la Voie Lyonnaise 7 - route du Mas Rillier (Rillieux-la-Pape)
 credit: Métropole de Lyon
+streetView: 45.8231487,4.9129922,3a,75y,253.4h,90t
 ---
 ::
 
@@ -39,16 +40,12 @@ Contrairement à ce qui était annoncé lors de la concertation, la piste cyclab
 ***Giratoire Général de Gaulle***\
 Le giratoire sera totalement repris pour en faire un giratoire à la hollandaise sécurisé, avec un anneau cyclable unidirectionnel de 3m de large, qui sera bidirectionnel dans sa partie Nord sur la section utilisée par la Voie Lyonnaise.
 
-::banner{type="wip"}
-Les travaux de réalisation de ce giratoire ont eu lieu entre l'automne 2023 et fin mars 2024.
-::
-
 ***Avenue de l'Hippodrome et Chemin Petit***\
 Entre le giratoire et la piscine Origami, l'absence actuelle d'aménagements cyclable sera résorbée par la création d'une piste cyclable bidirectionnelle de 4m de large côté Nord qui sera pincée à 3m devant la piscine. Ensuite, la piste cyclable bidirectionnelle de 3m sur le côté Nord de l'avenue de l'Hippodrome qui date de 2011 sera maintenue en l'état, avec des améliorations de jonctions dans les carrefours. Même chose avec la piste bidirectionnelle de 3m de large du Chemin Petit (2019) qui sera maintenue en l'état.
 
 ::banner{type="wip"}
 Les travaux du giratoire de Gaulle ont eu lieu entre l'automne 2023 et fin mars 2024.
-Le reste de cette section est en travaux progressif par sections entre décembre 2024 et octobre 2025.
+Le reste de cette section est en travaux progressif par sections entre février et octobre 2025.
 ::
 
 #### Voie de la Dombe
@@ -134,6 +131,7 @@ Contrairement à ce qui était annoncé lors de la concertation, la contre-allé
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/montee-de-la-boucle.jpg
 caption: Photo de la Voie Lyonnaise 7 - Montée de la Boucle (Caluire-et-Cuire)
 credit: La Ville à Vélo - Plateau Nord
+streetView: 45.7814224,4.8394423,3a,75y,344.66h,90t
 ---
 ::
 
@@ -157,11 +155,16 @@ La création d'une alternative sécurisée pour les cyclistes sur ce tronçon du
 Au niveau de la rue Garibaldi, la Voie Lyonnaise 7 bifurquera plein Sud. Elle a fait l'objet de la création d'un couloir bus ouvert aux vélos vers le Sud en 2020 jusqu'à la rue Vauban. Le projet prévoit de sécuriser les déplacements des vélos avec la création d'une piste cyclable bidirectionnelle de 2.60 à 3.25m de large côté Ouest de la chaussée à la place d'une des voies de circulation automobile.
 Lors de la présence de contre-allées de stationnement côté Ouest, la Voie Lyonnaise les empruntera sous la forme d'une vélorue de 4.60m de large, via la transformation du stationnement actuellement en épi en stationnement longitudinal.
 
+::banner{type="postponed"}
+La Métropole a annoncé le 30/01/2025 que ce tronçon est reporté sine die. Les cyclistes n'auront donc aucune alternative crédible pour rejoindre la parc de la Tête d'Or en sécurité depuis le quartier de la Part-Dieu pendant encore de nombreuses années.
+::
+
 ::content-image
 ---
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi-nord.png
 caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi (Lyon 6)
 credit: Métropole de Lyon
+streetView: 45.772684,4.8498812,3a,75y,166.81h,90t
 ---
 ::
 
@@ -180,11 +183,12 @@ Ce tronçon sera totalement réaménagé dans le cadre de la phase 3 du projet G
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/place-stalingrad.png
 caption: Aperçu de la Voie Lyonnaise 7 - rue Garibaldi le long de place Stalingrad (Lyon 7)
 credit: Ilex / Métropole de Lyon
+streetView: 45.7497209,4.8539141,3a,75y,199.64h,90t
 ---
 ::
 
 ::banner{type="wip"}
-Les travaux préalables au comblement de la trémie Félix Faure/Gambetta ont commencé début 2024 et se termineront durant l'automne 2024. Ils enchaineront avec les travaux d'aménagement qui se poursuivront jusqu'en début d'année 2026.
+Les travaux préalables au comblement de la trémie Félix Faure/Gambetta ont commencé début 2024 et se termineront durant l'automne 2024. Ils ont enchainé avec les travaux d'aménagement fin 2024 qui se poursuivront jusqu'en début d'année 2026.
 ::
 
 La concertation publique sur ce tronçon s'est tenue du 14/02 au 15/03/2022.\
@@ -202,11 +206,12 @@ Entre la route de Vienne et l'avenue Berthelot, il est prévu de conserver la pi
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 caption: Aperçu de la Voie Lyonnaise 7 - Rue Garibaldi Sud (Lyon 7)
 credit: Métropole de Lyon
+streetView: 45.7486593,4.8530547,3a,75y,216.89h,90t
 ---
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont commencé mi-avril 2024 et continueront jusqu'à la fin d'année 2024.
+Les travaux sur cette section ont eu lieu entre mi-avril 2024 et la fin d'année 2024.
 ::
 
 #### Rue Paul Duvivier
@@ -222,6 +227,7 @@ La traversée du périphérique sera reprise et sécurisée pour les cyclistes a
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/route-de-vienne.png
 caption: Aperçu de la Voie Lyonnaise 7 - Route de Vienne (Lyon 8)
 credit: Métropole de Lyon
+streetView: 45.736812,4.852783,3a,75y,155.7h,90t
 ---
 ::
 
@@ -235,7 +241,7 @@ streetView: 45.7158648,4.8547435,3a,90y,1.54h,88.27t
 ::
 
 ::banner{type="wip"}
-Les travaux sur cette section ont commencé fin mars 2024 et continueront jusqu'au premier trimestre 2025, même si un premier tronçon nord a été livré fin août 2024.
+Les travaux sur cette section ont commencé fin mars 2024 et étaient presque terminés fin 2024, après un premier tronçon nord livré fin août 2024. Il reste à traiter certains carrefours en 2025 avec résine beige dans les traversées et mise en fonctionnement des feux. 
 ::
 
 #### Avenue Jean Jaurès
@@ -246,6 +252,7 @@ Sur cette section, le pont SNCF et la voirie actuelle seront réaménagés avec 
 imageUrl: https://cyclopolis.lavilleavelo.org/vl7/saint-fons-av-jean-jaures.png
 caption: Aperçu de la Voie Lyonnaise 7 - Avenue Jean Jaurès Nord (Saint-Fons)
 credit: Métropole de Lyon
+streetView: 45.7137896,4.855013,3a,75y,173.02h,90t
 ---
 ::
 
@@ -268,7 +275,7 @@ Compte-tenu des travaux très impactants du tramway T10 dans ce secteur jusqu'à
 De Saint-Fons à Feyzin, la Voie Lyonnaise 7 suit le boulevard Yves Farge. Sa création rentre dans le cadre de la requalification de ce boulevard. Il est prévu une piste cyclable bidirectionnelle de 3 à 4m de large, côté Est de la chaussée jusqu'à l'avenue du 11 Novembre. Elle basculera ensuite en deux pistes cyclables bilatérales de 1.5 à 2m de large chacune pour traverser les deux giratoires de chaque côté du Boulevard Urbain Sud. Ces deux giratoires seront réaménagés à la hollandaise pour sécuriser les cheminements des vélos.
 
 ::banner{type="wip"}
-Les travaux préparatoires sur les réseaux ont eu lieu entre début 2024 et l'été 2024 et ont enchainé en septembre 2024 avec les travaux d'aménagement qui dureront jusqu'au printemps 2026.
+Les travaux préparatoires sur les réseaux ont eu lieu entre début 2024 et l'été 2024 et ont enchainé en septembre 2024 avec les travaux d'aménagement qui dureront jusqu'au printemps 2026. Une première tranche Nord jusqu'à l'avenue Maurice Thorez a été livrée début 2025.
 ::
 
 ::content-image

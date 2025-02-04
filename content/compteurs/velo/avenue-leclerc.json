@@ -10,6 +10,7 @@
   "lines": [
     1
   ],
+  "cyclopolisId": "avenue-leclerc",
   "counts": [
     {
       "month": "2015-01-01",
@@ -486,6 +487,14 @@
     {
       "month": "2024-11-01",
       "count": 37372
+    },
+    {
+      "month": "2024-12-01",
+      "count": 29040
+    },
+    {
+      "month": "2025-01-01",
+      "count": 31484
     }
   ]
 }

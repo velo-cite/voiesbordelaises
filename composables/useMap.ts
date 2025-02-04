@@ -131,6 +131,30 @@ export const useMap = () => {
     map.addImage('loupe-icon', loupe.data, { sdf: true });
   }
 
+  function plotUnsatisfactorySections({ map, features }: { map: Map; features: LineStringFeature[] }) {
+    const sections = features.filter(feature => feature.properties.quality === 'unsatisfactory' && feature.properties.status !== 'postponed');
+
+    if (sections.length === 0 && !map.getLayer('unsatisfactory-sections')) {
+      return;
+    }
+    if (upsertMapSource(map, 'unsatisfactory-sections', sections)) {
+      return;
+    }
+
+    map.addLayer({
+      id: 'unsatisfactory-sections',
+      type: 'line',
+      source: 'unsatisfactory-sections',
+      minzoom: 14,
+      paint: {
+        'line-gap-width': 5,
+        'line-width': 4,
+        'line-color': '#c84271',
+        'line-dasharray': [0.8, 0.8]
+      }
+    });
+  }
+
   function plotUnderlinedSections({ map, features }: { map: Map; features: LineStringFeature[] }) {
     const sections = features.map((feature, index) => ({ id: index, ...feature }));
 
@@ -614,6 +638,7 @@ export const useMap = () => {
       id: 'perspectives',
       source: 'perspectives',
       type: 'symbol',
+      minzoom: 14,
       layout: {
         'icon-image': 'camera-icon',
         'icon-size': 0.5,
@@ -621,18 +646,6 @@ export const useMap = () => {
       },
       paint: {
         'icon-color': ['get', 'color']
-      }
-    });
-
-    // on n'affiche les perspectives qu'à partir d'un certain zoom.
-    // ceci pour éviter de surcharger la map.
-    map.setLayoutProperty('perspectives', 'visibility', 'none');
-    map.on('zoom', () => {
-      const zoomLevel = map.getZoom();
-      if (zoomLevel > 14) {
-        map.setLayoutProperty('perspectives', 'visibility', 'visible');
-      } else {
-        map.setLayoutProperty('perspectives', 'visibility', 'none');
       }
     });
 
@@ -659,19 +672,19 @@ export const useMap = () => {
       id: 'dangers',
       source: 'dangers',
       type: 'symbol',
+      minzoom: 14,
       layout: {
         'icon-image': 'danger-icon',
-        'icon-size': 0.5
+        'icon-size': 0.7
       }
     });
-    map.setLayoutProperty('perspectives', 'visibility', 'none');
-    map.on('zoom', () => {
-      const zoomLevel = map.getZoom();
-      if (zoomLevel > 14) {
-        map.setLayoutProperty('dangers', 'visibility', 'visible');
-      } else {
-        map.setLayoutProperty('dangers', 'visibility', 'none');
-      }
+
+    // la souris devient un pointer au survol
+    map.on('mousemove', 'dangers', () => {
+      map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', 'dangers', () => {
+      map.getCanvas().style.cursor = '';
     });
   }
 
@@ -791,6 +804,7 @@ export const useMap = () => {
     const lineStringFeatures = features.filter(isLineStringFeature).sort(sortByLine).map(addLineColor);
 
     plotUnderlinedSections({ map, features: lineStringFeatures });
+    plotUnsatisfactorySections({ map, features: lineStringFeatures });
     plotDoneSections({ map, features: lineStringFeatures });
     plotPlannedSections({ map, features: lineStringFeatures });
     plotVarianteSections({ map, features: lineStringFeatures });
@@ -809,6 +823,39 @@ export const useMap = () => {
 
   function handleMapClick({ map, features, clickEvent }: { map: Map; features: Feature[]; clickEvent: any }) {
     const layers = [
+      {
+        id: 'dangers',
+        isClicked: () => {
+          if (!map.getLayer('dangers')) { return false; }
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['dangers'] });
+          return mapFeature.length > 0;
+        },
+        getTooltipProps: () => {
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['dangers'] })[0];
+          const feature = features.find(f => f.properties.name === mapFeature.properties.name);
+          return { feature };
+        },
+        component: DangerTooltip
+      },
+      {
+        id: 'perspectives',
+        isClicked: () => {
+          if (!map.getLayer('perspectives')) { return false; }
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['perspectives'] });
+          return mapFeature.length > 0;
+        },
+        getTooltipProps: () => {
+          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['perspectives'] })[0];
+          const feature = features.find(f => {
+            return f.properties.type === 'perspective' &&
+            f.properties.line === mapFeature.properties.line &&
+            f.properties.imgUrl === mapFeature.properties.imgUrl;
+          });
+
+          return { feature };
+        },
+        component: PerspectiveTooltip
+      },
       {
         id: 'linestring', // not really a layer id. gather all linestrings.
         isClicked: () => {
@@ -849,25 +896,6 @@ export const useMap = () => {
         component: LineTooltip
       },
       {
-        id: 'perspectives',
-        isClicked: () => {
-          if (!map.getLayer('perspectives')) { return false; }
-          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['perspectives'] });
-          return mapFeature.length > 0;
-        },
-        getTooltipProps: () => {
-          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['perspectives'] })[0];
-          const feature = features.find(f => {
-            return f.properties.type === 'perspective' &&
-            f.properties.line === mapFeature.properties.line &&
-            f.properties.imgUrl === mapFeature.properties.imgUrl;
-          });
-
-          return { feature };
-        },
-        component: PerspectiveTooltip
-      },
-      {
         id: 'compteurs',
         isClicked: () => {
           if (!map.getLayer('compteurs')) { return false; }
@@ -880,20 +908,6 @@ export const useMap = () => {
           return { feature };
         },
         component: CounterTooltip
-      },
-      {
-        id: 'dangers',
-        isClicked: () => {
-          if (!map.getLayer('dangers')) { return false; }
-          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['dangers'] });
-          return mapFeature.length > 0;
-        },
-        getTooltipProps: () => {
-          const mapFeature = map.queryRenderedFeatures(clickEvent.point, { layers: ['dangers'] })[0];
-          const feature = features.find(f => f.properties.name === mapFeature.properties.name);
-          return { feature };
-        },
-        component: DangerTooltip
       }
     ];
 

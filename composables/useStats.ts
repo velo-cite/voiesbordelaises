@@ -1,5 +1,5 @@
 import { groupBy } from '../helpers/helpers';
-import { isLineStringFeature, type Feature, type Geojson, type LaneType, type LineStringFeature } from '../types';
+import { isLineStringFeature, type Feature, type Geojson, type LaneType, type LineStringFeature, type LaneQuality, isDangerFeature } from '../types';
 
 export const useStats = () => {
   function getAllUniqLineStrings(voies: Geojson[]) {
@@ -13,6 +13,20 @@ export const useStats = () => {
         }
         if (feature.properties.id === 'variante2') {
           return false;
+        }
+
+        return index === sections.findIndex(section => section.properties.id === feature.properties.id);
+      });
+  }
+
+  function getAllUniqDangers(voies: Geojson[]) {
+    return voies
+      .map(voie => voie.features)
+      .flat()
+      .filter(isDangerFeature)
+      .filter((feature, index, sections) => {
+        if (feature.properties.id === undefined) {
+          return true;
         }
 
         return index === sections.findIndex(section => section.properties.id === feature.properties.id);
@@ -162,6 +176,20 @@ export const useStats = () => {
     return stats;
   }
 
+  function getStatsQuality(voies: Geojson[]): { distance: number; percent: number; dangerCount: number } {
+    const features = getAllUniqLineStrings(voies);
+    const dangers = getAllUniqDangers(voies);
+    const totalDistance = getDistance({ features });
+    const unsatisfactoryFeatures = features.filter(feature => feature.properties.quality === 'unsatisfactory');
+    const unsatisfactoryDistance = getDistance({ features: unsatisfactoryFeatures });
+
+    return {
+      distance: unsatisfactoryDistance,
+      percent: Math.round((unsatisfactoryDistance / totalDistance) * 100),
+      dangerCount: dangers.length
+    };
+  }
+
   const typologyNames: Record<LaneType, string> = {
     bidirectionnelle: 'Piste bidirectionnelle',
     bilaterale: 'Piste bilatérale',
@@ -173,6 +201,11 @@ export const useStats = () => {
     'zone-de-rencontre': 'Zone de rencontre',
     aucun: 'Aucun',
     inconnu: 'Inconnu'
+  };
+
+  const qualityNames: Record<LaneQuality, string> = {
+    unsatisfactory: 'Non satisfaisant',
+    satisfactory: 'Satisfaisant'
   };
 
   function getStatsByTypology(voies: Geojson[]) {
@@ -205,6 +238,8 @@ export const useStats = () => {
     getStatsByTypology,
     displayDistanceInKm,
     displayPercent,
-    typologyNames
+    typologyNames,
+    qualityNames,
+    getStatsQuality
   };
 };

@@ -149,5 +149,7 @@
       "color": "#873E99",
       "link": "https://destinations2026-sytral.fr/processes/t10"
     }
-  ]
+  ],
+  "qualityDisplay": true,
+  "qualityDisplayOnHomePage": false
 }

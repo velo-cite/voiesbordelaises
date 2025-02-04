@@ -10,6 +10,7 @@
   "lines": [
     6
   ],
+  "cyclopolisId": "pont-mulatiere",
   "counts": [
     {
       "month": "2016-07-01",
@@ -413,7 +414,15 @@
     },
     {
       "month": "2024-11-01",
-      "count": 60729
+      "count": 69278
+    },
+    {
+      "month": "2024-12-01",
+      "count": 50840
+    },
+    {
+      "month": "2025-01-01",
+      "count": 57036
     }
   ]
 }

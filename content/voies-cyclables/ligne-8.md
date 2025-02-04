@@ -23,7 +23,7 @@ Les cyclistes de la commune qui y circulent continueront donc à le faire sans a
 Sur ce tronçon, une voie verte sur trottoir a été aménagée en 2018. Le projet consiste à conserver cette voie verte en bon état, en l'améliorant ponctuellement. On notera notamment la traversée du ruisseau de la Beffe sur lequel un alternat automobile sera créé pour mettre fin à l'interruption de la voie verte.
 
 ::banner{type="info"}
-Les finitions de ce tronçon sont médiocres, avec des différences d'enrobé à la suite du creusement d'une tranchée, un revêtement régulièrement bosselé, des marquages au sol non conventionnels et une bordure transversale très inconfortable dans la traversée de la rue de la Veyrie.
+Les finitions de ce tronçon sont médiocres, avec des différences d'enrobé à la suite du creusement d'une tranchée, un revêtement régulièrement bosselé, des marquages au sol non conventionnels et une bordure transversale très inconfortable dans la traversée de la rue de la Veyrie. En outre, un petit tronçon de 150m qui relie le hameau à l'ex RN7 est resté sous la forme d'un vieux chemin en stabilisé, le temps que des régularisations foncières aient lieu.
 ::
 
 ::banner{type="wip"}
@@ -34,18 +34,18 @@ Les travaux principaux de cette section ont eu lieu à l'automne 2023, mais les 
 Cette ancienne route nationale située hors agglomération sera profondément réaménagée. Aujourd'hui limitée à 70km/h avec 2 à 4 larges voies de circulation, cette route sera reconfigurée à 2x1 voies, avec la création d'une voie verte de 3 à 4m de large côté Ouest de la chaussée, séparée par un terre-plein végétalisé de 2 à 3m de large. La vitesse sera en outre abaissée à 50km/h sur certains tronçons accidentogènes.
 
 ::banner{type="wip"}
-Les travaux auront lieu entre octobre 2024 et février 2025.
+Les travaux ont lieu entre octobre 2024 et février 2025.
 ::
 
 #### Traversée de Charbonnières-les-Bains
 Cette section fait l'objet d'un vaste projet de requalification qui consiste à réaménager la très large Route de Paris. Le projet prévoit la création de larges trottoirs de minimum 2m de large, une voirie automobile à 2x1 voies de circulation et la création d'une piste cyclable bidirectionnelle de 4m de large côté Ouest de la chaussée et séparée ponctuellement par une bande végétalisée. Une voie de bus sera aussi créé ponctuellement pour améliorer les performances des transports en commun du secteur.
 
 Ce projet ambitieux sera réalisé en deux phases :
- - entre le chemin des Verrières et l'allée du Mas, l'aménagement sera réalisé en transitoire au second semestre 2026, et le réaménagement définitif prévu à un mandat ultérieur
- - entre l'alée du Mas et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
+ - entre le chemin des Verrières et l'allée du Mas, l'aménagement est réalisé en transitoire entre l'automne 2024 et le printemps 2025, et le réaménagement définitif prévu à un mandat ultérieur
+ - entre l'allée du Mas et le giratoire du Montcelard, l'aménagement sera définitif à horizon 2026
 
 ::banner{type="wip"}
-Entre l'allée du Mas et le giratoire du Montcelard, les travaux préalables sur les réseaux ont lieu entre l'été 2022 et l'automne 2024, puis les travaux d'aménagement enchaineront entre fin 2024 et l'été 2026.
+Entre l'allée du Mas et le giratoire du Montcelard, les travaux préalables sur les réseaux ont lieu entre l'été 2022 et l'automne 2024, puis les travaux d'aménagement enchaineront entre fin 2024 et l'été 2026 en commençant par la partie Sud.
 ::
 
 *La concertation publique sur ce tronçon s'est tenue du 01/09 au 30/09/2021.*\
@@ -59,6 +59,7 @@ Sur la route de Paris jusqu'au carrefour du Valvert, le projet prévoit l'élarg
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/route-de-paris.jpg
 caption: Aperçu de la Voie Lyonnaise 8 - Route de Paris (Tassin)
 credit: Métropole de Lyon
+streetView: 45.7676717,4.7609684,3a,75y,111.3h,90t
 ---
 ::
 
@@ -82,6 +83,7 @@ Sur le chemin du Vallon, deux variantes ont été proposées :
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/chemin-du-vallon.png
 caption: Aperçu de la Voie Lyonnaise 8 - Chemin du Vallon (Tassin - variante piste cyclable)
 credit: Métropole de Lyon
+streetView: 45.7688341,4.7861129,3a,75y,64.59h,90t
 ---
 ::
 
@@ -107,14 +109,19 @@ Ensuite, la partie Sud de l'avenue Vincent Serre sera aménagée comme la partie
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-vincent-serre.png
 caption: Aperçu de la Voie Lyonnaise 8 - Avenue Vincent Serre (Tassin)
 credit: Métropole de Lyon
+streetView: 45.7649531,4.7854616,3a,75y,350.01h,90t
 ---
+::
+
+::banner{type="wip"}
+Les travaux devraient avoir lieu au second semestre 2025.
 ::
 
 #### Avenue Barthélémy Buyer
 Cette avenue aujourd'hui très anxiogène pour les cyclistes sera réaménagée pour y insérer une piste cyclable bidirectionnelle côté Sud de 2.50 à 3.00m de large. La piste s'interrompra au niveau du carrefour avec l'avenue Apollinaire compte-tenu de l'étroitesse de la partie Est, qui obligerait à une mise en sens unique fortement impactante pour les lignes de bus du secteur.
 
 ::banner{type="wip"}
-Après des travaux préliminaires sur les réseaux souterrains en 2024, les travaux d'aménagement devraient commencer début 2025 et durer environ un an.
+Après des travaux préliminaires sur les réseaux souterrains en 2024, les travaux d'aménagement commenceront en juin 2025 et devraient durer jusqu'au printemps 2026.
 ::
 
 ::content-image
@@ -122,6 +129,7 @@ Après des travaux préliminaires sur les réseaux souterrains en 2024, les trav
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-barthelemy-buyer.png
 caption: Aperçu de la Voie Lyonnaise 8 - Avenue Barthélémy Buyer (Lyon 5 / Lyon 9)
 credit: Métropole de Lyon
+streetView: 45.7640864,4.7918726,3a,75y,271.26h,90t
 ---
 ::
 
@@ -133,6 +141,7 @@ La Voie Lyonnaise 8 sera donc déviée par l'avenue Apollinaire, avec la créati
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-la-graviere.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue de la Gravière (Lyon 9)
 credit: Métropole de Lyon
+streetView: 45.7615366,4.8071891,3a,75y,314.6h,90t
 ---
 ::
 
@@ -169,6 +178,7 @@ Le projet consiste en la suppression d'une à deux voies de circulation automobi
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite-citroen.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'Université (Lyon 7)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7509747,4.839041,3a,75y,116.22h,90t
 ---
 ::
 
@@ -177,11 +187,12 @@ credit: Street Architecture / Métropole de Lyon
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-de-l-universite.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue de l'Université (Lyon 7)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7486652,4.8429452,3a,75y,313.05h,90t
 ---
 ::
 
 ::banner{type="wip"}
-Après des travaux préliminaires sur les réseaux souterrains à l'automne 2024, les travaux d'aménagement devraient commencer début 2025 et durer environ un an.
+Après des travaux préliminaires sur les réseaux souterrains à l'automne-hiver 2024, les travaux d'aménagement devraient commencer en février 2025 et durer environ un an.
 ::
 
 #### Rue Camille Roy
@@ -192,6 +203,7 @@ Cette courte rue sera réaménagée pour conserver le sens unique actuel et le s
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-camille-roy.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue Camille Roy (Lyon 7)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7455569,4.8494585,3a,75y,69.06h,90t
 ---
 ::
 
@@ -200,6 +212,10 @@ Le projet prévoit d'aménager une piste cyclable bidirectionnelle côté Nord �
 Concernant la circulation automobile et le traitement du pont, deux variantes sont soumises à concertation :
  - La coupure de la circulation automobile sur le pont de l'Epargne, où l'espace libéré est réparti entre une piste cyclable au Sud et un trottoir au Nord. La circulation automobile passe alors en sens unique côté Ouest, en direction du boulevard des Tchécoslovaques. Cela permet de libérer davantage d'espace et de végétaliser et arborer massivement.
  - Le maintien de la circulation automobile sur le pont de l'Epargne, où une voie verte étroite mélangeant cyclistes et piétons est aménagée au Sud et la voirie automobile au Nord. Le circulation automobile est maintenue à double sens côté Ouest, les piétons et vélos sont contraints de traverser la voirie, et il reste peu d'espace pour végétaliser davantage la rue.
+
+ ::banner{type="wip"}
+Une première phase d'aménagement entièrement transitoire est prévue être déployée entre le dernier trimestre 2025 et début 2026.
+::
 
 #### Rue Marius Berliet
 Cette rue très routière et inconfortable a bénéficié de la création de deux couloirs de bus bilatéraux ouverts aux cyclistes en 2020 et pérennisés en 2021. Une seule voie de circulation a été maintenue dans le sens Est>Ouest.
@@ -216,11 +232,12 @@ Entre la place du Bachut et le boulevard Ambroise Paré, le projet prévoit l'am
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-jean-mermoz.png
 caption: Aperçu de la Voie Lyonnaise 8 - Avenue Jean Mermoz (Lyon 8)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7350505,4.8736669,3a,75y,304.21h,90t
 ---
 ::
 
 ::banner{type="wip"}
-Les travaux sont prévus entre novembre 2024 et le printemps 2025.
+Les travaux ont lieu entre mi-janvier 2025 et le début d'été 2025.
 ::
 
 Entre le boulevard Ambroise Paré et le boulevard Pinel, le projet prévoit de conserver l'aménagement récent réalisé par SYTRAL Mobilités en 2019 à l'occasion de l'arrivée du :transport-link{type=tram line=6}.
@@ -240,6 +257,10 @@ La piste cyclable bidirectionnelle de 3m de large côté Sud, aménagée en 2011
 #### Rue Lionel Terray
 Ce tronçon fera l'objet d'un vaste projet de requalification avec un budget dédié dans le cadre de la ZAC Bron-Parilly. On sait que l'aménagement consistera en une piste cyclable bidirectionnelle de 3.50m de large côté Sud et qu'une des deux voies de circulation restantes sera dédiée aux bus.
 
+::banner{type="info"}
+Du fait du retard pris dans le projet de la ZAC Bron-Parilly, l'aménagement de ce tronçon sur le mandat est incertain et la Métropole a fléché une variante temporaire qui passe par le parc de Parilly pour éviter la portion sans aucun aménagement cyclable sur l'Est de la rue Lionel Terray.
+::
+
 #### Branche vers Campus Sud
 Sur l'avenue Pierre Mendès-France, le long du tramway, le projet prévoyait deux variantes pour la position de la piste cyclable bidirectionnelle de 3.50m de large :
  - côté Ouest, à la place d'une voie de circulation et de la bande cyclable *VARIANTE VALIDEE*
@@ -250,6 +271,7 @@ Sur l'avenue Pierre Mendès-France, le long du tramway, le projet prévoyait deu
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/avenue-pierre-mendes-france.png
 caption: Aperçu de la Voie Lyonnaise 8 - avenue Pierre Mendès-France (Bron)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7244853,4.9148959,3a,75y,162.97h,90t
 ---
 ::
 
@@ -263,6 +285,7 @@ Sur ce boulevard très routier, le projet prévoyait deux variantes pour la posi
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/boulevard-de-l-universite.png
 caption: Aperçu de la Voie Lyonnaise 8 - boulevard de l'Université (Bron)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7240315,4.9167609,3a,75y,308.26h,90t
 ---
 ::
 
@@ -274,6 +297,7 @@ La Voie Lyonnaise évitera le boulevard André Boulloche en faisant un détour p
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/rue-paul-langevin.png
 caption: Aperçu de la Voie Lyonnaise 8 - Rue Paul Langevin (Bron)
 credit: Street Architecture / Métropole de Lyon
+streetView: 45.7210736,4.9198254,3a,75y,353.63h,90t
 ---
 ::
 
@@ -288,6 +312,7 @@ Il est prévu de rejoindre la très large piste existante de 5.50m le long de l'
 imageUrl: https://cyclopolis.lavilleavelo.org/vl8/cours-du-professeur-jean-bernard.png
 caption: Aperçu de la Voie Lyonnaise 8 - Cours du Professeur Jean Bernard (St-Priest)
 credit: Métropole de Lyon
+streetView: 45.7178632,4.9268028,3a,75y,306.26h,90t
 ---
 ::
 

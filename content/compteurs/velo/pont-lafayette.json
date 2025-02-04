@@ -1,12 +1,13 @@
 {
   "name": "Pont Lafayette",
   "description": "Le compteur vélo du Pont Lafayette mesure la fréquentation cycliste du pont dans les 2 sens. Il est ainsi composé de 2 capteurs au sol situés sur les pistes cyclables de part et d'autre du pont (les fameux slaloms entre les réverbères) du côté de la rive gauche.",
-  "arrondissement": "Lyon 3",
+  "arrondissement": "Lyon 2-6",
   "idPdc": 100050687,
   "coordinates": [
     4.840674179382174,
     45.76354000742473
   ],
+  "cyclopolisId": "pont-lafayette",
   "counts": [
     {
       "month": "2015-01-01",
@@ -426,27 +427,27 @@
     },
     {
       "month": "2023-09-01",
-      "count": 215960
+      "count": 234759
     },
     {
       "month": "2023-10-01",
-      "count": 179960
+      "count": 247342
     },
     {
       "month": "2023-11-01",
-      "count": 156590
+      "count": 208252
     },
     {
       "month": "2023-12-01",
-      "count": 134902
+      "count": 174656
     },
     {
       "month": "2024-01-01",
-      "count": 144039
+      "count": 183108
     },
     {
       "month": "2024-02-01",
-      "count": 130732
+      "count": 154315
     },
     {
       "month": "2024-03-01",
@@ -458,31 +459,39 @@
     },
     {
       "month": "2024-05-01",
-      "count": 129812
+      "count": 134129
     },
     {
       "month": "2024-06-01",
-      "count": 155618
+      "count": 209408
     },
     {
       "month": "2024-07-01",
-      "count": 148216
+      "count": 200724
     },
     {
       "month": "2024-08-01",
-      "count": 107090
+      "count": 150907
     },
     {
       "month": "2024-09-01",
-      "count": 156259
+      "count": 207350
     },
     {
       "month": "2024-10-01",
-      "count": 161049
+      "count": 214403
     },
     {
       "month": "2024-11-01",
-      "count": 145975
+      "count": 192734
+    },
+    {
+      "month": "2024-12-01",
+      "count": 131102
+    },
+    {
+      "month": "2025-01-01",
+      "count": 140016
     }
   ]
 }

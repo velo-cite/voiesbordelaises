@@ -8,6 +8,7 @@
     45.72925097542825
   ],
   "lines": [],
+  "cyclopolisId": "rue-challemel-lacour",
   "counts": [
     {
       "month": "2021-02-01",
@@ -192,6 +193,14 @@
     {
       "month": "2024-11-01",
       "count": 42650
+    },
+    {
+      "month": "2024-12-01",
+      "count": 33786
+    },
+    {
+      "month": "2025-01-01",
+      "count": 36564
     }
   ]
 }

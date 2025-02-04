@@ -3,10 +3,12 @@
  * https://data.eco-counter.com/ParcPublic/?id=3902#
  *
  * required : NodeJS >= 18
- * run : node ./.github/scripts/update-counters.js
+ * run : node ./.github/scripts/update-velo-counters.js
  */
 const fs = require('fs');
 const path = require('path');
+const dayjs = require('dayjs');
+dayjs().format();
 
 (async () => {
   const allCounters = await getAllCounters();
@@ -40,7 +42,7 @@ async function getAllCounters() {
    * - 2 vélo
    * - 13 trottinette
    */
-  const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/3902?withNull=true&pratiques=2';
+  const URL = 'https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/3902?withNull=true&pratiques=2,13';
   const res = await fetch(URL);
   if (res.ok) {
     const allCounters = await res.json();
@@ -70,14 +72,14 @@ async function getUpdatedCounts({ idPdc, flowIds }) {
   const URL = `https://www.eco-visio.net/api/aladdin/1.0.0/pbl/publicwebpageplus/data/${idPdc}?`;
   const res = await fetch(
     URL +
-      new URLSearchParams({
-        idOrganisme: '3902',
-        idPdc,
-        flowIds,
-        debut: '01/01/2015',
-        fin: getFirstDayOfCurrentMonth(),
-        interval: '6' // month
-      })
+    new URLSearchParams({
+      idOrganisme: '3902',
+      idPdc,
+      flowIds,
+      debut: '01/01/2015',
+      fin: dayjs().startOf('month').format('DD/MM/YYYY'),
+      interval: '6' // month
+    })
   );
   if (res.ok) {
     const counts = await res.json();
@@ -99,25 +101,4 @@ async function getUpdatedCounts({ idPdc, flowIds }) {
 function updateFile({ file, counter }) {
   const filePath = path.join('content/compteurs/velo', file);
   fs.writeFileSync(filePath, JSON.stringify(counter, null, 2));
-}
-
-/**
- * HELPER FUNCTIONS
- */
-function getFirstDayOfCurrentMonth() {
-  const currentDate = new Date();
-  const year = currentDate.getFullYear();
-  const month = currentDate.getMonth();
-
-  // Create a new date object with the year and month, set day to 1
-  const firstDayOfMonth = new Date(year, month, 1);
-
-  // Format the date as "dd/mm/yyyy"
-  return (
-    firstDayOfMonth.getDate().toString().padStart(2, '0') +
-    '/' +
-    (firstDayOfMonth.getMonth() + 1).toString().padStart(2, '0') +
-    '/' +
-    firstDayOfMonth.getFullYear()
-  );
 }

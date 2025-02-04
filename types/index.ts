@@ -12,6 +12,8 @@ export type LaneType =
 
 export type LaneStatus = 'done' | 'wip' | 'planned' | 'tested' | 'postponed' | 'unknown' | 'variante' | 'variante-postponed' | 'under-study' | 'canceled';
 
+export type LaneQuality = 'unsatisfactory' | 'satisfactory';
+
 export type LineStringFeature = {
   type: 'Feature';
   properties: {
@@ -22,6 +24,7 @@ export type LineStringFeature = {
     type: LaneType;
     doneAt?: string;
     link?: string;
+    quality?: LaneQuality;
   };
   geometry: {
     type: 'LineString';
@@ -82,8 +85,11 @@ export type PumpFeature = {
 export type DangerFeature = {
   type: 'Feature';
   properties: {
+    id?: string,
     type: 'danger',
     name: string
+    description: string
+    danger: string
   }
   geometry: {
     type: 'Point';
@@ -115,7 +121,7 @@ export function isPerspectiveFeature(feature: Feature): feature is PerspectiveFe
   return isPointFeature(feature) && feature.properties.type === 'perspective';
 }
 
-export function isDangerFeature(feature: Feature): feature is PerspectiveFeature {
+export function isDangerFeature(feature: Feature): feature is DangerFeature {
   return isPointFeature(feature) && feature.properties.type === 'danger';
 }
 
