@@ -145,7 +145,7 @@ export const useMap = () => {
       id: 'unsatisfactory-sections',
       type: 'line',
       source: 'unsatisfactory-sections',
-      minzoom: 14,
+      minzoom: 12,
       paint: {
         'line-gap-width': 5,
         'line-width': 4,
