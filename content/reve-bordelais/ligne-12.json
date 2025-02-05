@@ -47,6 +47,7 @@
                 "doneAt": "10/07/2023",
                 "type": "bidirectionnelle",
                 "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory",
                 "id": "reve-3-12-commun"
             }
         },
@@ -378,7 +379,8 @@
                 "name": "3",
                 "status": "planned",
                 "type": "bidirectionnelle",
-                "link": "/reve-12#les-tronçons-douest-en-est"
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory"
             }
         },
         {
@@ -477,7 +479,8 @@
                 "name": "4",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-12#les-tronçons-douest-en-est"
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory"
             }
         },
         {
@@ -525,6 +528,7 @@
                 "status": "planned",
                 "type": "voie-verte",
                 "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory",
                 "id": "reve-1-12-commun"
             }
         },
@@ -744,7 +748,8 @@
                 "name": "1",
                 "status": "planned",
                 "type": "bidirectionnelle",
-                "link": "/reve-12#les-tronçons-douest-en-est"
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory"
             }
         },
         {
@@ -803,7 +808,8 @@
                 "name": "Rue de Mouline - Avenue de l'Europe",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-12#les-tronçons-douest-en-est"
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory"
             }
         },
         {
@@ -938,7 +944,8 @@
                 "name": "7",
                 "status": "planned",
                 "type": "bidirectionnelle",
-                "link": "/reve-12#les-tronçons-douest-en-est"
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory"
             }
         },
         {
@@ -998,6 +1005,7 @@
                 "status": "done",
                 "type": "bilaterale",
                 "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory",
                 "id": "reve-4-12-commun",
                 "doneAt": "06/05/1967"
             }
@@ -1318,7 +1326,8 @@
                 "name": "Lormont Bassens",
                 "status": "planned",
                 "type": "bidirectionnelle",
-                "link": "/reve-12#les-tronçons-douest-en-est"
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory"
             }
         }
     ]

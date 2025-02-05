@@ -69,7 +69,8 @@
                 "name": "Beutre",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-10#informations"
+                "link": "/reve-10#informations",
+                "quality": "satisfactory"
             }
         },
         {
@@ -93,6 +94,7 @@
                 "status": "planned",
                 "type": "inconnu",
                 "link": "/reve-10#informations",
+                "quality": "satisfactory",
                 "id": "reve-2-10-commun"
             }
         },
@@ -184,7 +186,8 @@
                 "name": "Intra-Rocade",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-10#informations"
+                "link": "/reve-10#informations",
+                "quality": "satisfactory"
             }
         },
         {
@@ -215,7 +218,8 @@
                 "name": "Boulevard George Pompidou",
                 "status": "under-study",
                 "type": "bilaterale",
-                "link": "/reve-10#boulevard-george-pompidou"
+                "link": "/reve-10#boulevard-george-pompidou",
+                "quality": "satisfactory"
             }
         },
         {
@@ -238,7 +242,8 @@
                 "name": "Traversée Boulevard",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-10#informations"
+                "link": "/reve-10#informations",
+                "quality": "satisfactory"
             }
         },
         {
@@ -269,7 +274,8 @@
                 "name": "Rue Larminat et Cours Juin ",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-10#informations"
+                "link": "/reve-10#informations",
+                "quality": "satisfactory"
             }
         }
     ]

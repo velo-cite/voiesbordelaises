@@ -61,7 +61,8 @@
         "name": "Cours de la Somme",
         "status": "under-study",
         "type": "bilaterale",
-        "link": "/reve-7#cours-de-la-somme"
+        "link": "/reve-7#cours-de-la-somme",
+        "quality": "satisfactory"
       }
     },
     {
@@ -148,7 +149,8 @@
         "name": "Route de Toulouse",
         "status": "under-study",
         "type": "voie-bus",
-        "link": "/reve-7#route-de-toulouse"
+        "link": "/reve-7#route-de-toulouse",
+        "quality": "satisfactory"
       }
     },
     {
@@ -207,7 +209,8 @@
         "name": "Villenave d'Ornon Extra Rocade",
         "status": "planned",
         "type": "bilaterale",
-        "link": "/reve-7#villenave-dornon-:-extra-rocade"
+        "link": "/reve-7#villenave-dornon-:-extra-rocade",
+        "quality": "satisfactory"
       }
     },
     {
@@ -238,7 +241,8 @@
         "name": "Traversée Rocade",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-7#traversée-rocade"
+        "link": "/reve-7#traversée-rocade",
+        "quality": "satisfactory"
       }
     }
   ]

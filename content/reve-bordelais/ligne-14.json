@@ -42,6 +42,7 @@
                 "status": "under-study",
                 "type": "bidirectionnelle",
                 "link": "/reve-14#les-tronçons",
+                "quality": "satisfactory",
                 "id": "reve-4-14-commun"
             }
         },
@@ -145,7 +146,8 @@
                 "name": "Périphérique Bordeaux Lac",
                 "status": "planned",
                 "type": "bilaterale",
-                "link": "/reve-14#les-tronçons"
+                "link": "/reve-14#les-tronçons",
+                "quality": "satisfactory"
             }
         },
         {
@@ -193,6 +195,7 @@
                 "status": "done",
                 "type": "bilaterale",
                 "link": "/reve-14#les-tronçons",
+                "quality": "satisfactory",
                 "id": "reve-4-12-commun",
                 "doneAt": "06/05/1967"
             }
@@ -233,7 +236,8 @@
                 "name": "Connexion au pont Mitterrand (rive gauche)",
                 "status": "under-study",
                 "type": "voie-verte",
-                "link": "/reve-14#connexion-au-pont-mitterrand-rive-gauche"
+                "link": "/reve-14#connexion-au-pont-mitterrand-rive-gauche",
+                "quality": "satisfactory"
             }
         },
         {
@@ -256,7 +260,8 @@
                 "name": "Passerelle pont François Mitterrand",
                 "status": "under-study",
                 "type": "voie-verte",
-                "link": "/reve-14#pont-françois-mitterrand"
+                "link": "/reve-14#pont-françois-mitterrand",
+                "quality": "satisfactory"
             }
         },
         {
@@ -523,7 +528,8 @@
                 "name": "Périphérique Est",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-14#les-tronçons"
+                "link": "/reve-14#les-tronçons",
+                "quality": "satisfactory"
             }
         },
         {
@@ -670,7 +676,8 @@
                 "name": "Bègles",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-14#les-tronçons"
+                "link": "/reve-14#les-tronçons",
+                "quality": "satisfactory"
             }
         },
         {
@@ -1401,7 +1408,8 @@
                 "name": "Périphérique Ouest",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-14#les-tronçons"
+                "link": "/reve-14#les-tronçons",
+                "quality": "satisfactory"
             }
         },
         {
@@ -1444,7 +1452,8 @@
                 "name": "Chemin des Orphelins",
                 "status": "under-study",
                 "type": "bidirectionnelle",
-                "link": "/reve-14#chemin-des-orphelins-à-villenave"
+                "link": "/reve-14#chemin-des-orphelins-à-villenave",
+                "quality": "satisfactory"
             }
         }
     ]

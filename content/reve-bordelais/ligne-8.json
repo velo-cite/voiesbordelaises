@@ -41,7 +41,8 @@
                 "name": "ReVE 8 extra rocade",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-8#les-tronçons"
+                "link": "/reve-8#les-tronçons",
+                "quality":"satisfactory"
             }
         },
         {
@@ -69,6 +70,7 @@
                 "status": "planned",
                 "type": "inconnu",
                 "link": "/reve-8#les-tronçons",
+                "quality": "satisfactory",
                 "id": "reve-2-8-commun"
             }
         },
@@ -93,6 +95,7 @@
                 "status": "done",
                 "type": "velorue",
                 "link": "/reve-8#vélorue-dandicolle",
+                "quality": "satisfactory",
                 "doneAt": "31/12/2019"
             }
         },
@@ -120,7 +123,8 @@
                 "name": "Rue Servandoni",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-8#les-tronçons"
+                "link": "/reve-8#les-tronçons",
+                "quality": "satisfactory"
             }
         },
         {
@@ -159,7 +163,8 @@
                 "name": "Stade Chaban Delmas",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-8#les-tronçons"
+                "link": "/reve-8#les-tronçons",
+                "quality": "satisfactory"
             }
         },
         {
@@ -346,7 +351,8 @@
                 "name": "ReVE 8 intra rocade",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-8#les-tronçons"
+                "link": "/reve-8#les-tronçons",
+                "quality": "satisfactory"
             }
         },
         {
@@ -385,7 +391,8 @@
                 "name": "Commun Bus Express Pellegrin Malartic",
                 "status": "under-study",
                 "type": "bilaterale",
-                "link": "/reve-8#bus-express-pellegrin-malartic"
+                "link": "/reve-8#bus-express-pellegrin-malartic",
+                "quality": "satisfactory"
             }
         }
     ]

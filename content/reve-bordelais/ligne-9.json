@@ -21,7 +21,8 @@
                 "name": "Pessac Alouette",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -52,7 +53,8 @@
                 "name": "Pessac Toctoucau",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -91,7 +93,8 @@
                 "name": "Pessac Petit Gazinet",
                 "status": "under-study",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -138,7 +141,8 @@
                 "name": "Pessac extra Rocade",
                 "status": "under-study",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -169,7 +173,8 @@
                 "name": "Pessac Sous rocade",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -192,7 +197,8 @@
                 "name": "Pessac Residence Domofrance",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -216,6 +222,7 @@
                 "status": "done",
                 "type": "velorue",
                 "link": "/reve-9#concertation",
+                "quality": "satisfactory",
                 "doneAt": "01/01/2024"
             }
         },
@@ -279,7 +286,8 @@
                 "name": "Pessac Centre 1",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -306,7 +314,8 @@
                 "name": "Pessac - Avenue Louis Laugaa",
                 "status": "under-study",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -333,7 +342,8 @@
                 "name": "Pessac carrefour Jaurès/Pénard",
                 "status": "under-study",
                 "type": "bilaterale",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -376,7 +386,8 @@
                 "name": "Pessac Centre 3",
                 "status": "planned",
                 "type": "bilaterale",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -403,7 +414,8 @@
                 "name": "Pessac Centre 2",
                 "status": "planned",
                 "type": "bilaterale",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -434,7 +446,8 @@
                 "name": "Pessac Variante Alouette",
                 "status": "variante",
                 "type": "bilaterale",
-                "link": "/reve-9#concertation"
+                "link": "/reve-9#concertation",
+                "quality": "satisfactory"
             }
         },
         {
@@ -478,6 +491,7 @@
                 "status": "variante",
                 "type": "bilaterale",
                 "link": "/reve-9#concertation",
+                "quality": "satisfactory",
                 "id": "reve-2-9-commun"
             }
         }

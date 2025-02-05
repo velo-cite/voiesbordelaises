@@ -37,7 +37,8 @@
         "name": "Rue Judaïque et Av de la République",
         "status": "under-study",
         "type": "bilaterale",
-        "link": "/reve-11#rue-judaïque-et-avenue-de-la-république"
+        "link": "/reve-11#rue-judaïque-et-avenue-de-la-république",
+        "quality":"satisfactory"
       }
     },
     {
@@ -101,7 +102,8 @@
         "status": "done",
         "doneAt": "29/04/2023",
         "type": "bidirectionnelle",
-        "link": "/reve-11#aéroport"
+        "link": "/reve-11#aéroport",
+        "quality": "satisfactory"
       }
     },
     {
@@ -188,7 +190,8 @@
         "name": "Avenue de la Marne",
         "status": "planned",
         "type": "bidirectionnelle",
-        "link": "/reve-11#avenue-de-la-marne"
+        "link": "/reve-11#avenue-de-la-marne",
+        "quality": "satisfactory"
       }
     },
     {
@@ -209,6 +212,7 @@
       "properties": {
         "line": 11,
         "link": "/reve-11#place-mondésir",
+        "quality": "satisfactory",
         "status": "planned",
         "name": "Place Mondésir",
         "type": "bilaterale"
@@ -330,7 +334,8 @@
         "name": "Rue Bonnac et Av d'Arès",
         "status": "under-study",
         "type": "bilaterale",
-        "link": "/reve-11#rue-george-bonnac-et-avenue-darès"
+        "link": "/reve-11#rue-george-bonnac-et-avenue-darès",
+        "quality": "satisfactory"
       }
     },
     {
@@ -366,6 +371,7 @@
         "status": "planned",
         "type": "bidirectionnelle",
         "link": "/reve-11#aéroport",
+        "quality": "satisfactory",
         "id": "reve-2-11-commun"
       }
     },
@@ -429,7 +435,8 @@
         "name": "Avenue Marcel Dassault",
         "status": "under-study",
         "type": "voie-verte",
-        "link": "/reve-11#avenue-marcel-dassault"
+        "link": "/reve-11#avenue-marcel-dassault",
+        "quality": "satisfactory"
       }
     },
     {
@@ -528,7 +535,8 @@
         "name": "Martignas",
         "status": "under-study",
         "type": "voie-verte",
-        "link": "/reve-11#martignas"
+        "link": "/reve-11#martignas",
+        "quality": "satisfactory"
       }
     }
   ]
