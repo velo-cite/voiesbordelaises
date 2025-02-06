@@ -667,7 +667,7 @@
       },
       "properties": {
         "line": 1,
-        "name": "Bordeaux Caudéran",
+        "name": "Bordeaux Intra-Rocade",
         "status": "done",
         "type": "voie-bus",
         "link": "/reve-1#intrarocade",
@@ -716,7 +716,7 @@
       },
       "properties": {
         "line": 1,
-        "name": "Bordeaux Intra-Rocade",
+        "name": "Bordeaux Caudéran",
         "status": "done",
         "type": "voie-bus",
         "link": "/reve-1#intrarocade",
