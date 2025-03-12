@@ -5,7 +5,6 @@ color: "#746040"
 from: Villenave d'Ornon
 to: St Louis de Montferrand
 distance: 26500
-cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)

@@ -7,7 +7,6 @@ to: St Jean d'Illac
 distance: 11600
 description: 
 trafic: 
-cover: https://cyclopolis.lavilleavelo.org/vl10/voie-lyonnaise-10.png
 ---
 
 ### informations

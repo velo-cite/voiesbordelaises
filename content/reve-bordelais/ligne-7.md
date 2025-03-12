@@ -5,7 +5,6 @@ color: "#ae03ff"
 from: Inno Campus
 to: Bordeaux
 distance: 9000
-cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 ---
 
 ## Les tronçons (du Nord au Sud)

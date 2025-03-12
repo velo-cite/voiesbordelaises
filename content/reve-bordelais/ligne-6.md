@@ -7,7 +7,6 @@ to: Entre 2 mers
 distance: 5400
 description: 
 trafic: 
-cover: https://cyclopolis.lavilleavelo.org/vl6/lyon-nord.jpg
 ---
 
 ## Les tronçons (de l'ouest à l'est)

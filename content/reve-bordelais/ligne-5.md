@@ -5,7 +5,6 @@ color: "#1c77b7"
 from: Bordeaux
 to: Artigues près Bordeaux
 distance: 9200
-cover: https://cyclopolis.lavilleavelo.org/vl5/decines-av-roosevelt.png
 ---
 
 ## Les tronçons (dans le sens sortant)

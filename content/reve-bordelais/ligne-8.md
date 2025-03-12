@@ -6,7 +6,6 @@ from: Inno Campus
 to: Bordeaux
 distance: 10500
 description: De Bordeaux jusqu'à Pessac Bersol en passant par le campus
-cover: https://cyclopolis.lavilleavelo.org/vl7/rue-garibaldi.png
 ---
 
 ## Les tronçons

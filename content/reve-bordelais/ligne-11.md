@@ -5,7 +5,6 @@ color: "#b8319d"
 from: Bordeaux
 to: Martignas sur Jalle
 distance: 20700
-cover: https://cyclopolis.lavilleavelo.org/vl11/rue-de-bonnel-ouest.png
 ---
 
 ## Les tronçons

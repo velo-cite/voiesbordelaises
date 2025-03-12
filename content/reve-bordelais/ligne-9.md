@@ -7,7 +7,6 @@ to: Pessac
 distance: 15700
 description: 
 trafic: 
-cover: https://cyclopolis.lavilleavelo.org/vl9/voie-lyonnaise-9.jpg
 ---
 
 ## Les tronçons (d'Ouest en Est)

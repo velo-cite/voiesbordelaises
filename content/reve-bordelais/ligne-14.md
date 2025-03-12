@@ -7,7 +7,6 @@ to: Périphérique
 distance: 42300
 description: 
 trafic: 
-cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ---
 
 ## Les tronçons

@@ -6,7 +6,6 @@ from: Le Taillan Médoc
 to: Villenave d'Ornon
 distance: 24000
 description: Le Taillan-Médoc - Villenave d'Ornon
-cover: https://cyclopolis.lavilleavelo.org/vl2/bd-vivier-merle.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)

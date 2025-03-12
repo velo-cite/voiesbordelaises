@@ -5,7 +5,6 @@ color: "#e3af95"
 from: Bordeaux
 to: Parempuyre
 distance: 26500
-cover: https://cyclopolis.lavilleavelo.org/vl3/quai-fulchiron.jpg
 ---
 
 ## Les tronçons (du Nord au Sud)

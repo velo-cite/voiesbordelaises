@@ -7,7 +7,6 @@ to: Boulevards
 distance: 19000
 description: 
 trafic: 
-cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ---
 
 ## Les tronçons

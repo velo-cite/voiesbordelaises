@@ -8,7 +8,6 @@ distance: 33500
 description: 
 trafic: 
 avancement: 
-cover: https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png
 ---
 
 ::banner{type="unsecured"}
