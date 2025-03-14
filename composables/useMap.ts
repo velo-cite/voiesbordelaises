@@ -777,6 +777,34 @@ export const useMap = () => {
     }));
   }
 
+  function plotNoteZone({ map, features }: { map: Map; features: Feature[] }) {
+    map.addSource('note-source', {
+      type: 'geojson',
+      data: { type: 'FeatureCollection', features }
+    });
+
+    map.addLayer({
+      id: 'note-zone-layer',
+      source: 'note-source',
+      type: 'fill',
+      paint: {
+        'fill-outline-color': '#000000',
+        'fill-color': {
+          property: 'density',
+          stops: [
+            [20, '#4d9221'],
+            [50, '#a1d76a'],
+            [100, '#e6f5d0'],
+            [200, '#fde0ef'],
+            [500, '#e9a3c9'],
+            [1000, '#c51b7d']
+          ]
+        },
+        'fill-opacity': 0.9
+      }
+    });
+  }
+
   function fitBounds({ map, features }: { map: Map; features: Feature[] }) {
     const allLineStringsCoordinates = features
       .filter(isLineStringFeature)
@@ -819,6 +847,8 @@ export const useMap = () => {
     plotCompteurs({ map, features });
     plotPumps({ map, features });
     plotDangers({ map, features });
+
+    plotNoteZone({ map, features });
   }
 
   function handleMapClick({ map, features, clickEvent }: { map: Map; features: Feature[]; clickEvent: any }) {

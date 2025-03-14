@@ -16,6 +16,7 @@ definePageMeta({
 const { data: voies } = await useAsyncData(() => {
   return queryContent('reve').where({ _type: 'json' }).find();
 });
+console.log(voies);
 
 const features = voies.value.map(voie => voie.features).flat();
 

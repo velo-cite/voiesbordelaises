@@ -1,3 +1,5 @@
+import type { CityEvalFeature } from '~/types/mapStat';
+
 export type LaneType =
 | 'bidirectionnelle'
 | 'bilaterale'
@@ -99,7 +101,7 @@ export type DangerFeature = {
 
 type PointFeature = PerspectiveFeature | CompteurFeature | PumpFeature | DangerFeature;
 
-export type Feature = LineStringFeature | PointFeature;
+export type Feature = LineStringFeature | PointFeature | CityEvalFeature;
 
 export type Geojson = {
   type: string;

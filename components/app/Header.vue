@@ -165,10 +165,10 @@
         </PopoverGroup>
         <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
           <NuxtLink
-            to="/blog"
+            to="/bilan-mandat"
             class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-lvv-blue-600 hover:shadow-lg transition duration-300 transform hover:scale-105"
           >
-            Blog
+            Bilan Mandat 2020
           </NuxtLink>
         </div>
       </div>

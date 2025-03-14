@@ -114,7 +114,7 @@
 defineProps({
   header: { type: String, required: false, default: undefined },
   title: { type: String, required: false, default: undefined },
-  description: { type: String, required: true },
+  description: { type: String, required: false, default: undefined },
   imageUrl: { type: String, required: false }
 });
 </script>
