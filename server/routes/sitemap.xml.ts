@@ -5,18 +5,18 @@ import { SitemapStream, streamToPromise } from 'sitemap';
 import { serverQueryContent } from '#content/server';
 import config from '~/config.json';
 
-const BASE_URL = 'https://cyclopolis.fr';
+const BASE_URL = 'https://reve.velo-cite.org';
 
 export default defineEventHandler(async event => {
   const sitemap = new SitemapStream({ hostname: BASE_URL });
   const docs = await serverQueryContent(event).find();
 
-  const docsExceptVoiesLyonnaises = docs.filter(doc => doc._dir !== 'reve');
+  const docsExceptVoiesLyonnaises = docs.filter(doc => doc._dir !== 'reve-bordelais' && doc._dir !== 'voies-cyclables');
   for (const doc of docsExceptVoiesLyonnaises) {
     sitemap.write({ url: doc._path, changefreq: 'monthly' });
   }
 
-  const docsOnlyVoiesLyonnaises = docs.filter(doc => doc._dir === 'reve' && doc._type === 'markdown');
+  const docsOnlyVoiesLyonnaises = docs.filter(doc => doc._dir === 'reve-bordelais' && doc._type === 'markdown');
   for (const doc of docsOnlyVoiesLyonnaises) {
     sitemap.write({ url: `/${config.slug}-${doc.line}`, changefreq: 'monthly' });
   }
