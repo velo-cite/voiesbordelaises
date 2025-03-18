@@ -10,7 +10,11 @@ trafic:
 ---
 
 ## Les tronçons (d'Ouest en Est)
-### Tronçon extra-rocade
+## Tronçon extra-rocade
+
+### Pessac Toctoucau 
+
+### Entre le Chemin de Lesticaire et la rue de la Poudière
 
 Entre Chemin de Lesticaire et la rue de la Poudière (3km), une voie verte devrait voir le jour. 
 Sa largeur devrait être de 2,50m.
@@ -35,8 +39,8 @@ Entre l'allée des Cigales et Ciboulette (300 m), une voie verte sera créée.
 Les terrains sont en cours d'acquisition auprès de Domofrance.
 
 ### Rue de la Ciboulette
-Les travaux sont finis, sauf marquage. 
-Une zone 30, à sens unique, a été mis en place.
+Les travaux sont finis, sauf marquage.
+Une vélorue, à sens unique pour les véhicules motorisés, a été mis en place.
 
 ### Rue Laugaa
 Les études sont en cours.
