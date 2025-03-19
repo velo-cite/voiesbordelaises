@@ -272,10 +272,11 @@
             "properties": {
                 "line": 10,
                 "name": "Rue Larminat et Cours Juin ",
-                "status": "planned",
+                "status": "done",
                 "type": "inconnu",
                 "link": "/reve-10#informations",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/03/2025"
             }
         }
     ]

@@ -21,7 +21,7 @@
                 "name": "Pessac Alouette",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#secteur-gare-alouette",
                 "quality": "satisfactory"
             }
         },
@@ -53,7 +53,7 @@
                 "name": "Pessac Toctoucau",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#pessac-toctoucau",
                 "quality": "satisfactory"
             }
         },
@@ -85,6 +85,10 @@
                     [
                         -0.688939,
                         44.782334
+                    ],
+                    [
+                        -0.681302,
+                        44.785964
                     ]
                 ]
             },
@@ -93,55 +97,7 @@
                 "name": "Pessac Petit Gazinet",
                 "status": "under-study",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.688939,
-                        44.782334
-                    ],
-                    [
-                        -0.681302,
-                        44.785964
-                    ],
-                    [
-                        -0.679035,
-                        44.782908
-                    ],
-                    [
-                        -0.669941,
-                        44.787791
-                    ],
-                    [
-                        -0.663795,
-                        44.79106
-                    ],
-                    [
-                        -0.663494,
-                        44.790853
-                    ],
-                    [
-                        -0.659139,
-                        44.793144
-                    ],
-                    [
-                        -0.659255,
-                        44.793442
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 9,
-                "name": "Pessac extra Rocade",
-                "status": "under-study",
-                "type": "voie-verte",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#pessac-petit-gazinet",
                 "quality": "satisfactory"
             }
         },
@@ -173,7 +129,7 @@
                 "name": "Pessac Sous rocade",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#sous-la-rocade",
                 "quality": "satisfactory"
             }
         },
@@ -197,7 +153,7 @@
                 "name": "Pessac Residence Domofrance",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#allée-et-rue-de-la-ciboulette",
                 "quality": "satisfactory"
             }
         },
@@ -221,7 +177,7 @@
                 "name": "Pessac - Rue de la Ciboulette",
                 "status": "done",
                 "type": "velorue",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#allée-et-rue-de-la-ciboulette",
                 "quality": "satisfactory",
                 "doneAt": "01/01/2024"
             }
@@ -314,7 +270,7 @@
                 "name": "Pessac - Avenue Louis Laugaa",
                 "status": "under-study",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#rue-laugaa",
                 "quality": "satisfactory"
             }
         },
@@ -493,6 +449,70 @@
                 "link": "/reve-9#concertation",
                 "quality": "satisfactory",
                 "id": "reve-2-9-commun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.679035,
+                        44.782908
+                    ],
+                    [
+                        -0.669941,
+                        44.787791
+                    ],
+                    [
+                        -0.663795,
+                        44.79106
+                    ],
+                    [
+                        -0.663494,
+                        44.790853
+                    ],
+                    [
+                        -0.659139,
+                        44.793144
+                    ],
+                    [
+                        -0.659255,
+                        44.793442
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 9,
+                "name": "Pessac Chemin Latéral et rue du transformateur",
+                "status": "planned",
+                "type": "voie-verte",
+                "link": "/reve-9#chemin-latéral-et-rue-du-transformateur",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.681302,
+                        44.785964
+                    ],
+                    [
+                        -0.679035,
+                        44.782908
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 9,
+                "name": "Pessac Rue Paul-Emile Victor",
+                "status": "under-study",
+                "type": "bidirectionnelle",
+                "link": "/reve-9#rue-paul-emile-victor",
+                "quality": "satisfactory"
             }
         }
     ]

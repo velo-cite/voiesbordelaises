@@ -10,9 +10,24 @@ description: De Bordeaux jusqu'à Pessac Bersol en passant par le campus
 
 ## Les tronçons
 
-::banner{type="unsecured"}
-Cette ligne de ReVE en direction du Campus n'est que partiellement étudiée.
-::
+### Avenue Jean Perrin
+Les études sont en cours.
+
+### Avenue Haut-Lévêque
+Actuellement pistes unidirectionnelles existent.
+En attente d'informations pour la suite.
+Ce tronçon est commun avec la :line-link{line=2}.
+
+### Avenue Gustave Eiffel
+Les études sont en cours.
+Ce tronçon est commun avec la :line-link{line=2} entre l’avenue du Haut-Lévêque et l’avenue de Broglie
+
+### Traversée de la rocade par le pont de Saige
+Ce passage est un point noir.
+Aucune information pour le moment.
+
+### Saige
+Il existe une piste bidirectionnelle en site propre. Il est nécessaire de reprendre le revêtement.
 
 ### Bus Express Pellegrin - Malartic
 Une partie du ReVE 8 partage son itinéraire avec le Bus Express Pellegrin-Malartic.
