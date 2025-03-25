@@ -1320,15 +1320,6 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "line": 12,
-                "name": "Avenue de l'Europe",
-                "status": "done",
-                "type": "voie-verte",
-                "link": "/reve-12#les-tronçons-douest-en-est",
-                "quality": "satisfactory",
-                "doneAt": "01/12/2024"
-            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -1349,18 +1340,19 @@
                         44.924552
                     ]
                 ]
+            },
+            "properties": {
+                "line": 12,
+                "name": "Avenue de l'Europe",
+                "status": "done",
+                "type": "voie-verte",
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory",
+                "doneAt": "01/12/2024"
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "line": 12,
-                "name": "variante Ambares",
-                "status": "under-study",
-                "type": "voie-verte",
-                "link": "/reve-12#les-tronçons-douest-en-est",
-                "quality": "satisfactory"
-            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -1397,18 +1389,18 @@
                         44.94095
                     ]
                 ]
+            },
+            "properties": {
+                "line": 12,
+                "name": "variante Ambares",
+                "status": "under-study",
+                "type": "voie-verte",
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory"
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "line": 12,
-                "name": "variante Ambares",
-                "status": "planned",
-                "type": "voie-verte",
-                "link": "/reve-12#les-tronçons-douest-en-est",
-                "quality": "satisfactory"
-            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -1417,8 +1409,8 @@
                         44.94095
                     ],
                     [
-                        -0.477925,
-                        44.937893
+                        -0.477071,
+                        44.935445
                     ],
                     [
                         -0.48102,
@@ -1449,18 +1441,18 @@
                         44.929868
                     ]
                 ]
+            },
+            "properties": {
+                "line": 12,
+                "name": "variante Ambares",
+                "status": "planned",
+                "type": "voie-verte",
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory"
             }
         },
         {
             "type": "Feature",
-            "properties": {
-                "line": 12,
-                "name": "variante Ambares",
-                "status": "under-study",
-                "type": "voie-verte",
-                "link": "/reve-12#les-tronçons-douest-en-est",
-                "quality": "satisfactory"
-            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -1481,6 +1473,14 @@
                         44.927394
                     ]
                 ]
+            },
+            "properties": {
+                "line": 12,
+                "name": "variante Ambares",
+                "status": "under-study",
+                "type": "voie-verte",
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory"
             }
         },
         {
