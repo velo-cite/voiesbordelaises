@@ -9,12 +9,21 @@ description:
 trafic: 
 ---
 
-### informations
-::banner{type="unsecured"}
-Cette ligne de ReVE en direction de Merignac Beutre et Saint Jean d'Illac n'est que partiellement étudiée.
-::
-
 ## Les tronçons (d'Ouest en Est)
+
+### Avenue de Bordeaux 
+Les études sont en cours sur la départementale 106.
+Ces travaux permettront de rejoindre la voie verte en direction de Saint-Jean-d'Illac.
+https://www.gironde.fr/deplacements/contournement-de-saint-jean-dillac?highlight_text=106
+
+### Beutre
+Les études sont en cours.
+
+### Boulevard Technologique
+Les études sont en cours sur ce tronçon commun avec la :line-link{line=2}.
+
+### Avenue François Mitterrand
+Les études sont en cours.
 
 ### Boulevard George Pompidou
 Ce tronçon est en cours d'étude dans le cadre du Bus Express Pellegrin Malartic.

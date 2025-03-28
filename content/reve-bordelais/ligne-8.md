@@ -11,11 +11,10 @@ description: De Bordeaux jusqu'à Pessac Bersol en passant par le campus
 ## Les tronçons
 
 ### Avenue Jean Perrin
-Les études sont en cours.
+Les études sont en cours. Des pistes unidirectionnelles devraient être réalisées.
 
 ### Avenue Haut-Lévêque
-Actuellement pistes unidirectionnelles existent.
-En attente d'informations pour la suite.
+Des pistes unidirectionnelles ont été réalisé en 2020.
 Ce tronçon est commun avec la :line-link{line=2}.
 
 ### Avenue Gustave Eiffel
@@ -28,6 +27,9 @@ Aucune information pour le moment.
 
 ### Saige
 Il existe une piste bidirectionnelle en site propre. Il est nécessaire de reprendre le revêtement.
+
+### Rue Robert Escarpit et Avenue du Docteur Schweitzer
+Les études sont en cours.
 
 ### Bus Express Pellegrin - Malartic
 Une partie du ReVE 8 partage son itinéraire avec le Bus Express Pellegrin-Malartic.

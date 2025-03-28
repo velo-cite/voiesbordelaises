@@ -15,6 +15,13 @@ trafic:
 Cette ligne de ReVE n'est étudiée que partiellement.
 ::
 
+### Lormont
+::banner{type="info"}
+Les études sont en cours pour la rue Pierre Mendès France et l'avenue de la Résistance. Pas d'information supplémentaire, pour le moment.
+::
+
+L'avenue de Paris (franchissement du pont SNCF) devrait entrer en travaux en 2025.
+
 ### Pont François Mitterrand
 Fermée en 2018, la passerelle cycliste fait actuellement l’objet d’une étude par Bordeaux Métropole pour une réouverture prévue en 2026. Une concertation publique a été organisée en juin et juillet 2022.
 Le projet proposé par le groupement de conception/réalisation MOGA architectes, SETEC et Eiffage a été retenu (décembre 2024).

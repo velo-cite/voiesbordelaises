@@ -47,6 +47,10 @@ caption: Portion du ReVE le long de l'extension du Tram A à Mérignac - © Bord
 ---
 ::
 
+### Boulevard Technologique
+
+Ce tronçon, commun avec la :line-link{line=2}, est étudié dans le cadre du Boulevard Technologique.
+
 ### Avenue Marcel Dassault
 [Lien de la concertation (terminée)](https://www.gironde.gouv.fr/Publications/Publications-legales/Enquetes-publiques-consultations-du-public-declarations-d-intention-decisions-examen-cas-par-cas/Enquete-publique-Consultation-du-public-2023/Merignac-Avenue-Marcel-Dassault-Amenagement-de-voirie-vitesse-commerciale-Lianes-11)
 

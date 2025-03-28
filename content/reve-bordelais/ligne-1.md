@@ -17,7 +17,7 @@ En attente d'informations.
 En attente d'informations.
 
 ### Le Haillan Les 5 chemins
-En attente d'informations.
+Ce tronçon est étudié dans le cadre du Boulevard Technologique.
 
 ### Mérignac - voie verte rue Germaine Tillion
 La voie verte de la rue Germaine Tillion permet de connecter l'axe du Bus Express G aux Haillan (Les 5 chemins).

@@ -38,40 +38,11 @@
             },
             "properties": {
                 "line": 8,
-                "name": "ReVE 8 extra rocade",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-8#les-tronçons",
-                "quality":"satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.652356,
-                        44.783366
-                    ],
-                    [
-                        -0.649972,
-                        44.781566
-                    ],
-                    [
-                        -0.646697,
-                        44.783601
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 8,
-                "name": "Commun ligne 2 et 8",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-8#les-tronçons",
-                "quality": "satisfactory",
-                "id": "reve-2-8-commun"
+                "name": "Avenue Jean Perrin et Rue Marcel Dassault",
+                "status": "under-study",
+                "type": "bilaterale",
+                "link": "/reve-8#avenue-gustave-eiffel",
+                "quality": "satisfactory"
             }
         },
         {
@@ -173,6 +144,146 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        -0.601866,
+                        44.817829
+                    ],
+                    [
+                        -0.602381,
+                        44.818666
+                    ],
+                    [
+                        -0.601909,
+                        44.821451
+                    ],
+                    [
+                        -0.600665,
+                        44.823339
+                    ],
+                    [
+                        -0.599892,
+                        44.823856
+                    ],
+                    [
+                        -0.598476,
+                        44.825378
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "Commun Bus Express Pellegrin Malartic",
+                "status": "under-study",
+                "type": "bilaterale",
+                "link": "/reve-8#bus-express-pellegrin-malartic",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.609615,
+                        44.800985
+                    ],
+                    [
+                        -0.610286,
+                        44.80273
+                    ],
+                    [
+                        -0.6101,
+                        44.80369
+                    ],
+                    [
+                        -0.610636,
+                        44.804968
+                    ],
+                    [
+                        -0.609176,
+                        44.805348
+                    ],
+                    [
+                        -0.607829,
+                        44.805958
+                    ],
+                    [
+                        -0.6056,
+                        44.807949
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "Rue Robert Escarpit et Av Schweitzer",
+                "status": "under-study",
+                "type": "inconnu",
+                "link": "/reve-8#rue-robert-escarpit-et-avenue-du-docteur-schweitzer",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.6056,
+                        44.807949
+                    ],
+                    [
+                        -0.606608,
+                        44.811847
+                    ],
+                    [
+                        -0.606244,
+                        44.812456
+                    ],
+                    [
+                        -0.605171,
+                        44.812973
+                    ],
+                    [
+                        -0.603561,
+                        44.814678
+                    ],
+                    [
+                        -0.603368,
+                        44.815104
+                    ],
+                    [
+                        -0.603626,
+                        44.8155
+                    ],
+                    [
+                        -0.602853,
+                        44.816794
+                    ],
+                    [
+                        -0.601995,
+                        44.81754
+                    ],
+                    [
+                        -0.601866,
+                        44.817829
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "Avenue de la Mission Haut Brion",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-8#les-tronçons",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
                         -0.646697,
                         44.783601
                     ],
@@ -180,6 +291,26 @@
                         -0.643537,
                         44.785658
                     ],
+                    [
+                        -0.637701,
+                        44.786404
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "Avenue Gustave Eiffel",
+                "status": "under-study",
+                "type": "inconnu",
+                "link": "/reve-8#avenue-gustave-eiffel",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         -0.637701,
                         44.786404
@@ -192,6 +323,26 @@
                         -0.636306,
                         44.787287
                     ],
+                    [
+                        -0.635812,
+                        44.788171
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "ReVE 8 traversée rocade",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-8#les-tronçons",
+                "quality": "unsatisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         -0.635812,
                         44.788171
@@ -273,76 +424,20 @@
                         44.799408
                     ],
                     [
-                        -0.609097,
-                        44.800429
+                        -0.60923,
+                        44.800421
                     ],
                     [
-                        -0.608454,
-                        44.800703
+                        -0.609415,
+                        44.800543
                     ],
                     [
-                        -0.608475,
-                        44.801022
+                        -0.609675,
+                        44.80073
                     ],
                     [
-                        -0.607595,
-                        44.80186
-                    ],
-                    [
-                        -0.606523,
-                        44.803687
-                    ],
-                    [
-                        -0.605729,
-                        44.804752
-                    ],
-                    [
-                        -0.604699,
-                        44.80527
-                    ],
-                    [
-                        -0.604355,
-                        44.805346
-                    ],
-                    [
-                        -0.6056,
-                        44.807949
-                    ],
-                    [
-                        -0.606608,
-                        44.811847
-                    ],
-                    [
-                        -0.606244,
-                        44.812456
-                    ],
-                    [
-                        -0.605171,
-                        44.812973
-                    ],
-                    [
-                        -0.603561,
-                        44.814678
-                    ],
-                    [
-                        -0.603368,
-                        44.815104
-                    ],
-                    [
-                        -0.603626,
-                        44.8155
-                    ],
-                    [
-                        -0.602853,
-                        44.816794
-                    ],
-                    [
-                        -0.601995,
-                        44.81754
-                    ],
-                    [
-                        -0.601866,
-                        44.817829
+                        -0.609615,
+                        44.800985
                     ]
                 ]
             },
@@ -361,38 +456,49 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.601866,
-                        44.817829
+                        -0.652356,
+                        44.783366
                     ],
                     [
-                        -0.602381,
-                        44.818666
-                    ],
-                    [
-                        -0.601909,
-                        44.821451
-                    ],
-                    [
-                        -0.600665,
-                        44.823339
-                    ],
-                    [
-                        -0.599892,
-                        44.823856
-                    ],
-                    [
-                        -0.598476,
-                        44.825378
+                        -0.649972,
+                        44.781566
                     ]
                 ]
             },
             "properties": {
                 "line": 8,
-                "name": "Commun Bus Express Pellegrin Malartic",
-                "status": "under-study",
+                "name": "Commun ligne 2 et 8 (terminé)",
+                "status": "done",
                 "type": "bilaterale",
-                "link": "/reve-8#bus-express-pellegrin-malartic",
-                "quality": "satisfactory"
+                "link": "/reve-8#avenue-haut-lévêque",
+                "quality": "satisfactory",
+                "id": "reve-2-8-commun-done",
+                "doneAt": "01/01/2020"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.649972,
+                        44.781566
+                    ],
+                    [
+                        -0.646697,
+                        44.783601
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 8,
+                "name": "Commun ligne 2 et 8",
+                "status": "under-study",
+                "type": "inconnu",
+                "link": "/reve-8#avenue-haut-lévêque",
+                "quality": "satisfactory",
+                "id": "reve-2-8-commun"
             }
         }
     ]
