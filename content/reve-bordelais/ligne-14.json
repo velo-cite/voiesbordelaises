@@ -156,8 +156,12 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.526479,
-                        44.880387
+                        -0.526162,
+                        44.880431
+                    ],
+                    [
+                        -0.52649,
+                        44.880379
                     ],
                     [
                         -0.52672,
@@ -1362,6 +1366,31 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        -0.526162,
+                        44.880431
+                    ],
+                    [
+                        -0.524704,
+                        44.87989
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 12,
+                "name": "Pont de Mirepont",
+                "status": "wip",
+                "type": "bilaterale",
+                "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory",
+                "id": "Pont de Mirepont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
                         -0.513256,
                         44.86608
                     ],
@@ -1470,30 +1499,23 @@
                         44.880475
                     ],
                     [
-                        -0.524351,
-                        44.879794
+                        -0.524289,
+                        44.879779
                     ],
                     [
-                        -0.524694,
-                        44.879883
-                    ],
-                    [
-                        -0.526099,
-                        44.880468
-                    ],
-                    [
-                        -0.526479,
-                        44.880387
+                        -0.524704,
+                        44.87989
                     ]
                 ]
             },
             "properties": {
                 "line": 14,
-                "name": "Périphérique Est",
+                "name": "Route de Carbon-Blanc",
                 "status": "planned",
                 "type": "inconnu",
                 "link": "/reve-14#les-tronçons",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "id": "route-de-carbon-blanc"
             }
         }
     ]

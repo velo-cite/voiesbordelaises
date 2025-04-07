@@ -740,28 +740,6 @@
                     [
                         -0.550755,
                         44.882639
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 12,
-                "name": "Pont d'Aquitaine",
-                "status": "done",
-                "type": "bilaterale",
-                "link": "/reve-12#les-tronçons-douest-en-est",
-                "quality": "satisfactory",
-                "id": "reve-4-12-commun",
-                "doneAt": "06/05/1967"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.550755,
-                        44.882639
                     ],
                     [
                         -0.545604,
@@ -996,7 +974,7 @@
                 "name": "1",
                 "status": "planned",
                 "type": "bidirectionnelle",
-                "link": "",
+                "link": "/reve-12#les-tronçons-douest-en-est",
                 "quality": "satisfactory"
             }
         },
@@ -1098,7 +1076,8 @@
                 "status": "wip",
                 "type": "bidirectionnelle",
                 "link": "/reve-12#les-tronçons-douest-en-est",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "id": "Pont de Mirepont"
             }
         },
         {
@@ -1489,82 +1468,6 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.524704,
-                        44.87989
-                    ],
-                    [
-                        -0.52435,
-                        44.879798
-                    ],
-                    [
-                        -0.524029,
-                        44.880004
-                    ],
-                    [
-                        -0.522355,
-                        44.881258
-                    ],
-                    [
-                        -0.521872,
-                        44.881775
-                    ],
-                    [
-                        -0.521508,
-                        44.882267
-                    ],
-                    [
-                        -0.520305,
-                        44.882932
-                    ],
-                    [
-                        -0.519758,
-                        44.883105
-                    ],
-                    [
-                        -0.519072,
-                        44.883288
-                    ],
-                    [
-                        -0.518053,
-                        44.883242
-                    ],
-                    [
-                        -0.517377,
-                        44.883044
-                    ],
-                    [
-                        -0.51713,
-                        44.882672
-                    ],
-                    [
-                        -0.516797,
-                        44.88255
-                    ],
-                    [
-                        -0.516272,
-                        44.882611
-                    ],
-                    [
-                        -0.516111,
-                        44.882816
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 12,
-                "name": "Lormont Bassens",
-                "status": "planned",
-                "type": "bidirectionnelle",
-                "link": "/reve-12#les-tronçons-douest-en-est",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
                         -0.516111,
                         44.882816
                     ],
@@ -1664,6 +1567,96 @@
                 "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-12#les-tronçons-douest-en-est",
+                "quality": "satisfactory",
+                "doneAt": "01/01/2015"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.516917,
+                        44.882429
+                    ],
+                    [
+                        -0.517602,
+                        44.883136
+                    ],
+                    [
+                        -0.518889,
+                        44.883303
+                    ],
+                    [
+                        -0.520284,
+                        44.882953
+                    ],
+                    [
+                        -0.521507,
+                        44.882269
+                    ],
+                    [
+                        -0.522108,
+                        44.881497
+                    ],
+                    [
+                        -0.522843,
+                        44.880908
+                    ],
+                    [
+                        -0.523433,
+                        44.880475
+                    ],
+                    [
+                        -0.524289,
+                        44.879779
+                    ],
+                    [
+                        -0.524704,
+                        44.87989
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 12,
+                "name": "Route de Carbon-Blanc",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-12#les-tronçons",
+                "quality": "satisfactory",
+                "id": "route-de-carbon-blanc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.516917,
+                        44.882429
+                    ],
+                    [
+                        -0.516797,
+                        44.88255
+                    ],
+                    [
+                        -0.516272,
+                        44.882611
+                    ],
+                    [
+                        -0.516111,
+                        44.882816
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 12,
+                "name": "Lormont Bassens",
+                "status": "planned",
+                "type": "bidirectionnelle",
+                "link": "/reve-12#les-tronçons",
                 "quality": "satisfactory"
             }
         }

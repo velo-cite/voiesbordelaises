@@ -78,7 +78,7 @@
                 "name": "Traversée Boulevard",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-10#informations",
+                "link": "/reve-10#les-tronçons-douest-en-est",
                 "quality": "satisfactory"
             }
         },
@@ -110,7 +110,7 @@
                 "name": "Rue Larminat et Cours Juin ",
                 "status": "done",
                 "type": "inconnu",
-                "link": "/reve-10#informations",
+                "link": "/reve-10#les-tronçons-douest-en-est",
                 "quality": "satisfactory",
                 "doneAt": "01/03/2025"
             }
@@ -319,7 +319,7 @@
                 "name": "Le long du tram A",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-10#informations",
+                "link": "/reve-10#les-tronçons-douest-en-est",
                 "quality": "satisfactory"
             }
         }

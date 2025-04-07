@@ -242,7 +242,7 @@
                 "name": "Pessac Centre 1",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#concertations",
                 "quality": "satisfactory"
             }
         },
@@ -298,7 +298,7 @@
                 "name": "Pessac carrefour Jaurès/Pénard",
                 "status": "under-study",
                 "type": "bilaterale",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#concertations",
                 "quality": "unsatisfactory"
             }
         },
@@ -342,7 +342,7 @@
                 "name": "Pessac Centre 3",
                 "status": "planned",
                 "type": "bilaterale",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#concertations",
                 "quality": "satisfactory"
             }
         },
@@ -370,7 +370,7 @@
                 "name": "Pessac Centre 2",
                 "status": "planned",
                 "type": "bilaterale",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#concertations",
                 "quality": "satisfactory"
             }
         },
@@ -402,7 +402,7 @@
                 "name": "Pessac Variante Alouette",
                 "status": "variante",
                 "type": "bilaterale",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#concertations",
                 "quality": "satisfactory"
             }
         },
@@ -446,7 +446,7 @@
                 "name": "Pessac Variante Alouette 2 ",
                 "status": "variante",
                 "type": "bilaterale",
-                "link": "/reve-9#concertation",
+                "link": "/reve-9#concertations",
                 "quality": "satisfactory",
                 "id": "reve-2-9-commun"
             }

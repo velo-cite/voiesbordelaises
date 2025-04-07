@@ -51,7 +51,8 @@
                 "status": "under-study",
                 "type": "inconnu",
                 "link": "/reve-2#boulevard-technologique",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "visibility": false
             }
         },
         {
@@ -317,54 +318,10 @@
                     [
                         -0.675481,
                         44.812347
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "11",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-2#concertation",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.675481,
-                        44.812347
                     ],
                     [
                         -0.675509,
                         44.811664
-                    ],
-                    [
-                        -0.676217,
-                        44.811405
-                    ],
-                    [
-                        -0.676083,
-                        44.807036
-                    ],
-                    [
-                        -0.675874,
-                        44.806751
-                    ],
-                    [
-                        -0.675804,
-                        44.805525
-                    ],
-                    [
-                        -0.676748,
-                        44.805453
-                    ],
-                    [
-                        -0.676834,
-                        44.805388
                     ]
                 ]
             },
@@ -374,8 +331,7 @@
                 "status": "under-study",
                 "type": "voie-verte",
                 "link": "/reve-2#parc-de-bourgailh",
-                "quality": "satisfactory",
-                "doneAt": "01/03/2023"
+                "quality": "satisfactory"
             }
         },
         {
@@ -757,35 +713,6 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.652463,
-                        44.783449
-                    ],
-                    [
-                        -0.649974,
-                        44.781576
-                    ],
-                    [
-                        -0.646697,
-                        44.783599
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "Commun ligne 2 et 8",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-2#concertation",
-                "quality": "satisfactory",
-                "id": "reve-2-8-commun"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
                         -0.646697,
                         44.783599
                     ],
@@ -806,54 +733,6 @@
             "properties": {
                 "line": 2,
                 "name": "8",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-2#concertation",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.657992,
-                        44.794071
-                    ],
-                    [
-                        -0.657699,
-                        44.793591
-                    ],
-                    [
-                        -0.657678,
-                        44.79315
-                    ],
-                    [
-                        -0.657678,
-                        44.792526
-                    ],
-                    [
-                        -0.657678,
-                        44.791719
-                    ],
-                    [
-                        -0.65727,
-                        44.790759
-                    ],
-                    [
-                        -0.654416,
-                        44.786526
-                    ],
-                    [
-                        -0.652463,
-                        44.783449
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "Hopital Haut Leveque",
                 "status": "planned",
                 "type": "inconnu",
                 "link": "/reve-2#concertation",
@@ -914,6 +793,150 @@
                 "type": "voie-verte",
                 "link": "/reve-2#avenue-de-soulac",
                 "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.675509,
+                        44.811664
+                    ],
+                    [
+                        -0.676217,
+                        44.811405
+                    ],
+                    [
+                        -0.676083,
+                        44.807036
+                    ],
+                    [
+                        -0.675874,
+                        44.806751
+                    ],
+                    [
+                        -0.675804,
+                        44.805525
+                    ],
+                    [
+                        -0.676748,
+                        44.805453
+                    ],
+                    [
+                        -0.676834,
+                        44.805388
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Parc de Bourgailh",
+                "status": "done",
+                "type": "voie-verte",
+                "link": "/reve-2#parc-de-bourgailh",
+                "quality": "satisfactory",
+                "doneAt": "01/03/2023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.657992,
+                        44.794071
+                    ],
+                    [
+                        -0.657699,
+                        44.793591
+                    ],
+                    [
+                        -0.657678,
+                        44.79315
+                    ],
+                    [
+                        -0.657678,
+                        44.792526
+                    ],
+                    [
+                        -0.657678,
+                        44.791719
+                    ],
+                    [
+                        -0.65727,
+                        44.790759
+                    ],
+                    [
+                        -0.654416,
+                        44.786526
+                    ],
+                    [
+                        -0.652356,
+                        44.783366
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Hopital Haut Leveque",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-2#concertation",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.652356,
+                        44.783366
+                    ],
+                    [
+                        -0.649972,
+                        44.781566
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Commun ligne 2 et 8",
+                "status": "done",
+                "type": "bilaterale",
+                "link": "/reve-2#concertation",
+                "quality": "satisfactory",
+                "id": "reve-2-8-commun-done",
+                "doneAt": "01/01/2020"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.649974,
+                        44.781576
+                    ],
+                    [
+                        -0.646697,
+                        44.783599
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Commun ligne 2 et 8",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-2#concertation",
+                "quality": "satisfactory",
+                "id": "reve-2-8-commun"
             }
         }
     ]
