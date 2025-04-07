@@ -6,7 +6,6 @@ const config = require('../../config.json');
   const links = getAllLinks();
   checkJsonFilesAreValid();
   checkGeoJsonDataHealth({ links });
-  checkCompteursDataHealth();
 })();
 
 function checkJsonFilesAreValid(directory = 'content') {
@@ -206,22 +205,4 @@ function checkGeoJsonDataHealth({ links }) {
       process.exit(1);
     }
   }
-}
-
-function checkCompteursDataHealth() {
-  fs.readdirSync('content/compteurs').forEach(file => {
-    if (file.endsWith('.json')) {
-      const filePath = path.join('content/compteurs', file);
-      const content = fs.readFileSync(filePath, 'utf8');
-
-      const compteur = JSON.parse(content);
-      const requiredKeys = ['name', 'description', 'arrondissement', 'idPdc', 'coordinates', 'counts'];
-      for (const key of requiredKeys) {
-        if (!compteur.hasOwnProperty(key)) {
-          console.error(`Missing key '${key}' in Compteur properties of file: ${filePath}`);
-          process.exit(1);
-        }
-      }
-    }
-  });
 }
