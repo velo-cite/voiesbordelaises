@@ -9,6 +9,9 @@ distance: 26500
 
 ## Les tronçons (du Nord au Sud)
 
+### Nord de la ligne vers St Louis de Montferrand
+En attente d'informations.
+
 ### Bassens
 #### Quai Français
 Les études sont en cours pour une partie de la ville.
@@ -19,6 +22,10 @@ Les travaux ont été démarrés le 16 octobre 2024.
 
 ### Lormont
 Les études sont en cours.
+
+### Quai Carriet
+La concertation publique s'est terminée le 1 avril 2025.  
+Début des travaux prévus pour 2027.
 
 ### Cenon
 #### Quai Brazza - Boulevard André Ricard

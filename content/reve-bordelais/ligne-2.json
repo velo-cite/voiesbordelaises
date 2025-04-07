@@ -825,138 +825,6 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.642613,
-                        44.775903
-                    ],
-                    [
-                        -0.639911,
-                        44.776047
-                    ],
-                    [
-                        -0.637615,
-                        44.77588
-                    ],
-                    [
-                        -0.637057,
-                        44.775712
-                    ],
-                    [
-                        -0.632787,
-                        44.779063
-                    ],
-                    [
-                        -0.630341,
-                        44.780571
-                    ],
-                    [
-                        -0.628002,
-                        44.782246
-                    ],
-                    [
-                        -0.623367,
-                        44.78185
-                    ],
-                    [
-                        -0.622079,
-                        44.781668
-                    ],
-                    [
-                        -0.619376,
-                        44.781622
-                    ],
-                    [
-                        -0.617766,
-                        44.781515
-                    ],
-                    [
-                        -0.616028,
-                        44.780967
-                    ],
-                    [
-                        -0.611458,
-                        44.779322
-                    ],
-                    [
-                        -0.609741,
-                        44.778423
-                    ],
-                    [
-                        -0.607595,
-                        44.777525
-                    ],
-                    [
-                        -0.606115,
-                        44.776976
-                    ],
-                    [
-                        -0.603411,
-                        44.77527
-                    ],
-                    [
-                        -0.600643,
-                        44.773366
-                    ],
-                    [
-                        -0.597017,
-                        44.774722
-                    ],
-                    [
-                        -0.595772,
-                        44.775148
-                    ],
-                    [
-                        -0.595386,
-                        44.775819
-                    ],
-                    [
-                        -0.594463,
-                        44.776489
-                    ],
-                    [
-                        -0.592811,
-                        44.777144
-                    ],
-                    [
-                        -0.589936,
-                        44.778241
-                    ],
-                    [
-                        -0.587704,
-                        44.779535
-                    ],
-                    [
-                        -0.585988,
-                        44.780617
-                    ],
-                    [
-                        -0.585473,
-                        44.781363
-                    ],
-                    [
-                        -0.585473,
-                        44.782414
-                    ],
-                    [
-                        -0.586073,
-                        44.784927
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "Gradignan",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-2#les-tronçons-du-nord-au-sud",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
                         -0.676834,
                         44.805388
                     ],
@@ -1020,6 +888,218 @@
                 "status": "under-study",
                 "type": "bidirectionnelle",
                 "link": "/reve-2#carrefour-alouette",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.642613,
+                        44.775903
+                    ],
+                    [
+                        -0.639911,
+                        44.776047
+                    ],
+                    [
+                        -0.637615,
+                        44.77588
+                    ],
+                    [
+                        -0.637057,
+                        44.775712
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Avenue de la Grande Lande",
+                "status": "planned",
+                "type": "voie-verte",
+                "link": "/reve-2#avenue-de-la-grande-lande",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.637057,
+                        44.775712
+                    ],
+                    [
+                        -0.632787,
+                        44.779063
+                    ],
+                    [
+                        -0.630341,
+                        44.780571
+                    ],
+                    [
+                        -0.628002,
+                        44.782246
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Solarium",
+                "status": "wip",
+                "type": "voie-verte",
+                "link": "/reve-2#solarium",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.628002,
+                        44.782246
+                    ],
+                    [
+                        -0.623367,
+                        44.78185
+                    ],
+                    [
+                        -0.622079,
+                        44.781668
+                    ],
+                    [
+                        -0.619376,
+                        44.781622
+                    ],
+                    [
+                        -0.617766,
+                        44.781515
+                    ],
+                    [
+                        -0.616028,
+                        44.780967
+                    ],
+                    [
+                        -0.611458,
+                        44.779322
+                    ],
+                    [
+                        -0.609741,
+                        44.778423
+                    ],
+                    [
+                        -0.607595,
+                        44.777525
+                    ],
+                    [
+                        -0.606115,
+                        44.776976
+                    ],
+                    [
+                        -0.603411,
+                        44.77527
+                    ],
+                    [
+                        -0.600643,
+                        44.773366
+                    ],
+                    [
+                        -0.597017,
+                        44.774722
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Rues de Cantaranne, de la Mauguette et de Lahouneau",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-2#rues-de-cantaranne-de-la-mauguette-et-de-lahouneau",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.597017,
+                        44.774722
+                    ],
+                    [
+                        -0.595772,
+                        44.775148
+                    ],
+                    [
+                        -0.595386,
+                        44.775819
+                    ],
+                    [
+                        -0.594463,
+                        44.776489
+                    ],
+                    [
+                        -0.592811,
+                        44.777144
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Rue de la Croix de Monjous - Bex",
+                "status": "under-study",
+                "type": "inconnu",
+                "link": "/reve-2#rue-de-la-croix-de-monjous",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.592811,
+                        44.777144
+                    ],
+                    [
+                        -0.589936,
+                        44.778241
+                    ],
+                    [
+                        -0.587704,
+                        44.779535
+                    ],
+                    [
+                        -0.585988,
+                        44.780617
+                    ],
+                    [
+                        -0.585473,
+                        44.781363
+                    ],
+                    [
+                        -0.585473,
+                        44.782414
+                    ],
+                    [
+                        -0.586073,
+                        44.784927
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Rue de la Croix de Monjous Vers Thouars",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-2#rue-de-la-croix-de-monjous",
                 "quality": "satisfactory"
             }
         }

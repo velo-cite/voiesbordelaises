@@ -23,10 +23,13 @@ Un collectif a été créé pour demander une réorientation du projet, plus fav
 https://coursdetoulouse.fr
 
 ### Traversée Rocade
+Une piste bidirectionnelle permet de traverser la rocade en longeant le tramway.
+
+### Avenue des Pyrénées
+Des pistes bilatérales étroites existent de chaque côté de l'avenue des Pyrénées.  
+Coté Léognan, les pistes se transforment en bandes très désagréables et peu sécurisantes.
 En attente d'informations
 
-### Villenave d'Ornon : Extra Rocade
-En attente d'informations
 
 ## Fil d'actu
 

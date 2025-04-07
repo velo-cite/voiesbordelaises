@@ -69,6 +69,24 @@ Des pistes bilatérales sont en cours de construction.
 Cette passerelle a été achevée à l'été 2024.  
 Elle permet de relier Pessac Bersol à Gradignan.
 
+### Avenue de la Grande Lande
+Une voie verte de 3m, inférieure aux recommandations du ReVE est à l'étude.
+
+### Solarium
+Sur l'avenue de la Madeleine et le chemin du Solarium, les travaux sont en cours.  
+Une voie verte de 3m est en cours de réalisation.
+
+### Rues de Cantaranne, de la Mauguette et de Lahouneau
+Des bandes cyclables de mauvaise qualité existent.  
+En attente d'informations pour la suite.
+
+### Rue des Fontaines de Monjous
+La rue des Fontaines de Monjous dispose d'une piste cyclable puis d'une bande cyclable de moyenne qualité.
+
+### Rue de la Croix de Monjous
+Une partie de la rue de la croix de Monjous est concernée par le Bus Express Pellegrin-Malartic.
+Jusqu'à la rue St François Xavier, le ReVE est donc à l'étude.
+En attente d'informations, pour la suite jusqu'à Villenave d'Ornon.
 
 #### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 03/10 au 04/11/2022.
