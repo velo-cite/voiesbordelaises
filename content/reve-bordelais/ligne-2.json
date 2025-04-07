@@ -327,7 +327,7 @@
             },
             "properties": {
                 "line": 2,
-                "name": "Parc de Bourgailh",
+                "name": "Allée Charles Darwin",
                 "status": "under-study",
                 "type": "voie-verte",
                 "link": "/reve-2#parc-de-bourgailh",
@@ -905,7 +905,7 @@
             },
             "properties": {
                 "line": 2,
-                "name": "Commun ligne 2 et 8",
+                "name": "Commun ligne 8 et 2",
                 "status": "done",
                 "type": "bilaterale",
                 "link": "/reve-2#concertation",

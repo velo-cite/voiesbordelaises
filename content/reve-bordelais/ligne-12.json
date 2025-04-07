@@ -776,17 +776,21 @@
                     [
                         -0.526485,
                         44.880384
+                    ],
+                    [
+                        -0.526162,
+                        44.880431
                     ]
                 ]
             },
             "properties": {
                 "line": 12,
-                "name": "Pont d'Aquitaine",
+                "name": "Pont d'Aquitaine ReVE 12",
                 "status": "done",
                 "type": "bilaterale",
                 "link": "/reve-12#les-tronçons-douest-en-est",
                 "quality": "satisfactory",
-                "id": "reve-4-12-commun",
+                "id": "reve-12-14-commun",
                 "doneAt": "06/05/1967"
             }
         },
@@ -1037,30 +1041,6 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.526485,
-                        44.880384
-                    ],
-                    [
-                        -0.526162,
-                        44.880431
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 12,
-                "name": "Lormont Bassens",
-                "status": "planned",
-                "type": "bidirectionnelle",
-                "link": "/reve-12#les-tronçons-douest-en-est",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
                         -0.526162,
                         44.880431
                     ],
@@ -1072,7 +1052,7 @@
             },
             "properties": {
                 "line": 12,
-                "name": "Pont de Mirepont",
+                "name": "Pont de Mirepont ReVE 12",
                 "status": "wip",
                 "type": "bidirectionnelle",
                 "link": "/reve-12#les-tronçons-douest-en-est",

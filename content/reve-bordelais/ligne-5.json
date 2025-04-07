@@ -46,7 +46,7 @@
             },
             "properties": {
                 "line": 5,
-                "name": "Cote des 4 pavillons 1",
+                "name": "Avenue Carnot et du Président JFK",
                 "status": "under-study",
                 "type": "bidirectionnelle",
                 "link": "/reve-5#avenue-carnot-avenue-kennedy",
@@ -170,7 +170,7 @@
             },
             "properties": {
                 "line": 5,
-                "name": "Cote des 4 pavillons 2",
+                "name": "Cote des 4 pavillons",
                 "status": "under-study",
                 "type": "bidirectionnelle",
                 "link": "/reve-5#cote-4-pavillons",
@@ -242,7 +242,7 @@
             },
             "properties": {
                 "line": 5,
-                "name": "Artigues-Près-Bordeaux",
+                "name": "Le Poteau d'Yvrac",
                 "status": "planned",
                 "type": "voie-verte",
                 "link": "/reve-5#artigues-près-bordeaux",
@@ -278,7 +278,7 @@
             },
             "properties": {
                 "line": 5,
-                "name": "Artigues-Près-Bordeaux",
+                "name": "Avenue du Périgord",
                 "status": "done",
                 "type": "voie-verte",
                 "link": "/reve-5#artigues-près-bordeaux",
@@ -375,7 +375,7 @@
             },
             "properties": {
                 "line": 5,
-                "name": "Artigues-Près-Bordeaux",
+                "name": "Traversée Rocade - Sortie 26",
                 "status": "planned",
                 "type": "voie-verte",
                 "link": "/reve-5#artigues-près-bordeaux",
