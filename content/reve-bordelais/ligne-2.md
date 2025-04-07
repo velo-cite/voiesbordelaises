@@ -12,7 +12,7 @@ description: Le Taillan-Médoc - Villenave d'Ornon
 
 ### Avenue de Soulac
 ::banner{type="wip"}
-Les travaux ont été démarrés le 7 janvier 2025.
+Les travaux ont démarré le 7 janvier 2025.
 ::
 ::content-image
 ---
@@ -34,16 +34,40 @@ Elle sera transformée en giratoire "à la hollandaise".
 Deux voies vertes feront le tour du giratoire.
 https://www.sudouest.fr/gironde/eysines/gironde-des-travaux-vont-transformer-le-carrefour-de-cantinolle-en-giratoire-entre-eysines-le-haillan-et-le-taillan-22221743.php
 
+### Connexion Cantinolle Route de Lacanau
+En attente d'informations sur ce tronçon inexistant aujourd'hui.
+
+### Route de Lacanau
+Des pistes bidirectionnelles longeant la route de Lacanau existent depuis de nombreuses années. Elles seront labelisées ReVE, probablement sans modification.
+
+### Avenue Jean Mermoz
+Sur la partie Nord de l'axe du Bus Express G, une voie verte en béton existe. Peu confortable, elle n'est pas prioritaire aux intersections.  
+Sur la partie Sud, aucun aménagement cyclable n'existe.
+
 ### Boulevard Technologique
-Dans le cadre du Boulevard Technologique, l'avenue de Magudas, le chemin du phare, l'avenue et la rue de Beaudessert ainsi que l'avenue Roland Garros sont étudiées.  
+Dans le cadre du Boulevard Technologique, l'avenue de Magudas, le chemin du phare, l'avenue et la rue de Beau Dessert ainsi que l'avenue Roland Garros sont étudiées.  
 Ce projet étant au long cours, il faudra être patient pour voir apparaitre le ReVE sur ces axes.
 
 ### Parc de Bourgailh
 Ce tronçon de 1000m est une voie verte en béton de 4m de large. Il longe la ligne haute tension et permet de relier la sortie 10 de la rocade à Pessac Alouette.
 Étant pour le moment isolé, il ne dispose pas de la signalétique ReVE.
 
+### Avenue de Beutre
+En attente d'informations.
+
+### Carrefour Alouette
+Projet en cours d'études.  
+Des pistes bidirectionnelles pourraient voir le jour au nord et à l'est du carrefour.
+
+### Haut Lévèque
+En attente d'informations.
+
+### Avenue de Broglie
+Des pistes bilatérales sont en cours de construction.
+
 ### Passerelle au-dessus de l'A63
-Cette passerelle a été achevée à l'été 2024.
+Cette passerelle a été achevée à l'été 2024.  
+Elle permet de relier Pessac Bersol à Gradignan.
 
 
 #### *Concertation*

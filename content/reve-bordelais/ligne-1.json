@@ -220,7 +220,7 @@
                 "line": 1,
                 "name": "Saint-Aubin-de-Médoc",
                 "status": "planned",
-                "type": "voie-bus-elargie",
+                "type": "inconnu",
                 "link": "/reve-1#saint-aubin",
                 "quality": "satisfactory"
             }
@@ -377,7 +377,7 @@
                 "line": 1,
                 "name": "St-Médard-en-Jalles",
                 "status": "planned",
-                "type": "voie-bus",
+                "type": "inconnu",
                 "link": "/reve-1#saint-médard-en-jalles",
                 "quality": "satisfactory"
             }

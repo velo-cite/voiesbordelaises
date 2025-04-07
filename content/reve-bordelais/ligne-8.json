@@ -273,8 +273,8 @@
                 "line": 8,
                 "name": "Avenue de la Mission Haut Brion",
                 "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-8#les-tronçons",
+                "type": "bidirectionnelle",
+                "link": "/reve-8#avenue-de-la-mission-haut-brion",
                 "quality": "satisfactory"
             }
         },

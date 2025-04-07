@@ -31,6 +31,10 @@ Il existe une piste bidirectionnelle en site propre. Il est nécessaire de repre
 ### Rue Robert Escarpit et Avenue du Docteur Schweitzer
 Les études sont en cours.
 
+### Avenue de la mission Haut Brion
+Une piste bidirectionnelle existe sur l'avenue de la mission Haut Brion.  
+Elle relie presque le campus à la :line-link{line=9} en passant par la future halte ferroviaire de la Médoquine (Talence).
+
 ### Bus Express Pellegrin - Malartic
 Une partie du ReVE 8 partage son itinéraire avec le Bus Express Pellegrin-Malartic.
 Les études du ReVE sur ce tronçon sont d'ailleurs réalisées dans le cadre du BEx.
