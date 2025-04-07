@@ -24,7 +24,7 @@ Les travaux ont été démarrés le 16 octobre 2024.
 Les études sont en cours.
 
 ### Quai Carriet
-La concertation publique s'est terminée le 1 avril 2025.  
+[La concertation publique](https://participation.bordeaux-metropole.fr/processes/Carriet) s'est terminée le 1 avril 2025.  
 Début des travaux prévus pour 2027.
 
 ### Cenon
