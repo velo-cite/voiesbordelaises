@@ -585,7 +585,7 @@
             },
             "properties": {
                 "line": 12,
-                "name": "Rue de Mouline - Avenue de l'Europe",
+                "name": "Rue de Carbon-Blanc",
                 "status": "under-study",
                 "type": "voie-verte",
                 "link": "/reve-12#les-tronçons-douest-en-est",
@@ -1023,7 +1023,7 @@
             },
             "properties": {
                 "line": 12,
-                "name": "1",
+                "name": "Pont routier de Cubzac",
                 "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-12#les-tronçons-douest-en-est",
@@ -1077,7 +1077,7 @@
                 "type": "bidirectionnelle",
                 "link": "/reve-12#les-tronçons-douest-en-est",
                 "quality": "satisfactory",
-                "id": "Pont de Mirepont"
+                "id": "commun-pont-de-mirepont-12-14"
             }
         },
         {
@@ -1157,7 +1157,7 @@
             },
             "properties": {
                 "line": 12,
-                "name": "Lormont Bassens",
+                "name": "Parc Favols ",
                 "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-12#les-tronçons-douest-en-est",
@@ -1230,7 +1230,7 @@
             },
             "properties": {
                 "line": 12,
-                "name": "Lormont Bassens",
+                "name": "Rue Racine",
                 "status": "under-study",
                 "type": "bidirectionnelle",
                 "link": "/reve-12#les-tronçons-douest-en-est",
@@ -1290,7 +1290,7 @@
             },
             "properties": {
                 "line": 12,
-                "name": "Lormont Bassens",
+                "name": "Avenue La Fontaine",
                 "status": "planned",
                 "type": "bidirectionnelle",
                 "link": "/reve-12#les-tronçons-douest-en-est",
@@ -1371,7 +1371,7 @@
             },
             "properties": {
                 "line": 12,
-                "name": "variante Ambares",
+                "name": "Avenue Gustave Eiffel",
                 "status": "under-study",
                 "type": "voie-verte",
                 "link": "/reve-12#les-tronçons-douest-en-est",
@@ -1423,7 +1423,7 @@
             },
             "properties": {
                 "line": 12,
-                "name": "variante Ambares",
+                "name": "Projet FAB",
                 "status": "planned",
                 "type": "voie-verte",
                 "link": "/reve-12#les-tronçons-douest-en-est",
@@ -1455,7 +1455,7 @@
             },
             "properties": {
                 "line": 12,
-                "name": "variante Ambares",
+                "name": "Rue du Président Coty",
                 "status": "under-study",
                 "type": "voie-verte",
                 "link": "/reve-12#les-tronçons-douest-en-est",
@@ -1563,7 +1563,7 @@
             },
             "properties": {
                 "line": 12,
-                "name": "Lormont Bassens",
+                "name": "Lormont Bassens Carbon-Blanc",
                 "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-12#les-tronçons-douest-en-est",
@@ -1623,7 +1623,7 @@
                 "name": "Route de Carbon-Blanc",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-12#les-tronçons",
+                "link": "/reve-12#les-tronçons-douest-en-est",
                 "quality": "satisfactory",
                 "id": "route-de-carbon-blanc"
             }
@@ -1653,10 +1653,10 @@
             },
             "properties": {
                 "line": 12,
-                "name": "Lormont Bassens",
+                "name": "Traversée Avenue de la Résisitance",
                 "status": "planned",
                 "type": "bidirectionnelle",
-                "link": "/reve-12#les-tronçons",
+                "link": "/reve-12#les-tronçons-douest-en-est",
                 "quality": "satisfactory"
             }
         }
