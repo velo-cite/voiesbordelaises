@@ -882,10 +882,10 @@
             },
             "properties": {
                 "line": 4,
-                "name": "Lormont - Bassens",
+                "name": "Lormont Bas",
                 "status": "done",
                 "type": "voie-verte",
-                "link": "/reve-4#bassens",
+                "link": "/reve-4#lormont-bas",
                 "quality": "satisfactory",
                 "doneAt": "16/05/2025"
             }
