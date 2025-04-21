@@ -883,10 +883,11 @@
             "properties": {
                 "line": 4,
                 "name": "Lormont - Bassens",
-                "status": "under-study",
+                "status": "done",
                 "type": "voie-verte",
                 "link": "/reve-4#bassens",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "16/05/2025"
             }
         },
         {

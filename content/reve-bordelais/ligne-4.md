@@ -20,8 +20,10 @@ Une concertation a eu lieu pour le [quai Français](https://participation.bordea
 Les travaux ont été démarrés le 16 octobre 2024.
 ::
 
-### Lormont
-Les études sont en cours.
+### Lormont Bas
+Les travaux ont été réalisé début avril 2025. La voie verte a été inaugurée le vendredi 16 mai durant le festival Traverses de la métropole.  
+Une voie verte confortable de 4m permet de longer la Garonne en traversant le bas Lormont.  
+Elle préfigure la suite de la voie verte côté Cenon.
 
 ### Quai Carriet
 [La concertation publique](https://participation.bordeaux-metropole.fr/processes/Carriet) s'est terminée le 1 avril 2025.  
