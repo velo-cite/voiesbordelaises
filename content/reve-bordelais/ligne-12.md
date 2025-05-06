@@ -26,7 +26,7 @@ Les pistes unidirectionnelles du pont d'aquitaine ne seront pas élargies dans l
 
 ### Rive Droite :
 ::banner{type="info"}
-Le tracé pourrait être modifié sur la rive droite. Les informations suivantes ainsi que la carte sont donc à prendre avec précaution, en attendant le prochain comité de pilotage (COPIL).
+Le tracé pourrait a été modifié sur la rive droite début 2025.
 ::
 
 #### Rue de Carbon Blanc
