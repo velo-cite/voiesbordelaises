@@ -37,5 +37,3 @@ ingress:
     nginx.ingress.kubernetes.io/server-snippet: |
       gzip on;
       gzip_types text/plain text/css application/json application/x-javascript text/xml application/xml application/xml+rss text/javascript application/javascript;
-    nginx.ingress.kubernetes.io/auth-type: basic
-    nginx.ingress.kubernetes.io/auth-secret: basic-auth
