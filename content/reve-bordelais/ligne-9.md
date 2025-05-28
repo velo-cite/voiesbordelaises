@@ -18,6 +18,8 @@ En attente d'informations supplémentaires.
 
 ### Pessac Petit Gazinet
 ::banner{type=wip}
+Les travaux ont démarré.
+::
 Entre Chemin de Lesticaire et la rue de la Poudière (3km), une voie verte est en cours de construction. 
 Sa largeur devrait être de 2,50m.
 
@@ -46,6 +48,8 @@ Une vélorue, à sens unique pour les véhicules motorisés, a été mis en plac
 
 ### Rue Laugaa
 ::banner{type=wip}
+Les travaux ont démarré.
+::
 
 ### Carrefour Jaurès/Pénard : 
 Les études sont en cours.
