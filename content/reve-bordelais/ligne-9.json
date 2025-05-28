@@ -242,7 +242,7 @@
                 "name": "Pessac Centre 1",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#concertations",
+                "link": "/reve-9#tronçons-intra-rocade",
                 "quality": "satisfactory"
             }
         },
@@ -298,8 +298,8 @@
                 "name": "Pessac carrefour Jaurès/Pénard",
                 "status": "under-study",
                 "type": "bilaterale",
-                "link": "/reve-9#concertations",
-                "quality": "unsatisfactory"
+                "link": "/reve-9#carrefour-jaurèspénard",
+                "quality": "satisfactory"
             }
         },
         {
@@ -339,10 +339,10 @@
             },
             "properties": {
                 "line": 9,
-                "name": "Pessac Centre 3",
+                "name": "Pessac Jean Jaurès 2",
                 "status": "planned",
                 "type": "bilaterale",
-                "link": "/reve-9#concertations",
+                "link": "/reve-9#avenue-jean-jaurès",
                 "quality": "satisfactory"
             }
         },
@@ -367,10 +367,10 @@
             },
             "properties": {
                 "line": 9,
-                "name": "Pessac Centre 2",
+                "name": "Pessac Jean Jaurès 1",
                 "status": "planned",
                 "type": "bilaterale",
-                "link": "/reve-9#concertations",
+                "link": "/reve-9#avenue-jean-jaurès",
                 "quality": "satisfactory"
             }
         },

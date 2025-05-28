@@ -51,8 +51,8 @@ Une vélorue, à sens unique pour les véhicules motorisés, a été mis en plac
 Les travaux ont démarré.
 ::
 
-### Carrefour Jaurès/Pénard : 
+### Carrefour Jaurès/Pénard
 Les études sont en cours.
 
-
-## Concertations
+### Avenue Jean Jaurès
+En attente d'informations.

@@ -14,11 +14,15 @@ trafic:
 ### Pont Saint Jean
 
 La piste cyclable sécurisée a été détruite pour être remplacée par un couloir de bus élargi.
+::banner{type="unsecured"}
+La connexion avec la :line-link{line=4} du ReVE est très dangereuse.  
+Le feu tricolore ne s'applique que pour la traversée des voies motorisées.  
+Un cédez-le-passage est mis en place pour traverser la suite de l'intersection (les 2 voies de bus).
+::
 
 ### Belvedere
-
-Les travaux sont en cours.
-Une piste bidirectionnelle prendra la suite du couloir de bus du pont saint Jean.
+Un premier tronçon, dans la continuité du pont St Jean a été livré par Euratlantique en juillet 2024.
+La transition entre couloir de bus et la piste cyclable est difficilement compréhensible lors de son premier passage à vélo.
 
 ### Boulevard Jolie-Curie
 
@@ -27,3 +31,5 @@ Une piste bidirectionnelle prendra la suite du couloir de bus du pont saint Jean
 ### Boulevard Entre Deux Mers
 Ce tronçon historiquement très routier, en connexion directe avec la rocade devrait être considérablement amélioré avec 
 la réduction du nombre de voies et la création d'une piste bidirectionnelle.
+Seul un premier tronçon sera revu dans un premier temps. Ce premier projet s'arrêtera au niveau de la cote de l'Empereur. 
+Il est, d'ailleurs, possible que le ReVE soit décalé par cette côte. 

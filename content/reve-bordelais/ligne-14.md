@@ -55,7 +55,7 @@ Particularité :
 À l’étude, longueur : 1km environ sur la rue Louis Blériot.
 Tronçon en commun avec la :line-link{line=4}.
 Il est envisagé la reprise et l’amélioration de la piste bidirectionnelle existante (largeur en dessous du standard ReVE).  
-Particularité du tronçon : longe le Lac de Bègles, sa plage, l'aire de pic-nique, la plaine des sports, et traverse de la rocade.
+Particularité du tronçon : longe le Lac de Bègles, sa plage, l'aire de pique-nique, la plaine des sports, et traverse de la rocade.
 Sur le giratoire « Louis Delgrès » la piste cyclable est déjà prioritaire.
 
 

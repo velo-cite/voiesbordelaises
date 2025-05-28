@@ -29,11 +29,6 @@ Les études sont en cours.
 Ce tronçon est en cours d'étude dans le cadre du Bus Express Pellegrin Malartic.
 Des pistes bilatérales devraient voir le jour.
 
-### Vélorue Dandicolle
-
-La vélorue Dandicolle a été terminée en 2019.
-
-Elle est régulièrement citée comme exemple de mise en place de plan de circulation mais aussi comme contre-exemple pour
-le taille et la qualité de roulement de ces bandes.
-- https://www.cerema.fr/system/files/documents/2022/04/3_rdvmob_velorue_bordeaux_dandicolle_1.pdf
-- https://www.cerema.fr/fr/actualites/concevoir-sa-velorue-cyclistes-nombre-circulation-apaisee#toc-concevoir-la-velorue
+### Rue Larminat et Cours Juin
+De larges bandes existent sur la rue Larminat et le cours du Maréchal Juin.
+Elles permettent aux véhicules de secours d'intervenir rapidement, sans être bloquée par la circulation motorisée. 

@@ -36,7 +36,7 @@ La piste bidirectionnelle existante a été modernisée (largeur, courbes).
 
 L'une des premières concertations du ReVE concerne les allées de Boutaut.
 [Cette concertation est terminée.](https://participation.bordeaux-metropole.fr/processes/projet-5255)
-Une bidirectionnelle de 4m devrait voir le jour au nord des allées.
+Une piste bidirectionnelle de 4m devrait voir le jour au nord des allées.
 
 ### Place Ravezies
 La place Ravezies est actuellement à l'étude.
