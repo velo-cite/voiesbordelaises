@@ -9,7 +9,7 @@
             Où en est le projet ?
           </h2>
           <p class="text-xl text-gray-500">
-            Après une phase d'étude et de concertation en 2022, 2023 et 2024, le projet entre en phase de réalisation.<br> Les travaux se multiplier depuis 2024.
+            Après une phase d'étude et de concertation en 2022, 2023 et 2024, le projet entre en phase de réalisation.<br> Les travaux se multiplient depuis 2024.
           </p>
         </div>
       </div>
