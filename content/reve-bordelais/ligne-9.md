@@ -34,7 +34,7 @@ La voie existante devrait être concervée et mise en impasse pour véhicules mo
 Entre la gare Alouette et l'allée des Cigales (700 m), la voie existante sera concervée, sans circulation autre que celles des riverains
 
 ### Sous la rocade
-
+En attente d'informations.
 
 ## Tronçons intra-rocade
 
