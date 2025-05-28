@@ -21,8 +21,8 @@ Les travaux ont été démarrés le 16 octobre 2024.
 ::
 
 ### Lormont Bas
-Les travaux ont été réalisé début avril 2025. La voie verte a été inaugurée le vendredi 16 mai durant le festival Traverses de la métropole.  
-Une voie verte confortable de 4m permet de longer la Garonne en traversant le bas Lormont.  
+Les travaux ont été réalisés début avril 2025. La voie verte a été inaugurée le vendredi 16 mai durant le festival Traverses de la métropole.  
+Une voie verte confortable de 4m permet de longer la Garonne en traversant le Bas Lormont.  
 Elle préfigure la suite de la voie verte côté Cenon.
 
 ### Quai Carriet
@@ -45,7 +45,7 @@ Les travaux sont en cours depuis le parc des Angéliques jusqu'au pont Chaban De
 ::
 
 #### Quai des Queyries
-La contre-allée, historiquement une zone de stationnement, a été libérée du stationnement automobile au profil des cyclistes.
+La contre-allée, historiquement une zone de stationnement, a été libérée du stationnement automobile au profit des cyclistes.
 Les piéton·nes en ont profité pour récupérer un usage exclusif de la voie verte des quais.
 
 La piste cyclable a été inaugurée le 15 juin 2024, lors de la grande convergence (Fête du vélo).
@@ -58,7 +58,7 @@ Dans le cadre de l'OIM Euratlantique, le quai Deschamps a été traité afin d'i
 
 #### Le pont Simone Veil
 Le pont Simone Veil est livré. Il intègre une piste bidirectionnelle sur sa partie nord.
-Elle n'est séparée que par de la peinture avec la voie de bus.
+Elle n'est séparée de la voie de bus que par de la peinture.
 
 ### Bègles
 
@@ -73,46 +73,46 @@ caption: piste cyclable en béton du quai wilson
 
 #### Tronçon 4
 longueur 200 mètres environ, il débute au giratoire des rues des quatre Castera et Michel Slitinsky jusqu’au giratoire « Louis Delgrès ».<br>
-=> il est envisagé la reprise et amélioration de la piste bidirectionnelle existante.
+=> il est envisagé la reprise et l'amélioration de la piste bidirectionnelle existante.
 
 Particularité de ce tronçon : Mairie de Bègles à 500 mètres.
 
 #### Tronçon 5
 longueur : 1 kilomètre environ, débute au giratoire « Louis Delgrès » se termine au giratoire du clos de Hilde.<br>
-=>  il est envisagé la reprise et amélioration de la piste bidirectionnelle existante.
+=>  il est envisagé la reprise et l'amélioration de la piste bidirectionnelle existante.
 
 Particularité du tronçon :
-- Lac de Bègles et sa plage, aire de Pic-Nick, plaine des sports. Traversé de la rocade.
-- Ce tronçon sera un tronçon commun avec la :line-link{line=14 anchor="concertation"}. qui traversera la Garonne avec une piste cyclable en encorbellement à créer sur le pont François Mitterrand.
+- Il longe le Lac de Bègles et sa plage, l’aire de Pic-Nick pique-nique, et la plaine des sports. Il traverse la rocade.
+- Ce tronçon sera un tronçon commun avec la :line-link{line=14 anchor="concertation"}. qui traversera la Garonne avec une voie verte en encorbellement à créer sur le pont François Mitterrand.
 
 #### Tronçon 6
-Longueur de 350 mètres environ sur la rue louis Blériot, du giratoire du clos de Hilde au virage qui permet de passer à l’arrière du centre commercial Carrefour.<br>
+Longueur de 350 mètres environ sur la rue Louis Blériot, du giratoire du Clos de Hilde au virage qui permet de passer à l’arrière du centre commercial Carrefour.<br>
 =>  il est envisagé la reprise et l’amélioration de la piste bidirectionnelle existante.
 
-Particularité du tronçon : les centres de traitement des déchets et traitement des eaux usées du Clos de Hilde.
+Particularité du tronçon : il longe les centres de traitement des déchets et traitement des eaux usées du Clos de Hilde.
 
 #### Tronçon 6 BIS
 Longueur de 800 mètres environs débutant au virage de la rue louis Blériot et contournant le centre commercial jusqu’à l’entrée de la zone commerciale de Villenave d’Ornon (enseigne Boulanger).
 => il est envisagé une piste cyclable bidirectionnelle à créer à l’arrière du centre commercial «&nbsp;Rives d’Arcin », puis une voie verte de 4 à 6 mètres de Large.
 Livraison prévue au printemps 2025, mais les études en cours sont en retard d’au moins 1 an sur le planning initial.
 
-Particularité de ce tronçon : centre et galerie commerciale « Rives d’Arcin » avec restaurant, chemin paysagé en bord de Garonne, aire de jeux enfants, port de plaisance.
+Particularité de ce tronçon : il longe le centre et la galerie commerciale « Rives d’Arcin » avec restaurant, chemin paysagé en bord de Garonne, aire de jeux enfants, port de plaisance.
 
 ### Villenave d'Ornon
 
 #### Tronçon 7
-Longueur de 900 mètres sur les rues lino Ventura et du 7em Art.
+Longueur de 900 mètres sur les rues Lino Ventura et du 7ième Art.
 Ce tronçon commence au sud du centre commercial Carrefour et se termine au giratoire au sud du commerce LIDL.
 Livraison prévue en décembre 2025.
 Ce sera une nouvelle piste cyclable bidirectionnelle de 3 mètres de large sur la rue lino Ventura
-et sur l’avenue du 7em art les 2 voies de la piste bidirectionnelle seront séparées par un massif planté de 1,5 à 2 mètres.
+et sur l’avenue du 7ième Art. Les 2 voies de la piste bidirectionnelle seront séparées par un massif planté de 1,5 à 2 mètres.
 
-Particularité de ce tronçon qui est la continuité du centre commercial carrefour de Bègles : Une zone commerciale avec cinéma, restaurants, grandes enseignes (boulanger, Ikea ..).
+Particularité de ce tronçon : il est la continuité du centre commercial Carrefour de Bègles : zone commerciale avec cinéma, restaurants, grandes enseignes (Boulanger, Ikea ...).
 
 Point de vigilance : la piste cyclable croisera 11 sorties de voitures sur ce tronçon, potentiellement zones de conflits.
 
 #### Tronçon 8
-Longueur de 800 mètres environ sur la rue Mirieux de Labarre, Ce tronçon commence au giratoire au sud de Lidl et va jusqu’au giratoire de l’entrée du golf.
+Longueur de 800 mètres environ sur la rue Mirieux de Labarre. Ce tronçon commence au giratoire au sud de Lidl et va jusqu’au giratoire de l’entrée du golf.
 La livraison est prévue à l’été 2025.
 La piste cyclable bidirectionnelle qui existe sera reprise par endroit et améliorée, elle aura une largueur variable de 2,5 mètres à 3 mètres.
 
@@ -122,10 +122,11 @@ La piste cyclable bidirectionnelle qui existe sera reprise par endroit et améli
 Particularité de ce tronçon : à partir du giratoire de l’entrée du Golf on peut bifurquer vers le bourg ou le centre de Villenave ( quartier pont de la Maye et mairie).
 
 #### Tronçon 9 (Fin du ReVE n°4)
-Longueur de ce tronçon d'environ 1,2km, il se situe sur l’avenue Mirieu de Labarre, commence au giratoire en entrée du golf et se termine au niveau de
+Longueur de ce tronçon : environ 1,2km. Il se situe sur l’avenue Mirieu de Labarre, commence au giratoire en entrée du golf et se termine au niveau de
 la place de Courréjean (extrémité sud de cette ligne Numéro 4 du ReVE).
 La livraison est prévue fin décembre 2024.
-La voie verte actuelle de 3 mètres de large sera conservée avec son statut (restera en voie verte partagée entre piétons et cyclistes), seront reprise les traversées avec séparation vélos/piétons et en particulier reprise complète des 2 giratoires, une glissière bois /métal sera posé entre la chaussée et la voie verte.
+La voie verte actuelle de 3 mètres de large sera conservée avec son statut (restera en voie verte partagée entre piéton·nes et cyclistes). 
+Les traversées seront reprises avec séparation vélos/piétons. Une voie verte a été réalisée entre la passerelle et l’avenue de la Grande Lande, elle contourne le Leroy Merlin. .
 Une station atelier ALTEO fix’air sera installée sur la place de Courréjean.
 
 ## Fil d'actu

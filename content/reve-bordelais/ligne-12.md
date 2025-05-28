@@ -44,7 +44,7 @@ La refonte du quartier de la gare permettra le déploiement du réseau.
 En attente d'informations sur le tracé
 
 #### Avenue de la Libération
-Une partie des travaux ont déjà été réalisés sur l'avenue de la Libération à Saint Vincent de Paul
+Une partie des travaux a déjà été réalisée sur l'avenue de la Libération à Saint Vincent de Paul
 
 #### Avenue Gustave Eiffel
 Étude en cours sur l'avenue Gustave Eiffel

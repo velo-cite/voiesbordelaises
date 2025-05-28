@@ -95,7 +95,7 @@
             "properties": {
                 "line": 9,
                 "name": "Pessac Petit Gazinet",
-                "status": "under-study",
+                "status": "wip",
                 "type": "voie-verte",
                 "link": "/reve-9#pessac-petit-gazinet",
                 "quality": "satisfactory"
@@ -268,7 +268,7 @@
             "properties": {
                 "line": 9,
                 "name": "Pessac - Avenue Louis Laugaa",
-                "status": "under-study",
+                "status": "wip",
                 "type": "voie-verte",
                 "link": "/reve-9#rue-laugaa",
                 "quality": "satisfactory"

@@ -45,12 +45,15 @@ Sur la partie Nord de l'axe du Bus Express G, une voie verte en béton existe. P
 Sur la partie Sud, aucun aménagement cyclable n'existe.
 
 ### Boulevard Technologique
-Dans le cadre du Boulevard Technologique, l'avenue de Magudas, le chemin du phare, l'avenue et la rue de Beau Dessert ainsi que l'avenue Roland Garros sont étudiées.  
+Dans le cadre du Boulevard Technologique, l'avenue de Magudas, le chemin du phare, l'avenue et la rue de Beaudésert ainsi que l'avenue Roland Garros sont étudiées.  
 Ce projet étant au long cours, il faudra être patient pour voir apparaitre le ReVE sur ces axes.
+La piste existante le long de Roland Garros devrait être labellisée en l’état, avec juste la reprise des priorités aux intersections.
 
 ### Parc de Bourgailh
 Ce tronçon de 1000m est une voie verte en béton de 4m de large. Il longe la ligne haute tension et permet de relier la sortie 10 de la rocade à Pessac Alouette.
 Étant pour le moment isolé, il ne dispose pas de la signalétique ReVE.
+
+L'allée Darwin est à l'étude : ce sera une voie verte de 3,40 à 4m de large séparée de la chaussée par des barrières en bois et de la végétation.
 
 ### Avenue de Beutre
 En attente d'informations.
@@ -67,7 +70,9 @@ Des pistes bilatérales sont en cours de construction.
 
 ### Passerelle au-dessus de l'A63
 Cette passerelle a été achevée à l'été 2024.  
-Elle permet de relier Pessac Bersol à Gradignan.
+Elle permet de relier Pessac Bersol à Gradignan.  
+Une voie verte a été réalisée entre la passerelle et l’avenue de la Grande Lande, elle contourne le Leroy Merlin.
+
 
 ### Avenue de la Grande Lande
 Une voie verte de 3m, inférieure aux recommandations du ReVE est à l'étude.

@@ -37,7 +37,7 @@ caption: Reve 11 - Place Mondésir (image extraite de la concertation).
 
 ### Aéroport
 
-La partie entre l'aéroport et l'avenue du président John Fitzgerald Kennedy est l'une des premières parties du ReVE inaugurées.
+La partie entre l'aéroport et l'avenue du président John Fitzgerald Kennedy est l'une des premières parties du ReVE inaugurée.
 Elle a été construite en parallèle de l'extension du tram A vers l'aéroport.
 
 ::content-image

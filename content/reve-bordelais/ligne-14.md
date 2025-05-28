@@ -46,16 +46,16 @@ caption: Reve 14 - Calendrier du projet
 
 ### Connexion au pont Mitterrand (rive gauche)
 Tronçon à l'étude (phase EP) longueur 600 mètres.
-Reprise de l’ancienne piste cyclable, conversion en voie verte pour vélo, piétons et PMR pour accès a la piste qui traversera le pont François Mitterrand
-particularité :
-Accès au chemin de halage du bord de Garonne.
-Proximité des centres de traitement des déchets et de traitement des eaux du clos de Hilde.
+Reprise de l’ancienne piste cyclable, conversion en voie verte pour vélos, piéton·nes et PMR pour accéder à la piste qui traversera le pont François Mitterrand.  
+Particularité :  
+- Accès au chemin de halage du bord de Garonne.  
+- Proximité des centres de traitement des déchets et de traitement des eaux du Clos de Hilde.  
 
 ### Tronçon entre le rond-point du clos de Hilde et le giratoire « Louis Delgrès »
-A l’étude, longueur : 1km environ sur la rue Louis Blériot.
+À l’étude, longueur : 1km environ sur la rue Louis Blériot.
 Tronçon en commun avec la :line-link{line=4}.
-Il est envisagé la reprise et l’amélioration de la piste bidirectionnelle existante (largeur en dessous du standard ReVE)
-Particularité du tronçon : Lac de Bègles et sa plage, aire de pic-nique, plaine des sports, traversé de la rocade.
+Il est envisagé la reprise et l’amélioration de la piste bidirectionnelle existante (largeur en dessous du standard ReVE).  
+Particularité du tronçon : longe le Lac de Bègles, sa plage, l'aire de pic-nique, la plaine des sports, et traverse de la rocade.
 Sur le giratoire « Louis Delgrès » la piste cyclable est déjà prioritaire.
 
 
@@ -74,7 +74,7 @@ Particularités du tronçon
 
 ### Avenue Pierre Corneille
 Dans le cadre de la construction du Bus Express avenue de Gradignan, l'avenue Pierre Corneille sera aménagée avec une piste bidirectionnelle.  
-Il manque la connexion l'avenue Chateaubriand sur Marc Desbats.
+Il manque la connexion avec l'avenue Chateaubriand sur l'avenue Marc Desbats.
 
 ### Rue de Chateaubriand
 Une piste cyclable bidirectionnelle a été réalisée.  
