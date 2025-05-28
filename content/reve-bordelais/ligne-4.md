@@ -82,7 +82,7 @@ longueur : 1 kilomètre environ, débute au giratoire « Louis Delgrès » s
 =>  il est envisagé la reprise et l'amélioration de la piste bidirectionnelle existante.
 
 Particularité du tronçon :
-- Il longe le Lac de Bègles et sa plage, l’aire de Pic-Nick pique-nique, et la plaine des sports. Il traverse la rocade.
+- Il longe le Lac de Bègles et sa plage, l’aire de pique-nique, et la plaine des sports. Il traverse la rocade.
 - Ce tronçon sera un tronçon commun avec la :line-link{line=14 anchor="concertation"}. qui traversera la Garonne avec une voie verte en encorbellement à créer sur le pont François Mitterrand.
 
 #### Tronçon 6

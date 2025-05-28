@@ -21,7 +21,7 @@ Ce tronçon est étudié dans le cadre du Boulevard Technologique.
 
 ### Mérignac - voie verte rue Germaine Tillion
 La voie verte de la rue Germaine Tillion permet de connecter l'axe du Bus Express G aux  au Haillan (Les 5 chemins).
-Cette voie serpente entre au milieu de la végétation mais présente l'avantage d'être sans voiture à proximité.
+Cette voie serpente au milieu de la végétation mais présente l'avantage d'être sans voiture à proximité.
 
 ### Intrarocade
 La métropole a inauguré le tronçon entre la rocade et les boulevards en même temps que le Bus Express (BEX).
