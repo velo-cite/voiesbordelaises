@@ -47,7 +47,7 @@ credit: DG Mobilité de Bordeaux Métropole
 ::
 
 Sur l'avenue JFK, 2 pistes bilatérales devrait être créées.  
-Une reconfiguration de cette avenue est encore possible afin de se connecter efficacement à la passerelle au-dessus de la rocade.
+Une reconfiguration de cette avenue est encore possible afin de se connecter efficacement à la future passerelle au-dessus de la rocade.
 
 ::content-image
 ---
@@ -57,6 +57,11 @@ credit: DG Mobilité de Bordeaux Métropole
 ---
 ::
 
+### Traversée rocade
+L'échangeur 26 de la rocade devrait être revu dans un projet "d'optimisation du trafic".  
+2 franchissements devraient être créés :
+- pour bus et modes actifs au nord
+- pour modes actifs au sud
 
 ### Artigues-près-Bordeaux
 Un premier tronçon a été mis en place en 2022 sur l'avenue du Périgord.  
