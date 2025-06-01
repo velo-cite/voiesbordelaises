@@ -72,9 +72,9 @@ Particularités du tronçon
 1. Intersection Route de Toulouse : connexion avec :line-link{line=7 anchor="route-de-toulouse"}.
 2. Proximité de l’hôpital militaire de Piquet : le tracé longe le sud du site, actuellement en cours de réaménagement.
 
-### Avenue Pierre Corneille
+### Avenue Pierre Corneille à Pessac
 Dans le cadre de la construction du Bus Express avenue de Gradignan, l'avenue Pierre Corneille sera aménagée avec une piste bidirectionnelle.  
 Il manque la connexion avec l'avenue Chateaubriand sur l'avenue Marc Desbats.
 
-### Rue de Chateaubriand
+### Rue de Chateaubriand à Pessac
 Une piste cyclable bidirectionnelle a été réalisée.  
