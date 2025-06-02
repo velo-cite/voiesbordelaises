@@ -842,7 +842,7 @@
                 "name": "Avenue Pierre Corneille",
                 "status": "under-study",
                 "type": "bidirectionnelle",
-                "link": "/reve-14#avenue-pierre-corneille",
+                "link": "/reve-14#avenue-pierre-corneille-à-pessac",
                 "quality": "satisfactory"
             }
         },
@@ -1582,7 +1582,7 @@
                 "name": "Rue de Châteaubriand",
                 "status": "done",
                 "type": "bidirectionnelle",
-                "link": "/reve-14#rue-de-chateaubriand",
+                "link": "/reve-14#rue-de-chateaubriand-à-pessac",
                 "quality": "satisfactory",
                 "doneAt": "01/01/2021"
             }
@@ -1607,7 +1607,7 @@
                 "name": "Avenue Marc Desbats",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-14#avenue-pierre-corneille",
+                "link": "/reve-14#avenue-pierre-corneille-à-pessac",
                 "quality": "satisfactory"
             }
         }
