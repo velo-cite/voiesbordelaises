@@ -433,7 +433,7 @@
                 "status": "under-study",
                 "type": "bidirectionnelle",
                 "link": "/reve-4#tronçon-7",
-                "quality": "satisfactory"
+                "quality": "unsatisfactory"
             }
         },
         {
@@ -661,7 +661,7 @@
                 "status": "under-study",
                 "type": "bidirectionnelle",
                 "link": "/reve-4#tronçon-5",
-                "quality": "unsatisfactory",
+                "quality": "satisfactory",
                 "id": "reve-4-14-commun"
             }
         },

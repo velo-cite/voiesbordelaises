@@ -94,7 +94,6 @@ Particularité du tronçon : il longe les centres de traitement des déchets et
 #### Tronçon 6 BIS
 Longueur de 800 mètres environs débutant au virage de la rue louis Blériot et contournant le centre commercial jusqu’à l’entrée de la zone commerciale de Villenave d’Ornon (enseigne Boulanger).
 => il est envisagé une piste cyclable bidirectionnelle à créer à l’arrière du centre commercial «&nbsp;Rives d’Arcin », puis une voie verte de 4 à 6 mètres de Large.
-Livraison prévue au printemps 2025, mais les études en cours sont en retard d’au moins 1 an sur le planning initial.
 
 Particularité de ce tronçon : il longe le centre et la galerie commerciale « Rives d’Arcin » avec restaurant, chemin paysagé en bord de Garonne, aire de jeux enfants, port de plaisance.
 
@@ -103,7 +102,6 @@ Particularité de ce tronçon : il longe le centre et la galerie commerciale «
 #### Tronçon 7
 Longueur de 900 mètres sur les rues Lino Ventura et du 7ième Art.
 Ce tronçon commence au sud du centre commercial Carrefour et se termine au giratoire au sud du commerce LIDL.
-Livraison prévue en décembre 2025.
 Ce sera une nouvelle piste cyclable bidirectionnelle de 3 mètres de large sur la rue lino Ventura
 et sur l’avenue du 7ième Art. Les 2 voies de la piste bidirectionnelle seront séparées par un massif planté de 1,5 à 2 mètres.
 
@@ -113,7 +111,6 @@ Point de vigilance : la piste cyclable croisera 11 sorties de voitures sur ce tr
 
 #### Tronçon 8
 Longueur de 800 mètres environ sur la rue Mirieux de Labarre. Ce tronçon commence au giratoire au sud de Lidl et va jusqu’au giratoire de l’entrée du golf.
-La livraison est prévue à l’été 2025.
 La piste cyclable bidirectionnelle qui existe sera reprise par endroit et améliorée, elle aura une largueur variable de 2,5 mètres à 3 mètres.
 
 À noter :
@@ -123,11 +120,10 @@ Particularité de ce tronçon : à partir du giratoire de l’entrée du Golf on
 
 #### Tronçon 9 (Fin du ReVE n°4)
 Longueur de ce tronçon : environ 1,2km. Il se situe sur l’avenue Mirieu de Labarre, commence au giratoire en entrée du golf et se termine au niveau de
-la place de Courréjean (extrémité sud de cette ligne Numéro 4 du ReVE).
-La livraison est prévue fin décembre 2024.
+la place de Courréjean (extrémité sud de cette :line-link{line=4}).
 La voie verte actuelle de 3 mètres de large sera conservée avec son statut (restera en voie verte partagée entre piéton·nes et cyclistes). 
-Les traversées seront reprises avec séparation vélos/piétons. Une voie verte a été réalisée entre la passerelle et l’avenue de la Grande Lande, elle contourne le Leroy Merlin. .
-Une station atelier ALTEO fix’air sera installée sur la place de Courréjean.
+Les traversées seront reprises avec séparation vélos/piétons. Une voie verte a été réalisée entre la passerelle et l’avenue de la Grande Lande, elle contourne le Leroy Merlin.  
+Une station atelier ALTEO fix'air sera installée sur la place de Courréjean.
 
 ## Fil d'actu
 
