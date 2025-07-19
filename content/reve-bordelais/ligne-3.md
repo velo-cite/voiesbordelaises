@@ -24,7 +24,6 @@ credit: Vélo-Cité
 ---
 ::
 
-::
 Une voie verte existe entre Parempuyre et Blanquefort. Elle sera labélisée ReVE lorsque les travaux à Parempuyre et 
 autour de la gare de Blanquefort seront réalisés. 
 Avec la création de la continuité à Blanquefort, il sera possible d'aller d'une ville à l'autre en 10min, sans aucun risque de sécurité.
@@ -44,7 +43,6 @@ Une voie verte aux normes du ReVE est en cours de réalisation entre la gare (ru
 https://www.sudouest.fr/gironde/blanquefort/gironde-sens-unique-et-deviation-en-vue-pour-terminer-la-voie-verte-entre-parempuyre-et-blanquefort-22384630.php
 
 #### Zone industrielle et Gravière de Blanquefort
-::
 ::banner{type="wip"}
 Les travaux ont démarré à l'été 2025.
 ::
