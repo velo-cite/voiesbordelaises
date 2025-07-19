@@ -51,7 +51,7 @@ Les travaux ont démarré à l'été 2025.
 ::content-image
 ---
 imageUrl: /reve/3/reve-3-zi-blanquefort.jpg
-caption: ReVE 3 - ZI Blanquefort : amélioration de l'existant 
+caption: ReVE 3 - ZI Blanquefort - amélioration de l'existant 
 credit: Vélo-Cité
 ---
 ::
@@ -75,7 +75,7 @@ Le premier tronçon, au nord, est en travaux depuis l'été 2025.
 ::content-image
 ---
 imageUrl: /reve/3/reve-3-allees-de-boutaut-nord.jpg
-caption: ReVE 3 - Allées de Boutaut Nord : création d'un giratoire
+caption: ReVE 3 - Allées de Boutaut Nord - création d'un giratoire
 credit: Vélo-Cité
 ---
 ::
