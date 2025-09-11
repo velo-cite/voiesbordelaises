@@ -25,7 +25,8 @@ Cette voie serpente au milieu de la végétation mais présente l'avantage d'êt
 
 ### Intrarocade
 La métropole a inauguré le tronçon entre la rocade et les boulevards en même temps que le Bus Express (BEX).
-De nombreux éléments non conformes au référentiel du Réseau Express Vélo y sont recensés (bandes cyclables notamment).
+Les aménagements proposés sont des bandes cyclables, sans protection physique pour protéger les cyclistes.
+
 
 ::content-image
 ---
@@ -33,6 +34,9 @@ imageUrl: /reve/1/reve-1-bande-cyclable.jpg
 caption: Reve 1 - Bande cyclable dont la peinture est déjà effacée.
 ---
 ::
+
+### Avenue du Général Leclerc 
+Passée en sens unique, l'avenue du général Leclerc offre un couloir de bus partagé dans le sens sortant et une bande cyclable dans l'autre.
 
 ### Bordeaux - Intra-boulevard
 Ce tronçon réalisé dans le cadre du Bus Express G ne sera pas labélisé ReVE.
