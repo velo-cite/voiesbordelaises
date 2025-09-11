@@ -11,7 +11,7 @@ cover: /reve/1/bex-reve1.jpg
 ## Les tronçons (de L'ouest vers le centre)
 
 ### Saint-Aubin
-En attente d'informations.
+Les aménagements réalisés attendent leur labellisation ReVE, avec la pose du marquage spécifique.
 
 ### Saint-Médard-en-Jalles
 En attente d'informations.
