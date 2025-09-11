@@ -219,7 +219,7 @@
             "properties": {
                 "line": 1,
                 "name": "Saint-Aubin-de-Médoc",
-                "status": "planned",
+                "status": "wip",
                 "type": "inconnu",
                 "link": "/reve-1#saint-aubin",
                 "quality": "satisfactory"
