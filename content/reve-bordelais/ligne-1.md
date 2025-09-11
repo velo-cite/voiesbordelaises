@@ -5,7 +5,6 @@ color: "#2f780b"
 from: Saint-Aubin-de-Médoc
 to: Bordeaux
 description: La ligne 1 du ReVE utilisera l'infrastructure du Bus Express entre St Aubin de Médoc et la gare St Jean
-cover: /reve/1/bex-reve1.jpg
 ---
 
 ## Les tronçons (de L'ouest vers le centre)
