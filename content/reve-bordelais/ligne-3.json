@@ -590,10 +590,11 @@
             "properties": {
                 "line": 3,
                 "name": "Blanquefort 11 Novembre entre Gare - Rivière",
-                "status": "wip",
+                "status": "done",
                 "type": "voie-verte",
                 "link": "/reve-3#blanquefort",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+"doneAt": "17/09/2025"
             }
         },
         {
