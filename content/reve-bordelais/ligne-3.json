@@ -496,10 +496,11 @@
             "properties": {
                 "line": 3,
                 "name": "Blanquefort",
-                "status": "wip",
+                "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-3#blanquefort",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+"doneAt": "17/09/2025"
             }
         },
         {
