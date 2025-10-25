@@ -293,7 +293,8 @@
                 "link": "/reve-4#le-pont-simone-veil",
                 "quality": "satisfactory",
                 "id": "pt-simone-veil-commun",
-                "doneAt": "03/10/2024"
+                "doneAt": "03/10/2024",
+                "labeled": true
             }
         },
         {
@@ -743,7 +744,8 @@
                 "type": "bidirectionnelle",
                 "link": "/reve-4#quai-wilson",
                 "quality": "satisfactory",
-                "doneAt": "01/07/2024"
+                "doneAt": "01/07/2024",
+                "labeled": true
             }
         },
         {
@@ -777,7 +779,8 @@
                 "link": "/reve-4#quai-deschamps",
                 "quality": "satisfactory",
                 "doneAt": "01/07/2024",
-                "id": "montée-simone-veil-commun"
+                "id": "montée-simone-veil-commun",
+                "labeled": true
             }
         },
         {
@@ -814,7 +817,8 @@
                 "type": "bidirectionnelle",
                 "link": "/reve-4#quai-deschamps",
                 "quality": "satisfactory",
-                "doneAt": "01/03/2023"
+                "doneAt": "01/03/2023",
+                "labeled": true
             }
         },
         {
@@ -887,7 +891,8 @@
                 "type": "voie-verte",
                 "link": "/reve-4#lormont-bas",
                 "quality": "satisfactory",
-                "doneAt": "16/05/2025"
+                "doneAt": "16/05/2025",
+                "labeled": true
             }
         },
         {

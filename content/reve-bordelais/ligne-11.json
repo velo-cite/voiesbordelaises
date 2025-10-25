@@ -103,7 +103,8 @@
                 "doneAt": "29/04/2023",
                 "type": "bidirectionnelle",
                 "link": "/reve-11#aéroport",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "labeled": true
             }
         },
         {

@@ -290,7 +290,8 @@
                 "type": "voie-bus",
                 "link": "/reve-1#axe-du-bus-express-g",
                 "doneAt": "03/06/2024",
-                "quality": "unsatisfactory"
+                "quality": "unsatisfactory",
+                "labeled": true
             }
         },
         {
@@ -339,7 +340,8 @@
                 "type": "voie-bus",
                 "link": "/reve-1#avenue-du-général-leclerc",
                 "doneAt": "03/06/2024",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "labeled": true
             }
         },
         {

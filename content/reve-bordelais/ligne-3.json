@@ -187,6 +187,7 @@
             "properties": {
                 "line": 3,
                 "name": "Bordeaux Lac 1",
+                "labeled":true,
                 "status": "done",
                 "doneAt": "10/07/2023",
                 "type": "bidirectionnelle",
@@ -260,6 +261,7 @@
             "properties": {
                 "line": 3,
                 "name": "Bordeaux Lac 3",
+                "labeled":true,
                 "status": "done",
                 "doneAt": "10/07/2023",
                 "type": "bidirectionnelle",
@@ -314,6 +316,7 @@
                 "line": 3,
                 "name": "Bordeaux Lac 4",
                 "status": "done",
+                "labeled": true,
                 "doneAt": "10/07/2023",
                 "type": "bidirectionnelle",
                 "link": "/reve-3#bordeaux-lac",
@@ -412,6 +415,7 @@
                 "line": 3,
                 "name": "Bordeaux Lac 2",
                 "status": "done",
+                "labeled": true,
                 "type": "bidirectionnelle",
                 "link": "/reve-3#bordeaux-lac",
                 "quality": "satisfactory",
@@ -497,10 +501,11 @@
                 "line": 3,
                 "name": "Blanquefort",
                 "status": "done",
+                "labeled": true,
                 "type": "bidirectionnelle",
                 "link": "/reve-3#blanquefort",
                 "quality": "satisfactory",
-"doneAt": "17/09/2025"
+                "doneAt": "17/09/2025"
             }
         },
         {
@@ -542,6 +547,7 @@
                 "line": 3,
                 "name": "Connexion Blanquefort Parempuyre",
                 "status": "done",
+                "labeled": true,
                 "type": "voie-verte",
                 "link": "/reve-3#connexion-parempuyre-blanquefort",
                 "quality": "satisfactory",
@@ -591,10 +597,11 @@
                 "line": 3,
                 "name": "Blanquefort 11 Novembre entre Gare - Rivière",
                 "status": "done",
+                "labeled": true,
                 "type": "voie-verte",
                 "link": "/reve-3#blanquefort",
                 "quality": "satisfactory",
-"doneAt": "17/09/2025"
+                "doneAt": "17/09/2025"
             }
         },
         {
