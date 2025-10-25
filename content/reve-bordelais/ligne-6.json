@@ -19,10 +19,11 @@
       "properties": {
         "line": 6,
         "name": "Pont Saint Jean",
-        "status": "wip",
+        "status": "done",
         "type": "voie-bus-elargie",
         "link": "/reve-6#pont-saint-jean",
-        "quality": "satisfactory"
+        "quality": "unsatisfactory",
+        "doneAt": "01/07/2024"
       }
     },
     {
