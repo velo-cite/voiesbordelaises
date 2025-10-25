@@ -407,9 +407,9 @@
             },
             "properties": {
                 "line": 13,
-                "name": "Boulevards 1",
-                "status": "postponed",
-                "type": "inconnu",
+                "name": "Boulevards",
+                "status": "wip",
+                "type": "voie-bus-elargie",
                 "link": "/reve-13#les-tronçons",
                 "quality": "satisfactory"
             }
