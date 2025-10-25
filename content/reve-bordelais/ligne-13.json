@@ -408,7 +408,7 @@
             "properties": {
                 "line": 13,
                 "name": "Boulevards",
-                "status": "wip",
+                "status": "under-study",
                 "type": "voie-bus-elargie",
                 "link": "/reve-13#les-tronçons",
                 "quality": "satisfactory"
