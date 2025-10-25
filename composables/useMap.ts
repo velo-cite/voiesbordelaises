@@ -72,6 +72,52 @@ function getMagnifyingGlassIconUrl() {
   return canvas.toDataURL();
 }
 
+function getConstructionIconUrl() {
+  const canvas = document.createElement('canvas');
+  canvas.width = 28;
+  canvas.height = 28;
+  const context = canvas.getContext('2d');
+  if (!context) {
+    return '';
+  }
+
+  // Dessine un cône de chantier avec une forme réaliste (base plus étroite)
+  // Partie conique (triangle) - orange vif
+  context.beginPath();
+  context.moveTo(14, 6); // Sommet du cône
+  context.lineTo(19, 20); // Coin bas droit (plus étroit)
+  context.lineTo(9, 20); // Coin bas gauche (plus étroit)
+  context.closePath();
+  context.fillStyle = '#FF6600';
+  context.fill();
+
+  // Bandes blanches horizontales sur le cône (adaptées à la nouvelle forme)
+  context.fillStyle = '#FFFFFF';
+  context.fillRect(11.5, 10, 5, 2.5); // Bande supérieure
+  context.fillRect(10.5, 15, 7, 2.5); // Bande inférieure
+
+  // Base du cône (rectangle noir plus étroit)
+  context.fillStyle = '#333333';
+  context.fillRect(9, 20, 10, 3);
+
+  // Contour noir fin du cône
+  context.beginPath();
+  context.moveTo(14, 6);
+  context.lineTo(19, 20);
+  context.lineTo(9, 20);
+  context.closePath();
+  context.strokeStyle = '#000000';
+  context.lineWidth = 0.8;
+  context.stroke();
+
+  // // Contour de la base
+  // context.strokeStyle = '#000000';
+  // context.lineWidth = 1.5;
+  // context.strokeRect(9, 20, 10, 3);
+
+  return canvas.toDataURL();
+}
+
 function groupFeaturesByColor(features: ColoredLineStringFeature[]) {
   const featuresByColor: Record<string, Feature[]> = {};
   for (const feature of features) {
@@ -129,6 +175,10 @@ export const useMap = () => {
     const loupeIconUrl = getMagnifyingGlassIconUrl();
     const loupe = await map.loadImage(loupeIconUrl);
     map.addImage('loupe-icon', loupe.data, { sdf: true });
+
+    const constructionIconUrl = getConstructionIconUrl();
+    const construction = await map.loadImage(constructionIconUrl);
+    map.addImage('construction-icon', construction.data, { sdf: false });
   }
 
   function plotUnsatisfactorySections({ map, features }: { map: Map; features: LineStringFeature[] }) {
@@ -257,6 +307,21 @@ export const useMap = () => {
       return;
     }
 
+    // Option 5: Icônes de chantier le long du tracé avec bordure distinctive
+    // Bordure extérieure rouge en pointillés (même espacement que le trait principal)
+    map.addLayer({
+      id: 'wip-sections-border',
+      type: 'line',
+      source: 'wip-sections',
+      paint: {
+        'line-gap-width': 4,
+        'line-width': 3,
+        'line-color': '#FF0000',
+        'line-dasharray': [3, 3]
+      }
+    });
+
+    // Trait principal de couleur en pointillés
     map.addLayer({
       id: 'wip-sections',
       type: 'line',
@@ -264,35 +329,26 @@ export const useMap = () => {
       paint: {
         'line-width': 4,
         'line-color': ['get', 'color'],
-        'line-dasharray': [0, 2, 2]
+        'line-dasharray': [3, 3]
       }
     });
 
-    const dashArraySequence = [
-      [0, 2, 2],
-      [0.5, 2, 1.5],
-      [1, 2, 1],
-      [1.5, 2, 0.5],
-      [2, 2, 0],
-      [0, 0.5, 2, 1.5],
-      [0, 1, 2, 1],
-      [0, 1.5, 2, 0.5]
-    ];
-    let step = 0;
-    function animateDashArray(timestamp: number) {
-      // Update line-dasharray using the next value in dashArraySequence. The
-      // divisor in the expression `timestamp / 45` controls the animation speed.
-      const newStep = Math.floor((timestamp / 45) % dashArraySequence.length);
-
-      if (newStep !== step) {
-        map.setPaintProperty('wip-sections', 'line-dasharray', dashArraySequence[step]);
-        step = newStep;
+    // Icônes de chantier (cône) - espacement très réduit pour garantir au moins 1 cône
+    map.addLayer({
+      id: 'wip-symbols',
+      type: 'symbol',
+      source: 'wip-sections',
+      layout: {
+        'symbol-placement': 'line',
+        'symbol-spacing': 30,
+        'icon-image': 'construction-icon',
+        'icon-size': 0.8,
+        'icon-rotation-alignment': 'viewport',
+        'icon-keep-upright': true,
+        'icon-allow-overlap': false,
+        'icon-ignore-placement': false
       }
-
-      // Request the next frame of the animation.
-      requestAnimationFrame(animateDashArray);
-    }
-    animateDashArray(0);
+    });
   }
 
   function plotUnderStudiesSections({ map, features }: { map: Map; features: ColoredLineStringFeature[] }) {
