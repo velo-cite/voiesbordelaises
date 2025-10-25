@@ -154,7 +154,7 @@
                 "name": "Avenue de Magudas",
                 "status": "under-study",
                 "type": "inconnu",
-                "link": "/reve-1#le-haillan-les-5-chemins",
+                "link": "/reve-1#avenue-de-magudas",
                 "quality": "satisfactory"
             }
         },
@@ -179,10 +179,10 @@
             },
             "properties": {
                 "line": 1,
-                "name": "Bordeaux Sortant intra-boulevard",
+                "name": "Cours Marc Nouaux (annulé)",
                 "status": "canceled",
                 "type": "voie-bus",
-                "link": "/reve-1#bordeaux-intra-boulevard",
+                "link": "/reve-1#cours-marc-nouaux-et-rue-de-caudéran",
                 "quality": "unsatisfactory"
             }
         },
@@ -207,10 +207,10 @@
             },
             "properties": {
                 "line": 1,
-                "name": "Bordeaux Sortant",
+                "name": "Avenue Charles de Gaulle",
                 "status": "done",
                 "type": "voie-bus",
-                "link": "/reve-1#intrarocade",
+                "link": "/reve-1#avenue-du-général-leclerc",
                 "quality": "satisfactory",
                 "doneAt": "03/06/2024"
             }
@@ -260,10 +260,10 @@
             },
             "properties": {
                 "line": 1,
-                "name": "Bordeaux Intra-Boulevards",
+                "name": "Rue de Caudéran (annulé)",
                 "status": "canceled",
                 "type": "voie-bus",
-                "link": "/reve-1#bordeaux-intra-boulevard",
+                "link": "/reve-1#cours-marc-nouaux-et-rue-de-caudéran",
                 "quality": "satisfactory"
             }
         },
@@ -289,11 +289,10 @@
             "properties": {
                 "line": 1,
                 "name": "Traversée Rocade",
-                "status": "under-study",
+                "status": "planned",
                 "type": "bidirectionnelle",
-                "link": "/reve-1#le-haillan-les-5-chemins",
-                "quality": "satisfactory",
-                "doneAt": ""
+                "link": "/reve-1#traversée-de-rocade",
+                "quality": "satisfactory"
             }
         },
         {
@@ -324,7 +323,7 @@
                 "name": "Bordeaux long de Rocade",
                 "status": "done",
                 "type": "voie-verte",
-                "link": "/reve-1#mérignac-voie-verte-rue-germaine-tillion",
+                "link": "/reve-1#rue-germaine-tillion",
                 "doneAt": "01/01/2019",
                 "quality": "satisfactory"
             }
@@ -382,10 +381,10 @@
             },
             "properties": {
                 "line": 1,
-                "name": "Bordeaux Intra-Rocade",
+                "name": "Axe du Bus Express G",
                 "status": "done",
                 "type": "voie-bus",
-                "link": "/reve-1#intrarocade",
+                "link": "/reve-1#axe-du-bus-express-g",
                 "doneAt": "03/06/2024",
                 "quality": "unsatisfactory"
             }
@@ -431,10 +430,10 @@
             },
             "properties": {
                 "line": 1,
-                "name": "Bordeaux Caudéran",
+                "name": "Avenue du Général Leclerc",
                 "status": "done",
                 "type": "voie-bus",
-                "link": "/reve-1#intrarocade",
+                "link": "/reve-1#avenue-du-général-leclerc",
                 "doneAt": "03/06/2024",
                 "quality": "satisfactory"
             }
@@ -690,7 +689,7 @@
                 "type": "voie-verte",
                 "link": "/reve-1#saint-aubin",
                 "quality": "satisfactory",
-                "": "01/01/2008"
+                "doneAt": "01/01/2008"
             }
         },
         {
