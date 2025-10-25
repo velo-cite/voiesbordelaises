@@ -642,10 +642,11 @@
             "properties": {
                 "line": 3,
                 "name": "Allée de Boutaut Nord",
-                "status": "wip",
+                "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-3#allée-de-boutaut",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/10/2025"
             }
         },
         {
