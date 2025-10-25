@@ -41,6 +41,7 @@ caption: Reve 1 - Passerelle au dessus de la route de Lacanau (N215).
 ---
 ::
 ### Saint-Médard-en-Jalles
+#### Bois du Bourdieu
 Dans la continuité du Lycée Sud-Médoc, la piste cyclable longe l'avenue du Lycée puis traverse le bois du Bourdieu.
 ::content-image
 ---
@@ -83,11 +84,11 @@ Des pistes bilatérales existent sur le reste de la route de Corbiac.
 Elles sont en béton et leur largeur est faible. Elles ont cependant le mérite d'exister.  
 Il en va de même pour l'avenue de Mazeau.
 
+### Le Haillan
+
 #### Avenue de Capeyron
 Une piste cyclable bidirectionnelle existe sur l'avenue de Capeyron.  
 Le ReVE devrait réutiliser cette piste en l'état.
-
-### Le Haillan
 
 #### Avenue de Magudas
 Une grande partie de l'avenue de Magudas est à l'étude dans le cadre du Boulevard Technologique.

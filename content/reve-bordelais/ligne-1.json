@@ -7,102 +7,6 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.709929,
-                        44.892744
-                    ],
-                    [
-                        -0.710194,
-                        44.892512
-                    ],
-                    [
-                        -0.711154,
-                        44.891748
-                    ],
-                    [
-                        -0.711338,
-                        44.891512
-                    ],
-                    [
-                        -0.711465,
-                        44.891204
-                    ],
-                    [
-                        -0.709873,
-                        44.890794
-                    ],
-                    [
-                        -0.710517,
-                        44.889483
-                    ],
-                    [
-                        -0.710511,
-                        44.888255
-                    ],
-                    [
-                        -0.710689,
-                        44.887214
-                    ],
-                    [
-                        -0.710523,
-                        44.88642
-                    ],
-                    [
-                        -0.709412,
-                        44.883998
-                    ],
-                    [
-                        -0.708865,
-                        44.877388
-                    ],
-                    [
-                        -0.709562,
-                        44.876187
-                    ],
-                    [
-                        -0.710689,
-                        44.873534
-                    ],
-                    [
-                        -0.711451,
-                        44.872655
-                    ],
-                    [
-                        -0.710898,
-                        44.872009
-                    ],
-                    [
-                        -0.709927,
-                        44.866074
-                    ],
-                    [
-                        -0.702481,
-                        44.863778
-                    ],
-                    [
-                        -0.699413,
-                        44.862607
-                    ],
-                    [
-                        -0.696259,
-                        44.86171
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 1,
-                "name": "St-Médard-en-Jalles",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-1#saint-médard-en-jalles",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
                         -0.696259,
                         44.86171
                     ],
@@ -320,7 +224,7 @@
             },
             "properties": {
                 "line": 1,
-                "name": "Bordeaux long de Rocade",
+                "name": "Rue Germaine Tillion",
                 "status": "done",
                 "type": "voie-verte",
                 "link": "/reve-1#rue-germaine-tillion",
@@ -588,10 +492,70 @@
             },
             "properties": {
                 "line": 1,
-                "name": "Saint-Aubin-de-Médoc Centre ",
+                "name": "Saint-Aubin-de-Médoc Centre",
                 "status": "planned",
                 "type": "inconnu",
-                "link": "/reve-1#saint-aubin",
+                "link": "/reve-1#centre-ville-de-saint-aubin",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.710147,
+                        44.897367
+                    ],
+                    [
+                        -0.710072,
+                        44.897125
+                    ],
+                    [
+                        -0.709868,
+                        44.896247
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 1,
+                "name": "Bande de la rue Frédéric Delmestre",
+                "status": "planned",
+                "type": "bilaterale",
+                "link": "/reve-1#rue-frédéric-delmestre",
+                "quality": "unsatisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.709868,
+                        44.896247
+                    ],
+                    [
+                        -0.709251,
+                        44.89505
+                    ],
+                    [
+                        -0.709074,
+                        44.893549
+                    ],
+                    [
+                        -0.709929,
+                        44.892744
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 1,
+                "name": "Piste du Collège François Mauriac",
+                "status": "planned",
+                "type": "bidirectionnelle",
+                "link": "/reve-1#piste-du-collège-françois-mauriac",
                 "quality": "satisfactory"
             }
         },
@@ -627,6 +591,27 @@
                     [
                         -0.71395,
                         44.910409
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 1,
+                "name": "Saint-Aubin-de-Médoc-Saint-Médard",
+                "status": "done",
+                "type": "voie-verte",
+                "link": "/reve-1#saint-aubin",
+                "quality": "satisfactory",
+                "doneAt": "01/01/2008"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.71395,
+                        44.910409
                     ],
                     [
                         -0.713854,
@@ -652,6 +637,27 @@
                         -0.715925,
                         44.902035
                     ],
+                    [
+                        -0.715925,
+                        44.901966
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 1,
+                "name": "Lycée Sud-Médoc",
+                "status": "done",
+                "type": "bidirectionnelle",
+                "link": "/reve-1#lycée-sud-médoc",
+                "quality": "satisfactory",
+                "doneAt": "01/01/2008"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         -0.715925,
                         44.901966
@@ -684,10 +690,10 @@
             },
             "properties": {
                 "line": 1,
-                "name": "Saint-Aubin-de-Médoc-Saint-Médard",
+                "name": "Bois du Bourdieu",
                 "status": "done",
-                "type": "voie-verte",
-                "link": "/reve-1#saint-aubin",
+                "type": "bidirectionnelle",
+                "link": "/reve-1#bois-du-bourdieu",
                 "quality": "satisfactory",
                 "doneAt": "01/01/2008"
             }
@@ -698,24 +704,68 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.710147,
-                        44.897367
+                        -0.709929,
+                        44.892744
                     ],
                     [
-                        -0.710072,
-                        44.897125
+                        -0.710194,
+                        44.892512
                     ],
                     [
-                        -0.709868,
-                        44.896247
+                        -0.711154,
+                        44.891748
+                    ],
+                    [
+                        -0.711338,
+                        44.891512
+                    ],
+                    [
+                        -0.711465,
+                        44.891204
+                    ],
+                    [
+                        -0.709873,
+                        44.890794
                     ]
                 ]
             },
             "properties": {
                 "line": 1,
-                "name": "Saint-Médard-Frédéric-Delmestre",
+                "name": "Centre-ville de Saint-Médard",
                 "status": "planned",
-                "type": "bilaterale",
+                "type": "inconnu",
+                "link": "/reve-1#saint-médard-en-jalles",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.709873,
+                        44.890794
+                    ],
+                    [
+                        -0.710517,
+                        44.889483
+                    ],
+                    [
+                        -0.710511,
+                        44.888255
+                    ],
+                    [
+                        -0.710654,
+                        44.887389
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 1,
+                "name": "Traversée de la Jalles",
+                "status": "planned",
+                "type": "inconnu",
                 "link": "/reve-1#saint-médard-en-jalles",
                 "quality": "unsatisfactory"
             }
@@ -726,29 +776,85 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.709868,
-                        44.896247
+                        -0.710654,
+                        44.887389
                     ],
                     [
-                        -0.709251,
-                        44.89505
+                        -0.710689,
+                        44.887214
                     ],
                     [
-                        -0.709074,
-                        44.893549
+                        -0.710523,
+                        44.88642
                     ],
                     [
-                        -0.709929,
-                        44.892744
+                        -0.709412,
+                        44.883998
+                    ],
+                    [
+                        -0.708865,
+                        44.877388
+                    ],
+                    [
+                        -0.709562,
+                        44.876187
+                    ],
+                    [
+                        -0.710689,
+                        44.873534
+                    ],
+                    [
+                        -0.711451,
+                        44.872655
+                    ],
+                    [
+                        -0.710898,
+                        44.872009
+                    ],
+                    [
+                        -0.709927,
+                        44.866074
                     ]
                 ]
             },
             "properties": {
                 "line": 1,
-                "name": "Saint-Médard-en-Jalles - Centre",
+                "name": "Route de Corbiac",
+                "status": "planned",
+                "type": "bilaterale",
+                "link": "/reve-1#route-de-corbiac",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.709927,
+                        44.866074
+                    ],
+                    [
+                        -0.702481,
+                        44.863778
+                    ],
+                    [
+                        -0.699413,
+                        44.862607
+                    ],
+                    [
+                        -0.696259,
+                        44.86171
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 1,
+                "name": "Avenue de Capeyron",
                 "status": "planned",
                 "type": "bidirectionnelle",
-                "link": "/reve-1#saint-médard-en-jalles",
+                "link": "/reve-1#avenue-de-capeyron",
                 "quality": "satisfactory"
             }
         }
