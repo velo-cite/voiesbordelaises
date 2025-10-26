@@ -480,10 +480,11 @@
             "properties": {
                 "line": 13,
                 "name": "Rue Lucien Faure",
-                "status": "planned",
+                "status": "done",
                 "type": "voie-bus-elargie",
                 "link": "/reve-13#rue-lucien-faure",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/07/2016"
             }
         },
         {
