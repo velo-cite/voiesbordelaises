@@ -60,6 +60,8 @@ Les travaux devraient être réalisés en 2026.
 #### Boulevard Technologique
 Dans le cadre du Boulevard Technologique, l'avenue de Magudas, le chemin du phare, l'avenue et la rue de Beaudésert ainsi que l'avenue Roland Garros sont étudiées.  
 Ce projet étant au long cours, il faudra être patient pour voir apparaitre le ReVE sur ces axes.  
+
+#### Avenue Roland Garros
 La piste existante de l'avenue Roland Garros sera labellisée en l’état, après une étude sur les priorités aux intersections.
 
 ### Pessac

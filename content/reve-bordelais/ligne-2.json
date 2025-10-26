@@ -77,7 +77,7 @@
                 "line": 2,
                 "name": "Chemin du phare",
                 "status": "under-study",
-                "type": "inconnu",
+                "type": "bidirectionnelle",
                 "link": "/reve-2#boulevard-technologique",
                 "quality": "satisfactory"
             }
@@ -174,8 +174,8 @@
                 "line": 2,
                 "name": "Avenue de Roland Garros",
                 "status": "under-study",
-                "type": "inconnu",
-                "link": "/reve-2#boulevard-technologique",
+                "type": "bidirectionnelle",
+                "link": "/reve-2#avenue-roland-garros",
                 "quality": "satisfactory"
             }
         },
@@ -199,7 +199,7 @@
                 "line": 2,
                 "name": "Avenue François Mitterrand",
                 "status": "under-study",
-                "type": "inconnu",
+                "type": "bidirectionnelle",
                 "link": "/reve-2#boulevard-technologique",
                 "quality": "satisfactory"
             }
@@ -514,7 +514,7 @@
                 "line": 2,
                 "name": "Commun ligne 2 et 8",
                 "status": "planned",
-                "type": "inconnu",
+                "type": "bilaterale",
                 "link": "/reve-2#les-tronçons-du-nord-au-sud",
                 "quality": "satisfactory",
                 "id": "reve-2-8-commun"
@@ -559,7 +559,7 @@
                 "line": 2,
                 "name": "Connexion Cantinolle Route de Lacanau",
                 "status": "planned",
-                "type": "inconnu",
+                "type": "bilaterale",
                 "link": "/reve-2#connexion-cantinolle-route-de-lacanau",
                 "quality": "satisfactory"
             }
@@ -1033,7 +1033,7 @@
                 "line": 2,
                 "name": "Avenue de Beutre",
                 "status": "planned",
-                "type": "inconnu",
+                "type": "bilaterale",
                 "link": "/reve-2#avenue-de-beutre",
                 "quality": "satisfactory"
             }
@@ -1081,7 +1081,7 @@
                 "line": 2,
                 "name": "Rues de Cantaranne, de la Mauguette et de Lahouneau",
                 "status": "planned",
-                "type": "inconnu",
+                "type": "bilaterale",
                 "link": "/reve-2#rues-de-cantaranne-de-la-mauguette-et-de-lahouneau",
                 "quality": "satisfactory"
             }
@@ -1146,7 +1146,7 @@
                 "line": 2,
                 "name": "Rue du Marais",
                 "status": "planned",
-                "type": "inconnu",
+                "type": "bilaterale",
                 "link": "/reve-2#rue-du-marais",
                 "quality": "satisfactory"
             }
