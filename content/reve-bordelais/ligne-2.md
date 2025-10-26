@@ -124,6 +124,10 @@ Une piste cyclable bidirectionnelle existe pour traverser la rocade.
 Elle est située au milieu des voies de circulation, ce qui permet de ne pas être géné par les voitures entrantes ou sortants de la rocade.  
 Cette configuration entraine cependant des difficultés d'insertion dans la piste.
 
+#### Continuité ?
+
+La ligne 2 du ReVE devrait être prolongée pour être connectée à la ligne 14.
+
 ### *Concertation*
 La concertation publique sur ce tronçon s'est tenue du 03/10 au 04/11/2022.
 [Voir le dossier de concertation](https://cyclopolis.lavilleavelo.org/vl2/VL2Sud_Berthelot_St-Priest.pdf)
