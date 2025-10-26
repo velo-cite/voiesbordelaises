@@ -278,7 +278,7 @@
             "properties": {
                 "line": 2,
                 "name": "Allée Charles Darwin",
-                "status": "under-study",
+                "status": "wip",
                 "type": "voie-verte",
                 "link": "/reve-2#parc-de-bourgailh",
                 "quality": "satisfactory"
@@ -349,38 +349,6 @@
                 "status": "wip",
                 "type": "bilaterale",
                 "link": "/reve-2#avenue-de-broglie",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.680863,
-                        44.930734
-                    ],
-                    [
-                        -0.669179,
-                        44.915587
-                    ],
-                    [
-                        -0.668793,
-                        44.914979
-                    ],
-                    [
-                        -0.66917,
-                        44.900681
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "Le Taillan Médoc",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-2#les-tronçons-du-nord-au-sud",
                 "quality": "satisfactory"
             }
         },
@@ -602,6 +570,285 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        -0.660687,
+                        44.873682
+                    ],
+                    [
+                        -0.661181,
+                        44.871485
+                    ],
+                    [
+                        -0.661851,
+                        44.870283
+                    ],
+                    [
+                        -0.662844,
+                        44.869242
+                    ],
+                    [
+                        -0.663348,
+                        44.868413
+                    ],
+                    [
+                        -0.664024,
+                        44.866363
+                    ],
+                    [
+                        -0.664469,
+                        44.865455
+                    ],
+                    [
+                        -0.664614,
+                        44.864888
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Avenue Jean Mermoz",
+                "status": "done",
+                "type": "voie-verte",
+                "link": "/reve-2#avenue-jean-mermoz",
+                "quality": "satisfactory",
+                "doneAt": "01/01/2018"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.664614,
+                        44.864888
+                    ],
+                    [
+                        -0.665928,
+                        44.863162
+                    ],
+                    [
+                        -0.666368,
+                        44.858303
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Rue Jean Mermoz Sud",
+                "status": "under-study",
+                "type": "voie-verte",
+                "link": "/reve-2#avenue-jean-mermoz",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.641606,
+                        44.779581
+                    ],
+                    [
+                        -0.641069,
+                        44.778789
+                    ],
+                    [
+                        -0.643151,
+                        44.777829
+                    ],
+                    [
+                        -0.644271,
+                        44.777384
+                    ],
+                    [
+                        -0.642613,
+                        44.775903
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Passerelle",
+                "status": "done",
+                "type": "voie-verte",
+                "link": "/reve-2#passerelle-au-dessus-de-la63",
+                "quality": "satisfactory",
+                "doneAt": "01/09/2024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.664666,
+                        44.799526
+                    ],
+                    [
+                        -0.663235,
+                        44.7995
+                    ],
+                    [
+                        -0.663182,
+                        44.79915
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Carrefour Alouette",
+                "status": "under-study",
+                "type": "bidirectionnelle",
+                "link": "/reve-2#carrefour-alouette",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.642613,
+                        44.775903
+                    ],
+                    [
+                        -0.639911,
+                        44.776047
+                    ],
+                    [
+                        -0.637615,
+                        44.77588
+                    ],
+                    [
+                        -0.637057,
+                        44.775712
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Avenue de la Grande Lande",
+                "status": "under-study",
+                "type": "voie-verte",
+                "link": "/reve-2#avenue-de-la-grande-lande",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.637057,
+                        44.775712
+                    ],
+                    [
+                        -0.632787,
+                        44.779063
+                    ],
+                    [
+                        -0.630341,
+                        44.780571
+                    ],
+                    [
+                        -0.628002,
+                        44.782246
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Solarium",
+                "status": "done",
+                "type": "voie-verte",
+                "link": "/reve-2#solarium",
+                "quality": "satisfactory",
+                "doneAt": "01/07/2025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.597017,
+                        44.774722
+                    ],
+                    [
+                        -0.595772,
+                        44.775148
+                    ],
+                    [
+                        -0.595386,
+                        44.775819
+                    ],
+                    [
+                        -0.594463,
+                        44.776489
+                    ],
+                    [
+                        -0.592007,
+                        44.777423
+                    ],
+                    [
+                        -0.589062,
+                        44.778663
+                    ],
+                    [
+                        -0.587704,
+                        44.779535
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Rue de la Croix de Monjous - Bex",
+                "status": "under-study",
+                "type": "inconnu",
+                "link": "/reve-2#rue-de-la-croix-de-monjous",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.669179,
+                        44.915587
+                    ],
+                    [
+                        -0.668793,
+                        44.914979
+                    ],
+                    [
+                        -0.66917,
+                        44.900681
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Le Taillan Médoc",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-2#les-tronçons-du-nord-au-sud",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
                         -0.668353,
                         44.889525
                     ],
@@ -664,6 +911,27 @@
                     [
                         -0.662361,
                         44.878301
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Route de Lacanau",
+                "status": "done",
+                "type": "bidirectionnelle",
+                "link": "/reve-2#route-de-lacanau",
+                "quality": "satisfactory",
+                "doneAt": "01/01/2008"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.662361,
+                        44.878301
                     ],
                     [
                         -0.661932,
@@ -697,125 +965,12 @@
             },
             "properties": {
                 "line": 2,
-                "name": "Route de Lacanau",
+                "name": "Montalieu",
                 "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-2#route-de-lacanau",
-                "quality": "satisfactory",
+                "quality": "unsatisfactory",
                 "doneAt": "01/01/2008"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.660687,
-                        44.873682
-                    ],
-                    [
-                        -0.661181,
-                        44.871485
-                    ],
-                    [
-                        -0.661851,
-                        44.870283
-                    ],
-                    [
-                        -0.662844,
-                        44.869242
-                    ],
-                    [
-                        -0.663348,
-                        44.868413
-                    ],
-                    [
-                        -0.664024,
-                        44.866363
-                    ],
-                    [
-                        -0.664469,
-                        44.865455
-                    ],
-                    [
-                        -0.664614,
-                        44.864888
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "Avenue Jean Mermoz",
-                "status": "planned",
-                "type": "voie-verte",
-                "link": "/reve-2#avenue-jean-mermoz",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.664614,
-                        44.864888
-                    ],
-                    [
-                        -0.665928,
-                        44.863162
-                    ],
-                    [
-                        -0.666368,
-                        44.858303
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "Rue Jean Mermoz Sud",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-2#avenue-jean-mermoz",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.641606,
-                        44.779581
-                    ],
-                    [
-                        -0.641069,
-                        44.778789
-                    ],
-                    [
-                        -0.643151,
-                        44.777829
-                    ],
-                    [
-                        -0.644271,
-                        44.777384
-                    ],
-                    [
-                        -0.642613,
-                        44.775903
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "Passerelle",
-                "status": "done",
-                "type": "voie-verte",
-                "link": "/reve-2#passerelle-au-dessus-de-la63",
-                "quality": "satisfactory",
-                "doneAt": "01/09/2024"
             }
         },
         {
@@ -827,6 +982,27 @@
                         -0.676834,
                         44.805388
                     ],
+                    [
+                        -0.674157,
+                        44.800474
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Rue des Frères Rouyères",
+                "status": "done",
+                "type": "bidirectionnelle",
+                "link": "/reve-2#avenue-de-beutre",
+                "quality": "satisfactory",
+                "doneAt": "01/07/2008"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         -0.674157,
                         44.800474
@@ -868,98 +1044,6 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.664666,
-                        44.799526
-                    ],
-                    [
-                        -0.663235,
-                        44.7995
-                    ],
-                    [
-                        -0.663182,
-                        44.79915
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "Carrefour Alouette",
-                "status": "under-study",
-                "type": "bidirectionnelle",
-                "link": "/reve-2#carrefour-alouette",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.642613,
-                        44.775903
-                    ],
-                    [
-                        -0.639911,
-                        44.776047
-                    ],
-                    [
-                        -0.637615,
-                        44.77588
-                    ],
-                    [
-                        -0.637057,
-                        44.775712
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "Avenue de la Grande Lande",
-                "status": "planned",
-                "type": "voie-verte",
-                "link": "/reve-2#avenue-de-la-grande-lande",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.637057,
-                        44.775712
-                    ],
-                    [
-                        -0.632787,
-                        44.779063
-                    ],
-                    [
-                        -0.630341,
-                        44.780571
-                    ],
-                    [
-                        -0.628002,
-                        44.782246
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 2,
-                "name": "Solarium",
-                "status": "wip",
-                "type": "voie-verte",
-                "link": "/reve-2#solarium",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
                         -0.628002,
                         44.782246
                     ],
@@ -990,26 +1074,6 @@
                     [
                         -0.609741,
                         44.778423
-                    ],
-                    [
-                        -0.607595,
-                        44.777525
-                    ],
-                    [
-                        -0.606115,
-                        44.776976
-                    ],
-                    [
-                        -0.603411,
-                        44.77527
-                    ],
-                    [
-                        -0.600643,
-                        44.773366
-                    ],
-                    [
-                        -0.597017,
-                        44.774722
                     ]
                 ]
             },
@@ -1028,34 +1092,35 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.597017,
-                        44.774722
+                        -0.609741,
+                        44.778423
                     ],
                     [
-                        -0.595772,
-                        44.775148
+                        -0.607595,
+                        44.777525
                     ],
                     [
-                        -0.595386,
-                        44.775819
+                        -0.606115,
+                        44.776976
                     ],
                     [
-                        -0.594463,
-                        44.776489
+                        -0.603411,
+                        44.77527
                     ],
                     [
-                        -0.592811,
-                        44.777144
+                        -0.602791,
+                        44.774821
                     ]
                 ]
             },
             "properties": {
                 "line": 2,
-                "name": "Rue de la Croix de Monjous - Bex",
-                "status": "under-study",
-                "type": "inconnu",
-                "link": "/reve-2#rue-de-la-croix-de-monjous",
-                "quality": "satisfactory"
+                "name": "Rue des Fontaines de Monjous (piste)",
+                "status": "done",
+                "type": "bidirectionnelle",
+                "link": "/reve-2#rues-de-cantaranne-de-la-mauguette-et-de-lahouneau",
+                "quality": "satisfactory",
+                "doneAt": "01/01/2012"
             }
         },
         {
@@ -1064,13 +1129,33 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        -0.592811,
-                        44.777144
+                        -0.602791,
+                        44.774821
                     ],
                     [
-                        -0.589936,
-                        44.778241
+                        -0.600643,
+                        44.773366
                     ],
+                    [
+                        -0.597017,
+                        44.774722
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 2,
+                "name": "Rue du Marais",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-2#rue-du-marais",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         -0.587704,
                         44.779535
@@ -1095,10 +1180,10 @@
             },
             "properties": {
                 "line": 2,
-                "name": "Rue de la Croix de Monjous Vers Thouars",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-2#rue-de-la-croix-de-monjous",
+                "name": "Traversée Rocade Gradignan - Villenave",
+                "status": "done",
+                "type": "bidirectionnelle",
+                "link": "/reve-2#traversée-rocade",
                 "quality": "satisfactory"
             }
         }
