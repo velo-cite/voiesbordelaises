@@ -63,16 +63,60 @@
                         44.865466
                     ],
                     [
-                        -0.575194,
-                        44.865421
+                        -0.575459,
+                        44.865365
+                    ],
+                    [
+                        -0.575799,
+                        44.865368
+                    ],
+                    [
+                        -0.575993,
+                        44.865463
+                    ],
+                    [
+                        -0.576142,
+                        44.865585
+                    ],
+                    [
+                        -0.576237,
+                        44.865709
+                    ],
+                    [
+                        -0.576348,
+                        44.865836
+                    ],
+                    [
+                        -0.576371,
+                        44.865934
+                    ],
+                    [
+                        -0.57634,
+                        44.866082
+                    ],
+                    [
+                        -0.576253,
+                        44.866218
+                    ],
+                    [
+                        -0.576138,
+                        44.866318
+                    ],
+                    [
+                        -0.575963,
+                        44.866383
+                    ],
+                    [
+                        -0.575573,
+                        44.866407
                     ]
                 ]
             },
             "properties": {
                 "line": 3,
                 "name": "Ravezies",
-                "status": "planned",
-                "type": "aucun",
+                "status": "under-study",
+                "type": "bidirectionnelle",
                 "link": "/reve-3#place-ravezies",
                 "quality": "satisfactory"
             }
@@ -187,7 +231,7 @@
             "properties": {
                 "line": 3,
                 "name": "Bordeaux Lac 1",
-                "labeled":true,
+                "labeled": true,
                 "status": "done",
                 "doneAt": "10/07/2023",
                 "type": "bidirectionnelle",
@@ -261,7 +305,7 @@
             "properties": {
                 "line": 3,
                 "name": "Bordeaux Lac 3",
-                "labeled":true,
+                "labeled": true,
                 "status": "done",
                 "doneAt": "10/07/2023",
                 "type": "bidirectionnelle",
