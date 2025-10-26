@@ -47,12 +47,14 @@ Les travaux sont finis rue de la Ciboulette, sauf marquage.
 Une vélorue, à sens unique pour les véhicules motorisés, a été mis en place.
 
 ### Rue Laugaa
+Les travaux de la rue Laugaa sont terminés.
+
+### Carrefour Jaurès/Pénard
 ::banner{type=wip}
 Les travaux ont démarré.
 ::
-
-### Carrefour Jaurès/Pénard
-Les études sont en cours.
+L'implication de Vélo-Cité et l'écoute de la mairie ont permis d'améliorer de nombreux points.  
+Des bandes cyclables protégées par endroit sont en cours de construction.
 
 ### Avenue Jean Jaurès
 En attente d'informations.

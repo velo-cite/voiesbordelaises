@@ -268,10 +268,11 @@
             "properties": {
                 "line": 9,
                 "name": "Pessac - Avenue Louis Laugaa",
-                "status": "wip",
+                "status": "done",
                 "type": "voie-verte",
                 "link": "/reve-9#rue-laugaa",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/07/2025"
             }
         },
         {
@@ -296,7 +297,7 @@
             "properties": {
                 "line": 9,
                 "name": "Pessac carrefour Jaurès/Pénard",
-                "status": "under-study",
+                "status": "wip",
                 "type": "bilaterale",
                 "link": "/reve-9#carrefour-jaurèspénard",
                 "quality": "satisfactory"
