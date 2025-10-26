@@ -133,7 +133,7 @@
             },
             "properties": {
                 "line": 4,
-                "name": "Parkway 1",
+                "name": "Quai de Brazza",
                 "status": "under-study",
                 "type": "bidirectionnelle",
                 "link": "/reve-4#parkway",
@@ -264,7 +264,7 @@
             "properties": {
                 "line": 4,
                 "name": "Place Stalingrad",
-                "status": "under-study",
+                "status": "wip",
                 "type": "bidirectionnelle",
                 "link": "/reve-4#place-stalingrad",
                 "quality": "satisfactory"
@@ -330,11 +330,12 @@
             },
             "properties": {
                 "line": 4,
-                "name": "Villenave d'Ornon : Tronçon 8",
-                "status": "under-study",
+                "name": "Avenue Mirieux de Labarre",
+                "status": "done",
                 "type": "bidirectionnelle",
-                "link": "/reve-4#tronçon-8",
-                "quality": "satisfactory"
+                "link": "/reve-4#avenue-mirieux-de-labarre",
+                "quality": "satisfactory",
+                "doneAt": "01/01/2025"
             }
         },
         {
@@ -359,8 +360,8 @@
                         44.776127
                     ],
                     [
-                        -0.532762,
-                        44.777603
+                        -0.531199,
+                        44.777694
                     ],
                     [
                         -0.532086,
@@ -386,10 +387,11 @@
             },
             "properties": {
                 "line": 4,
-                "name": "Villenave d'Ornon : Tronçon 9",
-                "status": "under-study",
+                "name": "Avenue Mirieux de Labarre (Fin du ReVE n°4)",
+                "status": "done",
+                "doneAt": "01/01/2025",
                 "type": "voie-verte",
-                "link": "/reve-4#tronçon-9-fin-du-reve-n°4",
+                "link": "/reve-4#avenue-mirieux-de-labarre-fin-du-reve-n°4",
                 "quality": "satisfactory"
             }
         },
@@ -430,10 +432,10 @@
             },
             "properties": {
                 "line": 4,
-                "name": "Villenave d'Ornon : Tronçon 7",
+                "name": "Avenue du 7ième Art",
                 "status": "under-study",
                 "type": "bidirectionnelle",
-                "link": "/reve-4#tronçon-7",
+                "link": "/reve-4#avenue-du-7ième-art",
                 "quality": "unsatisfactory"
             }
         },
@@ -486,46 +488,10 @@
             },
             "properties": {
                 "line": 4,
-                "name": "Bègles : tronçon 6 bis",
-                "status": "under-study",
+                "name": "Rue Gustave Eiffel",
+                "status": "wip",
                 "type": "bidirectionnelle",
-                "link": "/reve-4#tronçon-6",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.529983,
-                        44.796725
-                    ],
-                    [
-                        -0.53038,
-                        44.798879
-                    ],
-                    [
-                        -0.530568,
-                        44.799979
-                    ],
-                    [
-                        -0.530863,
-                        44.800094
-                    ],
-                    [
-                        -0.530798,
-                        44.800352
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 4,
-                "name": "Bègles : tronçon 6",
-                "status": "under-study",
-                "type": "bidirectionnelle",
-                "link": "/reve-4#tronçon-6",
+                "link": "/reve-4#rue-gustave-eiffel",
                 "quality": "satisfactory"
             }
         },
@@ -546,10 +512,10 @@
             },
             "properties": {
                 "line": 4,
-                "name": "Bègles : tronçon 4",
+                "name": "Rue des Quatre Castera",
                 "status": "under-study",
                 "type": "bidirectionnelle",
-                "link": "/reve-4#tronçon-4",
+                "link": "/reve-4#rue-des-quatre-castera",
                 "quality": "satisfactory"
             }
         },
@@ -597,30 +563,47 @@
                 "quality": "satisfactory"
             }
         },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.530798,
-                        44.800352
-                    ],
-                    [
-                        -0.530934,
-                        44.802825
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 4,
-                "name": "Bègles : tronçon 5",
-                "status": "under-study",
-                "type": "bidirectionnelle",
-                "link": "/reve-4#tronçon-5",
-                "quality": "satisfactory"
-            }
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              -0.529983,
+              44.796725
+            ],
+            [
+              -0.53038,
+              44.798879
+            ],
+            [
+              -0.530568,
+              44.799979
+            ],
+            [
+              -0.530863,
+              44.800094
+            ],
+            [
+              -0.530798,
+              44.800352
+            ],
+            [
+              -0.530934,
+              44.802825
+            ]
+          ]
         },
+        "properties": {
+          "line": 4,
+          "name": "Rue Louis Blériot",
+          "status": "under-study",
+          "type": "bidirectionnelle",
+          "link": "/reve-4#rue-louis-blériot",
+          "quality": "satisfactory"
+        }
+      },
+
         {
             "type": "Feature",
             "geometry": {
@@ -658,10 +641,10 @@
             },
             "properties": {
                 "line": 4,
-                "name": "Bègles : tronçon 5 commun ligne 14",
+                "name": "Rue Louis Blériot commun ligne 14",
                 "status": "under-study",
                 "type": "bidirectionnelle",
-                "link": "/reve-4#tronçon-5",
+                "link": "/reve-4#rue-louis-blériot",
                 "quality": "satisfactory",
                 "id": "reve-4-14-commun"
             }
@@ -692,10 +675,11 @@
             "properties": {
                 "line": 4,
                 "name": "Bègles : Quai Wilson",
-                "status": "under-study",
+                "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-4#quai-wilson",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/07/2025"
             }
         },
         {
@@ -1081,6 +1065,66 @@
                 "type": "inconnu",
                 "link": "/reve-4#nord-de-la-ligne-vers-st-louis-de-montferrand",
                 "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.536316,
+                        44.786892
+                    ],
+                    [
+                        -0.5356,
+                        44.786719
+                    ],
+                    [
+                        -0.535086,
+                        44.786658
+                    ],
+                    [
+                        -0.534452,
+                        44.786676
+                    ],
+                    [
+                        -0.533082,
+                        44.786924
+                    ],
+                    [
+                        -0.532728,
+                        44.786956
+                    ],
+                    [
+                        -0.532029,
+                        44.786897
+                    ],
+                    [
+                        -0.531021,
+                        44.786798
+                    ],
+                    [
+                        -0.529478,
+                        44.786664
+                    ],
+                    [
+                        -0.529384,
+                        44.787449
+                    ],
+                    [
+                        -0.5297,
+                        44.788094
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 4,
+                "name": "Avenue Simone Veil",
+                "type": "bidirectionnelle",
+                "link": "/reve-4#avenue-simone-veil",
+                "quality": "satisfactory",
+                "status": "under-study"
             }
         }
     ]
