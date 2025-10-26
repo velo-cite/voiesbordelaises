@@ -1183,8 +1183,9 @@
                 "name": "Traversée Rocade Gradignan - Villenave",
                 "status": "done",
                 "type": "bidirectionnelle",
-                "link": "/reve-2#traversée-rocade",
-                "quality": "satisfactory"
+                "link": "/reve-2#traversée-de-la-rocade",
+                "quality": "satisfactory",
+                "doneAt": "01/01/2011"
             }
         }
     ]
