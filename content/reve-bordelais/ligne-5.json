@@ -204,9 +204,110 @@
             "properties": {
                 "line": 5,
                 "name": "Traversée Rocade - Sortie 26",
-                "status": "planned",
+                "status": "under-study",
                 "type": "voie-verte",
                 "link": "/reve-5#traversée-rocade",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.531206,
+                        44.85788
+                    ],
+                    [
+                        -0.531732,
+                        44.857563
+                    ],
+                    [
+                        -0.533084,
+                        44.856781
+                    ],
+                    [
+                        -0.534089,
+                        44.856178
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 5,
+                "name": "Gare et Mairie de Cenon",
+                "status": "done",
+                "type": "bilaterale",
+                "link": "/reve-5#gare-et-mairie-de-cenon",
+                "quality": "satisfactory",
+                "doneAt": "01/11/2024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.534089,
+                        44.856178
+                    ],
+                    [
+                        -0.535111,
+                        44.855565
+                    ],
+                    [
+                        -0.537343,
+                        44.854188
+                    ],
+                    [
+                        -0.542182,
+                        44.851206
+                    ],
+                    [
+                        -0.549896,
+                        44.846414
+                    ],
+                    [
+                        -0.556183,
+                        44.842664
+                    ],
+                    [
+                        -0.559208,
+                        44.840711
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 5,
+                "name": "Avenue Thiers",
+                "status": "under-study",
+                "type": "bilaterale",
+                "link": "/reve-5#place-stalingrad",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.559208,
+                        44.840711
+                    ],
+                    [
+                        -0.560485,
+                        44.839948
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 5,
+                "name": "Place Stalingrad",
+                "status": "wip",
+                "type": "bilaterale",
+                "link": "/reve-5#avenue-thiers",
                 "quality": "satisfactory"
             }
         },
@@ -255,6 +356,26 @@
                         -0.524398,
                         44.863956
                     ],
+                    [
+                        -0.524839,
+                        44.863938
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 5,
+                "name": "Nouvelle voie verte derrière la Polyclinique",
+                "status": "wip",
+                "type": "voie-verte",
+                "link": "/reve-5#polyclinique-bordeaux-rive-droite",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
                         -0.524839,
                         44.863938
@@ -327,83 +448,6 @@
                 "status": "under-study",
                 "type": "bidirectionnelle",
                 "link": "/reve-5#cote-4-pavillons",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.531206,
-                        44.85788
-                    ],
-                    [
-                        -0.531732,
-                        44.857563
-                    ],
-                    [
-                        -0.533084,
-                        44.856781
-                    ],
-                    [
-                        -0.534089,
-                        44.856178
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 5,
-                "name": "Gare et Mairie de Cenon",
-                "status": "done",
-                "type": "bilaterale",
-                "link": "/reve-5#gare-et-mairie-de-cenon",
-                "quality": "satisfactory",
-                "doneAt": "01/11/2024"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.534089,
-                        44.856178
-                    ],
-                    [
-                        -0.535111,
-                        44.855565
-                    ],
-                    [
-                        -0.537343,
-                        44.854188
-                    ],
-                    [
-                        -0.542182,
-                        44.851206
-                    ],
-                    [
-                        -0.549896,
-                        44.846414
-                    ],
-                    [
-                        -0.556183,
-                        44.842664
-                    ],
-                    [
-                        -0.560485,
-                        44.839948
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 5,
-                "name": "Avenue Thiers",
-                "status": "under-study",
-                "type": "bilaterale",
-                "link": "/reve-5#avenue-thiers",
                 "quality": "satisfactory"
             }
         }
