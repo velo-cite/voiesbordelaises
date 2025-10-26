@@ -13,8 +13,6 @@ trafic:
 
 ::banner{type="unsecured"}
 La reflexion autour des boulevards est fixée pour aboutir en 2040.
-
-La ligne de ReVE est donc en partie décalée. 
 ::
 
 ### Rue Lucien Faure
@@ -24,6 +22,10 @@ Les travaux sont en cours.
 Sur la partie ouest, les pistes cyclables sécurisées ont été détruites et seront remplacées par des couloirs de bus élargis dans 
 le cadre du déploiement du bus express.
 Cette partie ressemblera à la partie est de la rue, qui est déjà dans sa version finale.
+
+### Boulevards
+Les boulevards sont à l'étude dans le cadre du projet du Bus Express H.  
+Les couloirs de bus seront élargis à 4m50 partout où cela sera possible.  
 
 ### Voie Eymet
 La voie verte existante, dans un cadre vert va être remplacée par un couloir de bus partagé de 6m.
