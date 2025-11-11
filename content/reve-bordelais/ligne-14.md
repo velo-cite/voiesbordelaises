@@ -46,7 +46,7 @@ L'avenue de Paris (franchissement du pont SNCF) devrait entrer en travaux en 202
 ### Pessac
 
 #### Avenue Pierre Corneille
-::image
+::content-image
 ---
 imageUrl: /reve/14/reve-14-avenue-pierre-corneille.jpg
 caption: Reve 14 - Avenue Pierre Corneille
@@ -61,7 +61,7 @@ Une piste cyclable bidirectionnelle a été réalisée.
 
 ### Talence
 #### Allée de Cervantes
-::image
+::content-image
 ---
 imageUrl: /reve/14/reve-14-allée-de-cervantes.jpg
 caption: Reve 14 - Allée de Cervantes

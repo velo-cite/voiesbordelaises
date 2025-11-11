@@ -14,7 +14,7 @@ En attente d'informations.
 
 ### Bassens
 #### Quai Français
-::image
+::content-image
 ---
 imageUrl: /reve/4/reve-4-quai-francais.jpg
 caption: ReVE 4 - quai Français
