@@ -13,7 +13,7 @@ trafic:
 ::banner{type="info"}
 Les études du Bus Express K sont en cours.
 ::
-La ligne ::line-link{line=14} possèdent de nombreux tronçons en commun avec le Bus Express K.  
+La ligne :line-link{line=14} possèdent de nombreux tronçons en commun avec le Bus Express K.  
 Si des études sont en cours, il est difficile de dire ce qui sera aménagé et si des travaux supplémentaires seront necessaires pour le ReVE.
 Les travaux sur les infrastructures de Bus Express ne concernent parfois que les stations.  
 Il est donc difficile d'imaginer si les travaux de réalisation du ReVE seront totalement intégrés.
@@ -48,7 +48,7 @@ L'avenue de Paris (franchissement du pont SNCF) devrait entrer en travaux en 202
 #### Avenue Pierre Corneille
 ::content-image
 ---
-imageUrl: /reve/14/reve-14-avenue-pierre-corneille.jpg
+imageUrl: /reve/14/reve-14-pierre-corneille.jpg
 caption: Reve 14 - Avenue Pierre Corneille
 ---
 ::
@@ -63,7 +63,7 @@ Une piste cyclable bidirectionnelle a été réalisée.
 #### Allée de Cervantes
 ::content-image
 ---
-imageUrl: /reve/14/reve-14-allée-de-cervantes.jpg
+imageUrl: /reve/14/reve-14-allee-cervantes.jpg
 caption: Reve 14 - Allée de Cervantes
 ---
 ::
