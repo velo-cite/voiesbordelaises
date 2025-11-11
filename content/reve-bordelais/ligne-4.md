@@ -14,11 +14,16 @@ En attente d'informations.
 
 ### Bassens
 #### Quai Français
-Les études sont en cours pour une partie de la ville.
-Une concertation a eu lieu pour le [quai Français](https://participation.bordeaux-metropole.fr/processes/projet-5819).
-::banner{type="wip"}
-Les travaux ont été démarrés le 16 octobre 2024.
+::image
+---
+imageUrl: /reve/4/reve-4-quai-francais.jpg
+caption: ReVE 4 - quai Français
+credit: Service Modes Actifs - Bordeaux Métropole
+---
 ::
+
+Ce tronçon historiquement très dangereux a été terminé en novembre 2025.
+Retrouvez la concertation du [quai Français](https://participation.bordeaux-metropole.fr/processes/projet-5819).
 
 ### Lormont
 #### Lormont Bas
@@ -80,7 +85,7 @@ En parallèle de l'ouverture du pont Simone Veil, une piste bidirectionnelle en 
 Dans un second temps la piste a été prolongée pour se connecter à la piste bidirectionnelle de la rue des Quatre Castera.
 ::content-image
 ---
-imageUrl: /reve/4/quai-wilson.jpg
+imageUrl: /reve/4/reve-4-quai-wilson.jpg
 caption: piste cyclable en béton du quai wilson
 ---
 ::

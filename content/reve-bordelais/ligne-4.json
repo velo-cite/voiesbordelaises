@@ -557,10 +557,11 @@
             "properties": {
                 "line": 4,
                 "name": "Entre giratoire Côte de la Garonne et le giratoire Puy Pla",
-                "status": "wip",
+                "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-4#bassens",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/11/2025"
             }
         },
       {
