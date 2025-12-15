@@ -47,6 +47,12 @@ Les travaux sont finis rue de la Ciboulette, sauf marquage.
 Une vélorue, à sens unique pour les véhicules motorisés, a été mis en place.
 
 ### Rue Laugaa
+::content-image
+---
+imageUrl: /reve/9/reve-9-rue-laugaa.jpg
+caption: Reve 9 - Rue Laugaa
+---
+::
 Les travaux de la rue Laugaa sont terminés.
 
 ### Carrefour Jaurès/Pénard
