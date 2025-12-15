@@ -57,7 +57,15 @@ Dans le cadre de la construction du Bus Express avenue de Gradignan, l'avenue Pi
 Il manque la connexion avec l'avenue Chateaubriand sur l'avenue Marc Desbats.
 
 #### Rue de Chateaubriand
-Une piste cyclable bidirectionnelle a été réalisée.
+::content-image
+---
+imageUrl: /reve/14/reve-14-chateaubriand.jpg
+caption: Reve 14 - Avenue Pierre Corneille
+---
+::
+
+Une piste cyclable bidirectionnelle a été réalisée.  
+Sur la photo, la piste est à gauche de la partie piétonne.
 
 ### Talence
 #### Allée de Cervantes
