@@ -126,10 +126,10 @@
             },
             "properties": {
                 "line": 9,
-                "name": "Pessac Sous rocade",
+                "name": "Rue de la Métropole",
                 "status": "planned",
                 "type": "voie-verte",
-                "link": "/reve-9#sous-la-rocade",
+                "link": "/reve-9#rue-de-la-métropole",
                 "quality": "satisfactory"
             }
         },
