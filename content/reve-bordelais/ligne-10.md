@@ -30,5 +30,12 @@ Ce tronçon est en cours d'étude dans le cadre du Bus Express Pellegrin Malarti
 Des pistes bilatérales devraient voir le jour.
 
 ### Rue Larminat et Cours Juin
+::content-image
+---
+imageUrl: /reve/10/reve-10-cours-mar-juin.jpg
+caption: Reve 10 - Cours du Maréchal Juin.
+---
+::
 De larges bandes existent sur la rue Larminat et le cours du Maréchal Juin.
-Elles permettent aux véhicules de secours d'intervenir rapidement, sans être bloquée par la circulation motorisée. 
+Elles permettent aux véhicules de secours d'intervenir rapidement, sans être bloquée par la circulation motorisée.  
+L'axe a été labellisé ReVE en l'état.
