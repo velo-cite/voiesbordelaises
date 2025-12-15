@@ -20,8 +20,16 @@ En attente d'informations supplémentaires.
 ::banner{type=wip}
 Les travaux ont démarré.
 ::
+::content-image
+---
+imageUrl: /reve/9/reve-9-petit-gazinet.jpg
+caption: Reve 9 - Petit Gazinet
+---
+::
 Entre Chemin de Lesticaire et la rue de la Poudière (3km), une voie verte est en cours de construction. 
-Sa largeur devrait être de 2,50m.
+Sa largeur devrait être de 2,50m.  
+Les travaux sont terminés sur l'avenue de Lattre de Tassigny entre Rue Einstein et Fougnet.  
+La réalisation est sans bordure au niveau des traversées pour un meilleur confort des usagers.
 
 ### Rue Paul-Emile Victor
 Les études sont en cours et ont été lancées dès 2023.
