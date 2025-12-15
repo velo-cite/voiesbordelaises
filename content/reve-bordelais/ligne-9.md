@@ -36,7 +36,21 @@ Les études sont en cours et ont été lancées dès 2023.
 Une piste bidirectionnelle devrait voir le jour.
 
 ### Chemin latéral et rue du transformateur
+::content-image
+---
+imageUrl: /reve/9/reve-9-rue-du-transformateur.jpg
+caption: Reve 9 - Rue du transformateur
+---
+::
 La voie existante devrait être concervée et mise en impasse pour véhicules motorisés, sans circulation autre que celles des riverains.
+
+::content-image
+---
+imageUrl: /reve/9/reve-9-passage-bois.jpg
+caption: Reve 9 - Rue du transformateur - Bois
+---
+::
+Dans la continuité, le passage dans un petit bois est un chemin en stabilisé très dégradé, pas compatible ReVE en l'état.
 
 ### Secteur gare Alouette
 Entre la gare Alouette et l'allée des Cigales (700 m), la voie existante sera concervée, sans circulation autre que celles des riverains
