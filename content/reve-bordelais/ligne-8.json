@@ -92,10 +92,11 @@
             "properties": {
                 "line": 8,
                 "name": "Rue Servandoni",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-8#les-tronçons",
-                "quality": "satisfactory"
+                "status": "done",
+                "type": "velorue",
+                "link": "/reve-8#rue-servandoni",
+                "quality": "satisfactory",
+                "doneAt": "01/03/2026"
             }
         },
         {

@@ -47,3 +47,13 @@ Elle est régulièrement citée comme exemple de mise en place de plan de circul
 le taille et la qualité de roulement de ces bandes.
 - https://www.cerema.fr/system/files/documents/2022/04/3_rdvmob_velorue_bordeaux_dandicolle_1.pdf
 - https://www.cerema.fr/fr/actualites/concevoir-sa-velorue-cyclistes-nombre-circulation-apaisee#toc-concevoir-la-velorue
+
+### Rue Servandoni
+::content-image
+---
+imageUrl: /reve/8/reve-8-rue-servandoni.jpg
+caption: ReVE 8 - Rue Servandoni
+---
+::
+
+La rue Servandoni a été aménagée en vélorue en mars 2026.
