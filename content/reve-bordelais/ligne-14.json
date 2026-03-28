@@ -853,6 +853,304 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        -0.628088,
+                        44.806838
+                    ],
+                    [
+                        -0.627578,
+                        44.806416
+                    ],
+                    [
+                        -0.626666,
+                        44.806047
+                    ],
+                    [
+                        -0.625609,
+                        44.804638
+                    ],
+                    [
+                        -0.625507,
+                        44.804319
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 14,
+                "name": "Rue de Châteaubriand",
+                "status": "done",
+                "type": "bidirectionnelle",
+                "link": "/reve-14#rue-de-chateaubriand",
+                "quality": "satisfactory",
+                "doneAt": "01/01/2021"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.625507,
+                        44.804319
+                    ],
+                    [
+                        -0.623354,
+                        44.8042
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 14,
+                "name": "Avenue Marc Desbats",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-14#avenue-pierre-corneille",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.614178,
+                        44.79623
+                    ],
+                    [
+                        -0.613539,
+                        44.795872
+                    ],
+                    [
+                        -0.612488,
+                        44.79559
+                    ],
+                    [
+                        -0.611935,
+                        44.795469
+                    ],
+                    [
+                        -0.611592,
+                        44.795271
+                    ],
+                    [
+                        -0.611302,
+                        44.795035
+                    ],
+                    [
+                        -0.610927,
+                        44.795206
+                    ],
+                    [
+                        -0.610937,
+                        44.794821
+                    ],
+                    [
+                        -0.610691,
+                        44.794505
+                    ],
+                    [
+                        -0.609983,
+                        44.794281
+                    ],
+                    [
+                        -0.608615,
+                        44.793797
+                    ],
+                    [
+                        -0.607767,
+                        44.793493
+                    ],
+                    [
+                        -0.60604,
+                        44.793215
+                    ],
+                    [
+                        -0.605766,
+                        44.793188
+                    ],
+                    [
+                        -0.605224,
+                        44.792838
+                    ],
+                    [
+                        -0.60214,
+                        44.791791
+                    ],
+                    [
+                        -0.60155,
+                        44.791608
+                    ],
+                    [
+                        -0.601373,
+                        44.791696
+                    ],
+                    [
+                        -0.600976,
+                        44.792214
+                    ],
+                    [
+                        -0.598583,
+                        44.793485
+                    ],
+                    [
+                        -0.597017,
+                        44.79425
+                    ],
+                    [
+                        -0.596513,
+                        44.794445
+                    ],
+                    [
+                        -0.595617,
+                        44.794502
+                    ],
+                    [
+                        -0.594898,
+                        44.79446
+                    ],
+                    [
+                        -0.593911,
+                        44.79417
+                    ],
+                    [
+                        -0.592532,
+                        44.793854
+                    ],
+                    [
+                        -0.591953,
+                        44.793771
+                    ],
+                    [
+                        -0.589489,
+                        44.793988
+                    ],
+                    [
+                        -0.587818,
+                        44.794147
+                    ],
+                    [
+                        -0.586584,
+                        44.794065
+                    ],
+                    [
+                        -0.585942,
+                        44.794083
+                    ],
+                    [
+                        -0.585647,
+                        44.794008
+                    ],
+                    [
+                        -0.584273,
+                        44.793244
+                    ],
+                    [
+                        -0.581691,
+                        44.795868
+                    ],
+                    [
+                        -0.581042,
+                        44.797584
+                    ],
+                    [
+                        -0.579414,
+                        44.796528
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 14,
+                "name": "Talence",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-14#les-tronçons",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.619412,
+                        44.798878
+                    ],
+                    [
+                        -0.618575,
+                        44.799471
+                    ],
+                    [
+                        -0.617725,
+                        44.799977
+                    ],
+                    [
+                        -0.617354,
+                        44.800164
+                    ],
+                    [
+                        -0.616795,
+                        44.800219
+                    ],
+                    [
+                        -0.616318,
+                        44.799915
+                    ],
+                    [
+                        -0.615948,
+                        44.799618
+                    ],
+                    [
+                        -0.615717,
+                        44.799199
+                    ],
+                    [
+                        -0.615515,
+                        44.798816
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 14,
+                "name": "Av du Docteur Albert Schweitzer",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-14#les-tronçons",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.615515,
+                        44.798816
+                    ],
+                    [
+                        -0.614178,
+                        44.79623
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 14,
+                "name": "Science Po",
+                "status": "done",
+                "type": "bidirectionnelle",
+                "link": "/reve-14#allée-de-cervantes",
+                "quality": "satisfactory",
+                "doneAt": "01/11/2025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
                         -0.566756,
                         44.870219
                     ],
@@ -881,36 +1179,102 @@
                         44.875277
                     ],
                     [
-                        -0.569682,
-                        44.874656
+                        -0.569596,
+                        44.875048
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 14,
+                "name": "Avenue des Français Libre",
+                "status": "planned",
+                "type": "inconnu",
+                "link": "/reve-14#les-tronçons",
+                "quality": "satisfactory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.569596,
+                        44.875048
                     ],
                     [
-                        -0.570708,
-                        44.874292
+                        -0.569784,
+                        44.874694
                     ],
                     [
-                        -0.57304,
-                        44.874222
+                        -0.570698,
+                        44.874413
                     ],
                     [
-                        -0.574131,
+                        -0.573041,
+                        44.874277
+                    ],
+                    [
+                        -0.574174,
+                        44.874201
+                    ],
+                    [
+                        -0.575066,
+                        44.874157
+                    ],
+                    [
+                        -0.576586,
+                        44.874082
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 14,
+                "name": "Avenue de Laroque",
+                "status": "done",
+                "type": "bidirectionnelle",
+                "link": "/reve-14#avenue-de-laroque",
+                "quality": "satisfactory",
+                "doneAt": "01/10/2025"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.576586,
                         44.874082
                     ],
                     [
-                        -0.575074,
-                        44.874011
+                        -0.579675,
+                        44.873847
                     ],
                     [
-                        -0.576562,
-                        44.873906
-                    ],
+                        -0.582728,
+                        44.873656
+                    ]
+                ]
+            },
+            "properties": {
+                "line": 14,
+                "name": "Rue Jean Claudeville",
+                "status": "done",
+                "type": "bidirectionnelle",
+                "link": "/reve-14#les-tronçons",
+                "quality": "satisfactory",
+                "doneAt": "01/01/2014"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
                     [
-                        -0.579624,
-                        44.873772
-                    ],
-                    [
-                        -0.582814,
-                        44.873554
+                        -0.582728,
+                        44.873656
                     ],
                     [
                         -0.584562,
@@ -1357,304 +1721,6 @@
                 "type": "inconnu",
                 "link": "/reve-14#les-tronçons",
                 "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.628088,
-                        44.806838
-                    ],
-                    [
-                        -0.627578,
-                        44.806416
-                    ],
-                    [
-                        -0.626666,
-                        44.806047
-                    ],
-                    [
-                        -0.625609,
-                        44.804638
-                    ],
-                    [
-                        -0.625507,
-                        44.804319
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 14,
-                "name": "Rue de Châteaubriand",
-                "status": "done",
-                "type": "bidirectionnelle",
-                "link": "/reve-14#rue-de-chateaubriand",
-                "quality": "satisfactory",
-                "doneAt": "01/01/2021"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.625507,
-                        44.804319
-                    ],
-                    [
-                        -0.623354,
-                        44.8042
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 14,
-                "name": "Avenue Marc Desbats",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-14#avenue-pierre-corneille",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.614178,
-                        44.79623
-                    ],
-                    [
-                        -0.613539,
-                        44.795872
-                    ],
-                    [
-                        -0.612488,
-                        44.79559
-                    ],
-                    [
-                        -0.611935,
-                        44.795469
-                    ],
-                    [
-                        -0.611592,
-                        44.795271
-                    ],
-                    [
-                        -0.611302,
-                        44.795035
-                    ],
-                    [
-                        -0.610927,
-                        44.795206
-                    ],
-                    [
-                        -0.610937,
-                        44.794821
-                    ],
-                    [
-                        -0.610691,
-                        44.794505
-                    ],
-                    [
-                        -0.609983,
-                        44.794281
-                    ],
-                    [
-                        -0.608615,
-                        44.793797
-                    ],
-                    [
-                        -0.607767,
-                        44.793493
-                    ],
-                    [
-                        -0.60604,
-                        44.793215
-                    ],
-                    [
-                        -0.605766,
-                        44.793188
-                    ],
-                    [
-                        -0.605224,
-                        44.792838
-                    ],
-                    [
-                        -0.60214,
-                        44.791791
-                    ],
-                    [
-                        -0.60155,
-                        44.791608
-                    ],
-                    [
-                        -0.601373,
-                        44.791696
-                    ],
-                    [
-                        -0.600976,
-                        44.792214
-                    ],
-                    [
-                        -0.598583,
-                        44.793485
-                    ],
-                    [
-                        -0.597017,
-                        44.79425
-                    ],
-                    [
-                        -0.596513,
-                        44.794445
-                    ],
-                    [
-                        -0.595617,
-                        44.794502
-                    ],
-                    [
-                        -0.594898,
-                        44.79446
-                    ],
-                    [
-                        -0.593911,
-                        44.79417
-                    ],
-                    [
-                        -0.592532,
-                        44.793854
-                    ],
-                    [
-                        -0.591953,
-                        44.793771
-                    ],
-                    [
-                        -0.589489,
-                        44.793988
-                    ],
-                    [
-                        -0.587818,
-                        44.794147
-                    ],
-                    [
-                        -0.586584,
-                        44.794065
-                    ],
-                    [
-                        -0.585942,
-                        44.794083
-                    ],
-                    [
-                        -0.585647,
-                        44.794008
-                    ],
-                    [
-                        -0.584273,
-                        44.793244
-                    ],
-                    [
-                        -0.581691,
-                        44.795868
-                    ],
-                    [
-                        -0.581042,
-                        44.797584
-                    ],
-                    [
-                        -0.579414,
-                        44.796528
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 14,
-                "name": "Talence",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-14#les-tronçons",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.619412,
-                        44.798878
-                    ],
-                    [
-                        -0.618575,
-                        44.799471
-                    ],
-                    [
-                        -0.617725,
-                        44.799977
-                    ],
-                    [
-                        -0.617354,
-                        44.800164
-                    ],
-                    [
-                        -0.616795,
-                        44.800219
-                    ],
-                    [
-                        -0.616318,
-                        44.799915
-                    ],
-                    [
-                        -0.615948,
-                        44.799618
-                    ],
-                    [
-                        -0.615717,
-                        44.799199
-                    ],
-                    [
-                        -0.615515,
-                        44.798816
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 14,
-                "name": "Av du Docteur Albert Schweitzer",
-                "status": "planned",
-                "type": "inconnu",
-                "link": "/reve-14#les-tronçons",
-                "quality": "satisfactory"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        -0.615515,
-                        44.798816
-                    ],
-                    [
-                        -0.614178,
-                        44.79623
-                    ]
-                ]
-            },
-            "properties": {
-                "line": 14,
-                "name": "Science Po",
-                "status": "done",
-                "type": "bidirectionnelle",
-                "link": "/reve-14#allée-de-cervantes",
-                "quality": "satisfactory",
-                "doneAt": "01/11/2025"
             }
         }
     ]

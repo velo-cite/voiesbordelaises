@@ -31,7 +31,17 @@ Les études sont en cours pour la rue Pierre Mendès France et l'avenue de la R�
 
 L'avenue de Paris (franchissement du pont SNCF) devrait entrer en travaux en 2025.
 
-### Bordeaux 
+### Bordeaux
+
+#### Avenue de Laroque
+::content-image
+---
+imageUrl: /reve/14/reve-14-avenue-de-laroque.jpg
+caption: Reve 14 - Avenue de Laroque
+---
+::
+
+Une piste cyclable bidirectionnelle a été améliorée dans le cadre du PRU des Aubiers, entre le cours du Québec et les allées de Boutaut (en face de la rue du Jonc).
 
 ### Le Bouscat
 
