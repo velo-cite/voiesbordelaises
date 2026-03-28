@@ -47,4 +47,5 @@ En attente d'informations sur le tracé
 Une partie des travaux a déjà été réalisée sur l'avenue de la Libération à Saint Vincent de Paul
 
 #### Avenue Gustave Eiffel
-Étude en cours sur l'avenue Gustave Eiffel
+La partie sud de l'avenue Gustave Eiffel à Ambarès a été aménagée en voie verte.
+Le reste de l'avenue est à l'étude.
