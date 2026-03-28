@@ -489,10 +489,11 @@
             "properties": {
                 "line": 4,
                 "name": "Rue Gustave Eiffel",
-                "status": "wip",
+                "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-4#rue-gustave-eiffel",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/12/2025"
             }
         },
         {
@@ -513,10 +514,11 @@
             "properties": {
                 "line": 4,
                 "name": "Rue des Quatre Castera",
-                "status": "under-study",
+                "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-4#rue-des-quatre-castera",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/12/2025"
             }
         },
         {
@@ -598,10 +600,11 @@
         "properties": {
           "line": 4,
           "name": "Rue Louis Blériot",
-          "status": "under-study",
+          "status": "done",
           "type": "bidirectionnelle",
           "link": "/reve-4#rue-louis-blériot",
-          "quality": "satisfactory"
+          "quality": "satisfactory",
+          "doneAt": "01/12/2025"
         }
       },
 
@@ -643,10 +646,11 @@
             "properties": {
                 "line": 4,
                 "name": "Rue Louis Blériot commun ligne 14",
-                "status": "under-study",
+                "status": "done",
                 "type": "bidirectionnelle",
                 "link": "/reve-4#rue-louis-blériot",
                 "quality": "satisfactory",
+                "doneAt": "01/12/2025",
                 "id": "reve-4-14-commun"
             }
         },
@@ -1125,7 +1129,7 @@
                 "type": "bidirectionnelle",
                 "link": "/reve-4#avenue-simone-veil",
                 "quality": "satisfactory",
-                "status": "under-study"
+                "status": "wip"
             }
         }
     ]

@@ -111,9 +111,6 @@ Longueur de 350 mètres environ sur la rue Louis Blériot, du giratoire du Clos 
 Particularité du tronçon : il longe les centres de traitement des déchets et traitement des eaux usées du Clos de Hilde.
 
 #### Rue Gustave Eiffel
-::banner{type="wip"}
-Les travaux sont en cours.
-::
 Débutant au niveau de la rue Louis Blériot et contournant le centre commercial jusqu’à l’entrée de la zone commerciale de Villenave d’Ornon (enseigne Boulanger), 
 la rue Gustave Eiffel est en travaux.
 Une piste cyclable bidirectionnelle est en création à l’arrière du centre commercial «&nbsp;Rives d’Arcin », puis une voie verte de 4 à 6 mètres de large.
@@ -133,8 +130,11 @@ Particularité de ce tronçon : il est la continuité du centre commercial Carre
 Point de vigilance : la piste cyclable croisera 11 sorties de voitures sur ce tronçon, potentiellement zones de conflits.
 
 #### Avenue Simone Veil
-Comme l'avenue du 7ᵉ art est en travaux pour plusieurs années, le ReVE devrait contourner cet axe par la nouvelle avenue Simone Veil.  
-Le quartier est en travaux.
+::banner{type="wip"}
+Les travaux sont en cours.
+::
+L'avenue Simone Veil est en cours d'aménagement dans le cadre du nouveau quartier de Villenave d'Ornon.
+Le ReVE devrait emprunter cet axe pour contourner l'avenue du 7ᵉ art, actuellement en travaux pour plusieurs années.
 
 #### Avenue Mirieux de Labarre
 La piste cyclable bidirectionnelle a été reprise par endroit et améliorée sur l'avenue Mirieux de Labarre.  
