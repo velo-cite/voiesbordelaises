@@ -13,9 +13,6 @@ description: Le Taillan-Médoc - Villenave d'Ornon
 ### Le Taillan Médoc
 
 #### Avenue de Soulac
-::banner{type="wip"}
-Les travaux ont démarré le 7 janvier 2025.
-::
 ::content-image
 ---
 imageUrl: /reve/2/avenue-de-soulac.jpg
@@ -23,15 +20,15 @@ caption: Aperçu de la futur configuration de l'avenue de Soulac
 credit: Ville du Haillan - Facebook
 ---
 ::
-Deux voies vertes de 3 mètres de large seront créées à terme de chaque coté de l’avenue de Soulac.
-La faible présence de piéton·nes sur l'axe permet la création d'une voie partagée entre les modes actifs.
+Les travaux ont été réalisés entre 2025 et 2026. Deux voies vertes de 3 mètres de large ont été créées de chaque côté de l’avenue de Soulac.
+La faible présence de piéton·nes sur l’axe permet une voie partagée entre les modes actifs.
 https://www.sudouest.fr/politique/urbanisme/gironde-l-avenue-de-soulac-est-en-chantier-pour-de-nombreux-mois-au-taillan-medoc-19911269.php
 
 ### Eysines
 
-#### Cantinolle 
+#### Cantinolle
 ::banner{type="wip"}
-Les travaux ont démarré en mars 2025 et devrait durer autour de 15 mois. Livraison prévue mi-2026.
+Les travaux sont en cours. Le giratoire est d'ores et déjà utilisable à vélo.
 ::
 La très dangereuse intersection de Cantinolle va être entièrement reconfigurée à partir de mars 2025.
 Elle sera transformée en giratoire "à la hollandaise".

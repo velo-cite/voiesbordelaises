@@ -370,10 +370,11 @@
             "properties": {
                 "line": 2,
                 "name": "Avenue de Soulac",
-                "status": "wip",
+                "status": "done",
                 "type": "voie-verte",
                 "link": "/reve-2#avenue-de-soulac",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/03/2026"
             }
         },
         {
