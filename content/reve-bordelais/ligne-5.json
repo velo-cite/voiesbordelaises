@@ -305,10 +305,11 @@
             "properties": {
                 "line": 5,
                 "name": "Place Stalingrad",
-                "status": "wip",
+                "status": "done",
                 "type": "bilaterale",
                 "link": "/reve-5#avenue-thiers",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/03/2026"
             }
         },
         {
