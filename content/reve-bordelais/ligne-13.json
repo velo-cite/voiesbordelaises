@@ -432,10 +432,11 @@
             "properties": {
                 "line": 13,
                 "name": "Rue Lucien Faure Nord",
-                "status": "wip",
+                "status": "done",
                 "type": "voie-bus-elargie",
                 "link": "/reve-13#rue-lucien-faure",
-                "quality": "satisfactory"
+                "quality": "satisfactory",
+                "doneAt": "01/12/2025"
             }
         },
         {

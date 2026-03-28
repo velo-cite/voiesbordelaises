@@ -16,12 +16,23 @@ La reflexion autour des boulevards est fixée pour aboutir en 2040.
 ::
 
 ### Rue Lucien Faure
-::banner{type="wip"}
-Les travaux sont en cours.
+::content-image
+---
+imageUrl: /reve/13/reve-13-rue-lucien-faure.jpg
+caption: ReVE 13 - Rue Lucien Faure
+---
 ::
-Sur la partie ouest, les pistes cyclables sécurisées ont été détruites et seront remplacées par des couloirs de bus élargis dans 
+Sur la partie ouest, les pistes cyclables sécurisées ont été détruites et remplacées par des couloirs de bus élargis dans
 le cadre du déploiement du bus express.
-Cette partie ressemblera à la partie est de la rue, qui est déjà dans sa version finale.
+La rue Lucien Faure est désormais intégralement terminée (fin 2025), y compris le carrefour Latule.
+La partie ouest (côté autopont) ressemble désormais à la partie est de la rue, qui était déjà dans sa version finale.
+
+::content-image
+---
+imageUrl: /reve/13/reve-13-carrefour-latule.jpg
+caption: ReVE 13 - Carrefour Latule
+---
+::
 
 ### Boulevards
 Les boulevards sont à l'étude dans le cadre du projet du Bus Express H.  
