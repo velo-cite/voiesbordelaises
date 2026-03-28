@@ -18,7 +18,7 @@ En attente d'informations supplémentaires.
 
 #### Pessac Petit Gazinet
 ::banner{type=wip}
-Les travaux ont démarré.
+Les travaux sont en cours. Livraison prévue en septembre 2026 pour l'avenue du Maréchal de Lattre de Tassigny, jusqu'à la rue du Blayais.
 ::
 ::content-image
 ---
