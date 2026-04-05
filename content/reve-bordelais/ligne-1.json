@@ -288,7 +288,7 @@
                 "line": 1,
                 "name": "Axe du Bus Express G",
                 "status": "done",
-                "type": "voie-bus",
+                "type": "bandes-cyclables",
                 "link": "/reve-1#axe-du-bus-express-g",
                 "doneAt": "03/06/2024",
                 "quality": "unsatisfactory",
